@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/22 05:12:17",
+ "generated_at": "2026/8/22 05:44:58",
  "recent_days": 7,
  "industries": [
   {
@@ -33,20 +33,20 @@
      "zh": "使用 llama.cpp、DFlash 和 Pi 运行 Muse Glimmer 进行本地 Vibe 编码"
     },
     {
-     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-     "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-     "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
-     "summary": "There's about to be a big fight to secure access to space.",
-     "source": "TechCrunch AI",
-     "zh": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元"
-    },
-    {
      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a y",
      "source": "TechCrunch AI",
      "zh": "美国司法部正在调查 a16z。这对风险投资意味着什么？"
+    },
+    {
+     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+     "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+     "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+     "summary": "There's about to be a big fight to secure access to space.",
+     "source": "TechCrunch AI",
+     "zh": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元"
     },
     {
      "title": "5 Real-World Use Cases for AI Agents Transforming Industries",
@@ -1020,7 +1020,7 @@
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
+     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
      "source": "Utility Dive",
      "zh": "PJM 着眼于启动剩余互连途径"
     },
@@ -1047,6 +1047,14 @@
      "summary": "Daqo New Energy reduced its losses in Q2 2026 and increased its revenues, largely by resuming polysilicon sales below the cost of production.",
      "source": "PV Tech",
      "zh": "大全新能源第二季度亏损收窄，恢复低于成本的销售"
+    },
+    {
+     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
+     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
+     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
+     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
+     "source": "Utility Dive",
+     "zh": "ERCOT 的目标是在 12 月之前完成德克萨斯州州长的数据中心审计"
     },
     {
      "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
@@ -1079,14 +1087,6 @@
      "summary": "Poland did something hydrogen advocates have spent years saying governments need to do: it created real demand. Public subsidies helped put hydrogen buses into Polish cities, refueling infrastructure received support, and renewable-hydrogen projects were offered public money as well. By April 2026, ",
      "source": "CleanTechnica",
      "zh": "波兰创造了氢公交车需求。 Polenergia 仍然缺乏供应。"
-    },
-    {
-     "title": "Australia’s Allegro Energy partners with Jena Batteries to scale microemulsion flow battery manufacturing",
-     "link": "https://www.energy-storage.news/australias-allegro-energy-partners-with-jena-batteries-to-scale-microemulsion-flow-battery-manufacturing/",
-     "pubDate": "Fri, 21 Aug 2026 03:26:34 +0000",
-     "summary": "Allegro Energy has entered a strategic partnership with Jena Batteries and its parent company Suqian Time Energy Technology.",
-     "source": "Energy Storage News",
-     "zh": "澳大利亚 Allegro Energy 与 Jena Batteries 合作扩大微乳液液流电池制造规模"
     }
    ]
   },
@@ -1745,6 +1745,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation (Katie Roof/Business Insider)",
+     "link": "https://www.techmeme.com/260821/p25#a260821p25",
+     "pubDate": "Fri, 21 Aug 2026 17:35:00 -0400",
+     "summary": "Katie Roof / Business Insider : Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation &nbsp; &mdash;&nbsp; Devoted Health is the latest startup to show that combining health and AI commands a premiu",
+     "source": "Techmeme",
+     "zh": "资料来源：Devoted Health 使用人工智能来帮助协调参加 Medicare Advantage 的人的医疗护理，正在以 250 亿美元的估值筹集新资金（Katie Roof/Business Insider）"
+    },
+    {
      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
      "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
      "pubDate": "Fri, 21 Aug 2026 21:00:48 +0000",
@@ -1804,7 +1812,7 @@
      "title": "Quick impressions: A week of using Codex more than Claude",
      "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
      "pubDate": "Fri, 21 Aug 2026 19:51:48 +0000",
-     "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 36 # Comments: 24",
+     "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 49 # Comments: 54",
      "source": "Hacker News",
      "zh": "快速印象：比 Claude 使用 Codex 多的一周"
     },
@@ -1825,14 +1833,6 @@
      "zh": "美国司法部与 TikTok 达成 4 亿美元和解，以解决 TikTok 违反 COPPA 的指控；美国司法部于 2024 年提起诉讼（Ashley Gold/Axios）"
     },
     {
-     "title": "Church of the TigerBeetle: A Look at Tech Evangelism",
-     "link": "https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html",
-     "pubDate": "Fri, 21 Aug 2026 19:35:17 +0000",
-     "summary": "Article URL: https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html Comments URL: https://news.ycombinator.com/item?id=49392877 Points: 13 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "TigerBeetle 教堂：科技传播概览"
-    },
-    {
      "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
      "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
      "pubDate": "Fri, 21 Aug 2026 19:32:29 +0000",
@@ -1849,14 +1849,6 @@
      "zh": "最后机会：今天购买 TechCrunch Disrupt 2026 门票可节省高达 300 美元"
     },
     {
-     "title": "Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI (Mark Gurman/Bloomberg)",
-     "link": "https://www.techmeme.com/260821/p19#a260821p19",
-     "pubDate": "Fri, 21 Aug 2026 15:06:28 -0400",
-     "summary": "Mark Gurman / Bloomberg : Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI &nbsp; &mdash;&nbsp; Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vis",
-     "source": "Techmeme",
-     "zh": "资料来源：苹果公司正在裁员 200 多个职位，其中包括 Vision Pro 部门的约 100 个职位和 Siri 团队的另外 100 个职位，因为它专注于新设备和人工智能（Mark Gurman/彭博社）"
-    },
-    {
      "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
      "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
      "pubDate": "Fri, 21 Aug 2026 19:04:41 +0000",
@@ -1868,7 +1860,7 @@
      "title": "Tumble Forth – from assembly to OS with C compiler",
      "link": "https://tumbleforth.hardcoded.net/",
      "pubDate": "Fri, 21 Aug 2026 18:59:52 +0000",
-     "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 16 # Comments: 3",
+     "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 25 # Comments: 3",
      "source": "Hacker News",
      "zh": "Tumble Forth – 使用 C 编译器从汇编到操作系统"
     },
@@ -1876,7 +1868,7 @@
      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
      "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
      "pubDate": "Fri, 21 Aug 2026 18:48:28 +0000",
-     "summary": "Article URL: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders Comments URL: https://news.ycombinator.com/item?id=49392331 Points: 24 # Comments: 18",
+     "summary": "Article URL: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders Comments URL: https://news.ycombinator.com/item?id=49392331 Points: 29 # Comments: 24",
      "source": "Hacker News",
      "zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者"
     },
@@ -1884,7 +1876,7 @@
      "title": "Scientists release biggest 2D map of the universe",
      "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
      "pubDate": "Fri, 21 Aug 2026 18:36:34 +0000",
-     "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 66 # Comments: 23",
+     "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 86 # Comments: 27",
      "source": "Hacker News",
      "zh": "科学家发布最大的二维宇宙地图"
     },
@@ -1903,6 +1895,14 @@
      "summary": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
      "source": "Ars Technica",
      "zh": "中国监管机构要求特斯拉修理近300万辆汽车"
+    },
+    {
+     "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+     "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+     "pubDate": "Fri, 21 Aug 2026 17:00:23 +0000",
+     "summary": "Article URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6 Comments URL: https://news.ycombinator.com/item?id=49390910 Points: 0 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "LiteLLM (YC W23) 正在招聘 – Rust / 性能工程师"
     },
     {
      "title": "2026.34: App Snore",
@@ -1992,6 +1992,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Epic accuses Apple of sidestepping App Store antitrust deal in Brazil",
+     "link": "https://9to5mac.com/2026/08/21/epic-accuses-apple-of-sidestepping-app-store-antitrust-deal-in-brazil/",
+     "pubDate": "Fri, 21 Aug 2026 21:20:58 +0000",
+     "summary": "Apple has until Monday to respond to a complaint Epic Games filed with Brazil’s antitrust watchdog, where it accuses the company of adopting restrictive interpretations of its obligations under a recent App Store antitrust deal in the country. Here are the details.",
+     "source": "9to5Mac",
+     "zh": "Epic 指责苹果回避巴西 App Store 反垄断协议"
+    },
+    {
+     "title": "TikTok will pay $400 million to settle Justice Department lawsuit over child privacy",
+     "link": "https://www.engadget.com/2241964/tiktok-will-pay-400-million-to-settle-justice-department-lawsuit-over-child-privacy/",
+     "pubDate": "Fri, 21 Aug 2026 21:13:43 +0000",
+     "summary": "The DoJ said the app has made significant strides in privacy protections since the 2024 suit.",
+     "source": "Engadget",
+     "zh": "TikTok 将支付 4 亿美元和解司法部有关儿童隐私的诉讼"
+    },
     {
      "title": "Your Verizon Disney Plus, Hulu, and ESPN Plus perks are about to cost more",
      "link": "https://www.androidauthority.com/verizon-disney-bundle-price-hike-3701755/",
@@ -2145,14 +2161,6 @@
      "zh": "Galaxy S26 Ultra 红色色调问题的修复可能会在本月晚些时候发布"
     },
     {
-     "title": "HomeKit Weekly: Homey secures Matter 1.5 certification to expand bridging and energy support",
-     "link": "https://9to5mac.com/2026/08/21/homekit-weekly-homey-secures-matter-1-5-certification-to-expand-bridging-and-energy-support/",
-     "pubDate": "Fri, 21 Aug 2026 18:52:00 +0000",
-     "summary": "Athom has announced that it has officially achieved Homey Pro mini, and the Homey Self Hosted Server. This update brings important upgrades for both native device integration and cross-platform device bridging.",
-     "source": "9to5Mac",
-     "zh": "HomeKit Weekly：Homey 获得 Matter 1.5 认证，以扩大桥接和能源支持"
-    },
-    {
      "title": "Season two of Netflix's Cyberpunk 2077 anime streams October 20",
      "link": "https://www.engadget.com/2241834/season-two-of-netflixs-cyberpunk-2077-anime-streams-october-20/",
      "pubDate": "Fri, 21 Aug 2026 18:51:03 +0000",
@@ -2223,14 +2231,6 @@
      "summary": "The European Commission may be happy with Apple’s new app store rules, but Epic Games sure isn’t. The Fortnite developer and proprietor of one of the largest game stores thinks that Apple’s changes still violate the Digital Markets Act. The Irish Independent posted quotes from a European Commission ",
      "source": "GSMArena",
      "zh": "Epic Games认为苹果新的欧盟应用商店规则仍然违反了《数字市场法》"
-    },
-    {
-     "title": "Pixel Camera adds ‘Launch control’ and new ‘Quick access’ slider controls on Pixel 11 [Gallery]",
-     "link": "https://9to5google.com/2026/08/21/google-pixel-camera-11-update-launch-mode-quick-access/",
-     "pubDate": "Fri, 21 Aug 2026 16:05:00 +0000",
-     "summary": "The Google Pixel camera app is adding new “Quick access” controls on the Pixel 11 series, but it’s a little annoying that not only are they disabled by default, but the way you use them isn’t the most intuitive thing either.",
-     "source": "9to5Google",
-     "zh": "Pixel Camera 在 Pixel 11 上添加了“启动控件”和新的“快速访问”滑块控件 [图库]"
     }
    ]
   },
@@ -2240,6 +2240,102 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "美国证交会备案文件显示：美国黄金公司或最高发售1.5亿美元证券",
+     "link": "http://finance.eastmoney.com/news/1351,202608223849879540.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "美国证交会备案文件显示， 美国黄金 公司（US GOLD CORP）或最高发售1.5亿美元证券。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国证交会备案文件显示：美国黄金公司或最高发售1.5亿美元证券"
+    },
+    {
+     "title": "布伦特原油失守92美元/桶 日内跌0.05%",
+     "link": "http://finance.eastmoney.com/news/1351,202608223849879438.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "布伦特原油失守92美元/桶，日内跌0.05%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "布伦特原油失守92美元/桶 日内跌0.05%"
+    },
+    {
+     "title": "市场消息：美国商务部长卢特尼克对摆在桌面上的美加贸易协议并不满意",
+     "link": "http://finance.eastmoney.com/news/1351,202608223849879213.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "市场消息：美国商务部长卢特尼克对摆在桌面上的美加贸易协议并不满意。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：美国商务部长卢特尼克对摆在桌面上的美加贸易协议并不满意"
+    },
+    {
+     "title": "市场消息：美国商务部长卢特尼克认为美国可以争取到更好的协议",
+     "link": "http://finance.eastmoney.com/news/1351,202608223849879167.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "市场消息：美国商务部长卢特尼克认为美国可以争取到更好的协议。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：美国商务部长卢特尼克认为美国可以争取到更好的协议"
+    },
+    {
+     "title": "BITARI申请将其普通股在纳斯达克全球市场挂牌上市 股票代码为“BIAI”",
+     "link": "http://stock.eastmoney.com/news/1611,202608223849879621.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "BITARI申请将其普通股在 纳斯达克 全球市场挂牌上市，股票代码为“BIAI”，这一申请已提交美国证券交易委员会。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "BITARI申请将其普通股在纳斯达克全球市场挂牌上市 股票代码为“BIAI”"
+    },
+    {
+     "title": "SIGMA LITHIUM 恢复巴西境内采矿及工业生产业务",
+     "link": "http://stock.eastmoney.com/news/1611,202608223849879379.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "SIGMA LITHIUM 恢复巴西境内采矿及工业生产业务。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "SIGMA LITHIUM 恢复巴西境内采矿及工业生产业务"
+    },
+    {
+     "title": "Hims & Hers Health facing penalties from Visa for credit card disputes - report",
+     "link": "https://seekingalpha.com/news/4636029-hims-and-hers-health-facing-penalties-visa-credit-card-disputes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 21 Aug 2026 17:31:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hims & Hers Health 因信用卡纠纷面临 Visa 处罚 - 报告"
+    },
+    {
+     "title": "Pender Growth Fund reports Q2 results",
+     "link": "https://seekingalpha.com/news/4636032-pender-growth-fund-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 21 Aug 2026 17:29:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pender 增长基金报告第二季度业绩"
+    },
+    {
+     "title": "You can now Venmo your kid’s college tuition. But should you?",
+     "link": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
+     "pubDate": "Fri, 21 Aug 2026 21:20:00 GMT",
+     "summary": "Some universities will begin accepting the nontraditional payment method as consumers seek flexible spending options.",
+     "source": "MarketWatch",
+     "zh": "您现在可以用 Venmo 支付您孩子的大学学费。但你应该吗？"
+    },
+    {
+     "title": "Silver Storm announces $7.5M non-brokered private placement with Eric Sprott",
+     "link": "https://seekingalpha.com/news/4636030-silver-storm-announces-75m-non-brokered-private-placement-with-eric-sprott?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 21 Aug 2026 17:18:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Silver Storm 宣布与 Eric Sprott 进行 750 万美元的非经纪私募"
+    },
+    {
+     "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know.",
+     "link": "https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?mod=mw_rss_topstories",
+     "pubDate": "Fri, 21 Aug 2026 21:17:00 GMT",
+     "summary": "The warehouse club becomes the latest consumer brand to offer health insurance.",
+     "source": "MarketWatch",
+     "zh": "很快您就可以在 Costco 购买 Medicare Advantage 计划。你需要知道什么。"
+    },
+    {
+     "title": "SolarMax Technology receives Nasdaq notice",
+     "link": "https://seekingalpha.com/news/4636028-solarmax-technology-receives-nasdaq-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 21 Aug 2026 17:16:16 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SolarMax Technology 收到纳斯达克通知"
+    },
     {
      "title": "Aptorum Group GAAP EPS of -$1.60",
      "link": "https://seekingalpha.com/news/4636027-aptorum-group-gaap-eps-of-1_60?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2273,28 +2369,12 @@
      "zh": "房利美12名高管突遭解雇，美国房贷市场稳定性担忧升温"
     },
     {
-     "title": "Spetz reports Q2 results",
-     "link": "https://seekingalpha.com/news/4636026-spetz-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 21 Aug 2026 17:04:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Spitz 报告第二季度业绩"
-    },
-    {
      "title": "报道：博通的债务交易预计将达到700亿美元以上",
      "link": "https://wallstreetcn.com/articles/3780035",
      "pubDate": "Sat, 22 Aug 2026 04:58:47 +0800",
      "summary": "博通正寻求迄今规模最大的AI基础设施融资之一，凸显科技行业为支撑人工智能扩张而对资本市场的空前依赖。 8月21日，据CNBC援引知情人士确认，博通正就一笔规模700亿至800亿美元的债务融资展开谈判，所募资金将用于支持包括Anthropic在内的人工智能公司的芯片采购需求。 华尔街见闻此前提及 ，此前据报道博通正与黑石集团和阿波罗全球管理（Apollo Global Management）洽谈，计划通过SPV为一项AI芯片融资交易筹集总规模可能最高达1000亿美元，将成为迄今规模最大的SPV融资交易。 消息公布后，博通股价周五小幅上涨逾1%。然而，分析认为这笔巨额债务交易不仅难以缓解市场压力，",
      "source": "华尔街见闻",
      "zh": "报道：博通的债务交易预计将达到700亿美元以上"
-    },
-    {
-     "title": "Vicore Pharma Holding AB (publ) GAAP EPS of SEK -0.51, revenue of SEK 2.2M",
-     "link": "https://seekingalpha.com/news/4636025-vicore-pharma-holding-ab-publ-gaap-eps-of-sek-051-revenue-of-sek-22m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 21 Aug 2026 16:58:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vicore Pharma Holding AB (publ) GAAP 每股收益为 -0.51 瑞典克朗，收入为 220 万瑞典克朗"
     },
     {
      "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
@@ -2305,22 +2385,6 @@
      "zh": "特朗普允许免关税进口30万吨碎牛肉"
     },
     {
-     "title": "Alfen N.V. reports 1H results",
-     "link": "https://seekingalpha.com/news/4636023-alfen-n-v-reports-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 21 Aug 2026 16:55:47 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alfen N.V. 报告 1H 业绩"
-    },
-    {
-     "title": "特朗普表示：他并未指示贝森特干预债券市场",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849871016.html",
-     "pubDate": "Sat, 22 Aug 2026 04:54:28 +0800",
-     "summary": "特朗普表示，他并未指示贝森特干预债券市场。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "特朗普表示：他并未指示贝森特干预债券市场"
-    },
-    {
      "title": "瑞士央行官员：必要时将重启负利率，AI短期或推高通胀",
      "link": "https://wallstreetcn.com/articles/3780033",
      "pubDate": "Sat, 22 Aug 2026 04:51:17 +0800",
@@ -2329,60 +2393,12 @@
      "zh": "瑞士央行官员：必要时将重启负利率，AI短期或推高通胀"
     },
     {
-     "title": "美股成交额前20：特斯拉大涨超5% Robinhood飙升近14%",
-     "link": "http://stock.eastmoney.com/news/1768,202608223849870910.html",
-     "pubDate": "Sat, 22 Aug 2026 04:49:03 +0800",
-     "summary": "周五美股成交额第1名 英伟达 跌0.98%至214.72美元，以211.67亿美元成交额高居榜首。汇丰研究最新将 英伟达 目标价从325美元上调至360美元，维持\"买入\"评级。消息面上， 英伟达 正全力研发至少达1万亿参数的开源模型Nemotron 4，旨在降低对OpenAI等头部客户及云巨头的依赖。 第2名 特斯拉 大涨5.14%至362.86美元，成交额211.13亿美元。消息面上， 特斯拉 Cybercab最快8月在奥斯汀向公众推出，这将是该公司首款没有方向盘和刹车踏板的Robotaxi专用车型。近几周来， 特斯拉 已为Cybercab的上线做了密集筹备，首批量产版Cybercab已在奥",
-     "source": "东方财富股票",
-     "zh": "美股成交额前20：特斯拉大涨超5% Robinhood飙升近14%"
-    },
-    {
-     "title": "Two Harbors gets final regulatory approval for CrossCountry deal",
-     "link": "https://seekingalpha.com/news/4636021-two-harbors-gets-final-regulatory-approval-for-crosscountry-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 21 Aug 2026 16:48:21 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "两港越野交易获得监管部门最终批准"
-    },
-    {
-     "title": "美国陆军部长德里斯科尔预计年底前辞职",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849870828.html",
-     "pubDate": "Sat, 22 Aug 2026 04:47:54 +0800",
-     "summary": "美国陆军部长德里斯科尔预计年底前辞职。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国陆军部长德里斯科尔预计年底前辞职"
-    },
-    {
      "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
      "link": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
      "pubDate": "Fri, 21 Aug 2026 20:47:32 GMT",
      "summary": "President Donald Trump had the White House's East Wing demolished in 2025 to make way for his controversial planned ballroom.",
      "source": "CNBC",
      "zh": "最高法院允许特朗普暂时继续修建白宫宴会厅"
-    },
-    {
-     "title": "穆迪将爱尔兰评级上调至AA2 并维持积极展望",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849869340.html",
-     "pubDate": "Sat, 22 Aug 2026 04:41:49 +0800",
-     "summary": "穆迪 将爱尔兰评级上调至AA2，并维持积极展望。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "穆迪将爱尔兰评级上调至AA2 并维持积极展望"
-    },
-    {
-     "title": "业绩亏损 mRNA概念能否支撑起近岸蛋白56亿市值？",
-     "link": "http://finance.eastmoney.com/news/1354,202608223849870369.html",
-     "pubDate": "Sat, 22 Aug 2026 04:37:41 +0800",
-     "summary": "8月20日和21日，科创板上市公司 近岸蛋白 （688137.SH）股价连续20%涨停，市值超过56亿元。实际上，自8月4日启动以来， 近岸蛋白 股价持续异常波动，累计涨幅超100%。 不过，一个令人尴尬的事实是，被誉为“mRNA原料酶第一股”的 近岸蛋白 净利润已经连续2年亏损，扣非净利润连续3年为负。 针对股价异常波动情况，近岸蛋白8月11日和15日接连发出风险提示。近岸蛋白方面表示，2026年上半年预计实现归母净利润范围为亏损2950万元至亏损2650万元，较去年同期增亏。公司经营规模相对较小，存在亏损风险，而近期股价波动较大。 近岸蛋白方面提醒，股价持续上涨积累了较多的获利调整风险。截",
-     "source": "东方财富股票",
-     "zh": "业绩亏损 mRNA概念能否支撑起近岸蛋白56亿市值？"
-    },
-    {
-     "title": "应收账款高达52亿元 润达医疗困在赊销中",
-     "link": "http://finance.eastmoney.com/news/1354,202608223849870060.html",
-     "pubDate": "Sat, 22 Aug 2026 04:34:29 +0800",
-     "summary": "近期， 润达医疗 （603108.SH）披露了对上海证券交易所2025年年度报告信息披露监管问询函的回复公告。这份公告背后，是这家 体外诊断 （IVD）流通领域头部企业交出的上市以来首份亏损年报：2025年实现营业收入69.99亿元，同比下降15.80%；归母净利润-5.48亿元，而上年同期尚有0.55亿元的盈利，同比降幅高达1092.02%。截至2025年年末， 润达医疗 应收账款账面余额达52.53亿元。 大额减值损失集中爆发，叠加主业增长乏力，使得这家IVD流通领域的头部企业，正经历前所未有的调整阵痛。 针对公司应收账款高企及后续措施，《中国经营报》记者日前向 润达医疗 方面致函致电采访",
-     "source": "东方财富股票",
-     "zh": "应收账款高达52亿元 润达医疗困在赊销中"
     },
     {
      "title": "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch",
@@ -2433,14 +2449,6 @@
      "zh": "以下是贝森特新近激进的财政部如何削弱美联储的沃什"
     },
     {
-     "title": "Sports betting to build wealth is becoming the new American dream",
-     "link": "https://www.marketwatch.com/story/sports-betting-to-build-wealth-is-becoming-the-new-american-dream-1e29b728?mod=mw_rss_topstories",
-     "pubDate": "Fri, 21 Aug 2026 20:01:00 GMT",
-     "summary": "More people under 30 are using gambling as a shortcut to buying a home or paying student loans",
-     "source": "MarketWatch",
-     "zh": "通过体育博彩创造财富正在成为新的美国梦"
-    },
-    {
      "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
      "link": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
      "pubDate": "Fri, 21 Aug 2026 19:58:36 GMT",
@@ -2463,14 +2471,6 @@
      "summary": "Tesla will voluntarily recall about 3 million of its vehicles in China to address doorhandle safety concerns and deficient driver monitoring systems.",
      "source": "CNBC",
      "zh": "特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车"
-    },
-    {
-     "title": "Former JPMorgan exec takes on Social Security advisory role",
-     "link": "https://www.marketwatch.com/story/former-jpmorgan-exec-takes-on-social-security-advisory-role-d0cf6e4f?mod=mw_rss_topstories",
-     "pubDate": "Fri, 21 Aug 2026 19:11:00 GMT",
-     "summary": "Matt Zames will take on an unpaid adviser position at the Social Security Administration, according to reports.",
-     "source": "MarketWatch",
-     "zh": "摩根大通前高管担任社会保障顾问"
     },
     {
      "title": "Bessent&apos;s bond gambit aimed at calming markets is instead stirring inflation worries",
