@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 05:44:54",
+ "generated_at": "2026/8/23 06:11:51",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+     "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+     "pubDate": "Sat, 22 Aug 2026 21:46:56 +0000",
+     "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+     "source": "TechCrunch AI",
+     "zh": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors"
+    },
     {
      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
@@ -66,14 +74,6 @@ window.INDUSTRY_DATA = {
      "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
     },
     {
-     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
-     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
-     "source": "MarkTechPost",
-     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
-    },
-    {
      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
      "link": "https://www.qbitai.com/2026/08/477090.html",
      "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
@@ -114,14 +114,6 @@ window.INDUSTRY_DATA = {
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
-     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
-     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
-     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
-     "source": "MarkTechPost",
-     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
-    },
-    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -136,30 +128,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
-    },
-    {
-     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
-     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
-     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
-     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
-     "source": "MarkTechPost",
-     "zh": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure"
-    },
-    {
-     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
-     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
-     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
-     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
-     "source": "MarkTechPost",
-     "zh": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
-    },
-    {
-     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-     "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-     "pubDate": "Fri, 21 Aug 2026 19:43:39 +0000",
-     "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-     "source": "TechCrunch AI",
-     "zh": "Nvidia just showed that the harness, not the AI model, is now the real hero"
     },
     {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
@@ -248,6 +216,38 @@ window.INDUSTRY_DATA = {
      "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
      "source": "新智元",
      "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
+    },
+    {
+     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
+     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
+     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
+     "source": "新智元",
+     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
+    },
+    {
+     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
+     "source": "机器之心",
+     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
+    },
+    {
+     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
+     "source": "机器之心",
+     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
+    },
+    {
+     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "端到端研究论文生成系统。",
+     "source": "机器之心",
+     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
     }
    ]
   },
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "AI agents&apos; growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents (Katherine Bindley/Wall Street Journal)",
+     "link": "https://www.techmeme.com/260822/p13#a260822p13",
+     "pubDate": "Sat, 22 Aug 2026 18:00:02 -0400",
+     "summary": "Katherine Bindley / Wall Street Journal : AI agents' growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents &nbsp; &mdash;&nbsp; The growing capabilities of AI give new meaning to working yourself to the b",
+     "source": "Techmeme",
+     "zh": "AI agents&apos; growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents (Katherine Bindley/Wall Street Journal)"
+    },
+    {
      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
      "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
      "pubDate": "Sat, 22 Aug 2026 20:24:20 +0000",
@@ -1757,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "Knowing When to Stop: The Art of Making a Loop Converge",
      "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
      "pubDate": "Sat, 22 Aug 2026 20:21:14 +0000",
-     "summary": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 15 # Comments: 4",
+     "summary": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 17 # Comments: 6",
      "source": "Hacker News",
      "zh": "Knowing When to Stop: The Art of Making a Loop Converge"
     },
@@ -1773,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Fast and Hard Code",
      "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
      "pubDate": "Sat, 22 Aug 2026 19:56:38 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 11 # Comments: 4",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 16 # Comments: 6",
      "source": "Hacker News",
      "zh": "Fast and Hard Code"
     },
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "English ↔ Claudish Translator",
      "link": "https://programasweights.com/claudish",
      "pubDate": "Sat, 22 Aug 2026 19:19:15 +0000",
-     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 15 # Comments: 10",
+     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 21 # Comments: 16",
      "source": "Hacker News",
      "zh": "English ↔ Claudish Translator"
     },
@@ -1789,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "NetBSD and My Life (2005)",
      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
      "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
-     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 59 # Comments: 13",
+     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 67 # Comments: 14",
      "source": "Hacker News",
      "zh": "NetBSD and My Life (2005)"
     },
@@ -1797,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
      "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
-     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 104 # Comments: 31",
+     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 125 # Comments: 41",
      "source": "Hacker News",
      "zh": "hdiutil is deprecated in macOS 27 Golden Gate"
     },
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Why your local LLM feels dumber than it is",
      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
      "pubDate": "Sat, 22 Aug 2026 18:14:16 +0000",
-     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 47 # Comments: 15",
+     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 78 # Comments: 22",
      "source": "Hacker News",
      "zh": "Why your local LLM feels dumber than it is"
     },
@@ -1922,22 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "亚洲最大海上原油处理平台惠州 19-6 完成封顶"
     },
     {
-     "title": "Ox Alpha, a \"stealth model\" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)",
-     "link": "https://www.techmeme.com/260822/p7#a260822p7",
-     "pubDate": "Sat, 22 Aug 2026 10:35:02 -0400",
-     "summary": "Rohail Saleem / Wccftech : Ox Alpha, a &ldquo;stealth model&rdquo; from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter &nbsp; &mdash;&nbsp; When an unknown AI lab drops an anonymous model - Ox Alpha - for free, while de",
-     "source": "Techmeme",
-     "zh": "Ox Alpha, a \"stealth model\" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)"
-    },
-    {
-     "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-     "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-     "pubDate": "Sat, 22 Aug 2026 14:00:00 +0000",
-     "summary": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
-     "source": "TechCrunch",
-     "zh": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade"
-    },
-    {
      "title": "因门把手安全隐患特斯拉在华召回近 300 万辆车",
      "link": "https://www.solidot.org/story?sid=85163",
      "pubDate": "Sat, 22 Aug 2026 21:32:18 +0800",
@@ -1984,6 +1976,14 @@ window.INDUSTRY_DATA = {
      "summary": "Your desk setup needs a monitor arm, and I’ve been testing every one I can get my hands on to find the best.",
      "source": "WIRED",
      "zh": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)"
+    },
+    {
+     "title": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux",
+     "link": "https://www.solidot.org/story?sid=85161",
+     "pubDate": "Sat, 22 Aug 2026 19:00:50 +0800",
+     "summary": "彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。微软回应彭博社的询问时表示它没有发现影响该 Windows 系统的安全事件。Windows 10 中国政府版由微软和中国电子科技集团的合资企业神州网信开发。神州网信原计划到 2027 年 2 月停止支持该版本，但其生命结束时间被提前到今年下半年。中国政府机构采用的国产 Linux 发行版可能包括了麒麟操作系统（Kylin OS)和统信 UOS。统信 UOS 桌面版源自 Deepin 和 Debian Linux。",
+     "source": "Solidot",
+     "zh": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux"
     }
    ]
   },
@@ -2242,6 +2242,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "SA Asks: What are the most promising oncology companies right now?",
+     "link": "https://seekingalpha.com/news/4636045-sa-asks-what-are-the-most-promising-oncology-companies-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 17:57:57 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What are the most promising oncology companies right now?"
+    },
+    {
+     "title": "日本本州岛5.8级地震已致多人受伤",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850229127.html",
+     "pubDate": "Sun, 23 Aug 2026 05:45:04 +0800",
+     "summary": "23日获悉，日本本州岛5.8级地震后，当地已出现多名伤者。截至当地时间4时，埼玉县有9人受伤，截至当地时间5时，神奈川县有3人受伤；此外，东京有人被玻璃划伤。 据东京消防厅消息，截至当地时间23日3时，已接到约30起与地震有关的报警。 交通方面，包括东日本旅客铁道公司在内，多条列车线路受地震影响暂时停运。羽田 机场 、成田 机场 、茨城 机场 方面暂未确认到影响。 日本气象厅呼吁，未来一周左右仍需警惕可能伴随最大震度5弱左右震感的地震。日本气象厅设定的地震震度由弱到强分别为0至4、5弱、5强、6弱、6强和7，共10个等级。 中国地震台网正式测定：8月23日1时00分，在日本本州岛（北纬35.9",
+     "source": "东方财富股票",
+     "zh": "日本本州岛5.8级地震已致多人受伤"
+    },
+    {
+     "title": "美国提议将加拿大大部分钢铁产品关税下调至25%",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850229518.html",
+     "pubDate": "Sun, 23 Aug 2026 05:27:29 +0800",
+     "summary": "美国提议将加拿大大部分 钢铁 产品关税下调至25%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国提议将加拿大大部分钢铁产品关税下调至25%"
+    },
+    {
+     "title": "美国贸易代表格里尔驳斥加拿大总理卡尼有关美国报价诚意不足的说法",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850229420.html",
+     "pubDate": "Sun, 23 Aug 2026 05:27:29 +0800",
+     "summary": "美国贸易代表格里尔驳斥加拿大总理卡尼有关美国报价诚意不足的说法。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国贸易代表格里尔驳斥加拿大总理卡尼有关美国报价诚意不足的说法"
+    },
+    {
+     "title": "美国贸易代表格里尔：美国原本可以暂停针对加拿大乳制品、葡萄酒的50%关税",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850229384.html",
+     "pubDate": "Sun, 23 Aug 2026 05:27:29 +0800",
+     "summary": "美国贸易代表格里尔：美国原本可以暂停针对加拿大乳制品、葡萄酒的50%关税。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国贸易代表格里尔：美国原本可以暂停针对加拿大乳制品、葡萄酒的50%关税"
+    },
+    {
+     "title": "美国提议把（加拿大）铝产品关税由50%降至25%",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850229231.html",
+     "pubDate": "Sun, 23 Aug 2026 05:27:29 +0800",
+     "summary": "美国提议把（加拿大） 铝 产品关税由50%降至25%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国提议把（加拿大）铝产品关税由50%降至25%"
+    },
+    {
      "title": "上海写字楼市场结构性分化加剧 超甲级办公楼未来五年复合增长率看涨6％",
      "link": "http://finance.eastmoney.com/news/1348,202608233850222628.html",
      "pubDate": "Sun, 23 Aug 2026 05:20:00 +0800",
@@ -2250,36 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "上海写字楼市场结构性分化加剧 超甲级办公楼未来五年复合增长率看涨6％"
     },
     {
-     "title": "市场资讯：本次停电事故未对英国整体电力供应造成影响",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850227874.html",
-     "pubDate": "Sun, 23 Aug 2026 05:01:02 +0800",
-     "summary": "市场资讯：本次停电事故未对英国整体 电力 供应造成影响。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场资讯：本次停电事故未对英国整体电力供应造成影响"
-    },
-    {
-     "title": "122轮 溢价48.9％！湖北民企爆冷摘得武汉光谷宅地 专家：长江存储等提供产业动能",
-     "link": "http://finance.eastmoney.com/news/1348,202608233850222752.html",
-     "pubDate": "Sun, 23 Aug 2026 05:00:46 +0800",
-     "summary": "在8月21日武汉土地市场的激烈角逐中，光谷核心区一宗优质宅地引发百轮竞价，最终被一家跨界而来的民企以近五成的高溢价率强势斩获。业内人士向《华夏时报》记者分析称，资金正加速向产业强区、核心板块的优质小体量地块集中。 而在核心区高溢价成交的火热背后，同批次外围地块底价成交、二手房价格持续承压的“冰冷”现实同样不容忽视。专家向《华夏时报》记者分析指出，这一地块的高溢价不等于市场全面回暖，属于典型结构性行情，产业强区率先修复，非核心板块仍以去库存为主。 民企高溢价爆冷拿地 8月21日，武汉出让三宗土地，成交总价8.43亿元。其中，最受市场关注的是光谷核心P（2026）063号地块。这宗宅地经过122轮",
-     "source": "东方财富股票",
-     "zh": "122轮 溢价48.9％！湖北民企爆冷摘得武汉光谷宅地 专家：长江存储等提供产业动能"
-    },
-    {
      "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
      "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
      "pubDate": "Sat, 22 Aug 2026 20:45:00 GMT",
      "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
      "source": "MarketWatch",
      "zh": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?"
-    },
-    {
-     "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850227468.html",
-     "pubDate": "Sun, 23 Aug 2026 04:36:57 +0800",
-     "summary": "当地时间22日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗告诉世界各国，不要与美国一起对伊朗发动经济战。任何参与对伊朗实施经济限制的国家，都被伊朗视为敌人。 雷扎伊表示，特朗普政府发动的这场经济战也是一场宣传战。虽然伊朗已经遭受美国长期制裁，但伊朗已经学会了如何绕过制裁。他表示，海上封锁议题并非一朝一夕就能解决，伊朗已经遭受美国数月的海上封锁，但仍然成功售出了石油。 此外，他还表示，美国在霍尔木兹海峡南部航道的任何行动都将成为伊朗的打击目标，且伊方将打击美国与该地区任何反伊朗势力举行的会晤。 针对伊朗与阿曼关于霍尔木兹海峡的谈判，雷扎伊指出，双方重要磋商之一是正在就航道和贸易过境问题进行协调，",
-     "source": "东方财富股票",
-     "zh": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人"
     },
     {
      "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
@@ -2312,22 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
      "source": "MarketWatch",
      "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
-    },
-    {
-     "title": "也门官方称：曼德海峡发现一枚胡塞武装布设的水雷",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850228016.html",
-     "pubDate": "Sun, 23 Aug 2026 04:26:47 +0800",
-     "summary": "也门官方称，曼德海峡发现一枚胡塞武装布设的水雷。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "也门官方称：曼德海峡发现一枚胡塞武装布设的水雷"
-    },
-    {
-     "title": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长阿西姆·穆尼尔于周六通电话 就地区局势与安全议题展开磋商",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850227934.html",
-     "pubDate": "Sun, 23 Aug 2026 04:26:47 +0800",
-     "summary": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长阿西姆·穆尼尔于周六通电话，就地区局势与安全议题展开磋商。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长阿西姆·穆尼尔于周六通电话 就地区局势与安全议题展开磋商"
     },
     {
      "title": "Nvidia customers reportedly warned about AI-related price hikes",
@@ -2394,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway"
     },
     {
-     "title": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
-     "link": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html",
-     "pubDate": "2026-08-22T18:56:59Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports"
-    },
-    {
      "title": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says",
      "link": "https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2",
      "pubDate": "Sat, 22 Aug 2026 18:17:56 GMT",
@@ -2466,20 +2466,20 @@ window.INDUSTRY_DATA = {
      "zh": "偷税漏税被罚后，初代网红温婉 “复活”：制售Prada等高仿大牌服装，近百个号带货超百万元"
     },
     {
-     "title": "Insider trades: AMD, Micron and Coca-Cola among notable names",
-     "link": "https://seekingalpha.com/news/4636007-insider-trades-amd-micron-and-coca-cola-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 11:03:40 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Insider trades: AMD, Micron and Coca-Cola among notable names"
-    },
-    {
      "title": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”",
      "link": "http://www.eeo.com.cn/2026/0822/1007969.shtml",
      "pubDate": "Sat, 22 Aug 2026 21:26:11 +0800",
      "summary": "资料图 南方财经 21世纪经济报道记者 郑青亭 北京报道 美国国债市场近期持续承压之际，桥水基金创始人瑞·达利欧（Ray Dalio）再次发出警告：美国政府财政状况正在进入一个关键“转折点”（inflection point），如果不能及时改变当前的债务增长路径，美国债务危机可能在未来几年内加速显现。 8月21日，达利欧在个人网站发表题为《国家如何走向破产：当下变局背后的内在逻辑》（How Countries Go Br...",
      "source": "经济观察网",
      "zh": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”"
+    },
+    {
+     "title": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶",
+     "link": "https://wallstreetcn.com/articles/3780065",
+     "pubDate": "Sat, 22 Aug 2026 20:55:29 +0800",
+     "summary": "美伊紧张局势仍在持续，但市场关注点正逐步从军事风险转向经济制裁，以及其对全球原油供应格局的影响。 据新华社，美国财政部长贝森特20日表示，特朗普政府将加大对伊朗经济施压，并威胁对伊朗实施“前所未有的经济孤立”措施。他称，特朗普政府重创伊朗经济的计划可能使美国无需再对伊朗发动大规模军事行动。随着制裁力度可能升级，其对伊朗原油出口的影响正成为市场关注的新变量。 与此同时，霍尔木兹海峡的可见油轮流量仍明显低于冲突前水平，但“暗流”运输正在部分填补缺口。瑞银调研数据显示， 过去一周霍尔木兹海峡整体石油流量仍略高于600万桶/日，其中暗光运输规模升至约500万至600万桶/日，显示实际原油过境量受到的冲",
+     "source": "华尔街见闻",
+     "zh": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶"
     }
    ]
   },
