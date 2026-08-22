@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/22 10:49:46",
+ "generated_at": "2026/8/22 11:32:30",
  "recent_days": 7,
  "industries": [
   {
@@ -223,7 +223,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.19202v1 Announce Type: new Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval call",
      "source": "arXiv cs.AI",
-     "zh": "主动推理作为 AI 代理的上下文获取"
+     "zh": "主动推理作为人工智能代理的上下文获取"
     },
     {
      "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
@@ -247,7 +247,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.19216v1 Announce Type: new Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations us",
      "source": "arXiv cs.AI",
-     "zh": "有界主权和控制税：当部署者不拥有模型时对人工智能监督进行定价"
+     "zh": "有界主权和控制税：部署者不拥有模型时人工智能监督的定价"
     }
    ]
   },
@@ -655,7 +655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 19:32:03 +0000",
      "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla killing the Solar Roof, Cybercab launch, Genesis GV90, and more. Today’s episode is sponsored by GM . GM EV charging made easy, with Energy Pass and P",
      "source": "Electrek",
-     "zh": "播客：特斯拉取消了太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
+     "zh": "播客：特斯拉取消太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
     },
     {
      "title": "Hyundai starts taking orders for $17,700 Ioniq V, but you can’t have it",
@@ -999,7 +999,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 13:45:47 +0000",
      "summary": "ES Foundry's Alex Zhu outlines how the US cell maker is betting on PERC while navigating shifting regulations and supply-chain constraints.",
      "source": "PV Tech",
-     "zh": "ES Foundry 在美国光伏制造转向 n 型之际支持 PERC"
+     "zh": "ES Foundry 在美国光伏制造转向 n 型期间支持 PERC"
     },
     {
      "title": "United Solar’s goal to diversify polysilicon supply outside of China",
@@ -1007,7 +1007,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 13:43:34 +0000",
      "summary": "PV Tech Premium speaks with United Solar about the challenges of building polysilicon capacity outside of China and catering to the US and Indian markets.",
      "source": "PV Tech",
-     "zh": "联合太阳能的目标是在中国以外实现多晶硅供应多元化"
+     "zh": "联合太阳能公司的目标是实现中国以外多晶硅供应的多元化"
     },
     {
      "title": "Austria announces energy storage offensive, shifting solar subsidy focus",
@@ -1063,7 +1063,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 12:21:49 +0000",
      "summary": "China’s polysilicon market showed early signs of stabilization, while wafer prices jumped sharply on stronger downstream demand and increased overseas purchasing. The post Chinese PV Industry Brief: polysilicon market shows tentative recovery as wafer prices surge appeared first on pv magazine Globa",
      "source": "pv magazine",
-     "zh": "中国光伏行业简报：硅片价格飙升，多晶硅市场呈现初步复苏"
+     "zh": "中国光伏行业简报：硅片价格飙升，多晶硅市场出现初步复苏"
     },
     {
      "title": "The Hydrogen Stream: JCB Hydromax sets speed record for hydrogen-powered vehicles of any kind",
@@ -1135,7 +1135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 16:10:33 +0000",
      "summary": "By using chemical signals to guide cells to adopt distinct regional identities, scientists created lab-grown human organoids that mimic early brain development and could illuminate how specialized brain areas emerge. The post Lab-Grown Neocortex Models Mimic Early Brain Organization appeared first o",
      "source": "GEN",
-     "zh": "实验室培养的新皮质模型模仿早期大脑组织"
+     "zh": "实验室培育的新皮质模型模仿早期大脑组织"
     },
     {
      "title": "From Models to Agents: The Next Phase of AI Adoption in Molecular Discovery",
@@ -1431,7 +1431,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 04:01:00 +0000",
      "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
      "source": "NASA",
-     "zh": "欧洲炎热的夏季"
+     "zh": "欧洲炎热的夏天"
     },
     {
      "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
@@ -1583,7 +1583,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 11:55:15 -0400",
      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
      "source": "BleepingComputer",
-     "zh": "数百个泄露的 AWS 密钥可完全控制企业帐户"
+     "zh": "数百个泄露的 AWS 密钥可完全控制企业账户"
     },
     {
      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -1746,12 +1746,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "豆包输入法鸿蒙版上架尝鲜，版本号 0.9.1",
-     "link": "https://www.ithome.com/0/992/930.htm",
-     "pubDate": "Sat, 22 Aug 2026 02:39:30 GMT",
-     "summary": "IT之家 8 月 22 日消息，豆包输入法鸿蒙版现已在 App Gallery 应用商店 开启尝鲜 ，版本号为 0.9.1（901），时间为 8 月 22 日至 9 月 21 日。 官方表示，豆包输入法的「语音输入」使用豆包同款语音大模型，语音输入又快又准，支持多方言、英语及中英混输；快速说话、轻声说话均可精准识别，无网弱网环境下也能流畅使用，同时提供点击输入、长按输入等多种操作方式。「键盘输入」则提供了 9 键、26 键的键盘输入方式。有强大的纠错和简拼能力。 据IT之家此前报道， 豆包输入法 1.0 于去年 11 月正式上线 ，内置情境感知引擎，支持滑行输入增强版等功能。 该输入法后续还上",
+     "title": "全球限 1963 辆：兰博基尼称 Revuelto SV 超跑短期内不会冲击纽北圈速纪录",
+     "link": "https://www.ithome.com/0/992/939.htm",
+     "pubDate": "Sat, 22 Aug 2026 03:24:12 GMT",
+     "summary": "IT之家 8 月 22 日消息，汽车媒体 motortrend 于 8 月 17 日发布博文，报道称 兰博基尼全新旗舰超跑 Revuelto SV 短期内不会向纽博格林北环发起官方圈速挑战。 IT之家此前报道，在 2026 年蒙特雷汽车周活动上， 兰博基尼全球首发全新 V12 混合动力超级跑车 Revuelto SV，全球限量 1963 辆 。 在接受该媒体采访时，Revuelto 产品线总监亚历山德罗 · 法梅斯基（Alessandro Farmeschi）表示，兰博基尼短期内不会向纽博格林北环发起官方圈速挑战。 他表示： 我们选择在向纽博格林北环赛道上测试，并 选择冲击德国 Hockenh",
      "source": "IT之家",
-     "zh": "豆包输入法鸿蒙版上架尝鲜，版本号 0.9.1"
+     "zh": "全球限 1963 辆：兰博基尼称 Revuelto SV 超跑短期内不会冲击纽北圈速纪录"
+    },
+    {
+     "title": "2027 款广汽埃安 UT 530 宁德版上市，限时一口价 8.58 万",
+     "link": "https://www.ithome.com/0/992/937.htm",
+     "pubDate": "Sat, 22 Aug 2026 03:18:46 GMT",
+     "summary": "IT之家 8 月 22 日消息，在 2026 成都车展上，2027 款埃安 UT 530 宁德版正式上市， 限时一口价 8.58 万元 。 IT之家获悉，新车长宽高分别为 4270/1850/1575mm，轴距为 2750mm；后排横向达到 1385mm，空间后备箱容积达到 440L。 新车配备 8.8 英寸的液晶仪表和 14.6 英寸的中控屏，车机兼容 HiCar、CarLink、CarPlay 三大手车互联生态。 动力方面，新车搭载单电机，最大功率为 100 千瓦，最高车速 150km/h；电池方面则搭载宁德时代的电池包，CLTC 纯电续航里程 530km。",
+     "source": "IT之家",
+     "zh": "2027 款广汽埃安 UT 530 宁德版上市，限时一口价 8.58 万"
+    },
+    {
+     "title": "旺旺让所有员工反思，除了最高主管",
+     "link": "https://www.huxiu.com/article/4885098.html?f=rss",
+     "pubDate": "Sat, 22 Aug 2026 11:14:18 +0800",
+     "summary": "本文来自微信公众号： 版面之外 ，作者：版君 如果有一天，你的公司告诉你，公司业绩大跌了。现在，请所有员工写一份自我反思。要求真实、客观，还要有数据为支撑。 然后，你的老板、老板的老板、老板的老板的老板，一层层给你打分。 紧接着，公司开始裁员。 你会怎么写？ 大概不会太好写。 原因很简单，这压根不是一份普通的自评。员工写下的每一句不足之处，都有可能成为公司判断你要不要留下的依据。 最近，旺旺的员工正在经历类似的一幕。 一、旺旺裁员，先从自评开始 8月初，中国旺旺集团董事长蔡衍明发出一封内部信。 措辞很直白，甚至会让人觉得非常坦诚 在信里他表示，公司遇到了重大经营危机，并要求淘汰没有贡献的干部。",
+     "source": "虎嗅",
+     "zh": "旺旺让所有员工反思，除了最高主管"
+    },
+    {
+     "title": "宝马提交双层后备厢专利：独立开合，储物分区新思路",
+     "link": "https://www.ithome.com/0/992/936.htm",
+     "pubDate": "Sat, 22 Aug 2026 03:07:52 GMT",
+     "summary": "IT之家 8 月 22 日消息，汽车媒体 CarBuzz 昨日（8 月 21 日）发布博文， 报道称宝马提交申请“双后备厢”专利，为轿车、电动车型带来独立尾部储物空间。 根据专利描述，宝马计划在车辆尾部设置上下两套完全独立的储物舱，分别拥有各自的开启机构。上层储物舱靠近尾门开口，适合放置日常高频取用的物品。 下层舱体位置更深，可用来收纳大件行李、潮湿的户外装备、充电线缆等，实现物理分隔干净与脏污物品，避免互相污染。两套舱体可以单独开启，不用每次都打开整个大尾门，狭小地库、短时间取放物品场景下有较高实用性。 IT之家援引博文介绍，传统隔板只是把同一空间进行切分，而宝马专利中两个储物舱具备独立密封",
+     "source": "IT之家",
+     "zh": "宝马提交双层后备厢专利：独立开合，储物分区新思路"
+    },
+    {
+     "title": "比亚迪大汉内饰官图公布：王朝 9 系旗舰轿车，预售 24.99 万元起",
+     "link": "https://www.ithome.com/0/992/935.htm",
+     "pubDate": "Sat, 22 Aug 2026 03:07:47 GMT",
+     "summary": "IT之家 8 月 22 日消息，比亚迪大汉车型的内饰官图今日公布，该车定位“王朝 9 系旗舰轿车”，预售 24.99 万元起。 据官方公布信息，该车长 5256mm、宽 1999mm、高 1510mm， 轴距 3130mm 。车内采用环抱式座舱设计，拥有 90.8% 超高得房率，纵向 2005mm、横向 1580mm 同级第一；支持中央大床模式，一键躺平；超全面储物空间，前备箱容积 130L、全车 46 处储物及拓展。 此外，该车还配备前排双零重力座椅、帝瓦雷音响 31 扬声器、琥珀流光音响（灯光随着音乐律动）、四门静音夹层玻璃、130 多处声学材料应用。该车搭载 智能调光隐私玻璃 ，这也是全",
+     "source": "IT之家",
+     "zh": "比亚迪大汉内饰官图公布：王朝 9 系旗舰轿车，预售 24.99 万元起"
+    },
+    {
+     "title": "第一个被AI 报警抓进去的人",
+     "link": "https://www.huxiu.com/article/4885096.html?f=rss",
+     "pubDate": "Sat, 22 Aug 2026 11:04:00 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《第一个被 AI 报警抓进去的人》 「我打算在这个月底前杀了她。」 「如果我得不到她，那谁都别想得到。」 据《棕榈滩邮报》，一名前高盛分析师在ChatGPT里留下了对前女友的谋杀意图，随即被OpenAI移送联邦调查局（FBI），他可能是第一个被AI报警送进局子的人。 在他不假思索地分享时，AI已经开始判断该不该报警抓他。 聊天框里的谋杀预谋 当事人达伦·周（Darren Shida Zhou），25岁，是高盛集团驻西棕榈滩分支机构的金融分析师，所在团队隶属资产与财富管理部门，美国金融业监管局（FINRA）的公开注册记录显示其任",
+     "source": "虎嗅",
+     "zh": "第一个被AI 报警抓进去的人"
+    },
+    {
+     "title": "深光影像推出 AF 35mm F1.4 APS-C 相机镜头：首发富士 X 卡口，649 元起",
+     "link": "https://www.ithome.com/0/992/934.htm",
+     "pubDate": "Sat, 22 Aug 2026 03:03:06 GMT",
+     "summary": "IT之家 8 月 22 日消息，深光影像今日推出 AF 35mm F1.4 APS-C 相机镜头， 售价 649 元 ，金属遮光罩套装 699 元。 这款镜头支持富士 X、索尼 E、尼康 Z 卡口，本次首发富士 X 卡口版本；采用 6 组 7 片镜片结构，等效全画幅 52.5mm；最近对焦距离 0.35m，滤镜尺寸 52mm。 这款镜头有银色、黑色、黑银三种颜色可选，镜身材质为金属，重约 227g。 IT之家附这款镜头详细参数如下： 京东 SGIMAGE 深光 AF 35mm F1.4 半画幅 &nbsp;富士 X 卡口 券后 649 元 领 150 元券",
+     "source": "IT之家",
+     "zh": "深光影像推出 AF 35mm F1.4 APS-C 相机镜头：首发富士 X 卡口，649 元起"
+    },
+    {
+     "title": "我国牵头，全球首项电动汽车驱动用固态电池国际标准成功立项",
+     "link": "https://www.ithome.com/0/992/933.htm",
+     "pubDate": "Sat, 22 Aug 2026 02:54:45 GMT",
+     "summary": "IT之家 8 月 22 日消息，市场监管总局 8 月 21 日发文称，近日，由我国提出的国际标准提案《电动汽车驱动用二次锂离子电 池 固 态电池应用指南、测试项目及条件》在国际电工委员会（IEC）成功立项。该标准是固态电池领域 全球首个国际标准 。 文章称，固态电池被视为下一代锂离子电池重要发展方向。相比传统液态电池，它续航更长、安全性更高，性能也更稳定。这项国际标准依托我国固态电池研发积累，将清晰界定固态电池的测试规范。该国际标准将使未来全球车企在研发和生产固态电池时拥有统一的“标尺”，有助于加速更安全、长续航的电动车走进千家万户，推动新能源产业快速发展。 IT之家从文章获悉， 该标准由我国",
+     "source": "IT之家",
+     "zh": "我国牵头，全球首项电动汽车驱动用固态电池国际标准成功立项"
+    },
+    {
+     "title": "雅迪爱玛九号电动车们，凭什么不能多收钱？",
+     "link": "https://www.huxiu.com/article/4885094.html?f=rss",
+     "pubDate": "Sat, 22 Aug 2026 10:53:21 +0800",
+     "summary": "本文来自微信公众号： 超聚焦foci ，作者：肖恩 智能功能付费，这笔钱该谁出？ 智能电动车，正在变成一门“长期生意”。 近日，有多家媒体报道，消费者购买智能电动车一年后发现，车辆定位、远程控车等功能出现续费提醒；如果不缴纳年费，部分智能服务将停止使用。台铃、小牛、九号、雅迪等多个品牌的车型均出现类似情况。 小几十元的年费，本身并不算高。但消费者的不满在于，厂商在销售辆时往往将智能化、防盗、远程控制等功能作为产品卖点，却没有明确告知这些功能并非永久提供，而是还需额外付费。 过去，电动车企业的交易在交付车辆时结束；如今，随着智能化成为新的卖点，企业开始尝试从一次性卖车，走向持续服务收费。 问题也",
+     "source": "虎嗅",
+     "zh": "雅迪爱玛九号电动车们，凭什么不能多收钱？"
     },
     {
      "title": "东方甄选打了个翻身仗，但二次创业刚刚开始",
@@ -1760,46 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 独立思考 ，作者：潘大叔 1、东方甄选发布截至2026年5月31日止年度的年度业绩。总净营收由2025财年的人民币42亿元增加36.3%至2026财年的人民币57亿元；若不剔除与辉同行直播间产生的总营收金额，总净营收由2025财年的人民币44亿元增加29.8%至2026财年的人民币57亿元。净溢利由2025财年的人民币620万元增加8684.8%至2026财年的净溢利人民币5.44亿元。经调整净溢利由2025财年的人民币1.74亿元增加262.2%至2026财年的净溢利人民币6.29亿元。每股基本盈利0.52元。 2、这无疑是一份亮眼的财报，但是这份财报最大的看点其实是东",
      "source": "虎嗅",
      "zh": "东方甄选打了个翻身仗，但二次创业刚刚开始"
-    },
-    {
-     "title": "CEO 里马克称布加迪考虑推出配真正手动变速箱的 V16 超跑",
-     "link": "https://www.ithome.com/0/992/929.htm",
-     "pubDate": "Sat, 22 Aug 2026 02:33:54 GMT",
-     "summary": "IT之家 8 月 22 日消息，布加迪首席执行官马特 · 里马克（Mate Rimac）表示，布加迪考虑推出配备“真正手动”变速箱的 V16 超级跑车。 IT之家援引博文介绍，在蒙特雷汽车周活动期间，接受汽车媒体 Road &amp; Track 采访时，里马克毫不掩饰地表达了打造手动挡超跑的愿望。 在被问及在布加迪未来的产品规划中，是否有空间容纳一款三踏板汽车时，里马克回应表示： 当前有，我百分之百同意。想象一下，一辆搭载 V16 发动机的汽车配上真正的手动变速箱。 该媒体解读认为，里马克希望采用物理换挡连杆与真实离合器，让驾驶者通过左脚直接控制离合器对飞轮施加的压力，为车主带来真正的手动变",
-     "source": "IT之家",
-     "zh": "CEO 里马克称布加迪考虑推出配真正手动变速箱的 V16 超跑"
-    },
-    {
-     "title": "第二届世界人形机器人运动会今天开幕，新增拔河、乒乓球等项目",
-     "link": "https://www.ithome.com/0/992/928.htm",
-     "pubDate": "Sat, 22 Aug 2026 02:29:15 GMT",
-     "summary": "IT之家 8 月 22 日消息，由北京市人民政府、中央广播电视总台等单位联合主办的第二届世界人形机器人运动会今天开幕。本次比赛将持续到 26 日，共设置 51 个项目、1300 多场比赛。今年竞技赛新增跳远、举重、拔河、乒乓球等高强度对抗项目。 本届运动会正赛将于 8 月 22 日至 26 日在国家速滑馆“冰丝带”举行，将举行 51 个项目共 1301 场比赛，吸引 666 支队伍携 2056 台机器人参赛，竞赛项目、参赛队伍全面提质扩容。 从报名情况来看，各路高手将云集赛场。本届赛事吸引了来自六大洲、16 个国家的 666 支队伍，共有 2056 台机器人同台竞技，队伍数量较首届增长 138",
-     "source": "IT之家",
-     "zh": "第二届世界人形机器人运动会今天开幕，新增拔河、乒乓球等项目"
-    },
-    {
-     "title": "宝马新世代 BMW i3 更多规格公布：9 款车漆 + 4 款内饰，续航超 1000 公里",
-     "link": "https://www.ithome.com/0/992/927.htm",
-     "pubDate": "Sat, 22 Aug 2026 02:22:16 GMT",
-     "summary": "IT之家 8 月 22 日消息，8 月 21 日，2026 成都车展开幕，宝马新世代 BMW i3 纯电轿车公布更多细节信息。 IT之家从官方介绍获悉，该车尺寸为 4864/1865/1490mm，轴距为 3005mm，配备数字天使光翼前脸、C 柱发光 M 标识、L 型光刃尾灯、全新半隐藏式门把手、前储备箱空间，提供磨砂空间银、空间银、曼岛绿、尤加利绿、勒卡斯泰莱蓝、火焰红、极昼灰、碳黑色、矿石白等 9 款车漆 。 座舱方面，该车采用环抱式瀑布氛围灯与灵动透光面板，提供座椅加热、通风、按摩等舒适配置；全景一体式防晒天幕，三层镀银低辐射，防晒率高达 99.9%；3005 毫米长轴距，加长轴距全部",
-     "source": "IT之家",
-     "zh": "宝马新世代 BMW i3 更多规格公布：9 款车漆 + 4 款内饰，续航超 1000 公里"
-    },
-    {
-     "title": "iQOO Neo11 至尊版首销优惠价延续至 8 月 31 日，3399 元起",
-     "link": "https://www.ithome.com/0/992/925.htm",
-     "pubDate": "Sat, 22 Aug 2026 02:20:56 GMT",
-     "summary": "IT之家 8 月 22 日消息， iQOO Neo11 至尊版 发布于 8 月 18 日，首销优惠价（原定 8 月 18-24 日）3399 元起： 12GB+256GB 版本：3699 元，首销优惠价 3399 元，国补价 2899 元 16GB+256GB 版本：4099 元，首销优惠价 3799 元，国补价 3299 元 12GB+512GB 版本：4299 元，首销优惠价 3999 元，国补价 3499 元 16GB+512GB 版本：4699 元，首销优惠价 4399 元，国补价 3899 元 iQOO 旗舰系列产品经理王侃今日宣布， iQOO Neo11 至尊版首销优惠价延续到 8",
-     "source": "IT之家",
-     "zh": "iQOO Neo11 至尊版首销优惠价延续至 8 月 31 日，3399 元起"
-    },
-    {
-     "title": "2028 款梅赛德斯-AMG E 63 纯电原型车曝光，配 YASA 轴向磁通电机",
-     "link": "https://www.ithome.com/0/992/924.htm",
-     "pubDate": "Sat, 22 Aug 2026 02:18:17 GMT",
-     "summary": "IT之家 8 月 22 日消息，汽车媒体 autoevolution 昨日（8 月 21 日）发布博文，分享了一组在德国纽博格林赛道抓拍到的路测图， 展示了正在测试的 2028 款梅赛德斯-AMG E 63 原型车。 外观方面，有别于此前偏圆润的 EQ 系列纯电车型，新车采用更传统的三厢车身。车身配备大倾角前风挡、长车头、清晰的尾厢盖和外扩轮拱，整体比例更接近豪华行政轿车。 新车前脸采用较为直立的格栅区域，设计思路与纯电版 GLC 和 C-Class 相近。前保险杠下方设置低位进气口，用于向热交换器、前电驱单元和前制动器输送冷空气。前唇扰流板与 2 个导流翼片则有助于提升高速行驶时的车头稳定性",
-     "source": "IT之家",
-     "zh": "2028 款梅赛德斯-AMG E 63 纯电原型车曝光，配 YASA 轴向磁通电机"
     },
     {
      "title": "沃尔玛：业绩没毛病，高估值是原罪",
@@ -1874,30 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "一个纸杯的生意"
     },
     {
-     "title": "健身房才隐藏着高潜的“户外大神”",
-     "link": "https://www.huxiu.com/article/4885082.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 09:54:27 +0800",
-     "summary": "本文来自微信公众号： 精练GymSquare ，作者：Vicky，原文标题：《健身房才隐藏着高潜的「户外大神」》 在运动小白迈出「人生首野」的第一步后，损伤、代偿和挫败，让他们开始回归健身房练基本功。 而如果按照户外运动需要的体能、耐力和灵活性来看，健身房其实隐藏着诸多高潜的「户外大神」。 不稳定的户外环境，考验参与者的各种功能性训练基础。户外运动的共性在于需要较强的心肺能力，同时每项运动都有各自需要的专项能力。力量、核心和耐力，都不是从来不健身的小白可以尝试的人生首次户外运动。 比如CF大神可能也是攀岩好手，动感单车教练立即上手公路骑行，而功能性训练的健身者，大概率能在越野环境快速上手。 健",
-     "source": "虎嗅",
-     "zh": "健身房才隐藏着高潜的“户外大神”"
-    },
-    {
-     "title": "重庆啤酒在传统旺季折戟",
-     "link": "https://www.huxiu.com/article/4885081.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 09:45:54 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：秦李欣 8月19日，重庆啤酒交出一份营收、利润双降的半年报。 重庆啤酒2026年半年度报告显示，上半年，其啤酒销量174.92万千升，同比下降2.87%；营业收入为85.76亿元，同比下降2.98%。归属于上市公司股东的净利润为7.96亿元，同比下降7.98%；归属于上市公司股东的扣除非经常性损益的净利润为7.84亿元，同比下降8.27%。 界面新闻记者注意到，重庆啤酒的业绩压力主要集中在第二季度。 2026年第一季度，公司啤酒销量为88.65万千升，同比增长0.34%，实现营业收入43.50亿元，同比微降0.12%。归属于上市公司股东的净利润为4.38",
-     "source": "虎嗅",
-     "zh": "重庆啤酒在传统旺季折戟"
-    },
-    {
-     "title": "北大张丹丹教授能不能主动去享受一下灵活就业的“福利”？",
-     "link": "https://www.huxiu.com/article/4885080.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 09:38:13 +0800",
-     "summary": "本文来自微信公众号： 太阳照常升起 ，作者：慕峰，头图来自：AI生成 王波明的视频谈话节目&ldquo;聊一波&rdquo;经常会请不少专家，包括一些退下来的官员和财经专业人士，还是很有可看性的。 但经常请来的北大国发院副院长张丹丹教授确实是个另类，与其他嘉宾的思想深度和对现实的了解，包括同理心，完全不在一个层面。 张丹丹这次终于出圈了，因为她说对灵活就业人员而言，&ldquo;灵活本身就是种福利&rdquo;。 原视频比图片更&ldquo;刺激&rdquo;。 张丹丹是从社科院人口与劳动经济研究所到北大任职的，在北大也待了十几年了。研究人口和劳动经济问题的学者，怎么可能把灵活就业理解出福利的",
-     "source": "虎嗅",
-     "zh": "北大张丹丹教授能不能主动去享受一下灵活就业的“福利”？"
-    },
-    {
      "title": "Michael Polansky is training an AI model on skin that’s still alive",
      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
      "pubDate": "Sat, 22 Aug 2026 01:31:04 +0000",
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "There's no reason for software to be slow anymore",
      "link": "https://danluu.com/perf-opt/",
      "pubDate": "Sat, 22 Aug 2026 01:06:17 +0000",
-     "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 69 # Comments: 60",
+     "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 102 # Comments: 107",
      "source": "Hacker News",
      "zh": "软件没有理由再慢了"
     },
@@ -1925,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
      "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
      "pubDate": "Sat, 22 Aug 2026 01:02:09 +0000",
-     "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 18 # Comments: 6",
+     "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 28 # Comments: 8",
      "source": "Hacker News",
      "zh": "我们与摩托罗拉合作的最初重点是常规非折叠设备"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "HN: The Good Parts (2016)",
      "link": "https://danluu.com/hn-comments/",
      "pubDate": "Fri, 21 Aug 2026 23:53:03 +0000",
-     "summary": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 22 # Comments: 6",
+     "summary": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 23 # Comments: 6",
      "source": "Hacker News",
      "zh": "HN：好的部分 (2016)"
     },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple reportedly cut more than 200 jobs across Vision Pro and Siri software teams",
+     "link": "https://www.engadget.com/2242070/apple-reportedly-cut-more-than-200-jobs-across-vision-pro-and-siri-software-teams/",
+     "pubDate": "Sat, 22 Aug 2026 03:14:33 +0000",
+     "summary": "Apple has laid off employees in its Vision Pro and Siri teams as it shifts focus to smart glasses and next-gen AI tech.",
+     "source": "Engadget",
+     "zh": "据报道，苹果在 Vision Pro 和 Siri 软件团队中裁员超过 200 人"
+    },
     {
      "title": "Redmi Note 17 Pro and Redmi Note 17 Pro Max India launch date leaks along with pricing details",
      "link": "https://www.gsmarena.com/redmi_note_17_pro_and_redmi_note_17_pro_max_india_launch_date_leaks_along_with_pricing_details-news-74290.php",
@@ -2047,7 +2055,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 21:53:33 +0000",
      "summary": "Save $60 on the Insignia 32-inch Fire TV and get built-in Fire TV plus an Alexa Voice Remote for just $69.99.",
      "source": "Android Authority",
-     "zh": "Insignia 32 英寸 Fire TV 降至仅 69.99 美元——对于第二块屏幕来说非常划算"
+     "zh": "Insignia 32 英寸 Fire TV 降至 69.99 美元——对于第二块屏幕来说，这个价格非常划算"
     },
     {
      "title": "Amazon drops the Logitech G309 Lightspeed mouse to a record-low $34.99",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "东京的寿司巴士将传送带用餐与露天观光结合在一起"
     },
     {
-     "title": "Tesla and others recall over 4 million vehicles in China over hidden door handles",
-     "link": "https://www.engadget.com/2241760/tesla-and-others-recall-over-4-million-vehicles-in-china-over-hidden-door-handles/",
-     "pubDate": "Fri, 21 Aug 2026 17:36:49 +0000",
-     "summary": "Tesla and others recall over 4 million vehicles in China over door handles.",
-     "source": "Engadget",
-     "zh": "特斯拉等公司因隐藏门把手在中国召回超过 400 万辆汽车"
-    },
-    {
      "title": "Pixel 11 Pro Fold is changing how I multitask on a foldable with ‘App Handles’ [Gallery]",
      "link": "https://9to5google.com/2026/08/21/google-pixel-11-pro-fold-android-app-handles-multitasking-feature/",
      "pubDate": "Fri, 21 Aug 2026 17:15:00 +0000",
@@ -2242,52 +2242,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "科大讯飞与中国药科大学签署战略合作协议",
-     "link": "http://finance.eastmoney.com/news/1349,202608223850128929.html",
-     "pubDate": "Sat, 22 Aug 2026 10:41:36 +0800",
-     "summary": "据 科大讯飞 消息，近日，中国药科大学与 科大讯飞 正式签署战略合作协议。此次战略合作签约是 科大讯飞 以 人工智能 核心技术赋能生物医药产业的重要实践。未来，科大讯飞将与中国药科大学深化产学研合作，细化合作清单、落地专项项目，共同打造“ 人工智能 +医药”产教融合标杆，为生物医药产业高质量发展注入新动能。 （文章来源：人民财讯）",
+     "title": "众擎机器人发布“仿人脑”具身智能引擎EngineAI Awaken",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850136356.html",
+     "pubDate": "Sat, 22 Aug 2026 11:25:22 +0800",
+     "summary": "众擎 机器人 近日在2026世界 机器人 大会上发布具身智能引擎EngineAI Awaken。据介绍，该引擎并非单一模型，而是一套由S1本能反射层、S2动作规划生成层、S3认知推理层及S4、S5自我成长层构成的五层体系，覆盖运动控制、动作规划与认知推理等环节。其采用“分层异构多频”架构，将2Hz语义推理与100Hz运动控制解耦，以降低大模型计算延迟对 机器人 实时控制的影响。该引擎还融合WAM与VLA模型，众擎方面称， 机器人 经过2小时实机部署及微调训练后，长程动作成功率可超过98%。目前，该架构已与众擎自研力控关节、灵巧手及 机器人 本体进行整合。 （文章来源：科创板日报）",
      "source": "东方财富股票",
-     "zh": "科大讯飞与中国药科大学签署战略合作协议"
+     "zh": "众擎机器人发布“仿人脑”具身智能引擎EngineAI Awaken"
     },
     {
-     "title": "比特币狂飙！18.9万人爆仓",
-     "link": "http://finance.eastmoney.com/news/1354,202608223850128232.html",
-     "pubDate": "Sat, 22 Aug 2026 10:40:00 +0800",
-     "summary": "【导读】比特币直逼80000美元整数关口，本周累涨超24%，创2023年3月以来最大单周涨幅，全球18.9万人爆仓 中国基金报记者张舟 一起来关注一则加密货币市场最新消息！ 这两天比特币突然狂飙，近24小时内，比特币最高报79555.5美元，直逼80000美元整数关口。 截至发稿，比特币报78127.2美元，24小时内涨5.63%。本周迄今上涨超24%，创2023年3月以来最大单周涨幅。加密货币板块拉升，Coinbase周五大涨8.2%，Circle涨超5%。 Bernstein策略师高塔姆·楚加尼表示，比特币上涨的强劲催化剂是美国财政部购债，比特币历史上通常对流动性扩张作出积极反应。 美国财",
+     "title": "星海图机器人2027年目标交付万台以上",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850135783.html",
+     "pubDate": "Sat, 22 Aug 2026 11:24:55 +0800",
+     "summary": "2026世界 机器人 大会期间，星海图合伙人兼COO李天威表示，截至目前，星海图已交付千台级模型驱动的真实生产力订单，明年的交付目标为万台以上。 （文章来源：科创板日报）",
      "source": "东方财富股票",
-     "zh": "比特币狂飙！18.9万人爆仓"
+     "zh": "星海图机器人2027年目标交付万台以上"
     },
     {
-     "title": "重大资产重组！A股公司公告，彻底清仓！",
-     "link": "http://finance.eastmoney.com/news/1354,202608223850129012.html",
-     "pubDate": "Sat, 22 Aug 2026 10:39:30 +0800",
-     "summary": "锦龙股份 要彻底清仓东莞证券股权。 昨日（8月21日）晚间， 锦龙股份 （000712）公告拟清仓所持东莞证券全部20%股权（3亿股）。经初步测算，本次交易将构成重大资产重组，交易对方须以现金支付交易价款。 值得一提的是，除了持有东莞证券20%股权， 锦龙股份 还持有中山证券67.78%股权。该公司此前就谋求向算力、新质生产力等领域转型，但目前尚未看到起色。 此番“断腕”的直接原因，是锦龙股份自身沉重的财务压力——2026年半年报显示，其归母净利润同比暴跌88.59%至1424.89万元，资产负债率攀升至80.85%。 券商中国记者注意到，接盘方则极有可能指向东莞国资。根据2024年8月 股权",
+     "title": "中兴通讯2026年上半年实现营收780.3亿元创新高：算力、终端与海外市场三大引擎打开增长空间",
+     "link": "http://stock.eastmoney.com/news/1406,202608223850134941.html",
+     "pubDate": "Sat, 22 Aug 2026 11:22:21 +0800",
+     "summary": "当前，传统 通信 行业仍处于资本开支调整周期，但 中兴通讯 正在通过业务结构的变化寻找新的增长空间。 8月21日， 中兴通讯 发布2026年半年度报告。今年上半年，公司实现营收780.3亿元，同比增长9.0%，营收规模再创新高；归母净利润27.5亿元；扣非归母净利润22.2亿元。其中，二季度单季，营收、归母净利润环比一季度均实现增长。 值得一提的是，上半年 中兴通讯 营收规模首次超过 诺基亚 、 爱立信 ，对于全球 通信设备 行业而言，这一变化背后并不仅仅是企业收入规模的增加，更折射出AI基础设施需求兴起后，全球ICT产业竞争边界正在发生变化。 从收入端来看， 中兴通讯 上半年增长并非来自传统",
      "source": "东方财富股票",
-     "zh": "重大资产重组！A股公司公告，彻底清仓！"
+     "zh": "中兴通讯2026年上半年实现营收780.3亿元创新高：算力、终端与海外市场三大引擎打开增长空间"
     },
     {
-     "title": "磷化铟缺货真相：国内产业链“资源强、制造弱” 提纯、良率与认证环节仍待突破",
-     "link": "http://finance.eastmoney.com/news/1348,202608223850129153.html",
-     "pubDate": "Sat, 22 Aug 2026 10:39:25 +0800",
-     "summary": "近日，多家机构预计，2026年全球磷化铟供需缺口超70%；国内所有厂商出货量仅占全球供应量约一成，产业链紧张局面持续向上下游传导。 《科创板日报》记者对 锡业股份 、 兴福电子 、 云南锗业 、 源杰科技 、 仕佳光子 、 长光华芯 、 三安光电 等磷化铟产业链上中下游多家上市公司致电访谈，试图厘清各环节的真实卡点所在。 从记者掌握的情况来看，国内磷化铟产业链呈“资源强、制造弱”的格局。上游精铟充足，但高纯铟产能不足；中游衬底、外延片仍在扩产爬坡，高速光芯片厂商普遍依赖进口衬底。整条产业链产能规模相较于全球需求仍有限。但2025年下半年以来，AI算力爆发驱动上中下游环节协同发力，本土化替代正在",
+     "title": "北京现代艾尼氪V开启预售",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850135146.html",
+     "pubDate": "Sat, 22 Aug 2026 11:22:18 +0800",
+     "summary": "8月22日，北汽集团宣布，北京现代艾尼氪V开启预售，预售价11.99万元起。 （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "磷化铟缺货真相：国内产业链“资源强、制造弱” 提纯、良率与认证环节仍待突破"
+     "zh": "北京现代艾尼氪V开启预售"
     },
     {
-     "title": "具身智能还在等待“ChatGPT时刻” 产业链与生态成竞争关键",
-     "link": "http://finance.eastmoney.com/news/1344,202608223850127820.html",
-     "pubDate": "Sat, 22 Aug 2026 10:37:36 +0800",
-     "summary": "具身智能还在等待“ChatGPT时刻”，但产业化的另一场竞争已经悄然展开。 在2026世界 机器人 大会（WRC）的展台上，澎湃新闻记者观察发现， 机器人 企业不再只是展示“自己能做什么”，也开始展示“自己能和谁一起做什么”，把越来越多的展示空间，留给 机器人 背后的产业链与生态。 WRC展会现场。本文图片除注明均为官方供图 宇树科技创始人、董事长王兴兴在大会上判断，具身智能“ChatGPT时刻”的到来较快可能需要两至三年，慢一点则要五年甚至十年。 大晓 机器人 董事长王晓刚在接受澎湃新闻等媒体采访时指出，当前具身智能“ChatGPT时刻”还没有真正到来时，行业一方面需要寻找能够推动智能快速涌",
+     "title": "中信证券：建议优先关注电池组件、胶膜、光伏玻璃、浆料等环节的结构性机会",
+     "link": "http://stock.eastmoney.com/news/11791,202608223850135054.html",
+     "pubDate": "Sat, 22 Aug 2026 11:22:18 +0800",
+     "summary": "8月22日， 中信证券 最新研报指出，当前光伏行业需求已基本触底，2026H2起国内外装机有望逐季改善；供给侧“反内卷”从自律倡议走向硬性制度约束，能效标准与成本核算通则推动落后产能加速出清，行业竞争重心转向技术及效率比拼。产业链价格及盈利有望迎来修复，具备高效技术、格局优势与盈利确定性的细分龙头有望率先受益，建议优先关注 电池 组件、胶膜、光伏玻璃、浆料等环节的结构性机会。 全文如下 光伏｜于谷底处，候黎明时 当前光伏行业需求已基本触底，2026H2起国内外装机有望逐季改善；供给侧“反内卷”从自律倡议走向硬性制度约束，能效标准与成本核算通则推动落后产能加速出清，行业竞争重心转向技术及效率比拼",
      "source": "东方财富股票",
-     "zh": "具身智能还在等待“ChatGPT时刻” 产业链与生态成竞争关键"
+     "zh": "中信证券：建议优先关注电池组件、胶膜、光伏玻璃、浆料等环节的结构性机会"
     },
     {
-     "title": "百克生物上半年营收同比增长6.89% 16项在研项目梯次推进",
-     "link": "http://finance.eastmoney.com/news/1354,202608223850128071.html",
-     "pubDate": "Sat, 22 Aug 2026 10:35:00 +0800",
-     "summary": "上证报中国证券网讯（记者田甜） 百克生物 8月21日披露2026年半年度报告。报告期内，公司实现营业收入3.05亿元，同比增长6.89%；归属于上市公司股东的净利润为-5210.01万元，同比减亏2147.33万元。经营性活动产生的现金流量净额4835.8万元，同比增长418.9%。 百克生物 表示，营业收入增长、利润亏损幅度收窄，主要系报告期内，公司通过对带状疱疹 疫苗 实施主动价格管理，提升了产品可及性，扩大了适龄人群覆盖率，带动盈利水平改善。 核心品种经营持续改善研发投入保持增长 百克生物 是一家专业从事人用 疫苗 研发、生产、销售的高科技生物制药企业。公司目前拥有水痘 疫苗 、鼻喷 流",
+     "title": "【调研快报】立华股份接待中信证券等5家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202608223850134820.html",
+     "pubDate": "Sat, 22 Aug 2026 11:22:14 +0800",
+     "summary": "立华股份 8月22日公告称， 8月21日 接待 中信证券 等5家机构 调研。 接待人员包括副总裁、董事会秘书 虞坚,财务部总经理 周元元,证券事务代表 沈晨。 公司就以下问题进行了回复： 二、投资者互动交流问答 1、公司黄羽 肉鸡养殖 成本多少?对后市行情如何展望? 答:上半年 饲料 原料价格同比小幅上升,报告期公司肉鸡完全成本微增至11.20元/公斤左右,仍保持着业内较为领先的水平。2025年度黄鸡整体行情低迷,加速了行业产能去化,供给端收缩为后期行情提供支撑。进入三季度后,受暑期 餐饮 、... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担",
      "source": "东方财富股票",
-     "zh": "百克生物上半年营收同比增长6.89% 16项在研项目梯次推进"
+     "zh": "【调研快报】立华股份接待中信证券等5家机构调研"
+    },
+    {
+     "title": "集中资源押注AI，苹果裁撤Siri与Vision Pro逾200个岗位",
+     "link": "https://wallstreetcn.com/articles/3780044",
+     "pubDate": "Sat, 22 Aug 2026 11:03:33 +0800",
+     "summary": "苹果公司正在对内部团队进行一轮结构性重组，裁减Siri、Vision Pro及相关AI软件团队逾200个职位，此举标志着这家科技巨头正加速告别此前的部分战略重心。 8月21日据彭博报道， 本次裁员涉及约100个Vision Pro相关职位及另外约100个Siri与软件工程团队岗位。 苹果方面确认了上述变动，表示正在\"调整业务方向，以为用户提供最佳体验\"，并补充称此次调整将在撤销部分现有职位的同时创建新岗位。 这一重组直接冲击了苹果在混合现实与语音助手两条产品线上的人员配置，折射出该公司当前在AI领域追赶竞争对手的迫切压力。 对于苹果投资者而言，此次调整意味着Vision Pro短期内难获实质性",
+     "source": "华尔街见闻",
+     "zh": "集中资源押注AI，苹果裁撤Siri与Vision Pro逾200个岗位"
     },
     {
      "title": "一文读懂：市场焦点！下周的杰克逊霍尔大会，你该关注什么？",
@@ -2298,38 +2306,6 @@ window.INDUSTRY_DATA = {
      "zh": "一文读懂：市场焦点！下周的杰克逊霍尔大会，你该关注什么？"
     },
     {
-     "title": "市监总局联合住建部整治室内空气甲醛治理和检测乱象",
-     "link": "http://www.eeo.com.cn/2026/0822/1007219.shtml",
-     "pubDate": "Sat, 22 Aug 2026 10:13:17 +0800",
-     "summary": "21世纪经济报道记者 章驰 实习生 刘政 为了解决家装行业的家装企业选择、材料家具选购、检测机构挑选、超标污染治理和投诉维权等问题，更好满足消费者需求，市场监管总局开展家装产业质量强链项目，在规范室内空气污染治理、家装材料环保管控、质量提升等方面推进家装产业链质量技术创新。 8月21日，市场监管总局认研中心副主任王茂华在介绍“推进实施质量强链”相关情况的新闻发布会上重点提到，市场监管总局联合...",
-     "source": "经济观察网",
-     "zh": "市监总局联合住建部整治室内空气甲醛治理和检测乱象"
-    },
-    {
-     "title": "陕西引导基金杨栋：国资基金需找到保值增值与投早投小的平衡点",
-     "link": "http://www.eeo.com.cn/2026/0822/1007217.shtml",
-     "pubDate": "Sat, 22 Aug 2026 10:13:10 +0800",
-     "summary": "陕西省政府投资引导基金副总经理杨栋，围绕国资保值增值要求与科创早期投资长周期、高风险属性之间的适配问题，分享了当地的实践经验。 目前陕西省已完成财政、国资科创投资业务板块整合，基金架构由原来的两级调整为三级，即由政府引导基金下设二级母基金，再下设子基金。 2025年6月，陕西省财政厅主导设立省级科创二级母基金，整体规模100亿元，省属企业长安汇通作为管理人。其中，陕西省政府引导基金代表财政出...",
-     "source": "经济观察网",
-     "zh": "陕西引导基金杨栋：国资基金需找到保值增值与投早投小的平衡点"
-    },
-    {
-     "title": "游曳于传统与现代之间：拉美艺术大师维加斯的“两栖”艺术人生",
-     "link": "http://www.eeo.com.cn/2026/0822/1007216.shtml",
-     "pubDate": "Sat, 22 Aug 2026 10:13:10 +0800",
-     "summary": "8月15日，“奥斯瓦尔多・维加斯回顾展——心外无物”正式在广东美术馆拉开帷幕。展览横跨两大展厅，完整讲述了委内瑞拉艺术巨匠奥斯瓦尔多・维加斯（Oswaldo Vigas，1923~2014）长达七十余年的创作旅程，为国内观众打开一扇通往拉丁美洲现代艺术的窗口。展览由中国策展人姜俊与委内瑞拉策展人加布里埃拉・兰格尔联合策划，奥斯瓦尔多・维加斯基金会提供学术与藏品支持，展期将持续至11月22日。 对于大多数中国观众而言，...",
-     "source": "经济观察网",
-     "zh": "游曳于传统与现代之间：拉美艺术大师维加斯的“两栖”艺术人生"
-    },
-    {
-     "title": "江门金控梁军华：容错机制落地，需进一步明确审计与监管边界",
-     "link": "http://www.eeo.com.cn/2026/0822/1007215.shtml",
-     "pubDate": "Sat, 22 Aug 2026 10:13:10 +0800",
-     "summary": "江门金控董事长梁军华结合地方基金运营实践，分享了江门金控的差异化观察，并围绕国有资本投资容错机制提出建议。 梁军华。资料图 与部分机构面临监管调整压力不同，2026年江门金控基金的业务仍保持较快推进节奏。 上半年，该公司顺利落地4只不同类型产业基金，涵盖银...",
-     "source": "经济观察网",
-     "zh": "江门金控梁军华：容错机制落地，需进一步明确审计与监管边界"
-    },
-    {
      "title": "黄金冲破200日均线，高盛交易台多头增持至六成，大客户押注白银三个月内涨至90美元",
      "link": "https://wallstreetcn.com/articles/3780047",
      "pubDate": "Sat, 22 Aug 2026 10:09:25 +0800",
@@ -2338,28 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "黄金冲破200日均线，高盛交易台多头增持至六成，大客户押注白银三个月内涨至90美元"
     },
     {
-     "title": "内蒙古独立储能风起 后续怎么走？",
-     "link": "http://www.eeo.com.cn/2026/0822/1007198.shtml",
-     "pubDate": "Sat, 22 Aug 2026 09:59:49 +0800",
-     "summary": "对投资者而言，内蒙古独立储能正在从一个主要计算补偿标准的生意，逐渐变成一个需要同时计算补偿、节点、电价和运营能力的生意。",
-     "source": "经济观察网",
-     "zh": "内蒙古独立储能风起 后续怎么走？"
-    },
-    {
      "title": "从“AI股神”抄底的“带血筹码”，Citadel已卖掉80%！",
      "link": "https://wallstreetcn.com/articles/3780034",
      "pubDate": "Sat, 22 Aug 2026 09:26:59 +0800",
      "summary": "城堡投资（Citadel）创始人Ken Griffin向客户披露，公司已大幅削减从对冲基金Situational Awareness收购的资产组合中的风险敞口，同时确认旗舰基金7月份表现强劲。 据CNBC，Griffin在周五致客户的信中表示， 城堡投资已将从Situational Awareness接手的股票组合整体风险敞口削减逾80%，涉及交易规模超过40亿美元。 这批仓位主要集中于AI及半导体板块，包括美光科技、闪迪等核心多头，以及英伟达、博通和AMD相关头寸。 Griffin在信中同时确认，旗舰多策略基金Wellington 7月份回报率达5.94%，为2022年以来最佳单月表现。据英",
      "source": "华尔街见闻",
      "zh": "从“AI股神”抄底的“带血筹码”，Citadel已卖掉80%！"
-    },
-    {
-     "title": "不要总迁就孩子，要引领他加入真实生活",
-     "link": "http://www.eeo.com.cn/2026/0822/1007123.shtml",
-     "pubDate": "Sat, 22 Aug 2026 09:00:21 +0800",
-     "summary": "父母替孩子挡掉的每一次麻烦，都让他错过的一次“练手”机会。父母适度放手，孩子才会产生“我可以”的信心，才能长出真本事。",
-     "source": "经济观察网",
-     "zh": "不要总迁就孩子，要引领他加入真实生活"
     },
     {
      "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
@@ -2384,14 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "华见早安之声 市场概述 尽管美债收益率再度上涨、但对冲基金加速转向金融、医疗与能源板块，叠加美国财政部长债回购加码的预期与消费韧性支撑，风险情绪暂获缓解， 推动股指上行。 道指涨0.98%，标普500指数涨0.43%，纳指涨0.43%。 本周，道指跌0.85%，标普500指数跌1.43%，纳指跌2.05%。 芯片股涨跌不一。银行、黄金股普涨， 埃尔拉多黄金涨超7%，哈莫尼黄金涨近7% ，高盛、摩根士丹利涨超3%。 特斯拉涨超5%领涨科技七巨头 ，SpaceX涨超2%。 中概股指数涨0.4%， 富途控股涨超9%，网易涨近7%。 美国财政部干预暂未见实质性效果， 10年期美债收益率小幅升2.99个",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年8月22日"
-    },
-    {
-     "title": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600",
-     "link": "https://wallstreetcn.com/articles/3779986",
-     "pubDate": "Sat, 22 Aug 2026 07:12:35 +0800",
-     "summary": "尽管美债收益率再度上涨、但对冲基金加速转向金融、医疗与能源板块，叠加美国财政部长债回购加码的预期与消费韧性支撑，风险情绪暂获缓解，推动股指上行，美债企稳。 支撑市场的直接催化剂是当日公布的美国8月商业活动数据——服务业增速创近两年最强，整体商业活动扩张速度达到逾四年来最快。 周五美股道指涨0.98%，标普500指数涨0.43%，纳指涨0.43%。本周，道指跌0.85%，标普500指数跌1.43%，纳指跌2.05%。 然而，标普500本周下跌1.43%，纳斯达克综合指数下跌2.05%，道指下跌0.85%，三大指数均告别此前连续数周的上涨势头。 本周的市场波动根源在于全球政府债券收益率的异常抬升，",
-     "source": "华尔街见闻",
-     "zh": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600"
     },
     {
      "title": "‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports",
@@ -2480,6 +2432,54 @@ window.INDUSTRY_DATA = {
      "summary": "President Donald Trump had the White House's East Wing demolished in 2025 to make way for his controversial planned ballroom.",
      "source": "CNBC",
      "zh": "最高法院允许特朗普暂时继续修建白宫宴会厅"
+    },
+    {
+     "title": "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch",
+     "link": "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories",
+     "pubDate": "Fri, 21 Aug 2026 20:34:00 GMT",
+     "summary": "The automaker plans to soon launch its Cybercab in Austin, Texas, and got the nod to deploy thousands of vehicles in Nevada.",
+     "source": "MarketWatch",
+     "zh": "随着特斯拉获准在拉斯维加斯推出机器人出租车，该公司股价上涨"
+    },
+    {
+     "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+     "link": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+     "pubDate": "Fri, 21 Aug 2026 20:19:21 GMT",
+     "summary": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
+     "source": "CNBC",
+     "zh": "雷·达利奥 (Ray Dalio) 表示，Bessent 的举动表明债务危机正在逼近；推荐黄金和比特币"
+    },
+    {
+     "title": "I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?",
+     "link": "https://www.marketwatch.com/story/im-leaving-my-grandkids-money-but-they-must-pass-financial-literacy-classes-to-get-it-is-that-fair-8a630648?mod=mw_rss_topstories",
+     "pubDate": "Fri, 21 Aug 2026 20:11:00 GMT",
+     "summary": "“I do believe very much in delayed gratification.”",
+     "source": "MarketWatch",
+     "zh": "我计划把钱留给孙辈——但他们必须通过金融知识课程才能得到这笔钱。这公平吗？"
+    },
+    {
+     "title": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
+     "link": "https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories",
+     "pubDate": "Fri, 21 Aug 2026 20:11:00 GMT",
+     "summary": "TIPS yields are at or close to 20-year highs.",
+     "source": "MarketWatch",
+     "zh": "退休人员：这项投资为您提供 5% 的安全提款率保证"
+    },
+    {
+     "title": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
+     "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
+     "pubDate": "Fri, 21 Aug 2026 20:11:00 GMT",
+     "summary": "The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.",
+     "source": "MarketWatch",
+     "zh": "以下是贝森特新近激进的财政部如何削弱美联储的沃什"
+    },
+    {
+     "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+     "link": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
+     "pubDate": "Fri, 21 Aug 2026 19:58:36 GMT",
+     "summary": "Citadel has unwound more than 80% of the portfolio risk it acquired from Situational Awareness through over $4 billion in block trades, said Ken Griffin.",
+     "source": "CNBC",
+     "zh": "Ken Griffin 表示 Citadel 消除了 80% 以上与态势感知产品组合相关的风险"
     }
    ]
   },
@@ -2495,7 +2495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 18:00:00 +0000",
      "summary": "Scientists used fiber-optic cables to turn “thunderquakes” into underground maps that could help reveal hidden hazards beneath cities.",
      "source": "Science News",
-     "zh": "“雷震”不只是让地面震动——他们还绘制了地震图"
+     "zh": "“雷震”的作用不仅仅是震动地面——他们还绘制了它的地图"
     },
     {
      "title": "The importance of indoor airflow patterns in spreading airborne disease",
@@ -2519,7 +2519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 15:01:03 +0000",
      "summary": "Bacteria may build a memory of herbivore attack in the soil and coax new plants to attract wasps to rein in destructive pests.",
      "source": "Science News",
-     "zh": "受到攻击的植物留下了令人惊讶的支援信号"
+     "zh": "受到攻击的植物留下了令人惊讶的后援呼声"
     },
     {
      "title": "‘Huge Breakthrough’ in the Math of Imbalance",
