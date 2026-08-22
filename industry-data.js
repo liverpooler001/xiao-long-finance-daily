@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/22 15:51:39",
+ "generated_at": "2026/8/22 16:15:03",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
+     "source": "MarkTechPost",
+     "zh": "2026 年最佳 GPU Neocloud：CoreWeave、Nebius、Lambda、Crusoe 和 Groq 按已发布定价和合同功耗排名"
+    },
     {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -24,6 +32,22 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia 与数据中心开发商 Cloverleaf 合作"
+    },
+    {
+     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
+     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
+     "source": "MarkTechPost",
+     "zh": "构建代理文档智能管道：使用 AutoFigure 创建科学图形"
+    },
+    {
+     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
+     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
+     "source": "MarkTechPost",
+     "zh": "Anthropic 将 Claude Mythos 5 引入 Claude Security：企业团队无需直接访问模型即可进行前沿漏洞扫描"
     },
     {
      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "端到端研究论文生成系统。",
      "source": "机器之心",
      "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
-    },
-    {
-     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-     "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-     "pubDate": "Fri, 21 Aug 2026 00:13:44 +0000",
-     "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-     "source": "TechCrunch AI",
-     "zh": "AI 数据初创公司 Micro1 在 AI 培训热潮中毛运行率达到 5 亿美元"
-    },
-    {
-     "title": "Measuring benchmark optimization in speech recognition",
-     "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-     "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "测量语音识别中的基准优化"
-    },
-    {
-     "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-     "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-     "pubDate": "Thu, 20 Aug 2026 16:52:57 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍"
     }
    ]
   },
@@ -1346,12 +1346,12 @@ window.INDUSTRY_DATA = {
      "zh": "特朗普将授予美国宇航局阿耳忒弥斯二号宇航员国会太空荣誉勋章"
     },
     {
-     "title": "Live coverage: SpaceX to launch 100th orbital mission of 2026",
+     "title": "SpaceX launches 100th orbital mission of 2026",
      "link": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
      "pubDate": "Fri, 21 Aug 2026 18:53:18 +0000",
-     "summary": "The Starlink 15-20 mission represents the 99th Falcon 9 rocket launch of the year. Liftoff from pad 4 East is scheduled for 12:25 a.m. PDT (3:25 a.m. EDT / 0725 UTC).",
+     "summary": "The Starlink 15-20 mission represented the 99th Falcon 9 rocket launch of the year. Liftoff from pad 4 East happened at 12:25 a.m. PDT (3:25 a.m. EDT / 0725 UTC).",
      "source": "Spaceflight Now",
-     "zh": "现场报道：SpaceX 将于 2026 年发射第 100 次轨道任务"
+     "zh": "SpaceX 将于 2026 年发射第 100 次轨道任务"
     },
     {
      "title": "Ship 41 Completes Engine Testing Ahead of Flight 14",
@@ -1746,6 +1746,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "消息称顽皮狗《最后生还者》多人项目烧掉超 1 亿美元成本，最终因索尼“实时服务型游戏”战略收缩被砍",
+     "link": "https://www.ithome.com/0/993/025.htm",
+     "pubDate": "Sat, 22 Aug 2026 08:08:41 GMT",
+     "summary": "IT之家 8 月 22 日消息，消息源 Jason Schreier 发文，透露顽皮狗《最后生还者》多人项目在被砍掉之前累计投入已超 1 亿美元 （IT之家注：现汇率约合 6.74 亿元人民币） ，如果本作并未被砍，那么其整体开发成本将达“上亿美元级别”，规模接近《最后生还者 PART II》2.2 亿美元 （现汇率约合 14.82 亿元人民币） 的开发预算。 此前消息显示，本作诞生于索尼全力押注服务型游戏的战略周期，并未被当作系列衍生外传，而是以 3A 主级规格推进。2020 至 2023 年间，顽皮狗几乎全团队力量都投入该项目研发，在被叫停前开发进度实际上已达到约 80%，项目原本距离正式",
+     "source": "IT之家",
+     "zh": "消息称顽皮狗《最后生还者》多人项目烧掉超 1 亿美元成本，最终因索尼“实时服务型游戏”战略收缩被砍"
+    },
+    {
+     "title": "任天堂法务部严打 Switch 模拟器：401 个 GitHub 仓库遭下架，Suyu 成主要目标",
+     "link": "https://www.ithome.com/0/993/024.htm",
+     "pubDate": "Sat, 22 Aug 2026 08:08:00 GMT",
+     "summary": "IT之家 8 月 22 日消息，据 TorrentFreak 报道，任天堂向 GitHub 提交了七份 DMCA 通知，一天之内集中清理了 401 个仓库，所有被删仓库均包含 Switch 模拟器相关内容。 Parent repo (notice) Project Targets vstyler96/suyu suyu (yuzu 继承者) 311 repos (full network) skyline-emu/skyline Skyline (安卓) 29 repos (full network) NicolasArvani/yuzu yuzu fork 14 repos (full ne",
+     "source": "IT之家",
+     "zh": "任天堂法务部严打 Switch 模拟器：401 个 GitHub 仓库遭下架，Suyu 成主要目标"
+    },
+    {
+     "title": "神秘“牛来”模型刷屏，还抢了DeepSeek头条，实测到底牛不牛",
+     "link": "https://www.huxiu.com/article/4885142.html?f=rss",
+     "pubDate": "Sat, 22 Aug 2026 15:56:44 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：发布明日产品的，原文标题：《神秘「牛来」模型刷屏，还抢了DeepSeek头条，实测到底牛不牛》 牛来的风还是吹到了大模型。 这两天有一个神秘的「牛来模型」——Ox Alpha横空出世，甚至抢了DeepSeek多模态模型的头条。 网友都在推测这个神秘模型的身份，众说纷纭。 Ox Alpha没有厂牌，也没公布参数量。 它就这么顶着一个临时代号出现在OpenRouter：1M上下文，能看图片和视频，输入、输出都免费。 Ox这单词，在英语中主要指成年、经过阉割的公牛，也常用来泛指牛科动物，例如十二生肖里的牛年在英文中就翻译为Year of the Ox。 网友",
+     "source": "虎嗅",
+     "zh": "神秘“牛来”模型刷屏，还抢了DeepSeek头条，实测到底牛不牛"
+    },
+    {
+     "title": "宇树机器人“入职”理想汽车，担任讲解员等职位",
+     "link": "https://www.ithome.com/0/993/022.htm",
+     "pubDate": "Sat, 22 Aug 2026 07:56:04 GMT",
+     "summary": "IT之家 8 月 22 日消息，理想汽车近日在微博发文称，宇树科技人形机器人“入职”理想汽车， 担任的职位有讲解员、向导等 。 IT之家从理想汽车官博了解到，本次“入职”理想汽车的宇树机器人名为“笨笨”，它将于 8 月 23 日在北京汽车博物馆三层迎宾、讲解理想 L9 Livis 汽车。每场电影散场时，笨笨还会带来观影彩蛋，献舞一曲。 同时，宇树机器人还将于 8 月 30 日-31 日现身珠海长隆海洋王国，与 L9 Livis 和机器人同上阵表演特技，并于每日 15:00 加入巡游队伍，和大小朋友们击掌玩耍。 此外，这台机器人还将于 9 月 5 日-6 日在理想汽车郑州东站 IP 体验中心担任",
+     "source": "IT之家",
+     "zh": "宇树机器人“入职”理想汽车，担任讲解员等职位"
+    },
+    {
+     "title": "索尼 Xperia 10 VIII 外观曝光：延续前代横向双摄设计，8 月 25 日正式发布",
+     "link": "https://www.ithome.com/0/993/021.htm",
+     "pubDate": "Sat, 22 Aug 2026 07:54:39 GMT",
+     "summary": "IT之家 8 月 22 日消息，索尼已确认将于 2026 年 8 月 25 日举行新品发布会，预计推出中端机 Xperia 10 VIII。 今日，Android Headlines 提前曝光了一张宣传海报。从图来看，Xperia 10 VIII 整体外观与上一代 Xperia 10 VII 较为接近。 曝光图片显示，Xperia 10 VIII 采用平直后盖设计，机身颜色整体接近白色，并带有轻微的绿色调。机身背面顶部设有横向摄像头模组，其中包含两颗摄像头，旁边还有索尼 Logo 和 LED 闪光灯。 从目前曝光的背面照来看，Xperia 10 VIII 与 Xperia 10 VII 的设计",
+     "source": "IT之家",
+     "zh": "索尼 Xperia 10 VIII 外观曝光：延续前代横向双摄设计，8 月 25 日正式发布"
+    },
+    {
+     "title": "黑客组织 Cyberleek 继续放出《GTA6》游戏实机画面：杰森在罪恶城开超跑狂飙",
+     "link": "https://www.ithome.com/0/993/020.htm",
+     "pubDate": "Sat, 22 Aug 2026 07:52:24 GMT",
+     "summary": "IT之家 8 月 22 日消息，黑客组织 Cyberleek 现已继续曝光《GTA6》实机视频，画面中杰森 · 杜瓦尔劫持了一辆“超跑”—— 也就是 GTA Online 中的特拉克斯，在罪恶城内狂飙。 片段显示，在《GTA6》中，玩家需要通过类似 QTE 的操作劫车。杰森驾车在城市中穿行时，电台播放着弗伦奇 · 蒙塔纳的《Unforgettable》与科伊 · 勒雷的《Players》。 参考IT之家先前报道，黑客组织 Cyberleek 虽然声称是以“维护消费者权益”放出游戏实机画面，但该组织实际上是在借助《GTA6》视频推广自己的加密货币 $CYBERLEEK。 如今，Take-Two ",
+     "source": "IT之家",
+     "zh": "黑客组织 Cyberleek 继续放出《GTA6》游戏实机画面：杰森在罪恶城开超跑狂飙"
+    },
+    {
+     "title": "一纸28亿对赌，压垮老牌巨头",
+     "link": "https://www.huxiu.com/article/4885129.html?f=rss",
+     "pubDate": "Sat, 22 Aug 2026 15:50:00 +0800",
+     "summary": "本文来自微信公众号： 投中网 ，作者：陶辉东，头图来自：AI生成 上市34年的康佳，已经走到了退市的悬崖边上。压死康佳的最后一根稻草，很可能会是五年前的一纸对赌协议。 8月15日，康佳又公告披露了一起股权回购诉讼。喜粤新媒二号股权投资基金要求康佳集团履行股权回购义务，支付1.21亿元&mdash;&mdash;这是易平方对赌失败后，第五家把康佳告上法庭的投资方。在此之前，海南辉龙投资索赔2亿元，盐城康慧、盐城东方和江苏黄海金控组成的联合体索赔4.24亿元，湖南玖玥和湖南玖诚各索赔671万元。五起诉讼合计，涉案金额已攀升至7.58亿元。 至此，康佳的债务危机已呈现出失控之势。由于2025年末的归",
+     "source": "虎嗅",
+     "zh": "一纸28亿对赌，压垮老牌巨头"
+    },
+    {
      "title": "三星 SDI 出售三星显示约 33% 持股套现 4.45 万亿韩元，全力押注储能系统和下一代电池",
      "link": "https://www.ithome.com/0/993/019.htm",
      "pubDate": "Sat, 22 Aug 2026 07:40:15 GMT",
@@ -1754,60 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "三星 SDI 出售三星显示约 33% 持股套现 4.45 万亿韩元，全力押注储能系统和下一代电池"
     },
     {
-     "title": "北通鲲鹏 40 手柄新增“旷野樱踪”配色版本上市：TMR 阻尼可调摇杆、3 种扳机行程，379 元",
-     "link": "https://www.ithome.com/0/993/018.htm",
-     "pubDate": "Sat, 22 Aug 2026 07:38:16 GMT",
-     "summary": "IT之家 8 月 22 日消息，北通现已为旗下鲲鹏 40 游戏手柄推出一款“旷野樱踪”配色版本，延续了标准版手柄的“TMR 阻尼可调摇杆、3 种扳机行程模式”特点，除了自带“旷野樱踪”面壳外，还同时提供了“御铠白”面壳， 定价为 379 元 。 京东 北通鲲鹏 40 “旷野樱踪”配色版本 379 元 直达链接 该手柄采用 TMR 阻尼可调摇杆，支持 30~90gf 力度调节、无线回报率≥1KHz、分辨率 5400+。拥有 3 种行程模式，提供 100gf 线性反馈。配有光轴按键，按压寿命约 1000 万次、触发键程约 0.3mm、对战快按压力度约 65gf，手柄十字键支持 360° 反馈不串键",
-     "source": "IT之家",
-     "zh": "北通鲲鹏 40 手柄新增“旷野樱踪”配色版本上市：TMR 阻尼可调摇杆、3 种扳机行程，379 元"
-    },
-    {
-     "title": "三星 Galaxy S26 FE 手机开箱视频曝光，8 月 27 日发布",
-     "link": "https://www.ithome.com/0/993/017.htm",
-     "pubDate": "Sat, 22 Aug 2026 07:34:00 GMT",
-     "summary": "IT之家 8 月 22 日消息，网友 @ mundoelectronica.aa 昨日（8 月 21 日）在 Instagram 平台发布视频， 分享了 三星 Galaxy S26 FE 手机的开箱视频，该手机此前已官宣 8 月 27 日发布。 颜色方面，该手机预估会推出 Blueberry（蓝莓色）、Graphite（石墨色）和 Pistachio（开心果色）3 种配色。 外观方面，手机正面采用平面屏幕，前置摄像头位于屏幕中央的打孔区域。屏幕边框整体较窄，且两侧边框接近等宽，但下巴部分更宽一些。 机身中框采用平直设计，背板同样保持平面结构。机身采用铝制边框，屏幕由 Gorilla Glass",
-     "source": "IT之家",
-     "zh": "三星 Galaxy S26 FE 手机开箱视频曝光，8 月 27 日发布"
-    },
-    {
-     "title": "上纬新材启元 Q1 研发负责人彭文正：行业已不在“能不能造机器人”时代，而在“敢不敢进消费级”时代",
-     "link": "https://www.ithome.com/0/993/016.htm",
-     "pubDate": "Sat, 22 Aug 2026 07:31:33 GMT",
-     "summary": "8 月 22 日下午消息，2026 世界机器人大会（WRC 2026）期间，上纬新材启元 Q1 研发负责人彭文正展示了团队在 C 端消费级智能领域的探索，并介绍了个人机器人产品启元 Q1。 彭文正判断，当前具身智能领域“本体已经不是比较大的一个瓶颈”，更大的痛点在于“本体强、智能弱”以及生态内容匮乏。他指出，全球机器人构型已逐渐趋同，行业“ 并不在一个能不能造机器人的时代，反而在一个敢不敢进入到消费型的时代 ”。 对于机器人进入消费级的路径，彭文正提出三条曲线：第一阶段是技术练习与新鲜感，第二阶段是内容创作及 B 端迎宾、商演，第三阶段是真实应用场景的探索与实用价值的实现，“真正的终局是要往第",
-     "source": "IT之家",
-     "zh": "上纬新材启元 Q1 研发负责人彭文正：行业已不在“能不能造机器人”时代，而在“敢不敢进消费级”时代"
-    },
-    {
-     "title": "宁德时代面向中小集成商上线官方商城小程序，未来计划开展直播销售",
-     "link": "https://www.ithome.com/0/993/014.htm",
-     "pubDate": "Sat, 22 Aug 2026 07:25:48 GMT",
-     "summary": "IT之家 8 月 22 日消息，“宁德时代商城”小程序现已正式上线，该商城号称是“专为中小集成商打造的官方储能产品直销平台”，目前企业注册客户已突破 1800 家。 IT之家获悉，目前宁德时代商城已上架三类储能产品。电芯方面，在售 280Ah（1P）、314Ah 两款主流磷酸铁锂储能电芯，587Ah 电芯、储能电箱（280Ah 及 314Ah-长款）和储能集装箱（EnerD 及 EnerD+）已同步上架展示，正式开售时间待定，电芯最低 3 箱起订。 据悉，平台常备现货库存，付款后在 3-5 天发货。小批量采购同样可享大客户级别的 5 年质保服务，同时享有首单立减 2% 的优惠。目前，飞毛腿、快",
-     "source": "IT之家",
-     "zh": "宁德时代面向中小集成商上线官方商城小程序，未来计划开展直播销售"
-    },
-    {
-     "title": "GPD 解释 Win Max 3 掌机为何卖 1750 美元：我们没有大品牌的议价能力，这个价已经是最大诚意",
-     "link": "https://www.ithome.com/0/993/013.htm",
-     "pubDate": "Sat, 22 Aug 2026 07:24:26 GMT",
-     "summary": "IT之家 8 月 22 日消息，GPD Win Max 3 掌机最初亮相于今年 6 月，搭载 AMD Strix Halo 平台，拥有 165Hz AMOLED 屏幕和可更换电池。如今该公司已公布 Win Max 3 的众筹上线日期，同时也揭晓了该机的定价。 据悉，Win Max 3 上市时将提供三个配置。入门版搭载锐龙 AI Max+ 388 处理器、32GB 内存和 1TB 硬盘，定价 1,750 美元 （IT之家注：现汇率约合 11,791 元人民币） ；升级至 64GB 内存、2TB 硬盘后则是 2,246 美元 （现汇率约合 15,133 元人民币） 。 顶配版则搭载完整规格的 AM",
-     "source": "IT之家",
-     "zh": "GPD 解释 Win Max 3 掌机为何卖 1750 美元：我们没有大品牌的议价能力，这个价已经是最大诚意"
-    },
-    {
      "title": "困在流量“系统”里",
      "link": "https://www.huxiu.com/article/4885130.html?f=rss",
      "pubDate": "Sat, 22 Aug 2026 15:16:50 +0800",
      "summary": "本文来自微信公众号： 听潮TI ，编辑：张晓，作者：听潮TI团队 跳出流量围城，需要流量平权，更需要改变“流量为王”的思维。 8月初，某知名企业创始人再次炮轰电商平台，言辞锋利，将电商平台定性为“板上钉钉的特殊中间商”，还呼吁“必须限制平台的权力”。 最近与好几个做生意的老板聊，电商VS实体的话题都老掉牙了，线上线下无非就是渠道不同，反而面临的烦恼是相同的：越来越难找到目标客户在什么地方，获客成本节节飙升。 归根结底，最难的还是“流量”。 与早些年不同，今天的商业世界里，流量早已从“红利”，变成越来越多企业需要承担的经营成本。当几乎所有的生意都需要通过流量入口来寻找、留住消费者，流量本身也在变",
      "source": "虎嗅",
      "zh": "困在流量“系统”里"
-    },
-    {
-     "title": "一纸28亿对赌，压垮老牌巨头",
-     "link": "https://www.huxiu.com/article/4885129.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 15:08:49 +0800",
-     "summary": "本文来自微信公众号： 投中网 ，作者：陶辉东 一个时代的落幕。 上市34年的康佳，已经走到了退市的悬崖边上。压死康佳的最后一根稻草，很可能会是五年前的一纸对赌协议。 8月15日，康佳又公告披露了一起股权回购诉讼。喜粤新媒二号股权投资基金要求康佳集团履行股权回购义务，支付1.21亿元——这是易平方对赌失败后，第五家把康佳告上法庭的投资方。在此之前，海南辉龙投资索赔2亿元，盐城康慧、盐城东方和江苏黄海金控组成的联合体索赔4.24亿元，湖南玖玥和湖南玖诚各索赔671万元。五起诉讼合计，涉案金额已攀升至7.58亿元。 至此，康佳的债务危机已呈现出失控之势。由于2025年末的归母净资产为负且连续三年扣非",
-     "source": "虎嗅",
-     "zh": "一纸28亿对赌，压垮老牌巨头"
     },
     {
      "title": "怎样活得像一个数学家",
@@ -1829,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
      "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
      "pubDate": "Sat, 22 Aug 2026 06:16:57 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cvgvyy4x2mvo Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 31 # Comments: 3",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cvgvyy4x2mvo Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 40 # Comments: 7",
      "source": "Hacker News",
      "zh": "随着贸易谈判破裂，加拿大将“以美元对美元”征收关税"
     },
@@ -1872,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 凤凰WEEKLY财经 ，作者：许梦旖 “存储模组王”江波龙（301308.SZ）迎来史上最佳业绩。2026年上半年营业收入240.88亿元，同比增长136.26%；归母净利润105.77亿元，同比暴增71528.66%——即715倍。 仅半年时间，净利润已超越2025年全年总额近八倍。 江波龙同步推进H股上市。公告显示，公司已于2026年5月29日向香港联交所重新递交上市申请。这已是其第二次递表，首次申请曾于2025年9月失效。若顺利挂牌，江波龙将成为国内首家“A+H”两地上市的独立存储器企业。 “江波龙这一轮的表现，很大程度上是吃到了周期上行的红利。”一位熟悉存储赛道的",
      "source": "虎嗅",
      "zh": "半年净利暴增700倍，江波龙红利期会持续多久？"
-    },
-    {
-     "title": "又见定存利率倒挂，上海一银行存3年跟1年一个样，河南有银行存5年不如存3年",
-     "link": "https://www.huxiu.com/article/4885108.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 12:11:02 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：卢泳志，作者：刘子琪，原文标题：《又见定存利率倒挂，上海一银行存3年跟1年一个样！河南有银行存5年不如存3年》 在银行存款，存一年等于存三年？ 据上海松江富明村镇银行公众号，根据LPR定价利率和资金市场利率变化，结合存款产品结构，自8月21日起，该行调整人民币存款利率。 调整后，该行在售的一年期、两年期、三年期整存整取的产品年利率同为1.65%，且起档金额均为50元。 △图源：上海松江富明村镇银行公众号 这意味着，无论消费者选择哪一档存期，对应所获的利息均一致。上海松江富明村镇银行工作人员向时代周报记者表示，现在整存整取一年期、二年期会获取积分，累积后可",
-     "source": "虎嗅",
-     "zh": "又见定存利率倒挂，上海一银行存3年跟1年一个样，河南有银行存5年不如存3年"
     },
     {
      "title": "从数参数到算算力：唐杰谈 Scaling Law 的新标尺",
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "There's no reason for software to be slow anymore",
      "link": "https://danluu.com/perf-opt/",
      "pubDate": "Sat, 22 Aug 2026 01:06:17 +0000",
-     "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 340 # Comments: 247",
+     "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 352 # Comments: 254",
      "source": "Hacker News",
      "zh": "软件没有理由再慢了"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
      "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
      "pubDate": "Sat, 22 Aug 2026 01:02:09 +0000",
-     "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 102 # Comments: 32",
+     "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 104 # Comments: 33",
      "source": "Hacker News",
      "zh": "我们与摩托罗拉合作的最初重点是常规非折叠设备"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "HN: The Good Parts (2016)",
      "link": "https://danluu.com/hn-comments/",
      "pubDate": "Fri, 21 Aug 2026 23:53:03 +0000",
-     "summary": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 40 # Comments: 8",
+     "summary": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 41 # Comments: 8",
      "source": "Hacker News",
      "zh": "HN：好的部分 (2016)"
     }
@@ -2242,52 +2242,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "今年第20号台风“简拉维”已于西北太平洋洋面上生成",
-     "link": "http://finance.eastmoney.com/news/1351,202608223850167228.html",
-     "pubDate": "Sat, 22 Aug 2026 15:44:02 +0800",
-     "summary": "今年第20号台风“简拉维”（热带风暴级；英文名称：Gaenari）已于今天（8月22日）下午在西北 太平洋 洋面上生成，14点钟其中心位于距离台湾台北市东偏北方向约320公里的洋面上（北纬26.2度、东经124.5度），中心附近最大风力有8级（18米/秒），中心最低气压为998百帕，七级风圈半径东北方向80公里，东南方向100公里，西南方向50公里，西北方向50公里。 预计，“简拉维”将以每小时35-40公里的速度向西北方向快速移动，强度变化不大。 （文章来源：央视新闻）",
+     "title": "广西升级发布洪水黄色预警 部分河段将出现超警洪水",
+     "link": "http://finance.eastmoney.com/news/1350,202608223850168770.html",
+     "pubDate": "Sat, 22 Aug 2026 16:08:52 +0800",
+     "summary": "8月22日13时，广西明江及支流派连河、思州河、凭祥河等4条河流5个站超警0.31～2.71米，其中派连河宁明县寨安乡河段出现2014年建站以来实测第二大洪水。广西壮族自治区水文中心于8月22日13时升级发布 洪水黄色预警 。 广西壮族自治区水文中心预测，未来24小时，明江将全线超警： 明江宁明县那堪镇河段（当前水位130.72米，警戒水位131.9米）将出现超警0.5米左右的洪水； 明江宁明县东安乡河段（当前水位118.44米，警戒水位117.9米）将出现超警2.5米左右的洪水； 明江宁明县城河段（当前水位116.59米，警戒水位116.0米）将出现超警2米左右的洪水。 未来1～3天，左江继",
      "source": "东方财富股票",
-     "zh": "今年第20号台风“简拉维”已于西北太平洋洋面上生成"
+     "zh": "广西升级发布洪水黄色预警 部分河段将出现超警洪水"
     },
     {
-     "title": "特朗普：可出动美军干预债市",
-     "link": "http://finance.eastmoney.com/news/11158,202608223850167157.html",
-     "pubDate": "Sat, 22 Aug 2026 15:42:02 +0800",
-     "summary": "美国总统特朗普当地时间8月21日对媒体表示，他本周并未指示美国财长贝森特干预债券市场。在被问及“面对美国长期债券收益率再回升还有什么干预手段”时，特朗普称，“终极干预手段是美军，如果需要，将出动美军”。 对于特朗普将“美军”和“美债”这看似八竿子打不着的二者关联起来的说法，有网友评论称，“特朗普的意思是，只要他挑起一场真正的全面战争，就能逼出个‘避险买盘’，好给美债接盘。”对此有网友指出，“谁要避险去买这样一个国家的国债？它正靠发动毫无意义的战争来宣泄，却连支撑战事的工业产能都没有，还日渐暴露出政治与财政的双重溃烂。”还有网友调侃称，“美国这是想直接占领头号持债国日本，然后把欠他们的债一笔勾销",
+     "title": "美债大波动！美财政部出手托底 基金研判市场影响",
+     "link": "http://finance.eastmoney.com/news/1344,202608223850168523.html",
+     "pubDate": "Sat, 22 Aug 2026 16:02:31 +0800",
+     "summary": "近期，长端美债收益率快速攀升，引发市场关注。 当地时间8月19日，美国财政部宣布，将至少翻倍扩大长期名义附息国债的流动性支持回购规模，涉及10年至20年期、20年至30年期两个期限区间，每次操作规模将由目前最高20亿美元提高至至少40亿美元。相关调整将于9月9日生效，并持续至11月4日。 此前，30年期美债收益率一度升至5.337%，创2007年以来新高。美国财政部宣布加码回购后，长端美债收益率自高位回落。多家基金公司从财政供给、通胀与政策预期等角度分析近期美债市场波动，认为当前美债相关风险并非系统性危机，而是流动性与信心层面的短期扰动。 美国财政部加码回购长期美债 近期，长端美债收益率快速攀",
      "source": "东方财富股票",
-     "zh": "特朗普：可出动美军干预债市"
+     "zh": "美债大波动！美财政部出手托底 基金研判市场影响"
     },
     {
-     "title": "王毅会见印尼国家经济委员会主席卢胡特",
-     "link": "http://finance.eastmoney.com/news/1351,202608223850167094.html",
-     "pubDate": "Sat, 22 Aug 2026 15:40:31 +0800",
-     "summary": "中共中央政治局委员、外交部长王毅22日在雅加达会见印尼国家经济委员会主席卢胡特。 王毅表示，在习近平主席和普拉博沃总统战略引领下，中印尼关系保持良好发展势头。实践证明，中国印尼加强友好合作，不仅有力促进各自国家发展，也树立了全球南方国家互利合作的典范，中国是印尼发展振兴中值得信赖、长期稳定的战略合作伙伴。当前全球南方群体性崛起，中国和印尼是其中的重要代表。两国地理相近，经济互补，双方都对彼此坚持奉行友好政策，中印尼进一步深化合作具有天时、地利、人和优势。中方愿同印尼充分发挥全面战略对话机制和“2+2”对话机制作用，排除干扰，增进互信，进一步挖掘潜力，推动各领域合作与时俱进、提质升级。中国真心诚",
+     "title": "克罗地亚一架轻型飞机坠毁 致2人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202608223850168115.html",
+     "pubDate": "Sat, 22 Aug 2026 15:57:38 +0800",
+     "summary": "当地时间8月22日，克罗地亚山地救援队在社交媒体发文表示，21日22时左右，其在该国中部扎达尔县的帕克莱尼察国家公园内发现一架轻型飞机残骸，机上两人均已无生命迹象。 克罗地亚内政部民防局21日表示，一架轻型飞机在扎达尔东北方向与雷达失去联系，随后搜救行动启动。 克罗地亚山地救援队表示，共有35名队员参与现场搜救，相关工作在地形极其复杂、天气状况恶劣的地区进行。救援人员通过对飞行数据进行详细分析，确定了飞机可能所在的位置，并据此缩小搜寻范围，最终找到了飞机残骸。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "王毅会见印尼国家经济委员会主席卢胡特"
+     "zh": "克罗地亚一架轻型飞机坠毁 致2人死亡"
     },
     {
-     "title": "广东省发展改革委出台推动信用服务业扩能提质若干措施",
-     "link": "http://finance.eastmoney.com/news/1350,202608223850166944.html",
-     "pubDate": "Sat, 22 Aug 2026 15:36:54 +0800",
-     "summary": "广东省发展改革委近日印发《推动信用服务业扩能提质的若干措施》，围绕场景拓展、主体培育、跨境合作、环境优化四大方向推出21项具体举措，进一步激发信用服务市场活力，推动行业扩规模、提质量、增效能，助力全省营商环境持续优化。《若干措施》构建梯度化发展格局，做强本土头部信用服务机构、支持开拓国际市场，积极引进国内外知名征信评级机构在粤布局；培育垂直领域专业中小机构，支持细分场景技术创新；引导小微信用服务机构聚焦基层普惠领域，发挥贴近市场优势。同时，补齐信用科技、数据合规等配套服务短板，推进行业数智化转型，培育智能风控等新业态，形成大中小企业融通发展的良好生态。下一步，广东省发展改革委将加强统筹协调，强",
+     "title": "工行、农行、中行、建行、交行、邮储银行等，集体发布！",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850168445.html",
+     "pubDate": "Sat, 22 Aug 2026 15:57:07 +0800",
+     "summary": "【导读】国有六大行集体发布个人消费贷贴息政策问题解答 中国基金报记者忆山 近日，财政部、中国人民 银行 、金融监管总局联合印发《关于进一步做好财政金融协同促内需政策有关工作的通知》（财金〔2026〕71号，以下简称《通知》）。 国有六大行积极落实《通知》要求，优化完善贴息配套政策，并于8月21日至22日，相继发布个人消费贷款（含信用卡分期）财政贴息政策客户关注问题解答。 贴息金额方面，六家国有 银行 均表示，每名借款人在 银行 可享受的个人消费贷款和信用卡分期业务累计贴息上限由每年3000元提高至每年5000元。 贴息范围方面，六家国有银行均表示，由信用卡账单分期扩展至包括专项分期、消费分期、",
      "source": "东方财富股票",
-     "zh": "广东省发展改革委出台推动信用服务业扩能提质若干措施"
+     "zh": "工行、农行、中行、建行、交行、邮储银行等，集体发布！"
     },
     {
-     "title": "多家银行发布公告 单人在同家银行贴息上限提升到5000元",
-     "link": "http://finance.eastmoney.com/news/1350,202608223850166891.html",
-     "pubDate": "Sat, 22 Aug 2026 15:36:12 +0800",
-     "summary": "记者今天（22日）从 工商银行 、 农业银行 、 中国银行 、 建设银行 、 交通银行 、 邮储银行 等六大 银行 了解到，各家 银行 已经根据财政部、中国人民 银行 、金融监管总局《关于进一步做好财政金融协同促内需政策有关工作的通知》，陆续发布公告，明确了最新的信用卡分期贴息政策执行要点。 财政贴息上限提升到5000元 多家银行明确，根据三部门通知要求，每名借款人在同一家银行可享受的个人消费贷款和信用卡分期业务累计贴息上限由每年3000元提高至每年5000元。这5000元的贴息额度既可以全部用于个人消费贷款，也可以全部用于信用卡分期业务，也可以根据个人需求分配二者的比例。 信用卡分期贴息比例",
+     "title": "天域生物实控人违规减持处罚落地：获利1585万元，罚没逾3500万元",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850168971.html",
+     "pubDate": "Sat, 22 Aug 2026 15:56:40 +0800",
+     "summary": "天域生物 （603717）实控人违规减持处罚落地。公司8月21日晚间公告，实际控制人罗卫国收到重庆证监局下发的《行政处罚决定书》，被罚没合计逾3500万元。 此前，公司于2026年1月1日披露了《关于实际控制人收到中国证券监督管理委员会立案告知书的公告》，于2026年7月18日披露了《关于实际控制人收到中国证券监督管理委员会行政处罚事先告知书的公告》。 经查，罗卫国为实现减持 天域生物 股票目的，通过基金份额转让交易方式隐匿一致行动关系，规避上市公司大股东和一致行动人减持比例限制。罗卫国及其一致行动人在3个月内违规减持公司股票1167.77万股，违规减持金额1.65亿元，违法所得1585.33",
      "source": "东方财富股票",
-     "zh": "多家银行发布公告 单人在同家银行贴息上限提升到5000元"
+     "zh": "天域生物实控人违规减持处罚落地：获利1585万元，罚没逾3500万元"
     },
     {
-     "title": "伊朗称国防产能已翻倍",
-     "link": "http://finance.eastmoney.com/news/1351,202608223850166758.html",
-     "pubDate": "Sat, 22 Aug 2026 15:32:11 +0800",
-     "summary": "伊朗国防部发言人礼萨·塔拉埃-尼克8月21日接受伊朗国家电视台采访时表示，尽管部分国防工业设施遭到袭击，但伊朗国防装备与武器产能在过去一年已实现翻番，能够在战场持续消耗武器装备的同时迅速补充生产。塔拉埃-尼克表示，这种“边打边造”的同步生产模式，已使国防工业成为伊朗武装力量防御体系的支柱之一。 （文章来源：CCTV国际时讯）",
+     "title": "泰国等新基地产能“爬坡”吞噬利润，建霖家居上半年“增收不增利”，八成收入来自境外市场",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850168323.html",
+     "pubDate": "Sat, 22 Aug 2026 15:55:12 +0800",
+     "summary": "建霖家居 （603408）日前披露半年报，今年上半年公司“增收不增利”，泰国等新基地产能爬坡期费用成为短期利润“拖累”。 财务数据显示， 2026年上半年公司实现营业总收入28.28亿元，同比增长18.49%；归母净利润2.06亿元，同比下降13.57%；扣非净利润1.9亿元，同比下降6.05%；经营活动产生的现金流量净额为2.1亿元，同比增长63.43%。 资料显示，建霖深耕家居领域，聚焦厨卫、净水、宜居空气、其他家居及非家居五大核心品类，主要从事相关产品的研发、设计、生产和销售。报告期内，公司主营业务未发生变化。 建霖家居 业务外销收入占比较高，且主要以美元结算，这也相应带来汇兑风险。根据",
      "source": "东方财富股票",
-     "zh": "伊朗称国防产能已翻倍"
+     "zh": "泰国等新基地产能“爬坡”吞噬利润，建霖家居上半年“增收不增利”，八成收入来自境外市场"
     },
     {
      "title": "特斯拉官宣！9月3日在奥斯汀举行Cybercab发布会",
@@ -2434,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "伊朗对中国买家的石油供应因美国封锁而受到挤压"
     },
     {
-     "title": "全球市场：美股三大指数收高 道指涨近1% 稀土、加密货币概念股普涨",
-     "link": "http://stock.eastmoney.com/news/11784,202608223849871593.html",
-     "pubDate": "Sat, 22 Aug 2026 06:15:00 +0800",
-     "summary": "美股市场： 美股三大指数08月21日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨517.8点，收于53277.01点，涨幅为0.98%； 标准普尔 500种股票指数上涨33.21点，收于7674.37点，涨幅为0.43%； 纳斯达克 综合 指数上涨113.28点，收于26180.45点，涨幅为0.43%。本周，道指跌0.85%，纳指跌2.05%，标普500指数跌1.43%。 大型科技股多数上涨， 特斯拉 大涨5.14%，Cybercab最快8月在奥斯汀向公众推出，这将是首款没有方向盘和刹车踏板的Robotaxi专用车型，首批量产版已在奥斯汀展开工程测试；谷歌涨1.22%，谷歌与 ",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数收高 道指涨近1% 稀土、加密货币概念股普涨"
-    },
-    {
      "title": "Boeing engineers union rejects contract offer, setting stage for possible strike",
      "link": "https://seekingalpha.com/news/4636033-boeing-engineers-union-rejects-contract-offer-setting-stage-for-possible-strike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 21 Aug 2026 18:09:03 -0400",
@@ -2480,6 +2472,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Hims & Hers Health 因信用卡纠纷面临 Visa 处罚 - 报告"
+    },
+    {
+     "title": "Pender Growth Fund reports Q2 results",
+     "link": "https://seekingalpha.com/news/4636032-pender-growth-fund-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 21 Aug 2026 17:29:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pender 增长基金报告第二季度业绩"
     }
    ]
   },
