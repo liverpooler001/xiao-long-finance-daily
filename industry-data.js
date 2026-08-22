@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 04:11:42",
+ "generated_at": "2026/8/23 04:47:19",
  "recent_days": 7,
  "industries": [
   {
@@ -66,6 +66,14 @@ window.INDUSTRY_DATA = {
      "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
     },
     {
+     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
+     "source": "MarkTechPost",
+     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
+    },
+    {
      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
      "link": "https://www.qbitai.com/2026/08/477090.html",
      "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
@@ -106,6 +114,14 @@ window.INDUSTRY_DATA = {
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
+     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
+     "source": "MarkTechPost",
+     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
+    },
+    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -120,6 +136,22 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
+    },
+    {
+     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
+     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
+     "source": "MarkTechPost",
+     "zh": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure"
+    },
+    {
+     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
+     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
+     "source": "MarkTechPost",
+     "zh": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
     },
     {
      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -216,38 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
      "source": "新智元",
      "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
-    },
-    {
-     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
-     "source": "新智元",
-     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
-    },
-    {
-     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
-     "source": "机器之心",
-     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
-    },
-    {
-     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
-     "source": "机器之心",
-     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
-    },
-    {
-     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "端到端研究论文生成系统。",
-     "source": "机器之心",
-     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
     }
    ]
   },
@@ -322,12 +322,52 @@ window.INDUSTRY_DATA = {
      "zh": "How TSMC Is Wiring the AI Era With Light"
     },
     {
+     "title": "Android XR advances as Jetpack XR SDK core libraries reach beta",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 14:39:56 +0000",
+     "summary": "Google is announcing that its Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries are officially in beta status. And Jetpack Compose is to follow soon, it says. Basically, […] The post Android XR advances as Jetpack XR SDK core libraries reach beta appeared first on Electronics Weekly",
+     "source": "Electronics Weekly",
+     "zh": "Android XR advances as Jetpack XR SDK core libraries reach beta"
+    },
+    {
+     "title": "Exotic Materials Adding Cost To Semis",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/exotic-materials-adding-cost-to-semis-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 13:30:13 +0000",
+     "summary": "19 years ago the chip industry was facing a similar problem to today – the need for, and rising cost of, exotic materials. ‘Semiconductor firms are facing critical pricing choices […] The post Exotic Materials Adding Cost To Semis appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Exotic Materials Adding Cost To Semis"
+    },
+    {
      "title": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/",
      "pubDate": "Fri, 21 Aug 2026 13:00:41 +0000",
      "summary": "Intel is considering a return to memory technology decades after abandoning mainstream DRAM and, more recently, selling its NAND business. Chief executive Lip-Bu Tan has argued that memory should no longer be viewed simply as a low-margin commodity. Artificial intelligence is turning bandwidth, late",
      "source": "SemiWiki",
      "zh": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics"
+    },
+    {
+     "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
+     "link": "https://www.electronicsweekly.com/news/saildrone-lockheed-martin-demonstrate-live-fire-from-usv-platform-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 10:30:33 +0000",
+     "summary": "Lockheed Martin is highlighting a successful collaboration with Saildrone, a specialist in maritime autonomous systems. USV Basically, an unmanned surface vehicle (USV) was equipped with lethal defence technology, the live-fire […] The post Saildrone, Lockheed Martin demonstrate live-fire from USV p",
+     "source": "Electronics Weekly",
+     "zh": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform"
+    },
+    {
+     "title": "JEDEC to host Automotive Electronics Forum",
+     "link": "https://www.electronicsweekly.com/news/business/jedec-to-host-automotive-electronics-forum-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 09:17:49 +0000",
+     "summary": "The JEDEC Solid State Technology Association has announced that it is hosting an Automotive Electronics Forum. The event will take place on 17 September 2026 in Santa Clara, California. The […] The post JEDEC to host Automotive Electronics Forum appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "JEDEC to host Automotive Electronics Forum"
+    },
+    {
+     "title": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 09:05:07 +0000",
+     "summary": "There's the next frontier of advanced optoelectronics, Samsung Foundry putting back its 1.4nm process to 2029, and Vishay sampling a short distance VCSEL-based proximity sensor... The post Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices"
     },
     {
      "title": "The Human Brain Versus AI: Similar Results, Very Different Machines",
@@ -346,6 +386,14 @@ window.INDUSTRY_DATA = {
      "zh": "芯片行业周回顾"
     },
     {
+     "title": "White House looking for 1000 rocket launches a year",
+     "link": "https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 05:17:57 +0000",
+     "summary": "Yesterday US President Donald Trump signed a memo aimed at enabling 1,000 US rocket launches and re-entries a year – up from 178 launches in 2025. The memo requires agencies […] The post White House looking for 1000 rocket launches a year appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "White House looking for 1000 rocket launches a year"
+    },
+    {
      "title": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes",
      "link": "https://semiwiki.com/eda/agentrys/372384-agentrys-shows-you-how-to-build-a-multi-agent-system-in-30-minutes/",
      "pubDate": "Thu, 20 Aug 2026 21:00:25 +0000",
@@ -362,6 +410,14 @@ window.INDUSTRY_DATA = {
      "zh": "Questa One Updated at DAC 2026"
     },
     {
+     "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/epc-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 17:51:06 +0100",
+     "summary": "Efficient Power Conversion Corp (EPC) of El Segundo, CA, USA — which makes enhancement-mode gallium nitride on silicon (eGaN) power field-effect transistors (FETs) and integrated circuits for power management applications — has announced mass production of the EPC2370, an ultra-low on-resistance 18V",
+     "source": "Semiconductor Today",
+     "zh": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures"
+    },
+    {
      "title": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure",
      "link": "https://www.eetimes.com/synopsys-updates-cxl-ip-portfolio-for-ai-era-infrastructure/",
      "pubDate": "Thu, 20 Aug 2026 14:07:45 +0000",
@@ -370,12 +426,36 @@ window.INDUSTRY_DATA = {
      "zh": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure"
     },
     {
+     "title": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/yole-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 14:12:54 +0100",
+     "summary": "Power gallium nitride (GaN) has spent the past several years proving itself in consumer fast chargers, but that phase is ending, according to Yole Group’s annual report ‘Power GaN 2026’. GaN is now entering a broader, multi-market adoption cycle where AI data centers, electric vehicles, industrial s",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems"
+    },
+    {
      "title": "The Fab Is Not the Finish Line",
      "link": "https://semiwiki.com/semiconductor-manufacturers/372312-the-fab-is-not-the-finish-line/",
      "pubDate": "Thu, 20 Aug 2026 13:00:58 +0000",
      "summary": "AI may close the design. The fab may finish the silicon. Production still has to realize the system. Semiconductor engineering is becoming extraordinarily capable. EDA platforms are expanding from individual design tasks toward increasingly complete system analysis. Multiphysics simulation is connec",
      "source": "SemiWiki",
      "zh": "The Fab Is Not the Finish Line"
+    },
+    {
+     "title": "Micross acquiring AEMtec, expanding reach into Europe",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/micross-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
+     "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
+     "source": "Semiconductor Today",
+     "zh": "Micross acquiring AEMtec, expanding reach into Europe"
+    },
+    {
+     "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/teksic-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 09:41:16 +0100",
+     "summary": "Silicon carbide wafer manufacturing technology firm TekSiC AB of Linköping, Sweden has announced progress in its development of semi-insulating silicon carbide (SI-SiC), which Europe currently lacks the domestic capability to manufacture commercially. The material underpins some of the most demandin",
+     "source": "Semiconductor Today",
+     "zh": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers"
     },
     {
      "title": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing",
@@ -416,30 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
-    },
-    {
-     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
-     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
-     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
-     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
-    },
-    {
-     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
-     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
-     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
-     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
-    },
-    {
-     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
-     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
-     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
-     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -794,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Starlink Is Now The Largest ISP In Zimbabwe By Subscriber Count!",
+     "link": "https://cleantechnica.com/2026/08/22/starlink-is-now-the-largest-isp-in-zimbabwe-by-subscriber-count/",
+     "pubDate": "Sat, 22 Aug 2026 20:35:06 +0000",
+     "summary": "Quarterly reports from the Postal & Telecommunications Regulatory Authority of Zimbabwe (POTRAZ) always bring out some interesting insights. I am always on the lookout for these whenever they get published, especially these days since the launch of Starlink in Zimbabwe. Starlink launched in Zimbabwe",
+     "source": "CleanTechnica",
+     "zh": "Starlink Is Now The Largest ISP In Zimbabwe By Subscriber Count!"
+    },
+    {
      "title": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
      "link": "https://oilprice.com/Energy/Energy-General/Clean-Energy-Spending-Tracking-Toward-Record-180-Billion-in-2026.html",
      "pubDate": "Sat, 22 Aug 2026 14:00:00 -0500",
@@ -864,14 +928,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla has had more good news regarding its robotaxi rollout this past week. Nevada has decided that the company can deploy up to 5,000 robotaxis in the state, up from just 10 on the Las Vegas Strip. That’s a huge potential increase in vehicles. However, “Tesla representatives at the meeting ... [con",
      "source": "CleanTechnica",
      "zh": "Who Was Right About Tesla Robotaxi Deployment in 2025?"
-    },
-    {
-     "title": "Genesis Ushers In A New Age of Fully Electric Luxury with the Flagship GV90 SUV",
-     "link": "https://cleantechnica.com/2026/08/21/genesis-ushers-in-a-new-age-of-fully-electric-luxury-with-the-flagship-gv90-suv/",
-     "pubDate": "Sat, 22 Aug 2026 02:22:18 +0000",
-     "summary": "At a packed event in San Francisco, California, Genesis unveiled its new flagship electric SUV, the GV90. The GV90 is a full-sized three-row SUV that is also offered in a fully loaded GV90 Neolun spec aimed at people who want to be driven rather than to drive. Disclaimer: the author’s ... [continued",
-     "source": "CleanTechnica",
-     "zh": "Genesis Ushers In A New Age of Fully Electric Luxury with the Flagship GV90 SUV"
     },
     {
      "title": "China's New Five-Year Plan Preps the Nation for Peak Oil",
@@ -1690,6 +1746,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+     "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+     "pubDate": "Sat, 22 Aug 2026 20:24:20 +0000",
+     "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+     "source": "TechCrunch",
+     "zh": "Will the DOJ’s investigation into a16z spook other VCs?"
+    },
+    {
+     "title": "Knowing When to Stop: The Art of Making a Loop Converge",
+     "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
+     "pubDate": "Sat, 22 Aug 2026 20:21:14 +0000",
+     "summary": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Knowing When to Stop: The Art of Making a Loop Converge"
+    },
+    {
      "title": "London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)",
      "link": "https://www.techmeme.com/260822/p12#a260822p12",
      "pubDate": "Sat, 22 Aug 2026 16:00:13 -0400",
@@ -1698,10 +1770,26 @@ window.INDUSTRY_DATA = {
      "zh": "London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)"
     },
     {
+     "title": "Fast and Hard Code",
+     "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+     "pubDate": "Sat, 22 Aug 2026 19:56:38 +0000",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Fast and Hard Code"
+    },
+    {
+     "title": "English ↔ Claudish Translator",
+     "link": "https://programasweights.com/claudish",
+     "pubDate": "Sat, 22 Aug 2026 19:19:15 +0000",
+     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 7 # Comments: 7",
+     "source": "Hacker News",
+     "zh": "English ↔ Claudish Translator"
+    },
+    {
      "title": "NetBSD and My Life (2005)",
      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
      "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
-     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 20 # Comments: 0",
+     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 42 # Comments: 7",
      "source": "Hacker News",
      "zh": "NetBSD and My Life (2005)"
     },
@@ -1709,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
      "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
-     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 53 # Comments: 5",
+     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 74 # Comments: 22",
      "source": "Hacker News",
      "zh": "hdiutil is deprecated in macOS 27 Golden Gate"
     },
@@ -1738,36 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "Show HN: Make your logo extra bright on HDR screens"
     },
     {
-     "title": "Scrap",
-     "link": "https://twitter.com/moxie/status/2091218652133732491",
-     "pubDate": "Sat, 22 Aug 2026 18:08:56 +0000",
-     "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 74 # Comments: 14",
-     "source": "Hacker News",
-     "zh": "Scrap"
-    },
-    {
      "title": "灵活就业学者栽在了“剪金句”的小编手里",
      "link": "https://www.huxiu.com/article/4885210.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 01:48:30 +0800",
      "summary": "本文来自微信公众号： Mulan看世界 ，作者：Mulan往里走 这两天，北大国发院教授张丹丹关于“灵活就业的‘灵活’是一种福利”的言论，在舆论场引发了铺天盖地“何不食肉糜”的讨伐。 为了回顾这次舆情的发酵路径，我特地回看了首发媒体源视频：当张丹丹在和讯《聊一波》访谈中表达上述观点时，另一位经济专家姚景源已敏感地向摄像机和主持人方向递眼色，主持人王波明随即做出追问，张丹丹也进一步补充说明，算是把话题给圆回来了。 这场原本顺利结束的访谈，在进入二次剪辑时却失控了。该“金句”片段被各大媒体、自媒体截取推向短视频平台，瞬间演变为病毒式扩散。随后公知与各大V纷纷下场抨击，舆情迅速升级出圈。 在对学者排",
      "source": "虎嗅",
      "zh": "灵活就业学者栽在了“剪金句”的小编手里"
-    },
-    {
-     "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
-     "link": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
-     "pubDate": "Sat, 22 Aug 2026 17:09:27 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl Comments URL: https://news.ycombinator.com/item?id=49401621 Points: 69 # Comments: 43",
-     "source": "Hacker News",
-     "zh": "Belgian car salesman becomes prince after DNA test proves royal parentage"
-    },
-    {
-     "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-     "link": "https://twitter.com/argofowl/status/2091150597374537729",
-     "pubDate": "Sat, 22 Aug 2026 16:58:49 +0000",
-     "summary": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 Comments URL: https://news.ycombinator.com/item?id=49401549 Points: 81 # Comments: 86",
-     "source": "Hacker News",
-     "zh": "Anthropic appears to be A/B testing reduced effort levels in Claude Code"
     },
     {
      "title": "Carrier Pidge hit 75K users and Roost 650K downloads, as slow messaging apps delivering texts at pigeon speeds attract users tired of constant notifications (Emmett Lindner/New York Times)",
@@ -1920,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Your desk setup needs a monitor arm, and I’ve been testing every one I can get my hands on to find the best.",
      "source": "WIRED",
      "zh": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)"
-    },
-    {
-     "title": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux",
-     "link": "https://www.solidot.org/story?sid=85161",
-     "pubDate": "Sat, 22 Aug 2026 19:00:50 +0800",
-     "summary": "彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。微软回应彭博社的询问时表示它没有发现影响该 Windows 系统的安全事件。Windows 10 中国政府版由微软和中国电子科技集团的合资企业神州网信开发。神州网信原计划到 2027 年 2 月停止支持该版本，但其生命结束时间被提前到今年下半年。中国政府机构采用的国产 Linux 发行版可能包括了麒麟操作系统（Kylin OS)和统信 UOS。统信 UOS 桌面版源自 Deepin 和 Debian Linux。",
-     "source": "Solidot",
-     "zh": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux"
     }
    ]
   },
@@ -1937,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google’s new Pixel 11 offers an incredible camera feature that Apple should copy",
+     "link": "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/",
+     "pubDate": "Sat, 22 Aug 2026 20:43:49 +0000",
+     "summary": "Earlier this month, Google unveiled its new Pixel 11 lineup. The phones themselves were rather similar compared to the previous Pixel 10 lineup, though they offer a few delightful quality of life improvements. One of those is a new set of camera processing options – allowing you to have far more con",
+     "source": "9to5Mac",
+     "zh": "Google’s new Pixel 11 offers an incredible camera feature that Apple should copy"
+    },
+    {
+     "title": "How to limit Instagram from using your data for AI and ads",
+     "link": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
+     "pubDate": "Sat, 22 Aug 2026 20:30:00 +0000",
+     "summary": "You can keep Instagram from using your activity outside the app to influence the ads you get.",
+     "source": "Engadget",
+     "zh": "How to limit Instagram from using your data for AI and ads"
+    },
     {
      "title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
      "link": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
@@ -2016,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarkably consistent window.",
      "source": "9to5Mac",
      "zh": "iPhone 18 Pro event date: When Apple announced its event over the last six years"
-    },
-    {
-     "title": "Android Auto YouTube Limitations: Is It Worth Using In The Car?",
-     "link": "https://www.engadget.com/2240123/android-auto-youtube-limitations-is-it-worth-using-in-the-car/",
-     "pubDate": "Sat, 22 Aug 2026 17:30:00 +0000",
-     "summary": "Android Auto YouTube Limitations: Is It Worth Using In The Car?",
-     "source": "Engadget",
-     "zh": "Android Auto YouTube Limitations: Is It Worth Using In The Car?"
     },
     {
      "title": "What is the ‘Android Pulse’ app that just appeared in Google Play Store updates?",
@@ -2146,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展"
     },
     {
-     "title": "ChatGPT’s iPhone app gets a handy shortcut to attach recent photos more quickly",
-     "link": "https://9to5mac.com/2026/08/21/chatgpts-iphone-app-gets-a-handy-shortcut-to-attach-recent-photos-more-quickly/",
-     "pubDate": "Fri, 21 Aug 2026 23:50:13 +0000",
-     "summary": "Users who rely on ChatGPT for quick visual searches can now add photos to a conversation more quickly with a new gesture. Here’s how.",
-     "source": "9to5Mac",
-     "zh": "ChatGPT’s iPhone app gets a handy shortcut to attach recent photos more quickly"
-    },
-    {
      "title": "Pixel 11 Pro Fold still doesn’t survive bend test, but at least it didn’t ‘explode’ this time [Video]",
      "link": "https://9to5google.com/2026/08/21/pixel-11-pro-fold-still-doesnt-survive-bend-test-but-at-least-it-didnt-explode-this-time-video/",
      "pubDate": "Fri, 21 Aug 2026 23:15:00 +0000",
@@ -2186,12 +2242,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
+     "link": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+     "pubDate": "Sat, 22 Aug 2026 20:34:13 GMT",
+     "summary": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
+     "source": "CNBC",
+     "zh": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit"
+    },
+    {
+     "title": "SA Asks: What does the growing national debt mean for bond yields?",
+     "link": "https://seekingalpha.com/news/4636044-sa-asks-what-does-the-growing-national-debt-mean-for-bond-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 16:31:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What does the growing national debt mean for bond yields?"
+    },
+    {
      "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
      "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 19:51:00 GMT",
-     "summary": "Canada Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
+     "pubDate": "Sat, 22 Aug 2026 20:31:00 GMT",
+     "summary": "Canadian Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
      "source": "MarketWatch",
      "zh": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
+    },
+    {
+     "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+     "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+     "pubDate": "Sat, 22 Aug 2026 20:30:00 GMT",
+     "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
+     "source": "MarketWatch",
+     "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
+    },
+    {
+     "title": "Nvidia customers reportedly warned about AI-related price hikes",
+     "link": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+     "pubDate": "Sat, 22 Aug 2026 20:26:44 GMT",
+     "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
+     "source": "CNBC",
+     "zh": "Nvidia customers reportedly warned about AI-related price hikes"
+    },
+    {
+     "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+     "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+     "pubDate": "Sat, 22 Aug 2026 20:18:15 GMT",
+     "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+     "source": "CNBC",
+     "zh": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
+    },
+    {
+     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+     "pubDate": "Sat, 22 Aug 2026 20:15:00 GMT",
+     "summary": "“The cost is absolutely ridiculous.”",
+     "source": "MarketWatch",
+     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+    },
+    {
+     "title": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
+     "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html",
+     "pubDate": "2026-08-22T19:56:02Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis"
     },
     {
      "title": "SA Asks: How could Trump's new executive order impact vaccine makers?",
@@ -2290,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says"
     },
     {
-     "title": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
-     "link": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-22T18:15:48Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?"
-    },
-    {
      "title": "Mark Carney says Canada is now ‘at war’ with US over trade",
      "link": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
      "pubDate": "Sat, 22 Aug 2026 17:22:54 GMT",
@@ -2312,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Canada retaliatory tariffs on U.S. goods to take effect on Sept. 8"
-    },
-    {
-     "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-     "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-     "pubDate": "Sat, 22 Aug 2026 17:01:18 GMT",
-     "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
-     "source": "CNBC",
-     "zh": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
     },
     {
      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
@@ -2370,30 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "Insider trades: AMD, Micron and Coca-Cola among notable names"
     },
     {
-     "title": "Notable tech headlines for the week: Nvidia, Micron, Broadcom in focus",
-     "link": "https://seekingalpha.com/news/4636009-notable-tech-headlines-for-the-week-nvidia-micron-broadcom-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 10:10:36 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Notable tech headlines for the week: Nvidia, Micron, Broadcom in focus"
-    },
-    {
-     "title": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It&apos;s &apos;like a circus or a magic act&apos;",
-     "link": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
-     "pubDate": "Sat, 22 Aug 2026 14:00:01 GMT",
-     "summary": "\"Pizza Pod started with a pretty ridiculous idea: What if I could turn a tiny Smart car into a mobile pizzeria?\" says founder Bradley Alvelo.",
-     "source": "CNBC",
-     "zh": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It&apos;s &apos;like a circus or a magic act&apos;"
-    },
-    {
-     "title": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 13:45:00 GMT",
-     "summary": "“She looked into COBRA, but the cost is absolutely ridiculous.”",
-     "source": "MarketWatch",
-     "zh": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
-    },
-    {
      "title": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”",
      "link": "http://www.eeo.com.cn/2026/0822/1007969.shtml",
      "pubDate": "Sat, 22 Aug 2026 21:26:11 +0800",
@@ -2408,22 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I’d love for our son to be able to attend college without needing to take out student loans.”",
      "source": "MarketWatch",
      "zh": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
-    },
-    {
-     "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
-     "link": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 13:00:00 GMT",
-     "summary": "Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks.",
-     "source": "MarketWatch",
-     "zh": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week"
-    },
-    {
-     "title": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶",
-     "link": "https://wallstreetcn.com/articles/3780065",
-     "pubDate": "Sat, 22 Aug 2026 20:55:29 +0800",
-     "summary": "美伊紧张局势仍在持续，但市场关注点正逐步从军事风险转向经济制裁，以及其对全球原油供应格局的影响。 据新华社，美国财政部长贝森特20日表示，特朗普政府将加大对伊朗经济施压，并威胁对伊朗实施“前所未有的经济孤立”措施。他称，特朗普政府重创伊朗经济的计划可能使美国无需再对伊朗发动大规模军事行动。随着制裁力度可能升级，其对伊朗原油出口的影响正成为市场关注的新变量。 与此同时，霍尔木兹海峡的可见油轮流量仍明显低于冲突前水平，但“暗流”运输正在部分填补缺口。瑞银调研数据显示， 过去一周霍尔木兹海峡整体石油流量仍略高于600万桶/日，其中暗光运输规模升至约500万至600万桶/日，显示实际原油过境量受到的冲",
-     "source": "华尔街见闻",
-     "zh": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶"
     }
    ]
   },
