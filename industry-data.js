@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 00:46:23",
+ "generated_at": "2026/8/23 01:10:33",
  "recent_days": 7,
  "industries": [
   {
@@ -58,6 +58,14 @@ window.INDUSTRY_DATA = {
      "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
     },
     {
+     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
+     "source": "MarkTechPost",
+     "zh": "解码人工智能的开源课程映射了运行代理循环的三种方式以及每种方式背后的提供商经济学"
+    },
+    {
      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
      "link": "https://www.qbitai.com/2026/08/477090.html",
      "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
@@ -98,6 +106,14 @@ window.INDUSTRY_DATA = {
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
+     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
+     "source": "MarkTechPost",
+     "zh": "2026 年最佳 GPU Neocloud：CoreWeave、Nebius、Lambda、Crusoe 和 Groq 按已发布定价和合同功耗排名"
+    },
+    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -112,6 +128,22 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia 与数据中心开发商 Cloverleaf 合作"
+    },
+    {
+     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
+     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
+     "source": "MarkTechPost",
+     "zh": "构建代理文档智能管道：使用 AutoFigure 创建科学图形"
+    },
+    {
+     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
+     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
+     "source": "MarkTechPost",
+     "zh": "Anthropic 将 Claude Mythos 5 引入 Claude Security：企业团队无需直接访问模型即可进行前沿漏洞扫描"
     },
     {
      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -138,12 +170,12 @@ window.INDUSTRY_DATA = {
      "zh": "使用 llama.cpp、DFlash 和 Pi 运行 Muse Glimmer 进行本地 Vibe 编码"
     },
     {
-     "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-     "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+     "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
-     "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a y",
+     "summary": "There's about to be a big fight to secure access to space.",
      "source": "TechCrunch AI",
-     "zh": "美国司法部正在调查 a16z。这对风险投资意味着什么？"
+     "zh": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元"
     },
     {
      "title": "5 Real-World Use Cases for AI Agents Transforming Industries",
@@ -216,38 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
      "source": "新智元",
      "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
-    },
-    {
-     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
-     "source": "新智元",
-     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
-    },
-    {
-     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
-     "source": "机器之心",
-     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
-    },
-    {
-     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
-     "source": "机器之心",
-     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
-    },
-    {
-     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "端到端研究论文生成系统。",
-     "source": "机器之心",
-     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
     }
    ]
   },
@@ -271,7 +271,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 22 Aug 2026 01:08:56 GMT",
      "summary": "For all the extraordinary progress made by artificial intelligence, the physical world remains stubbornly difficult to automate.",
      "source": "DIGITIMES",
-     "zh": "台北自动化2026：如果人工智能发展得如此之快，为什么工厂车间仍然很难实现自动化？"
+     "zh": "台北自动化 2026：如果人工智能发展得如此之快，为什么工厂车间仍然很难实现自动化？"
     },
     {
      "title": "Supermicro's internal probe clears senior management in export-control case",
@@ -279,7 +279,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 22 Aug 2026 01:08:33 GMT",
      "summary": "Super Micro Computer (NASDAQ: SMCI) said Thursday that an internal investigation run by its independent directors found no evidence that any current senior manager knew of an alleged scheme to divert export-controlled products &mdash; the conduct at the center of a March federal indictment of two Su",
      "source": "DIGITIMES",
-     "zh": "美超微的内部调查证实了高级管理层在出口管制案件中的清白"
+     "zh": "美超微的内部调查证实高级管理层在出口管制案件中无罪"
     },
     {
      "title": "America's launch boom runs into a capacity problem as White House targets 1,000 annual space launches",
@@ -487,7 +487,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 20 Aug 2026 07:02:04 +0000",
      "summary": "Reducing manufacturing-related emissions may support lowering the embedded carbon footprint of the chips customers use in their products. The post Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
-     "zh": "通过可持续发展和创新为客户减少范围 3 价值链排放"
+     "zh": "通过可持续发展和创新减少客户范围 3 价值链排放"
     },
     {
      "title": "Three Strategic Imperatives For Energy-Efficient AI Computing",
@@ -679,7 +679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 19:32:03 +0000",
      "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla killing the Solar Roof, Cybercab launch, Genesis GV90, and more. Today’s episode is sponsored by GM . GM EV charging made easy, with Energy Pass and P",
      "source": "Electrek",
-     "zh": "播客：特斯拉取消太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
+     "zh": "播客：特斯拉取消了太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
     },
     {
      "title": "Hyundai starts taking orders for $17,700 Ioniq V, but you can’t have it",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Every Chokepoint That Isn't Hormuz",
+     "link": "https://oilprice.com/Energy/Energy-General/Every-Chokepoint-That-Isnt-Hormuz.html",
+     "pubDate": "Sat, 22 Aug 2026 12:00:00 -0500",
+     "summary": "For six months the entire conversation about oil logistics has been about one strait, and you can hardly blame anyone for that. Hormuz has been effectively closed since late February, when the war between Iran and the U.S. and Israel started, and the EIA reckons only 4.9 million barrels a day of cru",
+     "source": "OilPrice",
+     "zh": "霍尔木兹以外的每一个咽喉要道"
+    },
+    {
      "title": "Ed Darmanin’s Big Lap — Part 2: Sydney to Broome",
      "link": "https://cleantechnica.com/2026/08/22/ed-darmanins-big-lap-part-2-sydney-to-broome/",
      "pubDate": "Sat, 22 Aug 2026 15:22:15 +0000",
@@ -954,14 +962,6 @@ window.INDUSTRY_DATA = {
      "zh": "伊拉克希望石油产量翻一番，需要欧佩克阻止"
     },
     {
-     "title": "China Challenges Russia’s Arms Dominance in Central Asia",
-     "link": "https://oilprice.com/Energy/Energy-General/China-Challenges-Russias-Arms-Dominance-in-Central-Asia.html",
-     "pubDate": "Fri, 21 Aug 2026 13:00:00 -0500",
-     "summary": "China is challenging Russia’s stranglehold on Central Asia’s arms market. Uzbekistan appears to have taken delivery of four PRC-made ChengduJ-10CE multi-role combat aircraft, according to multiple reports, one of which includes a photo of one of the fighters supposedly acquired by the Uzbek Air Forc",
-     "source": "OilPrice",
-     "zh": "中国挑战俄罗斯在中亚的武器主导地位"
-    },
-    {
      "title": "Data center backlash is cross-partisan — This Week in Cleantech",
      "link": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/data-center-backlash-is-cross-partisan-this-week-in-cleantech/",
      "pubDate": "Fri, 21 Aug 2026 15:57:33 +0000",
@@ -1007,7 +1007,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 13:45:47 +0000",
      "summary": "ES Foundry's Alex Zhu outlines how the US cell maker is betting on PERC while navigating shifting regulations and supply-chain constraints.",
      "source": "PV Tech",
-     "zh": "ES Foundry 在美国光伏制造转向 n 型期间支持 PERC"
+     "zh": "ES Foundry 在美国光伏制造转向 n 型之际支持 PERC"
     },
     {
      "title": "United Solar’s goal to diversify polysilicon supply outside of China",
@@ -1015,7 +1015,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 13:43:34 +0000",
      "summary": "PV Tech Premium speaks with United Solar about the challenges of building polysilicon capacity outside of China and catering to the US and Indian markets.",
      "source": "PV Tech",
-     "zh": "联合太阳能公司的目标是实现中国以外多晶硅供应的多元化"
+     "zh": "联合太阳能的目标是在中国以外实现多晶硅供应多元化"
     },
     {
      "title": "Austria announces energy storage offensive, shifting solar subsidy focus",
@@ -1047,7 +1047,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 12:40:00 +0000",
      "summary": "Jiangsu Province in eastern China has surpassed 100 GW of installed solar PV capacity, becoming the country’s first provincial-level region to reach the milestone, with distributed solar accounting for nearly 70% of capacity. The province plans further rapid expansion through 2030 and 2035, while up",
      "source": "pv magazine",
-     "zh": "中国江苏省太阳能装机容量突破100吉瓦里程碑"
+     "zh": "中国江苏省太阳能发电量突破100吉瓦里程碑"
     },
     {
      "title": "Ecoflow unveils 5 kWh residential battery line",
@@ -1143,7 +1143,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 16:10:33 +0000",
      "summary": "By using chemical signals to guide cells to adopt distinct regional identities, scientists created lab-grown human organoids that mimic early brain development and could illuminate how specialized brain areas emerge. The post Lab-Grown Neocortex Models Mimic Early Brain Organization appeared first o",
      "source": "GEN",
-     "zh": "实验室培育的新皮质模型模仿早期大脑组织"
+     "zh": "实验室培养的新皮质模型模仿早期大脑组织"
     },
     {
      "title": "From Models to Agents: The Next Phase of AI Adoption in Molecular Discovery",
@@ -1615,7 +1615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 11:55:15 -0400",
      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
      "source": "BleepingComputer",
-     "zh": "数百个泄露的 AWS 密钥可完全控制企业账户"
+     "zh": "数百个泄露的 AWS 密钥可完全控制企业帐户"
     },
     {
      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
      "zh": "看看不断缩小的中美人工智能差距，一系列引人注目的低成本发布使中国人工智能模型对企业越来越有吸引力（彭博社）"
     },
     {
+     "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+     "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+     "pubDate": "Sat, 22 Aug 2026 16:23:09 +0000",
+     "summary": "Article URL: https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html Comments URL: https://news.ycombinator.com/item?id=49401229 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素"
+    },
+    {
      "title": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡",
      "link": "https://www.ithome.com/0/993/119.htm",
      "pubDate": "Sat, 22 Aug 2026 16:15:27 GMT",
@@ -1837,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
      "link": "https://quantumi.sh/public/labs.html",
      "pubDate": "Sat, 22 Aug 2026 14:54:07 +0000",
-     "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 67 # Comments: 16",
+     "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 78 # Comments: 20",
      "source": "Hacker News",
      "zh": "十一实验室、十二实验室、十三实验室"
     },
@@ -1853,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "A Friendly Introduction to Racket",
      "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
      "pubDate": "Sat, 22 Aug 2026 14:08:19 +0000",
-     "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 40 # Comments: 8",
+     "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 44 # Comments: 8",
      "source": "Hacker News",
      "zh": "球拍的友好介绍"
     },
@@ -1871,7 +1879,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 22 Aug 2026 09:50:01 -0400",
      "summary": "Zeyi Yang / Wired : Cheap energy, abundant land, and proximity to Beijing have made Ulanqab, Inner Mongolia, a data center hub, with ~100 data centers built or under construction &nbsp; &mdash;&nbsp; Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a cr",
      "source": "Techmeme",
-     "zh": "廉价的能源、丰富的土地以及毗邻北京的优势使得内蒙古乌兰察布市成为一个数据中心枢纽，已建成或在建的数据中心约有 100 个（Zeyi Yang/Wired）"
+     "zh": "廉价的能源、丰富的土地以及毗邻北京的优势使内蒙古乌兰察布成为一个数据中心枢纽，已建成或在建的数据中心约有 100 个（Zeyi Yang/Wired）"
     },
     {
      "title": "因门把手安全隐患特斯拉在华召回近 300 万辆车",
@@ -1885,15 +1893,15 @@ window.INDUSTRY_DATA = {
      "title": "The New MCP Roadmap",
      "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
      "pubDate": "Sat, 22 Aug 2026 13:31:34 +0000",
-     "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 91 # Comments: 67",
+     "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 98 # Comments: 73",
      "source": "Hacker News",
-     "zh": "新的 MCP 路线图"
+     "zh": "新 MCP 路线图"
     },
     {
      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
      "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
      "pubDate": "Sat, 22 Aug 2026 13:24:06 +0000",
-     "summary": "Article URL: https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/ Comments URL: https://news.ycombinator.com/item?id=49399524 Points: 135 # Comments: 52",
+     "summary": "Article URL: https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/ Comments URL: https://news.ycombinator.com/item?id=49399524 Points: 143 # Comments: 57",
      "source": "Hacker News",
      "zh": "贾斯汀·比伯对《对不起》的康德式批判"
     },
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
      "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
      "pubDate": "Sat, 22 Aug 2026 12:07:06 +0000",
-     "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy Comments URL: https://news.ycombinator.com/item?id=49398904 Points: 147 # Comments: 100",
+     "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy Comments URL: https://news.ycombinator.com/item?id=49398904 Points: 152 # Comments: 104",
      "source": "Hacker News",
      "zh": "钩住、抓住、收获和隐藏：Meta 在第一周制定的所谓策略"
     },
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Financial Times : Inside the World Robot Conference in Beijing, drawing over 300 exhibitors; Unitree founder Wang Xingxing said the industry's &ldquo;ChatGPT moment&rdquo; has yet to come &nbsp; &mdash;&nbsp; Beijing policymakers have made robotics a &lsquo;strategic priority&rsquo;&nbsp; &mdash;&nb",
      "source": "Techmeme",
      "zh": "北京世界机器人大会内，吸引超过300家参展商； Unitree创始人王星星表示，行业的“ChatGPT时刻”尚未到来（金融时报）"
-    },
-    {
-     "title": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
-     "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
-     "pubDate": "Sat, 22 Aug 2026 10:30:00 +0000",
-     "summary": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
-     "source": "WIRED",
-     "zh": "您过期的 Visa 卡可能会被“僵尸化”以进行非接触式支付"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Amazon devices are the latest casualties of the memory shortage price hikes",
+     "link": "https://www.engadget.com/2242185/amazon-devices-kindle-echo-eero-price-hikes/",
+     "pubDate": "Sat, 22 Aug 2026 16:50:20 +0000",
+     "summary": "Everything from the Echo to the Kindle is going up.",
+     "source": "Engadget",
+     "zh": "亚马逊设备是内存短缺涨价的最新受害者"
+    },
     {
      "title": "You might want to skip using a Bluetooth headset for a better gaming experience",
      "link": "https://www.engadget.com/2240120/bluetooth-headset-skip-for-better-gaming-experience/",
@@ -2064,14 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "Buying a new smartphone usually means buying a new case alongside it, unless you’re one of those risk-fueled daredevils who opt to go caseless. And while there’s no shortage of third-party case options piling up at your local Best Buy or in Amazon warehouses, sometimes, going the first-party route j",
      "source": "9to5Google",
      "zh": "请不要购买谷歌价格过高的 Pixel 11 透明保护壳"
-    },
-    {
-     "title": "This handy Google Pixel feature can help solve annoying Android Bluetooth problems",
-     "link": "https://www.engadget.com/2240108/google-pixel-android-bluetooth-diagnostics-feature/",
-     "pubDate": "Sat, 22 Aug 2026 12:30:00 +0000",
-     "summary": "If you're having trouble with Bluetooth connections on your Pixel phone, this tool is a great place to start your troubleshooting.",
-     "source": "Engadget",
-     "zh": "这个方便的 Google Pixel 功能可以帮助解决烦人的 Android 蓝牙问题"
     },
     {
      "title": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
@@ -2199,7 +2199,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 21:53:41 +0000",
      "summary": "Apple TV subscribers can now watch the entire new season of Stillwater , the platform’s award-winning mindfulness-focused animated series. Watch the trailer below.",
      "source": "9to5Mac",
-     "zh": "艾美奖获奖影片《Stillwater》重返 Apple TV，推出五集新剧集"
+     "zh": "艾美奖获奖影片《斯蒂尔沃特》重返 Apple TV，推出五集新剧集"
     },
     {
      "title": "Epic accuses Apple of sidestepping App Store antitrust deal in Brazil",
@@ -2242,12 +2242,28 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Canada retaliatory tariffs on U.S. goods to take effect on Sept. 8",
+     "link": "https://seekingalpha.com/news/4636042-canada-retaliatory-tariffs-on-u-s-goods-to-take-effect-on-sept-8?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 13:02:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "加拿大对美国商品征收报复性关税将于9月8日生效"
+    },
+    {
      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
      "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-     "pubDate": "Sat, 22 Aug 2026 16:38:52 GMT",
+     "pubDate": "Sat, 22 Aug 2026 17:01:18 GMT",
      "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
      "source": "CNBC",
      "zh": "随着美加贸易谈判破裂，卡尼表示报复性关税将于 9 月 8 日开始"
+    },
+    {
+     "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
+     "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+     "pubDate": "Sat, 22 Aug 2026 17:00:00 GMT",
+     "summary": "“There is a lot of legal and financial power in my hands.”",
+     "source": "MarketWatch",
+     "zh": "我持有我岳母的授权书。我也是她的遗嘱执行人和受托人。难道我对她的事情权力太大了？"
     },
     {
      "title": "大庆华科上半年净利润同比“腰斩” 扣非净利为负 流动负债大幅增长",
@@ -2410,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "“她很绝望”：我的朋友被解雇了，并且失去了健康保险。她怎样才能找到负担得起的保险？"
     },
     {
-     "title": "Earnings Scoreboard: All 12 key S&P 500 reporting firms top EPS estimates; 11 deliver Y/Y growth",
-     "link": "https://seekingalpha.com/news/4635742-earnings-scoreboard-all-12-key-sp-500-reporting-firms-top-eps-estimates-11-deliver-yy-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 09:35:27 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "盈利记分牌：标普 500 指数中所有 12 家主要报告公司的每股收益均高于预期； 11 实现同比增长"
-    },
-    {
      "title": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”",
      "link": "http://www.eeo.com.cn/2026/0822/1007969.shtml",
      "pubDate": "Sat, 22 Aug 2026 21:26:11 +0800",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tap-to-pay is getting a TikTok makeover as shoppers turn checking out into a personalized accessory.",
      "source": "MarketWatch",
      "zh": "信用卡让开吧：社交媒体明星正在利用魔杖来买东西"
-    },
-    {
-     "title": "座位是给人坐的，而不是用来放零食的",
-     "link": "http://www.eeo.com.cn/2026/0822/1007955.shtml",
-     "pubDate": "Sat, 22 Aug 2026 20:29:05 +0800",
-     "summary": "在这个案件中，两名女孩在资源最紧张、人群最密集的硬座车厢里，不选择向上购买高等级席别，反而选择通过“横向买断数量”的方式来圈地放行李和零食。这种行为本质上是用最低的成本去获得最大的收益。 如果“横向买断”在基础车厢里是完全合法的，铁路还要商务座和一等座干什么；是不是只要有钱，一个人就可以买下一整排二等座横躺着放零食，而让其他买不到票的普通人被迫去车厢连接处站立？这不只是管理上的倒退，更是对客运价格分级逻辑的自我否定。",
-     "source": "经济观察网",
-     "zh": "座位是给人坐的，而不是用来放零食的"
     }
    ]
   },
@@ -2575,7 +2575,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 18:00:00 +0000",
      "summary": "Scientists used fiber-optic cables to turn “thunderquakes” into underground maps that could help reveal hidden hazards beneath cities.",
      "source": "Science News",
-     "zh": "“雷震”的作用不仅仅是震动地面——他们还绘制了它的地图"
+     "zh": "“雷震”不只是让地面震动——他们还绘制了地震图"
     },
     {
      "title": "The importance of indoor airflow patterns in spreading airborne disease",
