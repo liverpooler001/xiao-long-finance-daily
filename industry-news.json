@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 06:11:51",
+ "generated_at": "2026/8/23 06:46:33",
  "recent_days": 7,
  "industries": [
   {
@@ -73,6 +73,14 @@
      "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
     },
     {
+     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
+     "source": "MarkTechPost",
+     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
+    },
+    {
      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
      "link": "https://www.qbitai.com/2026/08/477090.html",
      "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
@@ -113,6 +121,14 @@
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
+     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
+     "source": "MarkTechPost",
+     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
+    },
+    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -127,6 +143,22 @@
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
+    },
+    {
+     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
+     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
+     "source": "MarkTechPost",
+     "zh": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure"
+    },
+    {
+     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
+     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
+     "source": "MarkTechPost",
+     "zh": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
     },
     {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
@@ -215,38 +247,6 @@
      "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
      "source": "新智元",
      "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
-    },
-    {
-     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
-     "source": "新智元",
-     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
-    },
-    {
-     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
-     "source": "机器之心",
-     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
-    },
-    {
-     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
-     "source": "机器之心",
-     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
-    },
-    {
-     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "端到端研究论文生成系统。",
-     "source": "机器之心",
-     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
     }
    ]
   },
@@ -1745,6 +1745,14 @@
    "total": 18,
    "items": [
     {
+     "title": "A New Kind of Science by Stephen Wolfram: Monster Raving Egomania",
+     "link": "https://bactra.org/reviews/wolfram/",
+     "pubDate": "Sat, 22 Aug 2026 22:00:28 +0000",
+     "summary": "Article URL: https://bactra.org/reviews/wolfram/ Comments URL: https://news.ycombinator.com/item?id=49404282 Points: 7 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "A New Kind of Science by Stephen Wolfram: Monster Raving Egomania"
+    },
+    {
      "title": "AI agents&apos; growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents (Katherine Bindley/Wall Street Journal)",
      "link": "https://www.techmeme.com/260822/p13#a260822p13",
      "pubDate": "Sat, 22 Aug 2026 18:00:02 -0400",
@@ -1761,14 +1769,6 @@
      "zh": "Will the DOJ’s investigation into a16z spook other VCs?"
     },
     {
-     "title": "Knowing When to Stop: The Art of Making a Loop Converge",
-     "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
-     "pubDate": "Sat, 22 Aug 2026 20:21:14 +0000",
-     "summary": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 17 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Knowing When to Stop: The Art of Making a Loop Converge"
-    },
-    {
      "title": "London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)",
      "link": "https://www.techmeme.com/260822/p12#a260822p12",
      "pubDate": "Sat, 22 Aug 2026 16:00:13 -0400",
@@ -1777,18 +1777,10 @@
      "zh": "London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)"
     },
     {
-     "title": "Fast and Hard Code",
-     "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-     "pubDate": "Sat, 22 Aug 2026 19:56:38 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 16 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Fast and Hard Code"
-    },
-    {
      "title": "English ↔ Claudish Translator",
      "link": "https://programasweights.com/claudish",
      "pubDate": "Sat, 22 Aug 2026 19:19:15 +0000",
-     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 21 # Comments: 16",
+     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 26 # Comments: 20",
      "source": "Hacker News",
      "zh": "English ↔ Claudish Translator"
     },
@@ -1796,7 +1788,7 @@
      "title": "NetBSD and My Life (2005)",
      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
      "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
-     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 67 # Comments: 14",
+     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 68 # Comments: 19",
      "source": "Hacker News",
      "zh": "NetBSD and My Life (2005)"
     },
@@ -1804,7 +1796,7 @@
      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
      "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
-     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 125 # Comments: 41",
+     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 140 # Comments: 45",
      "source": "Hacker News",
      "zh": "hdiutil is deprecated in macOS 27 Golden Gate"
     },
@@ -1828,9 +1820,17 @@
      "title": "Why your local LLM feels dumber than it is",
      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
      "pubDate": "Sat, 22 Aug 2026 18:14:16 +0000",
-     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 78 # Comments: 22",
+     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 104 # Comments: 28",
      "source": "Hacker News",
      "zh": "Why your local LLM feels dumber than it is"
+    },
+    {
+     "title": "Thinking in Python by Bruce Eckel",
+     "link": "https://thinkinginpython.com/",
+     "pubDate": "Sat, 22 Aug 2026 18:10:49 +0000",
+     "summary": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 12 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Thinking in Python by Bruce Eckel"
     },
     {
      "title": "灵活就业学者栽在了“剪金句”的小编手里",
@@ -2249,54 +2249,6 @@
      "zh": "SA Asks: What are the most promising oncology companies right now?"
     },
     {
-     "title": "日本本州岛5.8级地震已致多人受伤",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850229127.html",
-     "pubDate": "Sun, 23 Aug 2026 05:45:04 +0800",
-     "summary": "23日获悉，日本本州岛5.8级地震后，当地已出现多名伤者。截至当地时间4时，埼玉县有9人受伤，截至当地时间5时，神奈川县有3人受伤；此外，东京有人被玻璃划伤。 据东京消防厅消息，截至当地时间23日3时，已接到约30起与地震有关的报警。 交通方面，包括东日本旅客铁道公司在内，多条列车线路受地震影响暂时停运。羽田 机场 、成田 机场 、茨城 机场 方面暂未确认到影响。 日本气象厅呼吁，未来一周左右仍需警惕可能伴随最大震度5弱左右震感的地震。日本气象厅设定的地震震度由弱到强分别为0至4、5弱、5强、6弱、6强和7，共10个等级。 中国地震台网正式测定：8月23日1时00分，在日本本州岛（北纬35.9",
-     "source": "东方财富股票",
-     "zh": "日本本州岛5.8级地震已致多人受伤"
-    },
-    {
-     "title": "美国提议将加拿大大部分钢铁产品关税下调至25%",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850229518.html",
-     "pubDate": "Sun, 23 Aug 2026 05:27:29 +0800",
-     "summary": "美国提议将加拿大大部分 钢铁 产品关税下调至25%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国提议将加拿大大部分钢铁产品关税下调至25%"
-    },
-    {
-     "title": "美国贸易代表格里尔驳斥加拿大总理卡尼有关美国报价诚意不足的说法",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850229420.html",
-     "pubDate": "Sun, 23 Aug 2026 05:27:29 +0800",
-     "summary": "美国贸易代表格里尔驳斥加拿大总理卡尼有关美国报价诚意不足的说法。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国贸易代表格里尔驳斥加拿大总理卡尼有关美国报价诚意不足的说法"
-    },
-    {
-     "title": "美国贸易代表格里尔：美国原本可以暂停针对加拿大乳制品、葡萄酒的50%关税",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850229384.html",
-     "pubDate": "Sun, 23 Aug 2026 05:27:29 +0800",
-     "summary": "美国贸易代表格里尔：美国原本可以暂停针对加拿大乳制品、葡萄酒的50%关税。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国贸易代表格里尔：美国原本可以暂停针对加拿大乳制品、葡萄酒的50%关税"
-    },
-    {
-     "title": "美国提议把（加拿大）铝产品关税由50%降至25%",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850229231.html",
-     "pubDate": "Sun, 23 Aug 2026 05:27:29 +0800",
-     "summary": "美国提议把（加拿大） 铝 产品关税由50%降至25%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国提议把（加拿大）铝产品关税由50%降至25%"
-    },
-    {
-     "title": "上海写字楼市场结构性分化加剧 超甲级办公楼未来五年复合增长率看涨6％",
-     "link": "http://finance.eastmoney.com/news/1348,202608233850222628.html",
-     "pubDate": "Sun, 23 Aug 2026 05:20:00 +0800",
-     "summary": "上海甲级写字楼“3+5”评价体系。图源： 仲量联行 2026年上半年，上海写字楼市场呈现显著结构性回暖，市场供需持续修复、活跃度稳步提升，行业层级分化加剧，超甲级办公楼成为市场复苏的核心支撑。 多家研究机构近期发布的行业数据共同印证，今年上半年上海 商业地产 复苏态势明确，写字楼净吸纳量同比大涨83%，大宗不动产成交总额同比攀升47%，市场底部企稳特征持续强化。而在行业整体温和修复的大背景下， 仲量联行 市场白皮书数据显示，依托“3+5”评价体系界定的超甲级办公楼逆势突围，年内近七成项目租金实现企稳或上涨。 仲量联行 中国区首席执行官张静向《华夏时报》记者表示，城市能级的系统性跃升，正深刻重塑",
-     "source": "东方财富股票",
-     "zh": "上海写字楼市场结构性分化加剧 超甲级办公楼未来五年复合增长率看涨6％"
-    },
-    {
      "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
      "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
      "pubDate": "Sat, 22 Aug 2026 20:45:00 GMT",
@@ -2479,6 +2431,54 @@
      "summary": "美伊紧张局势仍在持续，但市场关注点正逐步从军事风险转向经济制裁，以及其对全球原油供应格局的影响。 据新华社，美国财政部长贝森特20日表示，特朗普政府将加大对伊朗经济施压，并威胁对伊朗实施“前所未有的经济孤立”措施。他称，特朗普政府重创伊朗经济的计划可能使美国无需再对伊朗发动大规模军事行动。随着制裁力度可能升级，其对伊朗原油出口的影响正成为市场关注的新变量。 与此同时，霍尔木兹海峡的可见油轮流量仍明显低于冲突前水平，但“暗流”运输正在部分填补缺口。瑞银调研数据显示， 过去一周霍尔木兹海峡整体石油流量仍略高于600万桶/日，其中暗光运输规模升至约500万至600万桶/日，显示实际原油过境量受到的冲",
      "source": "华尔街见闻",
      "zh": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶"
+    },
+    {
+     "title": "从濒临出局到市值暴涨440亿美元：Moderna的癌症疫苗十年豪赌",
+     "link": "https://wallstreetcn.com/articles/3780064",
+     "pubDate": "Sat, 22 Aug 2026 20:49:53 +0800",
+     "summary": "Moderna正押注癌症疫苗，试图为公司打开第二增长曲线。 8月19日，Moderna公布了与默克共同开发的个性化mRNA黑色素瘤疫苗关键临床结果。 数据显示，与单独使用Keytruda相比，这一疗法可将高风险黑色素瘤患者复发或死亡风险降低44%。消息公布后，Moderna股价大涨，公司市值一度增加约440亿美元。 两天后，《华尔街日报》8月21日的一篇深度报道还原了结果公布当天的现场：Moderna总部4500名员工临时聚集到公司餐厅，等待管理层宣布这个酝酿了十余年的结果。CEO Stéphane Bancel甚至拿着卡片发言；有人拥抱、落泪，现场还开了香槟。 对Moderna而言，这不仅是",
+     "source": "华尔街见闻",
+     "zh": "从濒临出局到市值暴涨440亿美元：Moderna的癌症疫苗十年豪赌"
+    },
+    {
+     "title": "海外收入减少11%，泡泡玛特王宁：2026是调整年",
+     "link": "http://www.eeo.com.cn/2026/0822/1007956.shtml",
+     "pubDate": "Sat, 22 Aug 2026 20:32:03 +0800",
+     "summary": "2026年销售额增长并不是泡泡玛特最主要的目标，相较于短期业绩，王宁更关注公司治理和经营的健康程度。司德称，海外开店已经由扩大网络覆盖进入“质量远大于数量”的阶段。",
+     "source": "经济观察网",
+     "zh": "海外收入减少11%，泡泡玛特王宁：2026是调整年"
+    },
+    {
+     "title": "座位是给人坐的，而不是用来放零食的",
+     "link": "http://www.eeo.com.cn/2026/0822/1007955.shtml",
+     "pubDate": "Sat, 22 Aug 2026 20:29:05 +0800",
+     "summary": "在这个案件中，两名女孩在资源最紧张、人群最密集的硬座车厢里，不选择向上购买高等级席别，反而选择通过“横向买断数量”的方式来圈地放行李和零食。这种行为本质上是用最低的成本去获得最大的收益。 如果“横向买断”在基础车厢里是完全合法的，铁路还要商务座和一等座干什么；是不是只要有钱，一个人就可以买下一整排二等座横躺着放零食，而让其他买不到票的普通人被迫去车厢连接处站立？这不只是管理上的倒退，更是对客运价格分级逻辑的自我否定。",
+     "source": "经济观察网",
+     "zh": "座位是给人坐的，而不是用来放零食的"
+    },
+    {
+     "title": "BAT的云生意：猛砸钱，缓回收",
+     "link": "http://www.eeo.com.cn/2026/0822/1007953.shtml",
+     "pubDate": "Sat, 22 Aug 2026 20:13:45 +0800",
+     "summary": "需求猛涨，供给仍紧，算力从自用成本变成可出售的商品，云厂商们试图在财报中讲出新故事。",
+     "source": "经济观察网",
+     "zh": "BAT的云生意：猛砸钱，缓回收"
+    },
+    {
+     "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
+     "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
+     "pubDate": "Sat, 22 Aug 2026 12:00:01 GMT",
+     "summary": "From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.",
+     "source": "CNBC",
+     "zh": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers"
+    },
+    {
+     "title": "贝森特\"工具箱\"难敌油价与消费疲软双重夹击，高盛：“市场弥漫着滞胀的味道”",
+     "link": "https://wallstreetcn.com/articles/3780062",
+     "pubDate": "Sat, 22 Aug 2026 18:50:50 +0800",
+     "summary": "贝森特这周忙着给债市“灭火”，但市场似乎并不买账。 美国财政部长贝森特连续释放政策信号，试图通过国债回购、财政整合等手段压低长端美债收益率，但10年期、30年期美债收益率短暂下行后迅速反弹。与此同时，油价单周飙升逾7%，黄金上涨约3.5%，美元走弱，沃尔玛等消费数据也释放降温信号。 债市不肯降、油价却在涨，消费又开始走弱——多项资产同时异动，市场正在重新交易“滞胀”逻辑。 高盛单一Delta交易台负责人Rich Privorotsky直言，当前跨资产市场已经“弥漫着滞胀的味道”。 在他看来，贝森特手中的政策“工具箱”虽然庞大，但要同时应对长端利率、财政赤字、能源价格和消费疲软，难度正在上升。 ",
+     "source": "华尔街见闻",
+     "zh": "贝森特\"工具箱\"难敌油价与消费疲软双重夹击，高盛：“市场弥漫着滞胀的味道”"
     }
    ]
   },
