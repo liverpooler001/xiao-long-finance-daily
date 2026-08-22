@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/22 13:49:53",
+ "generated_at": "2026/8/22 14:18:16",
  "recent_days": 7,
  "industries": [
   {
@@ -74,20 +74,20 @@ window.INDUSTRY_DATA = {
      "zh": "使用 llama.cpp、DFlash 和 Pi 运行 Muse Glimmer 进行本地 Vibe 编码"
     },
     {
-     "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-     "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-     "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
-     "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a y",
-     "source": "TechCrunch AI",
-     "zh": "美国司法部正在调查 a16z。这对风险投资意味着什么？"
-    },
-    {
      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
      "summary": "There's about to be a big fight to secure access to space.",
      "source": "TechCrunch AI",
      "zh": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元"
+    },
+    {
+     "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+     "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+     "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+     "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a y",
+     "source": "TechCrunch AI",
+     "zh": "美国司法部正在调查 a16z。这对风险投资意味着什么？"
     },
     {
      "title": "5 Real-World Use Cases for AI Agents Transforming Industries",
@@ -271,7 +271,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 22 Aug 2026 01:08:56 GMT",
      "summary": "For all the extraordinary progress made by artificial intelligence, the physical world remains stubbornly difficult to automate.",
      "source": "DIGITIMES",
-     "zh": "台北自动化 2026：如果人工智能发展得如此之快，为什么工厂车间仍然很难实现自动化？"
+     "zh": "台北自动化2026：如果人工智能发展得如此之快，为什么工厂车间仍然很难实现自动化？"
     },
     {
      "title": "Supermicro's internal probe clears senior management in export-control case",
@@ -279,7 +279,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 22 Aug 2026 01:08:33 GMT",
      "summary": "Super Micro Computer (NASDAQ: SMCI) said Thursday that an internal investigation run by its independent directors found no evidence that any current senior manager knew of an alleged scheme to divert export-controlled products &mdash; the conduct at the center of a March federal indictment of two Su",
      "source": "DIGITIMES",
-     "zh": "美超微的内部调查证实高级管理层在出口管制案件中无罪"
+     "zh": "美超微的内部调查证实了高级管理层在出口管制案件中的清白"
     },
     {
      "title": "America's launch boom runs into a capacity problem as White House targets 1,000 annual space launches",
@@ -306,6 +306,14 @@ window.INDUSTRY_DATA = {
      "zh": "专栏：中国华电电算协调模式的供应链韧性经验教训"
     },
     {
+     "title": "China’s NAND Specialist YMTC Moves Closer to IPO",
+     "link": "https://www.eetimes.com/chinas-nand-specialist-ymtc-moves-closer-to-ipo/",
+     "pubDate": "Fri, 21 Aug 2026 18:00:00 +0000",
+     "summary": "YMTC must raise capital to explore demand for AI-driven memory while balancing domestic and overseas markets. The post China’s NAND Specialist YMTC Moves Closer to IPO appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "中国NAND专家长江存储距离IPO更近了"
+    },
+    {
      "title": "How TSMC Is Wiring the AI Era With Light",
      "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/372488-how-tsmc-is-wiring-the-ai-era-with-light/",
      "pubDate": "Fri, 21 Aug 2026 17:00:18 +0000",
@@ -314,12 +322,20 @@ window.INDUSTRY_DATA = {
      "zh": "台积电如何用光连接AI时代"
     },
     {
-     "title": "China’s NAND Specialist YMTC Moves Closer to IPO",
-     "link": "https://www.eetimes.com/chinas-nand-specialist-ymtc-moves-closer-to-ipo/",
-     "pubDate": "Fri, 21 Aug 2026 13:51:09 +0000",
-     "summary": "YMTC must raise capital to explore demand for AI-driven memory while balancing domestic and overseas markets. The post China’s NAND Specialist YMTC Moves Closer to IPO appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "中国NAND专家长江存储距离IPO更近了"
+     "title": "Android XR advances as Jetpack XR SDK core libraries reach beta",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 14:39:56 +0000",
+     "summary": "Google is announcing that its Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries are officially in beta status. And Jetpack Compose is to follow soon, it says. Basically, […] The post Android XR advances as Jetpack XR SDK core libraries reach beta appeared first on Electronics Weekly",
+     "source": "Electronics Weekly",
+     "zh": "随着 Jetpack XR SDK 核心库进入测试版，Android XR 不断进步"
+    },
+    {
+     "title": "Exotic Materials Adding Cost To Semis",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/exotic-materials-adding-cost-to-semis-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 13:30:13 +0000",
+     "summary": "19 years ago the chip industry was facing a similar problem to today – the need for, and rising cost of, exotic materials. ‘Semiconductor firms are facing critical pricing choices […] The post Exotic Materials Adding Cost To Semis appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "特殊材料增加了半成品的成本"
     },
     {
      "title": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics",
@@ -328,6 +344,30 @@ window.INDUSTRY_DATA = {
      "summary": "Intel is considering a return to memory technology decades after abandoning mainstream DRAM and, more recently, selling its NAND business. Chief executive Lip-Bu Tan has argued that memory should no longer be viewed simply as a low-margin commodity. Artificial intelligence is turning bandwidth, late",
      "source": "SemiWiki",
      "zh": "随着人工智能重写芯片经济，英特尔着眼于内存卷土重来"
+    },
+    {
+     "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
+     "link": "https://www.electronicsweekly.com/news/saildrone-lockheed-martin-demonstrate-live-fire-from-usv-platform-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 10:30:33 +0000",
+     "summary": "Lockheed Martin is highlighting a successful collaboration with Saildrone, a specialist in maritime autonomous systems. USV Basically, an unmanned surface vehicle (USV) was equipped with lethal defence technology, the live-fire […] The post Saildrone, Lockheed Martin demonstrate live-fire from USV p",
+     "source": "Electronics Weekly",
+     "zh": "Saildrone 和洛克希德·马丁公司演示 USV 平台的实弹射击"
+    },
+    {
+     "title": "JEDEC to host Automotive Electronics Forum",
+     "link": "https://www.electronicsweekly.com/news/business/jedec-to-host-automotive-electronics-forum-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 09:17:49 +0000",
+     "summary": "The JEDEC Solid State Technology Association has announced that it is hosting an Automotive Electronics Forum. The event will take place on 17 September 2026 in Santa Clara, California. The […] The post JEDEC to host Automotive Electronics Forum appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "JEDEC 将主办汽车电子论坛"
+    },
+    {
+     "title": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 09:05:07 +0000",
+     "summary": "There's the next frontier of advanced optoelectronics, Samsung Foundry putting back its 1.4nm process to 2029, and Vishay sampling a short distance VCSEL-based proximity sensor... The post Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "最常阅读 - Feynman GPU、Vishay 传感器、光电设备"
     },
     {
      "title": "The Human Brain Versus AI: Similar Results, Very Different Machines",
@@ -344,6 +384,14 @@ window.INDUSTRY_DATA = {
      "summary": "New Micron lab; chip/AI price jump; multi-die monitoring; cryo links for quantum chips; interconnect RC bottleneck; 18A win; CPO roadmap; 2 new CEOs; humanoid readiness gap; Hot Interconnects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "White House looking for 1000 rocket launches a year",
+     "link": "https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 05:17:57 +0000",
+     "summary": "Yesterday US President Donald Trump signed a memo aimed at enabling 1,000 US rocket launches and re-entries a year – up from 178 launches in 2025. The memo requires agencies […] The post White House looking for 1000 rocket launches a year appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "白宫希望每年发射1000次火箭"
     },
     {
      "title": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes",
@@ -399,7 +447,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
      "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
      "source": "Semiconductor Today",
-     "zh": "Micross 收购 AEMtec，将业务拓展至欧洲"
+     "zh": "Micross 收购 AEMtec，将触角扩展到欧洲"
     },
     {
      "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
@@ -439,7 +487,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 20 Aug 2026 07:02:04 +0000",
      "summary": "Reducing manufacturing-related emissions may support lowering the embedded carbon footprint of the chips customers use in their products. The post Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
-     "zh": "通过可持续发展和创新为客户减少范围 3 价值链排放"
+     "zh": "通过可持续发展和创新减少客户范围 3 价值链排放"
     },
     {
      "title": "Three Strategic Imperatives For Energy-Efficient AI Computing",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "节能人工智能计算的三大战略要务"
-    },
-    {
-     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
-     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
-     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
-     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "安第斯秃鹰关闭是在更广泛的成本削减努力中进行的"
-    },
-    {
-     "title": "HexSeed raises over £600,000 in early-stage funding",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/hexseed-190826.shtml",
-     "pubDate": "Wed, 19 Aug 2026 21:03:33 +0100",
-     "summary": "HexSeed Technology Ltd of Banchory, near Aberdeen, Scotland, UK has raised more than £600,000 in an early-stage funding round led by Carbon13, with participation from Net Zero Technology Centre and Vento Ventures. The cumulative investment unlocks a Partnership Grant from overnment agency Innovate U",
-     "source": "Semiconductor Today",
-     "zh": "HexSeed 筹集了超过 60 万英镑的早期资金"
-    },
-    {
-     "title": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/clas-sic-190826.shtml",
-     "pubDate": "Wed, 19 Aug 2026 20:50:08 +0100",
-     "summary": "Clas-SiC Wafer Fab Ltd of Lochgelly, Fife, Scotland — which was founded in 2017 and is the UK’s only commercial wafer fabrication facility dedicated to silicon carbide (SiC) — is one of the first recipients of Scottish Enterprise’s new Capital Grant, which has been designed to help drive levels of b",
-     "source": "Semiconductor Today",
-     "zh": "Clas-SiC 获得 190 万英镑苏格兰企业资本补助金，作为 1200 万英镑投资的一部分"
-    },
-    {
-     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
-     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
-     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
-     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "IBM 将量子低温学模块化，但扩展问题仍然存在"
-    },
-    {
-     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
-     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
-     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
-     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "在 Arduino® UNO™ Q 板上运行本地法学硕士：实用指南"
-    },
-    {
-     "title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
-     "link": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
-     "pubDate": "Sat, 15 Aug 2026 13:00:01 +0000",
-     "summary": "Supply chains in many industries are full of tangles, but for semiconductor tech, that’s putting it lightly. Many chip components are location-constrained and can easily be throttled by geopolitical factors. Chipmaking is also tied up with social and environmental concerns, and if any seemingly smal",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "共同地球项目旨在消除芯片供应链瓶颈"
     }
    ]
   },
@@ -1071,7 +1071,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 12:21:49 +0000",
      "summary": "China’s polysilicon market showed early signs of stabilization, while wafer prices jumped sharply on stronger downstream demand and increased overseas purchasing. The post Chinese PV Industry Brief: polysilicon market shows tentative recovery as wafer prices surge appeared first on pv magazine Globa",
      "source": "pv magazine",
-     "zh": "中国光伏行业简报：硅片价格飙升，多晶硅市场出现初步复苏"
+     "zh": "中国光伏行业简报：硅片价格飙升，多晶硅市场呈现初步复苏"
     },
     {
      "title": "Daqo New Energy narrows Q2 losses, resumes sales below cost",
@@ -1135,7 +1135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 16:10:33 +0000",
      "summary": "By using chemical signals to guide cells to adopt distinct regional identities, scientists created lab-grown human organoids that mimic early brain development and could illuminate how specialized brain areas emerge. The post Lab-Grown Neocortex Models Mimic Early Brain Organization appeared first o",
      "source": "GEN",
-     "zh": "实验室培育的新皮质模型模仿早期大脑组织"
+     "zh": "实验室培养的新皮质模型模仿早期大脑组织"
     },
     {
      "title": "From Models to Agents: The Next Phase of AI Adoption in Molecular Discovery",
@@ -1439,7 +1439,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 04:01:00 +0000",
      "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
      "source": "NASA",
-     "zh": "欧洲炎热的夏天"
+     "zh": "欧洲炎热的夏季"
     },
     {
      "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
@@ -1583,7 +1583,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 11:55:15 -0400",
      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
      "source": "BleepingComputer",
-     "zh": "数百个泄露的 AWS 密钥可完全控制企业账户"
+     "zh": "数百个泄露的 AWS 密钥可完全控制企业帐户"
     },
     {
      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -1746,6 +1746,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "小米最高画质：小米首款 RGB-Mini LED 电视开启盲订",
+     "link": "https://www.ithome.com/0/992/988.htm",
+     "pubDate": "Sat, 22 Aug 2026 06:16:12 GMT",
+     "summary": "IT之家 8 月 22 日消息，小米电视 S Pro RGB-Mini LED 2027 至尊版于今天（8 月 22 日）开启盲订， 这是小米第一款采用 RGB-Mini LED 背光的电视。 用户在 2026 年 8 月 22 日的 10:00 到 9 月 1 日 23:59 期间，前往小米之家支付 100 元，可以预约小米电视 S Pro RGB-Mini LED 2027 至尊版，并赠送价值 1399 元小米电视音响 3.1 一台和价值 148 元小米影视 VIP 会员季卡一张，合计 1547 元大礼。 IT之家附上相关截图如下: 普通 Mini LED 是“白光 + 滤光片”，使用单色",
+     "source": "IT之家",
+     "zh": "小米最高画质：小米首款 RGB-Mini LED 电视开启盲订"
+    },
+    {
+     "title": "小米大家电总经理单联瑜调研“洗鞋机”：最希望它具备什么能力",
+     "link": "https://www.ithome.com/0/992/987.htm",
+     "pubDate": "Sat, 22 Aug 2026 06:11:52 GMT",
+     "summary": "IT之家 8 月 22 日消息，小米集团大家电部总经理单联瑜今日发文，称最近在研究一个呼声很高的产品：洗鞋机，并发起投票“ 如果有一台洗鞋机，你最希望它具备什么能力？ ”。 他写道：“想先听听大家真实的需求。现在大家平时都是怎么洗鞋的？自己刷、送去洗鞋店，还是直接扔洗衣机？如果真的做一台专门洗鞋的机器，你最希望它解决什么问题？” IT之家注意到，目前市面上的全自动洗鞋机 是在 波轮洗衣机 的概念上加以演化升级而来，其主要结构是在内桶的波轮上增加了洗鞋毛刷，在机器运转时通过毛刷与鞋的摩擦来达到洗鞋效果。而 喷淋式洗鞋机可以利用高压水流立体喷淋洗鞋，使水流渗透纤维内部，有效去除更深层次的污垢。 d",
+     "source": "IT之家",
+     "zh": "小米大家电总经理单联瑜调研“洗鞋机”：最希望它具备什么能力"
+    },
+    {
+     "title": "Rundoo, a provider of AI-powered business operations software for independent supply stores, raised a $30M Series B led by Battery Ventures (Mike Wheatley/SiliconANGLE)",
+     "link": "https://www.techmeme.com/260822/p3#a260822p3",
+     "pubDate": "Sat, 22 Aug 2026 02:00:35 -0400",
+     "summary": "Mike Wheatley / SiliconANGLE : Rundoo, a provider of AI-powered business operations software for independent supply stores, raised a $30M Series B led by Battery Ventures &nbsp; &mdash;&nbsp; Rundoo Inc., the creator of an artificial intelligence-native system-of-record for independent supply stores",
+     "source": "Techmeme",
+     "zh": "Rundoo 是一家为独立供应商店提供人工智能驱动的业务运营软件的提供商，筹集了由 Battery Ventures（Mike Wheatley/SiliconANGLE）领投的 3000 万美元 B 轮融资"
+    },
+    {
+     "title": "乘联分会崔东树：2026 年 1~7 月我国汽车出口 1108 亿美元，同比增 55%",
+     "link": "https://www.ithome.com/0/992/986.htm",
+     "pubDate": "Sat, 22 Aug 2026 05:58:03 GMT",
+     "summary": "IT之家 8 月 22 日消息，乘联分会秘书长崔东树今天（8 月 22 日）发布博文，表示基于海关总署数据，2026 年 1~7 月中国商品贸易出口额为 25,237 亿美元 （IT之家注：现汇率约合 17 万亿元人民币） ，同比增长 18%。 崔东树指出 2026 年 7 月我国汽车出口 190 亿美元 （现汇率约合 1,280.19 亿元人民币） ，同比增长 60%； 2026 年 1~7 月汽车出口达到 1,108 亿美元 （现汇率约合 7,465.54 亿元人民币） ，同比增长 55%。 图源：乘联分会秘书长崔东树 汽车出口近几年从出口方面表现极其优秀，从 2021 年的 345 亿美",
+     "source": "IT之家",
+     "zh": "乘联分会崔东树：2026 年 1~7 月我国汽车出口 1108 亿美元，同比增 55%"
+    },
+    {
+     "title": "新石器 CEO 余恩源：目标构建由 1000 万辆无人车和 1 亿个机器人组成的无人物流网络",
+     "link": "https://www.ithome.com/0/992/985.htm",
+     "pubDate": "Sat, 22 Aug 2026 05:57:53 GMT",
+     "summary": "IT之家 8 月 22 日消息，据凤凰网科技报道，在 2026 世界机器人大会论坛上，新石器创始人兼 CEO 余恩源首次系统阐释了公司定位从“自动驾驶”向“机器人公司”的转变。 余恩源透露，截至 8 月 20 日， 新石器无人驾驶累计运营里程已突破 2.2 亿公里 ，日新增里程超 100 万公里，目前无人车数量超过 2.7 万辆，居全球同类车队首位。按计划，今年底车队规模将突破 5 万辆，明年预计增至 15 万辆。 余恩源将物流成本拆解为运输、装卸、搬运三个环节。他认为，自动驾驶仅解决运输问题，而装卸和搬运需依赖机器人，因此新石器正将无人车技术延伸至室内小机器人产品， 目标是构建由 1000 ",
+     "source": "IT之家",
+     "zh": "新石器 CEO 余恩源：目标构建由 1000 万辆无人车和 1 亿个机器人组成的无人物流网络"
+    },
+    {
      "title": "消息称荣耀计划推出独立的手持云台相机",
      "link": "https://www.ithome.com/0/992/983.htm",
      "pubDate": "Sat, 22 Aug 2026 05:43:56 GMT",
@@ -1762,36 +1802,12 @@ window.INDUSTRY_DATA = {
      "zh": "乘联分会预估 8 月国内狭义乘用车零售 158.0 万辆环比增 8.1%，新能源渗透率 65.1%"
     },
     {
-     "title": "荣耀机器人闪电百米跑出 9 秒 32，打破人类记录",
-     "link": "https://www.ithome.com/0/992/981.htm",
-     "pubDate": "Sat, 22 Aug 2026 05:34:15 GMT",
-     "summary": "8 月 22 日，第二届世界人形机器人运动会在北京拉开帷幕。根据最新消息，在本届运动会竞速项目的备赛环节，来自荣耀战队的机器人“闪电”完成百米测试，录得成绩 9 秒 32、峰值速度 14.5 米 / 秒，再度刷新此前 9 秒 58 的人类百米世界纪录。 本届运动会由北京市人民政府、中央广播电视总台等联合主办，共设 50 个赛项。与首届相比，本届要求更严：除 100 米、400 米障碍赛外，其余项目均需全自主完成，三个竞速项目的完赛时间也压缩至 1 分钟、5 分钟和 15 分钟。 按照赛程，荣耀战队的闪电将分别参加 100 米、400 米大型组和 1500 米三个竞速项目，从 8 月 22 日晚",
-     "source": "IT之家",
-     "zh": "荣耀机器人闪电百米跑出 9 秒 32，打破人类记录"
-    },
-    {
      "title": "OpenAI President Greg Brockman&apos;s role has expanded significantly, giving him control over its product and scaling teams following a wave of executive departures (Hayden Field/The Verge)",
      "link": "https://www.techmeme.com/260822/p2#a260822p2",
      "pubDate": "Sat, 22 Aug 2026 01:25:01 -0400",
      "summary": "Hayden Field / The Verge : OpenAI President Greg Brockman's role has expanded significantly, giving him control over its product and scaling teams following a wave of executive departures &nbsp; &mdash;&nbsp; OpenAI has had a hell of a year.&nbsp; The company spent months battling former cofounder E",
      "source": "Techmeme",
      "zh": "OpenAI 总裁 Greg Brockman 的角色显着扩大，在高管离职浪潮之后，他能够控制其产品并扩大团队规模（Hayden Field/The Verge）"
-    },
-    {
-     "title": "北京越野泰钽 700 将于 8 月 25 日上市：搭载华为乾崑智驾 ADS 5，预售价 29.98 万元起",
-     "link": "https://www.ithome.com/0/992/980.htm",
-     "pubDate": "Sat, 22 Aug 2026 05:22:34 GMT",
-     "summary": "IT之家 8 月 22 日消息，北京越野官方在答网友问中透露，泰钽 700 将于 8 月 25 日正式上市。 据IT之家此前报道， 北京越野泰钽 700 于 7 月 21 日预售 ，预售价 29.98 万元起： 豪华版：29.98 万元 乾崑旗舰版：33.98 万元 乾崑巅峰版：38.98 万元 据介绍， 泰钽 700 首批搭载华为乾崑智驾 ADS 5 ，配备 896 线双光路图像级激光雷达，支持 AEB、RAEB、CAS 5.0 全维防碰撞等。该车还拥有华为乾崑全维融合感知系统，前向有 13 个传感器、侧向有 6 个传感器、后向有 11 个传感器。 新车定位中大型豪华越野 SUV，尺寸为 5",
-     "source": "IT之家",
-     "zh": "北京越野泰钽 700 将于 8 月 25 日上市：搭载华为乾崑智驾 ADS 5，预售价 29.98 万元起"
-    },
-    {
-     "title": "上映 36 天，电影《八仙！》总票房破 17 亿",
-     "link": "https://www.ithome.com/0/992/979.htm",
-     "pubDate": "Sat, 22 Aug 2026 05:21:00 GMT",
-     "summary": "IT之家 8 月 22 日消息，@猫眼电影 今天（8 月 22 日）发布微博，根据猫眼专业版数据， 电影《八仙！》 上映 36 天，总票房破 17 亿。 IT之家附上微博内容如下： #电影八仙总票房破17亿# #电影八仙# &nbsp;累计票房突破 17 亿！八个凡人携手并肩，历经风雨磨难，不改赤诚底色。喜剧表象之下藏着温热细腻的情义内核，叙事张弛有度，群像刻画格外出彩。 观众真情评价：“欢乐与感动并存，全员人设出彩，既有酣畅的打斗，也有直抵心底的温情！”神仙喜剧动画大片#电影八仙# 为四川省电影局支持项目，由牟正洋担任导演及编剧，由东方梦工厂西南总部成都画梦成帧影视文化传媒有限公司、上海华人",
-     "source": "IT之家",
-     "zh": "上映 36 天，电影《八仙！》总票房破 17 亿"
     },
     {
      "title": "磷化铟缺货真相",
@@ -1802,14 +1818,6 @@ window.INDUSTRY_DATA = {
      "zh": "磷化铟缺货真相"
     },
     {
-     "title": "雷军：川渝往返 700km 续航挑战十车 PK，小米 SU7 Pro 续航 CLTC 排第四、实测排第一",
-     "link": "https://www.ithome.com/0/992/977.htm",
-     "pubDate": "Sat, 22 Aug 2026 05:00:51 GMT",
-     "summary": "IT之家 8 月 22 日消息，小米创办人，董事长兼 CEO 雷军今天（8 月 22 日）发布微博，称在川渝往返 700km 续航挑战中， 小米 SU7 跑出了全场最高的真实续航和真实达成率，续航超过了 700km，达成率超过了 80%。 雷军在微博中表示：“十车 PK，小米 SU7 Pro 续航，CLTC 排第四，实测排第一。” 在另一条微博中写道： 川渝往返 700km 续航挑战，高速 + 山区路况，十台热门长续航纯电车。小米 SU7 跑出了全场最高的真实续航和真实达成率，续航超过了 700km，达成率超过了 80%。小米 YU7 表现也非常出色。 IT之家附上相关截图如下：",
-     "source": "IT之家",
-     "zh": "雷军：川渝往返 700km 续航挑战十车 PK，小米 SU7 Pro 续航 CLTC 排第四、实测排第一"
-    },
-    {
      "title": "Following abandoned IPO attempts in NYC and London, Shein is struggling to grow as it nears a Hong Kong listing at a fraction of its peak valuation of $100B (Sui-Lee Wee/New York Times)",
      "link": "https://www.techmeme.com/260822/p1#a260822p1",
      "pubDate": "Sat, 22 Aug 2026 01:00:13 -0400",
@@ -1818,12 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "在纽约和伦敦放弃 IPO 尝试后，Shein 在香港上市时正苦苦挣扎，其估值仅为 100B 美元峰值的一小部分（Sui-Lee Wee/纽约时报）"
     },
     {
-     "title": "4 in 10 travellers visit tourist sites to capture social media content",
-     "link": "https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content",
-     "pubDate": "Sat, 22 Aug 2026 04:42:19 +0000",
-     "summary": "Article URL: https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content Comments URL: https://news.ycombinator.com/item?id=49396620 Points: 32 # Comments: 31",
+     "title": "GPT 5.6 Sol 20% price reduction",
+     "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+     "pubDate": "Sat, 22 Aug 2026 04:33:06 +0000",
+     "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 10 # Comments: 5",
      "source": "Hacker News",
-     "zh": "十分之四的旅行者访问旅游景点是为了捕捉社交媒体内容"
+     "zh": "GPT 5.6 Sol 降价 20%"
     },
     {
      "title": "半年净利暴增700倍，江波龙红利期会持续多久？",
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "There's no reason for software to be slow anymore",
      "link": "https://danluu.com/perf-opt/",
      "pubDate": "Sat, 22 Aug 2026 01:06:17 +0000",
-     "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 243 # Comments: 177",
+     "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 274 # Comments: 189",
      "source": "Hacker News",
      "zh": "软件没有理由再慢了"
     },
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
      "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
      "pubDate": "Sat, 22 Aug 2026 01:02:09 +0000",
-     "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 62 # Comments: 23",
+     "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 78 # Comments: 26",
      "source": "Hacker News",
      "zh": "我们与摩托罗拉合作的最初重点是常规非折叠设备"
     },
@@ -1970,18 +1978,10 @@ window.INDUSTRY_DATA = {
      "zh": "亚马逊提高了 Echo 智能音箱、Fire TV 系列、Kindle 设备和 eero 网状网络系统的价格，以抵消内存和存储成本的增加（Sebastian Herrera/财富）"
     },
     {
-     "title": "Helcim, a payments processor for SMBs, raised a CA$53M Series C led by Business Development Bank of Canada&apos;s Growth Venture Fund at a CA$250M valuation (Madison McLauchlan/BetaKit)",
-     "link": "https://www.techmeme.com/260821/p30#a260821p30",
-     "pubDate": "Fri, 21 Aug 2026 19:55:00 -0400",
-     "summary": "Madison McLauchlan / BetaKit : Helcim, a payments processor for SMBs, raised a CA$53M Series C led by Business Development Bank of Canada's Growth Venture Fund at a CA$250M valuation &nbsp; &mdash;&nbsp; Calgary company reaches $250-million valuation, hopes to grow after Moneris sells to US private ",
-     "source": "Techmeme",
-     "zh": "中小企业支付处理商 Helcim 筹集了 5300 万加元的 C 轮融资，由加拿大商业发展银行成长风险基金领投，估值为 2.5 亿加元（Madison McLauchlan/BetaKit）"
-    },
-    {
      "title": "HN: The Good Parts (2016)",
      "link": "https://danluu.com/hn-comments/",
      "pubDate": "Fri, 21 Aug 2026 23:53:03 +0000",
-     "summary": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 32 # Comments: 8",
+     "summary": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 38 # Comments: 8",
      "source": "Hacker News",
      "zh": "HN：好的部分 (2016)"
     }
@@ -2071,7 +2071,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 21:53:33 +0000",
      "summary": "Save $60 on the Insignia 32-inch Fire TV and get built-in Fire TV plus an Alexa Voice Remote for just $69.99.",
      "source": "Android Authority",
-     "zh": "Insignia 32 英寸 Fire TV 降至 69.99 美元——对于第二块屏幕来说，这个价格非常划算"
+     "zh": "Insignia 32 英寸 Fire TV 降至仅 69.99 美元——对于第二块屏幕来说非常划算"
     },
     {
      "title": "Amazon drops the Logitech G309 Lightspeed mouse to a record-low $34.99",
@@ -2242,52 +2242,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "荣耀机器人闪电百米跑出9秒32 破人类百米纪录",
-     "link": "http://finance.eastmoney.com/news/1354,202608223850158379.html",
-     "pubDate": "Sat, 22 Aug 2026 13:41:48 +0800",
-     "summary": "在第二届世界人形 机器人 运动会备赛环节，荣耀 机器人 闪电完成百米测试，取得成绩9秒32，峰值速度达到14.5米/秒，再度刷新此前9秒58的人类百米世界纪录，即将参与大赛100米、400米、1500米竞逐。 （文章来源：人民财讯）",
+     "title": "特朗普称不会放弃对伊朗的军事选项",
+     "link": "http://finance.eastmoney.com/news/1351,202608223850159981.html",
+     "pubDate": "Sat, 22 Aug 2026 14:07:11 +0800",
+     "summary": "美国总统特朗普21日在马里兰州安德鲁斯联合基地接受媒体采访时说，美国对伊朗转向“经济战”并不意味着美对伊军事选项受到限制。 当被问及美国在该地区的军事选项是否会因美方对伊转向“经济战”而受到限制时，特朗普称：“不，完全不会。这意味着我们在观察事态的发展。”他同时声称，美方对伊朗边境拥有完全的控制，包括“深入内陆的陆地”,因此伊朗方面非常想达成协议，“但在我看来，他们还没有准备好达成正确的协议”。 此外，在南卡罗来纳州一场公开活动上，特朗普重申必须阻止伊朗发展核武器。他声称，伊方“非常想达成协议”，但美方“不确定是否想要达成协议，因为我现在将霍尔木兹海峡视为美国领土。” 由于与伊朗的谈判停滞，特",
      "source": "东方财富股票",
-     "zh": "荣耀机器人闪电百米跑出9秒32 破人类百米纪录"
+     "zh": "特朗普称不会放弃对伊朗的军事选项"
     },
     {
-     "title": "俄外交部：西方机构直接调查问询俄国内法人“违法”",
-     "link": "http://global.eastmoney.com/news/11798,202608223850158887.html",
-     "pubDate": "Sat, 22 Aug 2026 13:40:25 +0800",
-     "summary": "俄罗斯外交部发言人扎哈罗娃21日表示，西方不友好国家的执法机构绕开俄主管机构、直接调查问询俄国内法人的行为，违反俄刑法，俄已针对此种行为修订法律条款。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "俄外交部：西方机构直接调查问询俄国内法人“违法”"
+     "title": "宁德时代盯上储能“小单”",
+     "link": "https://wallstreetcn.com/articles/3780057",
+     "pubDate": "Sat, 22 Aug 2026 14:02:39 +0800",
+     "summary": "在大储市场已经领先的宁德时代，加速推进做中小集成商的生意。 8月21日，“宁德时代商城”微信小程序上线。平台面向储能集成商销售原厂产品，目前在售280Ah（1P）和314Ah两款磷酸铁锂储能电芯，最低3箱起订。 华尔街见闻了解到，目前该平台注册企业超过1800家，平台已经出现实际采购，小批量订单被纳入5年质保和官方售后，后续还准备销售电箱和储能集装箱。宁德时代正在扩大商城的产品和服务范围。 从半年报看，宁德时代并不缺大订单和生产任务。2026年上半年，公司电池系统产能利用率达到94.86%，储能电池系统收入532.61亿元，同比增长87.54%。同期，宁德时代还与海博思创签下为期3年、总规模6",
+     "source": "华尔街见闻",
+     "zh": "宁德时代盯上储能“小单”"
     },
     {
-     "title": "电影《欢迎来龙餐馆》票房破14亿",
-     "link": "http://finance.eastmoney.com/news/1348,202608223850158713.html",
-     "pubDate": "Sat, 22 Aug 2026 13:39:45 +0800",
-     "summary": "据灯塔专业版实时数据，截至8月22日13时28分，影片《欢迎来龙餐馆》票房突破14亿元。 （文章来源：界面新闻）",
+     "title": "受台风“紫檀”影响 广西沿海铁路部分列车临时停运",
+     "link": "http://finance.eastmoney.com/news/1350,202608223850159461.html",
+     "pubDate": "Sat, 22 Aug 2026 14:00:05 +0800",
+     "summary": "受台风“紫檀”影响，广西沿海地区将出现强降雨天气。为确保旅客列车安全，今天（22日），部分途经邕北铁路、钦防铁路、防东铁路运行的旅客列车临时停运。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "电影《欢迎来龙餐馆》票房破14亿"
+     "zh": "受台风“紫檀”影响 广西沿海铁路部分列车临时停运"
     },
     {
-     "title": "加拿大宣布暂停加美贸易谈判并实施对等反制",
-     "link": "http://finance.eastmoney.com/news/1351,202608223850158230.html",
-     "pubDate": "Sat, 22 Aug 2026 13:34:01 +0800",
-     "summary": "加拿大总理卡尼21日深夜发表声明，宣布即刻暂停与美国的贸易谈判，并召回加拿大谈判代表团。 声明说，美国拟于当地时间21日午夜起对价值200亿美元的加拿大商品征收50%的关税。为保护本国企业与工人利益，加拿大将对美方实施对等反制关税。 卡尼表示，美方在最后一刻提出的修改条款“不公平且不符合经济逻辑”，导致谈判无法达成符合加拿大目标的协议。加拿大政府将在未来几天出台更多措施，以应对美方关税带来的冲击。 路透社援引一名美国政府官员的话报道，在谈判中，加拿大想在更多领域获得关税减免，但美方并不愿意。 （文章来源：新华社）",
+     "title": "不想被压价 机器人核心部件商开始集体“掀桌子”",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850159523.html",
+     "pubDate": "Sat, 22 Aug 2026 13:59:51 +0800",
+     "summary": "图源：蓝鲸科技记者拍摄 2026 世界 机器人 大会（WRC）的展馆空间排布，折射出行业底层正在发生的格局变化。 往年，亦创国际会展中心的格局泾渭分明： 整机厂商占据C位，零部件供应商蜷缩在边角，如同繁华商圈的“配件店”。 但今年，这种秩序被彻底改写。 蓝鲸科技记者在现场观察到， 一大批过去依附于整机厂商的上游核心部件厂商 —— 灵巧手、关节模组、力控臂供应商 —— 纷纷将展台搬至场馆中央。 更耐人寻味的是，他们不再只陈列齿轮和电机，而是不约而同地亮出了自己的整机本体。 上游零部件企业集体向整机环节拓展，这究竟是企业正常的业务拓展，还是预示着产业链格局将迎来深刻调整？ 零部件厂商集体造本机本体",
      "source": "东方财富股票",
-     "zh": "加拿大宣布暂停加美贸易谈判并实施对等反制"
+     "zh": "不想被压价 机器人核心部件商开始集体“掀桌子”"
     },
     {
-     "title": "业绩大增！多家A股公司拟大手笔分红",
-     "link": "http://finance.eastmoney.com/news/1354,202608223850158618.html",
-     "pubDate": "Sat, 22 Aug 2026 13:33:00 +0800",
-     "summary": "又有多家业绩大增的上市公司，宣布高分红计划。 8月21日晚间，光纤龙头公司长飞光纤(601869)发布2026年半年报，公司上半年实现营业收入98.09亿元，同比增长53.64%；归母净利润29.25亿元，同比增长888.88%；扣非归母净利润24.49亿元，同比增长1680.48%；基本每股收益3.56元。公司拟每10股派发现金红利10.6元（含税）。 分单季度看，长飞光纤今年第一季度实现归母净利润4.95亿元，同比增长226.40%；第二季度归母净利润为24.29亿元，同比增长1586.54%，环比增长约391%。 长飞光纤身处光 通信 行业，是全球领先的光纤预制棒、光纤、光缆以及数据 通",
+     "title": "工商银行：优化完善贴息配套政策 贴息上限由每年3000元提高至5000元",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850160123.html",
+     "pubDate": "Sat, 22 Aug 2026 13:53:24 +0800",
+     "summary": "8月22日，“中国 工商银行 ”微信公众号消息，日前财政部、中国人民 银行 、金融监管总局联合印发《关于进一步做好财政金融协同促内需政策有关工作的通知》。 工商银行 积极落实《通知》要求，优化完善贴息配套政策。本次贴息优化政策自2026年8月1日起施行。 此次贴息政策做了哪些优化？一是扩大贴息范围。将新发生的信用卡专项分期、消费分期、预借现金分期等各类信用卡分期业务纳入个人消费贷款财政贴息政策支持范围。二是适当提高额度。每名借款人在该行可享受的个人消费贷款和信用卡分期业务累计贴息上限由每年3000元提高至每年5000元。 前期已签订个人消费贷款贴息协议的客户是否需要重新签订协议？ 工商银行 表",
      "source": "东方财富股票",
-     "zh": "业绩大增！多家A股公司拟大手笔分红"
+     "zh": "工商银行：优化完善贴息配套政策 贴息上限由每年3000元提高至5000元"
     },
     {
-     "title": "lululemon，宣布中国及亚太区高管任命",
-     "link": "http://finance.eastmoney.com/news/1354,202608223850159057.html",
-     "pubDate": "Sat, 22 Aug 2026 13:32:18 +0800",
-     "summary": "上证报中国证券网讯（记者曾庆怡）8月21日，加拿大运动生活方式品牌lululemon（露露乐蒙）宣布了两项重要领导层任命，推进公司在中国及亚太地区的持续发展。具体而言，lululemon现任中国区董事总经理黄山燕升任中国及亚太区总裁，Jeffrey Hang正式加入lululemon，担任亚太区高级副总裁兼董事总经理。 记者获悉，在中国及亚太地区统一的领导架构下，lululemon将更好地整合市场洞察、发挥区域协同优势，持续为其不同文化和社区的客人打造更具共鸣的品牌体验。 自2018年1月加入lululemon以来，黄山燕在推动中国业务发展方面发挥了关键作用，助力中国市场成长为lululemo",
+     "title": "“十五五”时期，美丽重庆建设如何推进？来看规划→",
+     "link": "http://www.eeo.com.cn/2026/0822/1007522.shtml",
+     "pubDate": "Sat, 22 Aug 2026 13:52:12 +0800",
+     "summary": "第1眼TV-华龙网讯（首席记者 陈雨）日前，《重庆市“十五五”美丽重庆建设规划（2026—2030年）》发布，明确将全面落实精准科学依法治污方针，协同推进降碳、减污、扩绿、增长，以“九治”为牵引推进污染防治攻坚和生态系统优化，深化改革创新和数智赋能双轮驱动，推动经济社会发展全面绿色转型，提供更多优质生态产品以满足人民日益增长的美好生活需要，为奋力谱写中国式现代化重庆篇章提供有力支撑。 <img src=\"https://jg...",
+     "source": "经济观察网",
+     "zh": "“十五五”时期，美丽重庆建设如何推进？来看规划→"
+    },
+    {
+     "title": "欢迎来龙餐馆票房破14亿",
+     "link": "http://www.eeo.com.cn/2026/0822/1007521.shtml",
+     "pubDate": "Sat, 22 Aug 2026 13:52:05 +0800",
+     "summary": "【欢迎来龙餐馆票房破14亿】据猫眼专业版数据，电影《欢迎来龙餐馆》上映12天，总票房破14亿。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "欢迎来龙餐馆票房破14亿"
+    },
+    {
+     "title": "《八仙！》票房破17亿",
+     "link": "http://www.eeo.com.cn/2026/0822/1007520.shtml",
+     "pubDate": "Sat, 22 Aug 2026 13:52:04 +0800",
+     "summary": "【《八仙！》票房破17亿】据猫眼专业版数据，电影《八仙！》上映36天，总票房破17亿。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "《八仙！》票房破17亿"
+    },
+    {
+     "title": "蓝思科技上半年净利“腰斩” 第一季度“拖累”明显",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850158518.html",
+     "pubDate": "Sat, 22 Aug 2026 13:50:12 +0800",
+     "summary": "8月21日晚， 蓝思科技 （300433.SZ）披露2026年半年度业绩报告，财报显示，公司上半年实现营业总收入288.66亿元，同比下降12.42%；归属于上市公司股东的净利润为5.77亿元，同比大幅下降49.52%。 对于业绩下滑的原因， 蓝思科技 表示，2026年上半年，公司经营面临汇率单边不利波动与 存储芯片 周期扰动终端需求叠加的复杂外部环境，所处行业整体承压。 《中国经营报》记者留意到，2026年上半年， 蓝思科技 因汇率单边升值便带来近5亿元汇兑损失。 记者亦留意到，这份“腰斩”的成绩单乍看之下颇为惊心，但细拆季度数据却发现，拖累 蓝思科技 上半年业绩的“元凶”主要来自第一季度，",
      "source": "东方财富股票",
-     "zh": "lululemon，宣布中国及亚太区高管任命"
+     "zh": "蓝思科技上半年净利“腰斩” 第一季度“拖累”明显"
+    },
+    {
+     "title": "2026WRC观察｜Demo退场、真实上岗、订单肉搏——机器人行业迎来“能力大考”",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850160017.html",
+     "pubDate": "Sat, 22 Aug 2026 13:48:52 +0800",
+     "summary": "图源：蓝鲸科技记者拍摄 蓝鲸新闻8月22日讯 8 月 19 日，2026 世界 机器人 大会于北京亦庄开幕。蓝鲸新闻是本届大会为数不多的官方战略合作媒体，全程深度参与本次展会。 本次展会共计有300余家企业参展，展出超3000件展品，参展规模同比大增69%。但比数字更值得关注的，是展会气质的根本转变：去年的 机器人 还在“表演”，今年它们已在“上班”。 “去年很多场景还是Demo，今年却是真实发生的。” 一位连续两年参会的业内人士向蓝鲸科技记者感慨。这种变化在现场触手可及——煮面、调酒、分拣、搬运，不再是提前编排的固定动作，而是已在真实商业场景中跑通数月、经得起反复检验的日常作业。 支撑这一跨",
+     "source": "东方财富股票",
+     "zh": "2026WRC观察｜Demo退场、真实上岗、订单肉搏——机器人行业迎来“能力大考”"
+    },
+    {
+     "title": "东财发布半年报：非货基金规模首破万亿，中期不分红",
+     "link": "https://wallstreetcn.com/articles/3780059",
+     "pubDate": "Sat, 22 Aug 2026 13:48:01 +0800",
+     "summary": "公募基金代销的热度，在2026年提升飞快，尤其是拥有线上流量平台的代销机构。 东方财富日前发布的2026年半年度报告显示，该公司旗下天天基金网截至期末的非货基金保有规模达到10120亿元，权益类基金保有规模5260亿元。均比年初大幅提高。 另外，整个2026年上半年，公司实现营业总收入105.05亿元，同比增长53.22%；归属于上市公司股东的净利润80.64亿元，同比增长44.85%。经营业绩增速虽然赶不上中信证券等龙头公司，但相比其他地方和线下券商亦是有所超越。 股基交易额26.45万亿元 证券业务方面，报告期内东方财富经纪业务中股基交易额26.45万亿元，同比实现大幅增长。 另外，该公司",
+     "source": "华尔街见闻",
+     "zh": "东财发布半年报：非货基金规模首破万亿，中期不分红"
     },
     {
      "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
@@ -2386,28 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "在特朗普治下的美国，谁最重要？"
     },
     {
-     "title": "【财经分析】意大利暑期旅游热度不减 高温与成本或重塑出行选择",
-     "link": "http://www.eeo.com.cn/2026/0822/1007367.shtml",
-     "pubDate": "Sat, 22 Aug 2026 11:52:10 +0800",
-     "summary": "新华财经罗马8月22日电（记者高婧妍） 意大利暑期旅游旺季进入高峰，大量国内外游客出行消费，成为拉动餐饮、住宿、商业和文化等行业的重要力量。 不过，也有业内人士指出，意大利火热的旅游市场也面临新的变...",
-     "source": "经济观察网",
-     "zh": "【财经分析】意大利暑期旅游热度不减 高温与成本或重塑出行选择"
-    },
-    {
-     "title": "长江存储冲刺IPO：一个季度赚334亿，赶着好日子交了招股书",
-     "link": "http://www.eeo.com.cn/2026/0822/1007366.shtml",
-     "pubDate": "Sat, 22 Aug 2026 11:51:47 +0800",
-     "summary": "身处周期性行业，对于存储芯片公司来说，在行业最景气的时候递交招股书，是一个不需要犹豫的选择。",
-     "source": "经济观察网",
-     "zh": "长江存储冲刺IPO：一个季度赚334亿，赶着好日子交了招股书"
-    },
-    {
-     "title": "陈汉任大理州政府党组书记",
-     "link": "http://www.eeo.com.cn/2026/0822/1007347.shtml",
-     "pubDate": "Sat, 22 Aug 2026 11:39:11 +0800",
-     "summary": "中国经济网大理8月22日综合报道 据大理日报报道，8月20日下午，大理州委常委会召开扩大会议，宣布云南省委关于州政府主要领导调整的决定。州委副书记、州政府党组书记、州政府州长候选人陈汉作表态发言。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/99FC79BEADDDD2127A3C76F49E89E946.jpg\" width=\"960\" data-uploadpic=\"U020260822393479652343.jpg\" needdownload=\"true\" data-needdo",
-     "source": "经济观察网",
-     "zh": "陈汉任大理州政府党组书记"
+     "title": "EU slips further behind US in race for critical minerals",
+     "link": "https://www.ft.com/content/c6220205-ee40-4b71-95c0-d53399a17cd1?syn-25a6b1a6=1",
+     "pubDate": "Sat, 22 Aug 2026 04:00:20 GMT",
+     "summary": "Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies",
+     "source": "Financial Times",
+     "zh": "欧盟在关键矿产争夺战中进一步落后于美国"
     },
     {
      "title": "集中资源押注AI，苹果裁撤Siri与Vision Pro逾200个岗位",
@@ -2418,36 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "集中资源押注AI，苹果裁撤Siri与Vision Pro逾200个岗位"
     },
     {
-     "title": "一文读懂：市场焦点！下周的杰克逊霍尔大会，你该关注什么？",
-     "link": "https://wallstreetcn.com/articles/3780048",
-     "pubDate": "Sat, 22 Aug 2026 10:32:47 +0800",
-     "summary": "下周，全球经济学家和央行官员将齐聚怀俄明州杰克逊霍尔，参加美联储年度经济政策研讨会。在8月央行沟通相对平静、秋季利率决策周期重新启动之际，这场全球央行年会将成为市场捕捉政策信号的重要窗口。 今年市场关注的焦点无疑是美联储主席沃什。据追风交易台， 美东时间8月28日（周五）上午10点，沃什将发表主旨演讲，这也是他出任美联储主席后首次亮相杰克逊霍尔。 相比会议主题本身，沃什对于经济前景和未来利率路径的表态，更可能成为市场定价的核心。 高盛报告指出，从历史表现看， 杰克逊霍尔主旨演讲往往会显著放大外汇市场波动。尤其是在沃什政策立场尚未完全明朗的情况下，EUR/USD可能成为市场最敏感的交易窗口之一。",
-     "source": "华尔街见闻",
-     "zh": "一文读懂：市场焦点！下周的杰克逊霍尔大会，你该关注什么？"
-    },
-    {
-     "title": "黄金冲破200日均线，高盛交易台多头增持至六成，大客户押注白银三个月内涨至90美元",
-     "link": "https://wallstreetcn.com/articles/3780047",
-     "pubDate": "Sat, 22 Aug 2026 10:09:25 +0800",
-     "summary": "黄金涨势正在加速，高盛交易台已明显提高多头敞口，机构资金与期权对冲机制的叠加，正进一步放大金价上涨弹性。 高盛最新报告显示， 金价自7月中旬低点以来已上涨约15%，重新站上200日均线并突破4600美元/盎司。 与此同时，宏观基金本周加速买入黄金，交易主要集中在3至6个月期数字期权和直接买入，押注金价升至4800至5500美元。 高盛交易台目前多头仓位占比已升至六成。 更值得关注的是，期权市场正在形成潜在的“价格放大器”。高盛指出，看涨期权需求激增后，做市商为对冲卖出的期权，需要持续买入黄金；一旦金价逼近集中行权价，对冲买盘可能进一步放大涨势。 高盛黄金分析师Lina Thomas因此认为，该",
-     "source": "华尔街见闻",
-     "zh": "黄金冲破200日均线，高盛交易台多头增持至六成，大客户押注白银三个月内涨至90美元"
-    },
-    {
      "title": "Iranian oil supply to Chinese buyers squeezed by U.S. blockade",
      "link": "https://seekingalpha.com/news/4636035-iranian-oil-supply-to-chinese-buyers-squeezed-by-us-blockade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 21 Aug 2026 19:56:42 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "伊朗对中国买家的石油供应因美国封锁而受到挤压"
-    },
-    {
-     "title": "全球市场：美股三大指数收高 道指涨近1% 稀土、加密货币概念股普涨",
-     "link": "http://stock.eastmoney.com/news/11784,202608223849871593.html",
-     "pubDate": "Sat, 22 Aug 2026 06:15:00 +0800",
-     "summary": "美股市场： 美股三大指数08月21日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨517.8点，收于53277.01点，涨幅为0.98%； 标准普尔 500种股票指数上涨33.21点，收于7674.37点，涨幅为0.43%； 纳斯达克 综合 指数上涨113.28点，收于26180.45点，涨幅为0.43%。本周，道指跌0.85%，纳指跌2.05%，标普500指数跌1.43%。 大型科技股多数上涨， 特斯拉 大涨5.14%，Cybercab最快8月在奥斯汀向公众推出，这将是首款没有方向盘和刹车踏板的Robotaxi专用车型，首批量产版已在奥斯汀展开工程测试；谷歌涨1.22%，谷歌与 ",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数收高 道指涨近1% 稀土、加密货币概念股普涨"
     },
     {
      "title": "Boeing engineers union rejects contract offer, setting stage for possible strike",
@@ -2519,7 +2519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 15:01:03 +0000",
      "summary": "Bacteria may build a memory of herbivore attack in the soil and coax new plants to attract wasps to rein in destructive pests.",
      "source": "Science News",
-     "zh": "受到攻击的植物留下了令人惊讶的后援呼声"
+     "zh": "受到攻击的植物留下了令人惊讶的支援信号"
     },
     {
      "title": "‘Huge Breakthrough’ in the Math of Imbalance",
@@ -2647,7 +2647,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 20 Aug 2026 15:25:43 +0000",
      "summary": "The James Webb Space Telescope has identified the most promising candidate yet for a black hole star, lurking 660 million years after the Big Bang. The hypothetical entity, which shines 100 billion times brighter than a typical star, could shed light on the origins of the mysterious \"little red dots",
      "source": "Live Science",
-     "zh": "黑洞星？早期宇宙中太阳系大小的“点”是我们迄今为止发现的全新宇宙物体的最佳证据"
+     "zh": "黑洞星？来自早期宇宙的太阳系大小的“点”是我们迄今为止关于全新类型的宇宙物体的最好证据"
     },
     {
      "title": "Spikes, claws and stingers have no single best shape",
