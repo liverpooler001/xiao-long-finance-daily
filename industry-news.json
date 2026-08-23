@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 14:21:48",
+ "generated_at": "2026/8/23 15:11:14",
  "recent_days": 7,
  "industries": [
   {
@@ -8,14 +8,6 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
-     "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-     "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
-     "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based ",
-     "source": "MarkTechPost",
-     "zh": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety"
-    },
     {
      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
@@ -47,54 +39,6 @@
      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
      "source": "TechCrunch AI",
      "zh": "Frontier AI labs still won’t say how they’d contain a rogue model"
-    },
-    {
-     "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-     "link": "https://www.qbitai.com/2026/08/477253.html",
-     "pubDate": "Sat, 22 Aug 2026 14:46:43 +0000",
-     "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
-     "source": "量子位",
-     "zh": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径"
-    },
-    {
-     "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-     "link": "https://www.qbitai.com/2026/08/477246.html",
-     "pubDate": "Sat, 22 Aug 2026 14:19:39 +0000",
-     "summary": "直击WRC",
-     "source": "量子位",
-     "zh": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒"
-    },
-    {
-     "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
-     "link": "https://www.qbitai.com/2026/08/477155.html",
-     "pubDate": "Sat, 22 Aug 2026 14:11:20 +0000",
-     "summary": "一脑驱动多形落地",
-     "source": "量子位",
-     "zh": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗"
-    },
-    {
-     "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
-     "link": "https://www.qbitai.com/2026/08/477094.html",
-     "pubDate": "Sat, 22 Aug 2026 13:56:00 +0000",
-     "summary": "采集，从一条腕带开始",
-     "source": "量子位",
-     "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
-    },
-    {
-     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
-     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
-     "source": "MarkTechPost",
-     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
-    },
-    {
-     "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-     "link": "https://www.qbitai.com/2026/08/477090.html",
-     "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
-     "summary": "将真实场景重建为持续更新、可计算的4D数字世界。",
-     "source": "量子位",
-     "zh": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台"
     },
     {
      "title": "AI4S八年积累迎来新节点，北京再落一子，抢跑科研范式变革下半场",
@@ -129,14 +73,6 @@
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
-     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
-     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
-     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
-     "source": "MarkTechPost",
-     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
-    },
-    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -151,22 +87,6 @@
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
-    },
-    {
-     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
-     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
-     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
-     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
-     "source": "MarkTechPost",
-     "zh": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure"
-    },
-    {
-     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
-     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
-     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
-     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
-     "source": "MarkTechPost",
-     "zh": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
     },
     {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
@@ -247,6 +167,86 @@
      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西8月21日报道，8月20日，2026世界机器人大会平行活动“仿生赋能·智创未来——仿生具身智能机器人技术突破与产业生态共建”举办。本次活动在长春市委、市政府支持下举办，由国际仿生工程学会、长春市贸促会、长春市工信局、吉林省仿生机器人制造业创新中心主办，长春国际商会、月泉仿生、吉林省仿生机器人创新中心承办，海内外院士专家、产业链企业及创投机构代表300余人参会。 会上，月泉仿生和吉林省仿生机器人创新中心联合带来了多项科创成果集中首发。英国曼彻斯特大学终身教授、月泉仿生创始人、吉林省仿生机器人创新中心执行委员会主任任雷教授现场宣讲仿生拉压体机器人理",
      "source": "智东西",
      "zh": "月泉仿生发布仿生拉压体灵巧手，满足多场景精细操控"
+    },
+    {
+     "title": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=1&sn=d5a0a68f04d7e09d9cabe5c4950db88e",
+     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
+     "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
+     "source": "新智元",
+     "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
+    },
+    {
+     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
+     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
+     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
+     "source": "新智元",
+     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
+    },
+    {
+     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
+     "source": "机器之心",
+     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
+    },
+    {
+     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
+     "source": "机器之心",
+     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
+    },
+    {
+     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "端到端研究论文生成系统。",
+     "source": "机器之心",
+     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
+    },
+    {
+     "title": "Measuring benchmark optimization in speech recognition",
+     "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+     "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Measuring benchmark optimization in speech recognition"
+    },
+    {
+     "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+     "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+     "pubDate": "Thu, 20 Aug 2026 16:52:57 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Up to 3.2x Faster Inference with LFM2.5-DSpark"
+    },
+    {
+     "title": "Debates over AI consciousness are a trap",
+     "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+     "pubDate": "Thu, 20 Aug 2026 15:42:39 +0000",
+     "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” ",
+     "source": "MIT Tech Review AI",
+     "zh": "Debates over AI consciousness are a trap"
+    },
+    {
+     "title": "How to Build a Career in AI: 3 Distinct Pathways",
+     "link": "https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways",
+     "pubDate": "Thu, 20 Aug 2026 14:00:59 +0000",
+     "summary": "Three orientations, three different skill maps, and how to find the one that fits where you actually stand.",
+     "source": "KDnuggets",
+     "zh": "How to Build a Career in AI: 3 Distinct Pathways"
+    },
+    {
+     "title": "Top 10 Open-Source Benchmarks for AI Coding Agents in 2026",
+     "link": "https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026",
+     "pubDate": "Thu, 20 Aug 2026 12:00:38 +0000",
+     "summary": "SWE-bench, Terminal-Bench, SlopCodeBench, ProgramBench, and more. Explore the top 10 open-source benchmarks for evaluating AI coding agents.",
+     "source": "KDnuggets",
+     "zh": "Top 10 Open-Source Benchmarks for AI Coding Agents in 2026"
     }
    ]
   },
@@ -313,14 +313,6 @@
      "zh": "China’s NAND Specialist YMTC Moves Closer to IPO"
     },
     {
-     "title": "How TSMC Is Wiring the AI Era With Light",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/372488-how-tsmc-is-wiring-the-ai-era-with-light/",
-     "pubDate": "Fri, 21 Aug 2026 17:00:18 +0000",
-     "summary": "TSMC’s photonics strategy is centered on integrating optical input-output with advanced logic, rather than selling conventional optical transceivers as standalone products. The company is developing a silicon-photonics foundry platform and a packaging architecture called TSMC-COUPE , or Compact Univ",
-     "source": "SemiWiki",
-     "zh": "How TSMC Is Wiring the AI Era With Light"
-    },
-    {
      "title": "Android XR advances as Jetpack XR SDK core libraries reach beta",
      "link": "https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/",
      "pubDate": "Fri, 21 Aug 2026 14:39:56 +0000",
@@ -335,14 +327,6 @@
      "summary": "19 years ago the chip industry was facing a similar problem to today – the need for, and rising cost of, exotic materials. ‘Semiconductor firms are facing critical pricing choices […] The post Exotic Materials Adding Cost To Semis appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Exotic Materials Adding Cost To Semis"
-    },
-    {
-     "title": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/",
-     "pubDate": "Fri, 21 Aug 2026 13:00:41 +0000",
-     "summary": "Intel is considering a return to memory technology decades after abandoning mainstream DRAM and, more recently, selling its NAND business. Chief executive Lip-Bu Tan has argued that memory should no longer be viewed simply as a low-margin commodity. Artificial intelligence is turning bandwidth, late",
-     "source": "SemiWiki",
-     "zh": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics"
     },
     {
      "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
@@ -393,22 +377,6 @@
      "zh": "White House looking for 1000 rocket launches a year"
     },
     {
-     "title": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes",
-     "link": "https://semiwiki.com/eda/agentrys/372384-agentrys-shows-you-how-to-build-a-multi-agent-system-in-30-minutes/",
-     "pubDate": "Thu, 20 Aug 2026 21:00:25 +0000",
-     "summary": "Agentrys believes that a purpose-built multi-agent system for chip design shouldn’t be a quarter-long project. Agentic AI systems are becoming quite popular to cut design time and increase quality for complex chip design projects. The challenge is finding the right agentic flow for a particular appl",
-     "source": "SemiWiki",
-     "zh": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes"
-    },
-    {
-     "title": "Questa One Updated at DAC 2026",
-     "link": "https://semiwiki.com/eda/372370-questa-one-updated-at-dac-2026/",
-     "pubDate": "Thu, 20 Aug 2026 17:00:56 +0000",
-     "summary": "Abhi Kolpekwar, VP & General Manager, Digital Verification Technologies at Siemens EDA met with me at #DAC2026 to provide the big picture on smart verification tools, something they call Questa One . Their verification tools are infused with AI to improve productivity on projects like SoCs, 3D IC an",
-     "source": "SemiWiki",
-     "zh": "Questa One Updated at DAC 2026"
-    },
-    {
      "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
      "link": "https://semiconductor-today.com/news_items/2026/aug/epc-200826.shtml",
      "pubDate": "Thu, 20 Aug 2026 17:51:06 +0100",
@@ -431,14 +399,6 @@
      "summary": "Power gallium nitride (GaN) has spent the past several years proving itself in consumer fast chargers, but that phase is ending, according to Yole Group’s annual report ‘Power GaN 2026’. GaN is now entering a broader, multi-market adoption cycle where AI data centers, electric vehicles, industrial s",
      "source": "Semiconductor Today",
      "zh": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems"
-    },
-    {
-     "title": "The Fab Is Not the Finish Line",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/372312-the-fab-is-not-the-finish-line/",
-     "pubDate": "Thu, 20 Aug 2026 13:00:58 +0000",
-     "summary": "AI may close the design. The fab may finish the silicon. Production still has to realize the system. Semiconductor engineering is becoming extraordinarily capable. EDA platforms are expanding from individual design tasks toward increasingly complete system analysis. Multiphysics simulation is connec",
-     "source": "SemiWiki",
-     "zh": "The Fab Is Not the Finish Line"
     },
     {
      "title": "Micross acquiring AEMtec, expanding reach into Europe",
@@ -495,6 +455,46 @@
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
+    },
+    {
+     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
+     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
+     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
+     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
+    },
+    {
+     "title": "HexSeed raises over £600,000 in early-stage funding",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/hexseed-190826.shtml",
+     "pubDate": "Wed, 19 Aug 2026 21:03:33 +0100",
+     "summary": "HexSeed Technology Ltd of Banchory, near Aberdeen, Scotland, UK has raised more than £600,000 in an early-stage funding round led by Carbon13, with participation from Net Zero Technology Centre and Vento Ventures. The cumulative investment unlocks a Partnership Grant from overnment agency Innovate U",
+     "source": "Semiconductor Today",
+     "zh": "HexSeed raises over £600,000 in early-stage funding"
+    },
+    {
+     "title": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/clas-sic-190826.shtml",
+     "pubDate": "Wed, 19 Aug 2026 20:50:08 +0100",
+     "summary": "Clas-SiC Wafer Fab Ltd of Lochgelly, Fife, Scotland — which was founded in 2017 and is the UK’s only commercial wafer fabrication facility dedicated to silicon carbide (SiC) — is one of the first recipients of Scottish Enterprise’s new Capital Grant, which has been designed to help drive levels of b",
+     "source": "Semiconductor Today",
+     "zh": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment"
+    },
+    {
+     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
+     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
+     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
+     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
+    },
+    {
+     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
+     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
+     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
+     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "A Hydrogen Generator Charged An Electric Ship. Why Was Hydrogen There?",
+     "link": "https://cleantechnica.com/2026/08/23/hydrogen-ship-charging-tilbury-battery-test/",
+     "pubDate": "Sun, 23 Aug 2026 06:35:44 +0000",
+     "summary": "At the Port of Tilbury on the Thames, GeoPura recently put one of its hydrogen power units on a floating platform and used it to charge a commercial electric vessel. The system delivered 300 kW through five Ballard fuel cells. It was visually irresistible: a barge, hydrogen equipment, a working ... ",
+     "source": "CleanTechnica",
+     "zh": "A Hydrogen Generator Charged An Electric Ship. Why Was Hydrogen There?"
+    },
+    {
      "title": "Red States Are Killin’ It With Their Solar Factories",
      "link": "https://cleantechnica.com/2026/08/22/solar-factory-microgrids-ev-charging-startup-translucent-energy/",
      "pubDate": "Sat, 22 Aug 2026 23:47:54 +0000",
@@ -919,14 +927,6 @@
      "summary": "For six months the entire conversation about oil logistics has been about one strait, and you can hardly blame anyone for that. Hormuz has been effectively closed since late February, when the war between Iran and the U.S. and Israel started, and the EIA reckons only 4.9 million barrels a day of cru",
      "source": "OilPrice",
      "zh": "Every Chokepoint That Isn't Hormuz"
-    },
-    {
-     "title": "Ed Darmanin’s Big Lap — Part 2: Sydney to Broome",
-     "link": "https://cleantechnica.com/2026/08/22/ed-darmanins-big-lap-part-2-sydney-to-broome/",
-     "pubDate": "Sat, 22 Aug 2026 15:22:15 +0000",
-     "summary": "By Ed Darmanin as told to David Waterworth for CleanTechnica Here we go, in Ed’s words with comments from me in square brackets. When I rode out of Sydney on 24 June, the plan was simple enough: 18,000 kilometres, anti-clockwise, one electric motorcycle, no support vehicle. What I didn’t plan ... [c",
-     "source": "CleanTechnica",
-     "zh": "Ed Darmanin’s Big Lap — Part 2: Sydney to Broome"
     },
     {
      "title": "IEA: Southeast Asia Needs Grid Investment to Nearly Quadruple by 2050",
@@ -1745,52 +1745,84 @@
    "total": 18,
    "items": [
     {
-     "title": "东风日产：车主 App 因服务器机房电力故障导致部分功能无法使用，正在抢修",
-     "link": "https://www.ithome.com/0/993/183.htm",
-     "pubDate": "Sun, 23 Aug 2026 06:19:15 GMT",
-     "summary": "IT之家 8 月 23 日消息，东风日产今日发文公告称，因服务器机房电力故障，导致车主 App 登录、远程控制等线上功能出现无法使用的情况，正在全力抢修，力争尽快恢复服务。 IT之家附原文如下： 尊敬的东风日产车主: 因服务器机房电力故障，导致车主 App 登录、远程控制等线上功能出现无法使用的情况，我们正在全力抢修，力争尽快恢复服务。由此给您带来的不便，我们深表歉意！ 本次突发情况不影响车辆正常驾驶，建议车主随身携带物理钥匙，保障正常出行。如有紧急情况，请第一时间拨打专营店电话，服务人员将协助处理。 功能恢复后我们将第一时间告知，感谢您的理解与耐心等待。 东风汽车有限公司东风日产乘用车公司 ",
+     "title": "三星 Exynos 2700 工程样片现身 Geekbench，超大核主频达 4.24GHz",
+     "link": "https://www.ithome.com/0/993/189.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:55:04 GMT",
+     "summary": "IT之家 8 月 23 日消息，一款型号为 S5E9975 的三星芯片最近现身 Geekbench AI 跑分数据库，科技媒体认为该芯片为 Exynos 2700 的工程样片。 数据库信息显示， 这款芯片采用 1+4+1+4 的 10 核心架构 ，超大核频率达 4.24GHz。作为对比，今年 4 月曝光的 Exynos 2700 跑分记录显示，该 CPU 频率被限制在 2.30～2.88 GHz。 IT之家注意到，此次跑分记录的 CPU 标识字符串也与此前低频测试保持一致，即 implementer 65、part 3478，进一步表明该芯片可能是同一测试平台，只是运行频率有所提升。 由于 G",
      "source": "IT之家",
-     "zh": "东风日产：车主 App 因服务器机房电力故障导致部分功能无法使用，正在抢修"
+     "zh": "三星 Exynos 2700 工程样片现身 Geekbench，超大核主频达 4.24GHz"
     },
     {
-     "title": "蔚来李斌称中国汽车行业进入“决赛最残酷阶段”，接下来三五年最后的玩家差不多尘埃落定",
-     "link": "https://www.ithome.com/0/993/182.htm",
-     "pubDate": "Sun, 23 Aug 2026 06:11:02 GMT",
-     "summary": "IT之家 8 月 23 日消息，在 2026 中国首席经济学家复旦管院科创论坛上，蔚来创始人、董事长、CEO 李斌针对新能源汽车产业发展，表达了自己的看法。 李斌称，今年对于新能源汽车是非常重要的一年，整体竞争非常激烈， 行业进入“决赛最残酷阶段” ，一家车企到底能不能跟上？会不会被甩下？最近两年会是非常重要的一个时期。 而接下来三五年，最后的玩家差不多尘埃落定 。 另外，他认为纯电渗透率处于加速爬升阶段，今年中国车市所有动力形式，只有纯电在增长，插混、增程包括纯燃油都在下跌， 纯电技术包括充换电基础设施数量都到了一个拐点 。 李斌还表示，行业从品牌混沌期进入品牌澄清期。过去几年，消费者购买智",
+     "title": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利",
+     "link": "https://www.ithome.com/0/993/188.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:54:21 GMT",
+     "summary": "IT之家 8 月 23 日消息，人工智能未来或许会为争取自身“权利”而斗争，而《人类简史》作者、历史学家尤瓦尔 · 赫拉利（Yuval Noah Harari）认为，现在就应该确保这种情况不会发生。 赫拉利近日在《经济学人》当地时间周四发布的播客节目《Insider》中警告称，与动物在福利相关辩论中的情况不同，人工智能系统可能会为自身权利提出极具说服力的理由。 “它会知道这场辩论正在发生，”赫拉利说，“它会主导这场争论，也会操纵这场辩论。” 赫拉利认为，AI 陪伴类产品尤其可能具备强大的说服力，因为它们会了解用户的个人经历，并通过每天数小时的互动，逐渐摸清用户的“情感按钮”，知道如何影响他们的",
      "source": "IT之家",
-     "zh": "蔚来李斌称中国汽车行业进入“决赛最残酷阶段”，接下来三五年最后的玩家差不多尘埃落定"
+     "zh": "《人类简史》作者赫拉利：现在就应抵制赋予 AI 权利"
     },
     {
-     "title": "小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员",
-     "link": "https://www.ithome.com/0/993/181.htm",
-     "pubDate": "Sun, 23 Aug 2026 06:07:57 GMT",
-     "summary": "IT之家 8 月 23 日消息，小米手机今日官宣，小米玄戒芯片技术沟通会明天见： 2025 年 5 月 22 日，玄戒第一款旗舰处理器面世 时隔 459 天，芯片家族迎来全新成员 明天 14 点，小米玄戒芯片负责人朱丹，带来最新进展，将以图文直播的形式与大家见面，不见不散！ IT之家注意到，8 月 18 日，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰在财报电话会上透露，去年小米成功推出的玄戒 O1 芯片， 在三款终端上的累计出货量已超过百万，实现了旗舰芯片规模化验证 ， 全新一代小米玄戒芯片也即将发布 。",
+     "title": "海尔发布全自主家用 AI 烹饪机器人“AI 厨天才”CR3：模仿大厨颠勺手法，蒸汽自清洁",
+     "link": "https://www.ithome.com/0/993/187.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:54:15 GMT",
+     "summary": "IT之家 8 月 23 日消息，8 月 20 日，在北京举行的世界机器人大会现场，海尔正式发布了全自主家用 AI 烹饪机器人“AI 厨天才”CR3，号称“从投料、翻炒、调味，到最后的涮锅，全程不用动手。” IT之家从官方介绍获悉，该产品内置的 AI 烹饪大模型， 内含上百万大师、大厨的烹饪数据 ，从调料用量、火候把控、烹饪时长，到食材投放顺序、荤素配比，精准复刻大师级烹饪标准。而且它还支持 6 大功效食谱，覆盖 8 类人群智能食养库。 海尔家用 AI 烹饪机器人支持四轴自由度，搭载双翻炒铲， 模仿专业大厨颠勺手法 ；自动投料盒和锅盖开合协同作业，火候一到，4 格菜仓按顺序定点投菜，并且还智能精",
      "source": "IT之家",
-     "zh": "小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员"
+     "zh": "海尔发布全自主家用 AI 烹饪机器人“AI 厨天才”CR3：模仿大厨颠勺手法，蒸汽自清洁"
+    },
+    {
+     "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+     "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+     "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
+     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 12 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
+    },
+    {
+     "title": "索尼宣布《绝地潜兵 2》游戏全平台玩家数超 2290 万人",
+     "link": "https://www.ithome.com/0/993/186.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:40:40 GMT",
+     "summary": "IT之家 8 月 23 日消息，据索尼互娱官方数据， 《绝地潜兵 2》游戏已在 PS5、Xbox Series X|S 和 PC 平台累计吸引 2290 万名玩家 （截至 2026 年 8 月 9 日）。 索尼宣布， 《绝地潜兵 2》现在已经加入 PS Plus 订阅游戏库 ，Extra 和 Premium 会员可以立刻玩到这款第三人称射击游戏，还能够体验到《最后生还者第一部》《战神：诸神黄昏》和《对马岛之魂》等大作。 据IT之家了解，《绝地潜兵 2》是箭头社（Arrowhead）开发、索尼互娱发行的一款游戏，玩家可在游戏中选择战略配备，包括呼叫集束炸弹、岗哨机枪、护盾生成器或包含使用有限的特",
+     "source": "IT之家",
+     "zh": "索尼宣布《绝地潜兵 2》游戏全平台玩家数超 2290 万人"
+    },
+    {
+     "title": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型",
+     "link": "https://www.ithome.com/0/993/185.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:39:35 GMT",
+     "summary": "IT之家 8 月 23 日消息，据南华早报报道，一家获得 OpenAI 投资的美国人工智能初创公司，基于中国 AI 实验室月之暗面（Moonshot AI）的 Kimi K3 构建了自己的首个内部模型。这凸显出，随着 AI 模型开发成本不断飙升，越来越多西方科技公司开始转向采用中国的开放权重模型。 总部位于旧金山的法律科技公司 Harvey 当地时间周四宣布，其新模型 Harvey Tenet 是在开放权重模型 Kimi K3 的基础上进行后训练得到的。Harvey 的知名投资方还包括红杉资本和 Andreessen Horowitz。 该公司表示，这套系统在复杂法律工作中实现了“业界领先”的",
+     "source": "IT之家",
+     "zh": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型"
+    },
+    {
+     "title": "阿里拟配售 800 亿港元新股，全部投入 AI 建设",
+     "link": "https://www.ithome.com/0/993/184.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:24:53 GMT",
+     "summary": "IT之家 8 月 23 日消息，据中新经纬，阿里巴巴宣布拟向美国境外的非美国人士配售新股， 配售总金额为 800 亿港元 （IT之家注：现汇率约合 688.11 亿元人民币） 。这也是阿里巴巴 2019 年港股上市以来首次启动新股配售。 本次配售所得款项净额 将 100% 用于投资全栈 AI 能力 ，加强 AI 基础设施建设，进一步巩固阿里在 AI 领域的全球领先地位。 据IT之家此前报道，阿里巴巴 2027 财年第一财季（2026 年 4 月 1 日～2026 年 6 月 30 日）报告数据显示， 营业总收入 2689.53 亿元，同比增长 9% ；归母净利润 105.37 亿元，同比下降 ",
+     "source": "IT之家",
+     "zh": "阿里拟配售 800 亿港元新股，全部投入 AI 建设"
+    },
+    {
+     "title": "JIT Compiling Code in 5μs",
+     "link": "https://malisper.me/jit-compiling-code-in-5-us/",
+     "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
+     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "JIT Compiling Code in 5μs"
     },
     {
      "title": "藏在宇树、长鑫和寒武纪里的市值叙事秘密",
      "link": "https://www.huxiu.com/article/4885249.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 13:52:35 +0800",
-     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：钟云华，作者：何伊凡，原文标题：《藏在宇树、长鑫和寒武纪里的市值叙事秘密｜观察家》 市场从不惩罚故事，只惩罚没能变成数字的故事 2026年8月19日，宇树科技上市。首日开盘暴涨629%，收盘涨460%，市值3418亿元，网上中签率0.018%创科创板历史新低。十四个月前的2025年6月，它最后一轮一级市场融资投后估值还不过为127亿元。 2026年7月27日，上年归母净利润18.75亿元的长鑫科技上市，首日收盘市值3.28万亿元——这意味着市场愿意为每一元年利润支付约1750元（扣非口径约309元）。上市后股价快速拉升，7月31日盘中一度站上4万亿",
+     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：钟云华，作者：何伊凡，题图来自：AI生成 2026年8月19日，宇树科技上市。首日开盘暴涨629%，收盘涨460%，市值3418亿元，网上中签率0.018%创科创板历史新低。十四个月前的2025年6月，它最后一轮一级市场融资投后估值还不过为127亿元。 2026年7月27日，上年归母净利润18.75亿元的长鑫科技上市，首日收盘市值3.28万亿元&mdash;&mdash;这意味着市场愿意为每一元年利润支付约1750元 （扣非口径约309元） 。上市后股价快速拉升，7月31日盘中一度站上4万亿元，成为A股历史上首家总市值突破4万亿元的公司；8月13日",
      "source": "虎嗅",
      "zh": "藏在宇树、长鑫和寒武纪里的市值叙事秘密"
     },
     {
-     "title": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能",
-     "link": "https://www.ithome.com/0/993/180.htm",
-     "pubDate": "Sun, 23 Aug 2026 05:51:11 GMT",
-     "summary": "IT之家 8 月 23 日消息，华为官方昨晚宣布， HUAWEI Pura X Max 系列横向阔折叠手机的鸿蒙 HarmonyOS 7.0.0.100 SP10 → 7.0.0.102 SP8 版本 升级不限量开放 （升级方式：设置 > 搜索“软件更新”> 检查更新）。 IT之家附版本更新日志： 亮点推荐 1. 新增 3D 空间壁纸功能，通过照片中的元素与 3D 时钟巧妙结合，打造 3D 透视空间感锁屏壁纸，为您提供丰富的壁纸视觉效果和玩法 (设置> 桌面和个性化 > 壁纸 > 3D 空间壁纸) 2. 新增亲密圈功能，支持通过联系人、华为账号添加家人与挚友，即可与对方共享健康数据，实时查看对",
-     "source": "IT之家",
-     "zh": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能"
-    },
-    {
-     "title": "上汽荣威家越 07 成都车展首次向公众开放，15 万级家庭 SUV",
-     "link": "https://www.ithome.com/0/993/179.htm",
-     "pubDate": "Sun, 23 Aug 2026 05:49:47 GMT",
-     "summary": "IT之家 8 月 23 日消息，2026 成都车展于 8 月 21 日开幕，上汽荣威家越 07 首次向公众开放，定位“15 万级家庭 SUV”，号称“25 万级配置，15 万级享有”。 据此前官方介绍，荣威家越 07 采用昂扬美学设计，提供龙晶紫、玛瑙灰、宝石蓝、珍溪黑、钻石白、翡翠绿等宝石车色，可选绵云青空、坚果可可内饰色，车内还配有 AI 灵光氛围灯。此次新车主打 AI 极速制冰冷暖两用冰箱，可实现最快十分钟制冰。 IT之家注意到，新车尺寸为 4900×1910×1753mm、 轴距 2908mm ，拥有 88.8% 高得房率、3237mm 有效车长和 1339mm 同级最大垂向空间。车内",
-     "source": "IT之家",
-     "zh": "上汽荣威家越 07 成都车展首次向公众开放，15 万级家庭 SUV"
+     "title": "The End of an Athlon",
+     "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+     "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
+     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 14 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The End of an Athlon"
     },
     {
      "title": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)",
@@ -1799,14 +1831,6 @@
      "summary": "Financial Times : The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &nbsp; &mdash;&nbsp; Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during marke",
      "source": "Techmeme",
      "zh": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)"
-    },
-    {
-     "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 预售价格再降，叠加权益后最低 32.99 万元起",
-     "link": "https://www.ithome.com/0/993/177.htm",
-     "pubDate": "Sun, 23 Aug 2026 05:20:30 GMT",
-     "summary": "IT之家 8 月 23 日消息， 奇瑞捷豹路虎 FREELANDER 神行者 8 已于 8 月 14 日晚间开启预售 。新车全系标配华为乾崑智驾 ADS 5；全球首批搭载高通骁龙最新一代 8397 车规级芯片；全系标配 800V 高压平台，预售价 33.99 万-44.99 万元。 IT之家注意到，在 2026 成都车展上，神行者 8 也迎来亮相，并在发布会上公布了最新权益及预售价格，新车叠加权益后最低 32.99 万元起。 权益 订金膨胀：订金 1,000 元可抵扣 6,000 元购车款； 增换补贴：奇瑞捷豹路虎车主享 15,000 元补贴，其他品牌车主享 10,000 元补贴； 金融方案：",
-     "source": "IT之家",
-     "zh": "奇瑞捷豹路虎 FREELANDER 神行者 8 预售价格再降，叠加权益后最低 32.99 万元起"
     },
     {
      "title": "80%的具身订单可能是假的，缺订单正让赛道疯狂",
@@ -1868,7 +1892,7 @@
      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
      "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
      "pubDate": "Sun, 23 Aug 2026 04:28:18 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 14 # Comments: 3",
+     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 20 # Comments: 4",
      "source": "Hacker News",
      "zh": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has"
     },
@@ -1884,7 +1908,7 @@
      "title": "The Golden Rule for Becoming a Better Writer",
      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
      "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 37 # Comments: 15",
+     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 58 # Comments: 29",
      "source": "Hacker News",
      "zh": "The Golden Rule for Becoming a Better Writer"
     },
@@ -1924,7 +1948,7 @@
      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
      "link": "https://martypc.net/",
      "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
-     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 63 # Comments: 8",
+     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 77 # Comments: 15",
      "source": "Hacker News",
      "zh": "MartyPC is a cross-platform emulator of early PCs written in Rust"
     },
@@ -1959,30 +1983,6 @@
      "summary": "一个人就是一支AI 交易团队。",
      "source": "钛媒体",
      "zh": "26岁离开10亿私募，一个交易天才与他的AI Trading创业｜独家对话"
-    },
-    {
-     "title": "I Dream of Quieter Computing",
-     "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-     "pubDate": "Sun, 23 Aug 2026 02:33:22 +0000",
-     "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 42 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "I Dream of Quieter Computing"
-    },
-    {
-     "title": "The Art and Beauty of Blade Runner",
-     "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-     "pubDate": "Sun, 23 Aug 2026 00:56:03 +0000",
-     "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 44 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "The Art and Beauty of Blade Runner"
-    },
-    {
-     "title": "Sources and documents detail how Tether&apos;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply (Reuters)",
-     "link": "https://www.techmeme.com/260822/p14#a260822p14",
-     "pubDate": "Sat, 22 Aug 2026 20:00:14 -0400",
-     "summary": "Reuters : Sources and documents detail how Tether's plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply &nbsp; &mdash;&nbsp; Uruguay seemed like the perfect place for cryptocurrency giant Tether to launch a bitcoin mining operation.",
-     "source": "Techmeme",
-     "zh": "Sources and documents detail how Tether&apos;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply (Reuters)"
     }
    ]
   },
@@ -2241,60 +2241,68 @@
    "total": 13,
    "items": [
     {
-     "title": "上海家化拟5.55亿元出售丝芙兰股份",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850266083.html",
-     "pubDate": "Sun, 23 Aug 2026 14:10:49 +0800",
-     "summary": "近日， 上海家化 联合股份有限公司（以下简称“ 上海家化 ”）发布公告，拟以7000万欧元（约合人民币5.55亿元）向Sephora Asia出售其持有的丝芙兰上海19%股权和丝芙兰北京19%股权。 丝芙兰上海和丝芙兰北京是 上海家化 和Sephora Asia成立的合资公司，负责运营丝芙兰在中国的线上、线下业务，主要销售彩妆、护发、护肤及香水等产品。2004年，Sephora Asia与上海家化共同成立丝芙兰上海，上海家化出资4272.6万元，持股19%；2006年，双方成立丝芙兰北京，上海家化出资人民币1235.9万元，持股19%。 2023-2025年，上海家化对丝芙兰上海和丝芙兰北京的",
+     "title": "受台风“紫檀”影响 今日至25日部分列车停运",
+     "link": "http://finance.eastmoney.com/news/1350,202608233850267859.html",
+     "pubDate": "Sun, 23 Aug 2026 14:45:42 +0800",
+     "summary": "受第19号台风“紫檀”和西南季风共同影响，海南岛、广西南部、广东、福建、浙江等地部分地区有大到暴雨，局地大暴雨到特大暴雨。为确保旅客列车运行安全，铁路部门动态调整旅客列车开行方案。 来自国铁广州局的消息，受台风影响，根据调度计划，23日20时至24日8时，甬广高铁部分列车停运；24日8时至25日2时，海南高铁西环段部分列车停运，同时，部分列车可能出现晚点情况。 受台风路径变化影响，广西沿海铁路昨天停运的邕北、钦防、防东铁路的部分列车已经恢复运行。国铁南昌局目前在甬广高铁以及峰福、昌福、杭深、福平、兴泉、漳泉等铁路部分区段启动防洪Ⅳ级应急响应。 铁路部门表示，将持续根据台风影响范围和降雨情况，动",
      "source": "东方财富股票",
-     "zh": "上海家化拟5.55亿元出售丝芙兰股份"
+     "zh": "受台风“紫檀”影响 今日至25日部分列车停运"
     },
     {
-     "title": "上海家化2026年上半年营收37.91亿元，同比增长8.99%，美妆板块增速领跑",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850265942.html",
-     "pubDate": "Sun, 23 Aug 2026 14:10:45 +0800",
-     "summary": "近日， 上海家化 联合股份有限公司（以下简称“ 上海家化 ”）发布2026年半年度报告。2026年上半年， 上海家化 实现营业收入37.91亿元，同比增长8.99%。 其中，归属于上市公司股东的净利润3.81亿元，同比增长43.35%；扣除非经常性损益后的净利润3.52亿元，同比增长58.92%。 国内业务上半年实现营收31.10亿元，同比增长12.03%；海外业务营收6.81亿元，同比下降约3.0%。 个护类产品以17.44亿元的营收，稳居第一大收入来源，占比约46%，同比增长约9.7%；美妆类仍然增速领先，实现营收10.33亿元，同比增长38.2%；创新业务收入为3.31亿元，同比下降约2",
-     "source": "东方财富股票",
-     "zh": "上海家化2026年上半年营收37.91亿元，同比增长8.99%，美妆板块增速领跑"
+     "title": "SemiAnalysis：闪存制造正“由钨转钼”",
+     "link": "https://wallstreetcn.com/articles/3780077",
+     "pubDate": "Sun, 23 Aug 2026 14:40:54 +0800",
+     "summary": "8月23日，半导体行业研究机构SemiAnalysis在X平台发布系列推文，阐述3D NAND闪存制造从钨（Tungsten，W）向钼（Molybdenum，Mo）转型的技术逻辑。 3D NAND大约十年前就停止了横向缩小，转而靠垂直堆叠层数来提升存储密度。但当层数突破约300层后，连接每个存储单元的钨字线（word lines）遭遇了物理瓶颈： 电阻过高、基于氟的化学工艺导致漏电，以及在超深孔中无法完成有效填充。 SemiAnalysis在推文表示： “钼不是一种优化，是300层以上NAND的必选项。” 与钨相比，钼具备三项关键优势：更低的电阻（带来更快的读写速度）、无需氟基化学工艺，以及在",
+     "source": "华尔街见闻",
+     "zh": "SemiAnalysis：闪存制造正“由钨转钼”"
     },
     {
-     "title": "特朗普投资账户6月交易上千笔，金融、国防股成重仓方向",
+     "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+     "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+     "pubDate": "Sun, 23 Aug 2026 06:39:00 GMT",
+     "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+     "source": "CNBC",
+     "zh": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
+    },
+    {
+     "title": "阿里巴巴拟配售新股800亿港元",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850268063.html",
+     "pubDate": "Sun, 23 Aug 2026 14:36:00 +0800",
+     "summary": "人民财讯8月23日电，8月23日，记者获悉， 阿里巴巴 宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。据了解，这也是 阿里巴巴 2019年港股上市以来首次启动新股配售。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设。 （文章来源：证券时报网）",
+     "source": "东方财富股票",
+     "zh": "阿里巴巴拟配售新股800亿港元"
+    },
+    {
+     "title": "加拿大三省长力挺反制美国关税",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850267432.html",
+     "pubDate": "Sun, 23 Aug 2026 14:35:43 +0800",
+     "summary": "当地时间8月22日，加拿大总理卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。对此，加拿大安大略省、大不列颠哥伦比亚省以及魁北克省省长均发言力挺。安大略省省长道格·福特呼吁加拿大各省团结一致，组成“加拿大队”，动用一切手段回击美国。大不列颠哥伦比亚省省长戴维·伊比表示，当前美国政府不可信，加拿大必须挺身而出直面霸凌者。 美国总统特朗普7月20日签署多个公告，依据《斯穆特-霍利关税法》第338条款对从加拿大进口的红酒、曲棍球棒和 水泥 等数百项特定商品加征50%关税。新关税措施原本定于美东时间8月19日开始生效，特朗普8月18日",
+     "source": "东方财富股票",
+     "zh": "加拿大三省长力挺反制美国关税"
+    },
+    {
+     "title": "乌克兰利沃夫市一药店发生爆炸 2人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850267392.html",
+     "pubDate": "Sun, 23 Aug 2026 14:35:11 +0800",
+     "summary": "当地时间8月23日，乌克兰利沃夫市一处药店发生爆炸，初步确认有2人死亡。目前，执法人员正在现场开展工作。爆炸原因尚不清楚。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "乌克兰利沃夫市一药店发生爆炸 2人死亡"
+    },
+    {
+     "title": "深演智能获纳恒生综合指数 距上市不足四月即有望跻身港股通",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850267510.html",
+     "pubDate": "Sun, 23 Aug 2026 14:29:42 +0800",
+     "summary": "上证报中国证券网讯（记者罗茂林）8月21日，恒生指数公司公布季度检讨结果，北京 深演智能 科技股份有限公司获纳入恒生 综合 指数成份股，调整将于9月7日起生效。这意味着，这家今年5月27日登陆港交所的“企业决策 AI智能体 第一股”，有望同步进入沪港通及深港通交易机制。 公开资料显示， 深演智能 成立于2009年，聚焦企业决策AI赛道，上市首日股价大涨266%。公司凭借“大模型+算法模型”双层架构，打造企业决策 AI智能体 系统DeepAgent，以Agentic Software和Agentic Service两大业务替代传统企业软件，在中国营销与销售决策 AI应用 市场位居首位。 当前全球",
+     "source": "东方财富股票",
+     "zh": "深演智能获纳恒生综合指数 距上市不足四月即有望跻身港股通"
+    },
+    {
+     "title": "特朗普投资账户6月交易上千笔，金融股成重仓方向",
      "link": "https://wallstreetcn.com/articles/3780076",
      "pubDate": "Sun, 23 Aug 2026 14:10:15 +0800",
      "summary": "特朗普6月投资账户完成逾千笔股票交易，金融板块成为最大买入方向，白宫坚称总统本人对交易决策毫不知情。 据《华尔街日报》8月22日报道，根据最新政府披露文件，美国总统特朗普的投资账户在今年6月完成了逾1000笔股票交易，买入笔数超过550笔，卖出笔数超过450笔。他的证券买入总额超过4900万美元，而卖出总额至少为2850万美元。 这份文件于当地时间周六公开发布。白宫随即表示，总统本人在上述交易中不扮演任何角色，所有操作均由独立管理人通过计算机模型自动执行，以复制主流股票指数的表现。 6月18日：单日大额买卖同步发生 披露文件显示，6月18日是当月交易最为集中的一天。 当天，特朗普账户分别买入逾",
      "source": "华尔街见闻",
-     "zh": "特朗普投资账户6月交易上千笔，金融、国防股成重仓方向"
-    },
-    {
-     "title": "泰康官宣：陈东升专注董事长角色 刘挺军出任CEO",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850265819.html",
-     "pubDate": "Sun, 23 Aug 2026 14:06:10 +0800",
-     "summary": "【导读】泰康治理结构换新，陈东升专注董事长角色，刘挺军出任CEO 站在三十年新起点的泰康保险集团，基于“新寿险”战略深入推进，宣布高层重要人事调整：陈东升专注董事长角色，刘挺军出任CEO。 这是泰康现代企业治理结构机制的进一步优化，也是泰康“新寿险”战略进入新阶段的标志之一。 泰康保险集团宣布治理结构调整 8月22日，泰康保险集团在成立30周年之际宣布治理结构调整：创始人、董事长陈东升先生不再兼任首席执行官，回归并专注公司战略、团队、风险、文化以及重大事项决策，继续发挥核心领导作用；聘任公司总裁刘挺军先生出任公司首席执行官。 这是泰康保险集团推进新寿险战略，持续加强经营管理团队的专业化、年轻化",
-     "source": "东方财富股票",
-     "zh": "泰康官宣：陈东升专注董事长角色 刘挺军出任CEO"
-    },
-    {
-     "title": "中阿启动干旱、荒漠化和土地退化防治五年行动计划",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850265172.html",
-     "pubDate": "Sun, 23 Aug 2026 14:03:50 +0800",
-     "summary": "干旱、荒漠化和土地退化是中国和阿拉伯国家共同面临的全球性生态挑战。22日晚，在《联合国防治荒漠化公约》第十七次缔约方大会期间，中阿干旱、荒漠化和土地退化国际研究中心指导委员会第二次扩大会议暨中阿合作研讨会在蒙古国首都乌兰巴托召开。会议通过并正式发布《中阿干旱、荒漠化和土地退化防治五年行动计划》。 中国林业科学研究院副院长崔丽娟介绍，行动计划提出，未来五年，双方将依托中阿干旱、荒漠化和土地退化国际研究中心（简称“中阿中心”）等合作平台和伙伴关系网络，聚焦荒漠化和退化土地治理、沙尘暴监测预报预警、草原保护利用、生物多样性保护、湿地保护修复等重点领域，持续深化务实合作；完善中阿荒漠化治理网络，健全政",
-     "source": "东方财富股票",
-     "zh": "中阿启动干旱、荒漠化和土地退化防治五年行动计划"
-    },
-    {
-     "title": "阿里巴巴拟配售新股 全部投入AI建设",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850265314.html",
-     "pubDate": "Sun, 23 Aug 2026 14:01:23 +0800",
-     "summary": "上证报中国证券网讯（记者杨翔菲）8月23日消息， 阿里巴巴 宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是 阿里巴巴 自2019年港股上市以来首次启动新股配售。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。 （文章来源：上海证券报·中国证券网）",
-     "source": "东方财富股票",
-     "zh": "阿里巴巴拟配售新股 全部投入AI建设"
-    },
-    {
-     "title": "涉应急拉手与辅助驾驶隐患 特斯拉在华召回合计超 571 万辆",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850265066.html",
-     "pubDate": "Sun, 23 Aug 2026 14:01:15 +0800",
-     "summary": "因涉车门应急拉手与辅助驾驶隐患， 特斯拉 中国累计召回超571万辆，日前成为市场关注焦点。 8月21日，国家市场监督管理总局官网公告， 特斯拉 （上海）有限公司、 特斯拉 汽车 （北京）有限公司召回部分国产及进口纯电动 汽车 ，公告显示，上述两家公司根据《缺陷 汽车 产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。 《中国经营报》记者注意到，此次特斯拉在华召回行动，分别对应以下两类隐患，分别是车内应急机械拉手辨识不足、组合驾驶辅助开启时注意力监测不足，而在两类召回中，前者涉及国产 Model 3/Y 以及进口 Model 3/X/S，合计超 ",
-     "source": "东方财富股票",
-     "zh": "涉应急拉手与辅助驾驶隐患 特斯拉在华召回合计超 571 万辆"
+     "zh": "特朗普投资账户6月交易上千笔，金融股成重仓方向"
     },
     {
      "title": "阿里拟配售800亿港元新股，全部投入AI建设",
@@ -2303,14 +2311,6 @@
      "summary": "中新经纬8月23日电 中新经纬8月23日获悉，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售。 本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。(中新经纬APP) 编辑：李晓萱 责编：魏薇",
      "source": "经济观察网",
      "zh": "阿里拟配售800亿港元新股，全部投入AI建设"
-    },
-    {
-     "title": "周末要闻汇总：国常会再做部署 适度超前统筹推进新一代通信网建设",
-     "link": "http://finance.eastmoney.com/news/1345,202608233850265497.html",
-     "pubDate": "Sun, 23 Aug 2026 13:27:39 +0800",
-     "summary": "本周末影响市场的重要资讯有： 国务院常务会议要求，适度超前统筹推进新一代 通信 网建设；人民日报评“甲醛白菜”：性质恶劣，荒唐至极；信用卡分期贴息提额扩围，六大行集体落地，一年最高省5000元；美债救市升级，特朗普放狠话：必要时动用军队；加拿大宣布“全额对等报复”美国新关税；长存控股IPO获受理，公司拟融资330亿元； 英伟达 搭载 人工智能 芯片的服务器价格将上涨超15%；1361亿项目集中签约，万亿算力赛道迎来重磅驱动；世界人形 机器人 运动会开幕，100米9秒39打破人类纪录；我国牵头 固态电池 首项国际标准正式立项；阿里拟配售800亿港元新股，全部投入AI建设；DeepSeek调整峰谷",
-     "source": "东方财富资讯",
-     "zh": "周末要闻汇总：国常会再做部署 适度超前统筹推进新一代通信网建设"
     },
     {
      "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
@@ -2404,7 +2404,7 @@
      "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
      "link": "https://wallstreetcn.com/articles/3779970",
      "pubDate": "Sun, 23 Aug 2026 10:14:19 +0800",
-     "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开伊朗制裁发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极验证”，",
+     "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极",
      "source": "华尔街见闻",
      "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
     },
@@ -2423,14 +2423,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Venezuela hits roadblock in exporting more oil, as ports can't keep up with demand - report"
-    },
-    {
-     "title": "因存储芯片成本飙升，英伟达高端服务器被曝明年将涨价15%",
-     "link": "https://wallstreetcn.com/articles/3780066",
-     "pubDate": "Sun, 23 Aug 2026 08:49:31 +0800",
-     "summary": "英伟达的部分最大客户已被告知，由于存储芯片成本飙升， 搭载英伟达人工智能芯片的服务器价格在大部分情况下将涨价超过15%。 8月22日，据彭博援引知情人士报道称， 此次涨价将从明年初出货的系统开始生效，影响范围包括搭载旗舰级Vera Rubin和Grace Blackwell芯片的系统。 给微软、谷歌和甲骨文等大厂代工服务器的工厂，已经发出了涨价通知。具体涨幅将取决于英伟达芯片的代际和存储配置。 价格上涨不仅将推高AI数据中心的建设成本，也为英伟达将于8月26日公布的第二财季业绩增添了新的市场关注焦点。 内存短缺是核心推手 此轮涨价的根本驱动力在于DRAM内存供应的结构性紧张。 英伟达的AI加速",
-     "source": "华尔街见闻",
-     "zh": "因存储芯片成本飙升，英伟达高端服务器被曝明年将涨价15%"
     },
     {
      "title": "91-year-old supermarket chain closes stores, lays off employees",
@@ -2479,6 +2471,14 @@
      "summary": "Canadian Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
      "source": "MarketWatch",
      "zh": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
+    },
+    {
+     "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+     "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+     "pubDate": "Sat, 22 Aug 2026 20:30:00 GMT",
+     "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
+     "source": "MarketWatch",
+     "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
     }
    ]
   },
