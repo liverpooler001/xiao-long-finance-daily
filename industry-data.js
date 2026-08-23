@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 04:47:36",
+ "generated_at": "2026/8/24 05:12:27",
  "recent_days": 7,
  "industries": [
   {
@@ -24,6 +24,14 @@ window.INDUSTRY_DATA = {
      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
      "source": "TechCrunch AI",
      "zh": "Linkdaze’s smart calendar is built to run a household, not just track a schedule"
+    },
+    {
+     "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+     "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+     "pubDate": "Sun, 23 Aug 2026 17:51:56 +0000",
+     "summary": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work"
     },
     {
      "title": "800亿港元！阿里宣布为AI再融资，传已超额认购",
@@ -74,6 +82,14 @@ window.INDUSTRY_DATA = {
      "zh": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长"
     },
     {
+     "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+     "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+     "pubDate": "Sun, 23 Aug 2026 10:44:59 +0000",
+     "summary": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU"
+    },
+    {
      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
      "link": "https://www.qbitai.com/2026/08/478191.html",
      "pubDate": "Sun, 23 Aug 2026 09:56:12 +0000",
@@ -98,6 +114,14 @@ window.INDUSTRY_DATA = {
      "zh": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起"
     },
     {
+     "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
+     "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
+     "pubDate": "Sun, 23 Aug 2026 07:51:22 +0000",
+     "summary": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows. The post B",
+     "source": "MarkTechPost",
+     "zh": "Building an End-to-End Document Intelligence Pipeline with deepDoctection"
+    },
+    {
      "title": "影视飓风Tim看呆！鸡排哥2小时做出八大菜系，AI首次长出「大厨大脑」",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719752&idx=1&sn=44657ada08096ab4c58495a046f7fd9a",
      "pubDate": "Sun, 23 Aug 2026 15:38:00 +0800",
@@ -114,6 +138,22 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic：AI没有导致失业率的增加"
     },
     {
+     "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
+     "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+     "pubDate": "Sun, 23 Aug 2026 07:37:14 +0000",
+     "summary": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks. The post Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks"
+    },
+    {
+     "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+     "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+     "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
+     "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based ",
+     "source": "MarkTechPost",
+     "zh": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety"
+    },
+    {
      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
      "pubDate": "Sat, 22 Aug 2026 21:46:56 +0000",
@@ -128,6 +168,14 @@ window.INDUSTRY_DATA = {
      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
      "source": "TechCrunch AI",
      "zh": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research"
+    },
+    {
+     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
+     "source": "MarkTechPost",
+     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
     },
     {
      "title": "AI4S八年积累迎来新节点，北京再落一子，抢跑科研范式变革下半场",
@@ -200,54 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "See how AI agents are autonomously handling support, coding, supply chains, healthcare, and fraud detection today.",
      "source": "KDnuggets",
      "zh": "5 Real-World Use Cases for AI Agents Transforming Industries"
-    },
-    {
-     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-     "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-     "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
-     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-     "source": "DeepMind",
-     "zh": "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-    },
-    {
-     "title": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验",
-     "link": "https://zhidx.com/p/586881.html",
-     "pubDate": "Fri, 21 Aug 2026 19:19:04 +0800",
-     "summary": "当AI接管代码和影像后，社媒上一度流行“一句话跑出游戏”的各种DEMO演示。 可直到今天，完全用AI打造的现象级游戏， 几乎无处寻觅 。为什么？在Coding Agent和视频模型高速发展的今天，AI原生游戏的困难到底在哪里？ 与此同时，一个4个月前，才 全面 转入AI游戏赛道的团队，上线了当下定位于“AI精品游戏”的平台Elseland。 平台上已经上线了大量来自创作者和工作室的游戏。其中，更具代表性的，则是Elseland团队基于自研游戏开发工具，打造的数十款“原创游戏”。CEO刘耕提到，他们已经能把数百关体量精品游戏的生产时间，从一年降到一星期左右。成本的百倍下降，是支撑 快速创新与验证",
-     "source": "智东西",
-     "zh": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验"
-    },
-    {
-     "title": "How mobility gives language models a deeper understanding of place",
-     "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
-     "pubDate": "Fri, 21 Aug 2026 10:54:00 +0000",
-     "summary": "Algorithms & Theory",
-     "source": "Google Research",
-     "zh": "How mobility gives language models a deeper understanding of place"
-    },
-    {
-     "title": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆",
-     "link": "https://zhidx.com/p/587166.html",
-     "pubDate": "Fri, 21 Aug 2026 18:17:43 +0800",
-     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西8月21日报道，刚刚，雷鸟iO AI眼镜发布。这款产品 重34克 ，日常续航可达两天。眼镜搭载 DeepSeek和千问大模型 ，其“AI全天智记”功能支持 连续记录18小时 。 设计方面，雷鸟iO采用皇冠框型设计，前框使用镁铝合金，镜腿采用双层钛合金结构，提供 “极夜”和“沙丘”两款配色 。 显示方面，雷鸟iO采用单绿色显示，搭载自研 蓝湖光波导和萤火光引擎Nano 。蓝湖光波导显示区域透过率为93%，非显示区域透过率超过98%，萤火光引擎Nano体积仅0.085cc，可实现等效33英寸显示及1800尼特入眼亮度。 AI方面，雷鸟iO围绕 知识",
-     "source": "智东西",
-     "zh": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆"
-    },
-    {
-     "title": "DeepSeek多模态模型终于来了！一张图最高只要0.001元",
-     "link": "https://zhidx.com/p/587260.html",
-     "pubDate": "Fri, 21 Aug 2026 18:03:28 +0800",
-     "summary": "智东西 作者 | 陈骏达 编辑 | 李水青 智东西8月21日报道，就在刚刚，DeepSeek宣布全新的多模态视觉理解模型DeepSeek-V4-Flash-Vision-Exp（实验性质模型）上线DeepSeek API 平台。 DeepSeek同步公布了这一模型的详细基准测试结果。根据模型名字推测，DeepSeek-V4-Flash-Vision-Exp是在DeepSeek-V4-Flash基础上打造的，基准测试中其 纯文本能力（Agent、推理、世界知识等）与DeepSeek-V4-Flash正式版持平 。 在需要视觉理解的Agent Benchmark上，DeepSeek-V4-Flas",
-     "source": "智东西",
-     "zh": "DeepSeek多模态模型终于来了！一张图最高只要0.001元"
-    },
-    {
-     "title": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队",
-     "link": "https://zhidx.com/p/587115.html",
-     "pubDate": "Fri, 21 Aug 2026 17:05:57 +0800",
-     "summary": "智东西 作者 | 李水青 编辑 | 漠影 智东西8月21日报道，过去一个月，阿里巴巴模型发布全面提速， 大语言、图像、语音、视频、音乐五大类 模型密集完成重要版本迭代，性能均跻身国际第一梯队。 有业内人士评价， 多模态 是 下一代智能的范式 。阿里在多模态上的布局节奏，远比市场感知的要快。 模型密集迭代的另一面，是模型能力开始 与云基础设施的增长形成更紧密的联动。 2027财年第一季度（对应2026年4月1日-6月30日），阿里云外部商业化收入增速提升至 45% ，创下22个季度新高。AI云及算力服务收入 484.37亿元 ，经调整EBITA达到 56.28亿元 ，同比暴增 133% 。AI相",
-     "source": "智东西",
-     "zh": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Reducing EUV Exposure Dose Through Underlayer Engineering",
+     "link": "https://semiwiki.com/lithography/372293-reducing-euv-exposure-dose-through-underlayer-engineering/",
+     "pubDate": "Sun, 23 Aug 2026 21:00:24 +0000",
+     "summary": "Extreme-ultraviolet lithography is essential for manufacturing advanced semiconductor devices, but its continued scaling presents a difficult materials problem. Photoresists must simultaneously provide high resolution, low exposure dose, limited line-edge or linewidth roughness, and extremely low de",
+     "source": "SemiWiki",
+     "zh": "Reducing EUV Exposure Dose Through Underlayer Engineering"
+    },
     {
      "title": "CEO Interview with Ajit Prabhu of Quest Global",
      "link": "https://semiwiki.com/ceo-interviews/372266-ceo-interview-with-ajit-prabhu-of-quest-global/",
@@ -360,14 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "19 years ago the chip industry was facing a similar problem to today – the need for, and rising cost of, exotic materials. ‘Semiconductor firms are facing critical pricing choices […] The post Exotic Materials Adding Cost To Semis appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Exotic Materials Adding Cost To Semis"
-    },
-    {
-     "title": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/",
-     "pubDate": "Fri, 21 Aug 2026 13:00:41 +0000",
-     "summary": "Intel is considering a return to memory technology decades after abandoning mainstream DRAM and, more recently, selling its NAND business. Chief executive Lip-Bu Tan has argued that memory should no longer be viewed simply as a low-margin commodity. Artificial intelligence is turning bandwidth, late",
-     "source": "SemiWiki",
-     "zh": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics"
     },
     {
      "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-and-Petrobras-Bet-Big-on-High-Risk-High-Reward-Drilling-Off-Mexico.html",
+     "pubDate": "Sun, 23 Aug 2026 16:00:00 -0500",
+     "summary": "Mexico’s state oil firm Pemex and Brazil’s national oil company Petrobras are joining efforts and expertise to drill prospects in Mexican waters in the Gulf of Mexico, hoping to unlock huge oil resources from source rock formations that are miles deeper and eight times older than the currently produ",
+     "source": "OilPrice",
+     "zh": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico"
+    },
+    {
      "title": "In The American Southwest, The Water Crisis Threatens Existential Harm To Millions",
      "link": "https://cleantechnica.com/2026/08/23/in-the-american-southwest-the-water-crisis-threatens-existential-harm-to-millions/",
      "pubDate": "Sun, 23 Aug 2026 20:12:27 +0000",
@@ -920,14 +928,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla didn’t start the electric door handle craze. Hotrodders in the late 1940s and early 1950s substituted electric buttons for mechanical door handles in their effort to “de-chrome” their cars. But Tesla, under Elon Musk’s direction, took the idea and ran with it when it introduced the Model S. Su",
      "source": "CleanTechnica",
      "zh": "China Tightens Restrictions On Electric Door Handles, Forcing Tesla To Recall 3 Million Vehicles"
-    },
-    {
-     "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
-     "link": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
-     "pubDate": "Sat, 22 Aug 2026 16:00:00 -0500",
-     "summary": "Order a heavy-duty gas turbine from GE Vernova today and it won’t arrive until 2031. That’s the company’s actual production schedule, confirmed on its July 22 earnings call, and it’s the fact sitting underneath every AI data center power plan announced in the last two years. It comes up far less oft",
-     "source": "OilPrice",
-     "zh": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint"
     },
     {
      "title": "For Lagging Automakers: Stop Pouring Money Into The Wrong Powertrains",
@@ -1061,7 +1061,7 @@ window.INDUSTRY_DATA = {
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
+     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1082,12 +1082,12 @@ window.INDUSTRY_DATA = {
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
-     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
-     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
-     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
-     "source": "Energy Storage News",
-     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
+     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
+     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
+     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
+     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
+     "source": "Utility Dive",
+     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
     }
    ]
   },
@@ -1746,12 +1746,12 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders&apos; interest (Katie Roof/Business Insider)",
+     "title": "Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders&apos; interest (Katie Roof/Business Insider)",
      "link": "https://www.techmeme.com/260823/p9#a260823p9",
      "pubDate": "Sun, 23 Aug 2026 15:20:01 -0400",
-     "summary": "Katie Roof / Business Insider : Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders' interest &nbsp; &mdash;&nbsp; The AI industry's next blockbuster acquisition may not be another model maker.&nbsp; &",
+     "summary": "Katie Roof / Business Insider : Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders' interest &nbsp; &mdash;&nbsp; The AI industry's next blockbuster acquisition may not be another model maker.&nbsp; &mda",
      "source": "Techmeme",
-     "zh": "Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders&apos; interest (Katie Roof/Business Insider)"
+     "zh": "Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders&apos; interest (Katie Roof/Business Insider)"
     },
     {
      "title": "《牛来》封神记：烂片名垂影史的三大条件",
@@ -1994,6 +1994,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Stop photographing the landmark. Start photographing the trip",
+     "link": "https://www.dpreview.com/photography/stop-photographing-the-landmark-start-photographing-the-trip/",
+     "pubDate": "Sun, 23 Aug 2026 20:46:53 +0000",
+     "summary": "Years from now, you won't care about your version of the shot everyone else has. You'll care about the one only you could take.",
+     "source": "DPReview",
+     "zh": "Stop photographing the landmark. Start photographing the trip"
+    },
+    {
      "title": "How is Android Auto different from Android Automotive?",
      "link": "https://www.engadget.com/2240251/android-auto-vs-automotive-how-different/",
      "pubDate": "Sun, 23 Aug 2026 20:30:00 +0000",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "Buying a new smartphone usually means buying a new case alongside it, unless you’re one of those risk-fueled daredevils who opt to go caseless. And while there’s no shortage of third-party case options piling up at your local Best Buy or in Amazon warehouses, sometimes, going the first-party route j",
      "source": "9to5Google",
      "zh": "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case"
-    },
-    {
-     "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
-     "link": "https://sspai.com/post/113675",
-     "pubDate": "Sat, 22 Aug 2026 11:00:00 +0800",
-     "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ... 查看全文",
-     "source": "少数派",
-     "zh": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展"
     }
    ]
   },
@@ -2241,6 +2241,62 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "特朗普据悉将于9月12日、13日到访爱尔兰",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850446952.html",
+     "pubDate": "Mon, 24 Aug 2026 04:44:08 +0800",
+     "summary": "特朗普据悉将于9月12日、13日到访爱尔兰。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "特朗普据悉将于9月12日、13日到访爱尔兰"
+    },
+    {
+     "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
+     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+     "pubDate": "2026-08-23T20:43:43Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus"
+    },
+    {
+     "title": "赞比亚大选何以出现罕见大胜？",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850446757.html",
+     "pubDate": "Mon, 24 Aug 2026 04:33:02 +0800",
+     "summary": "非洲南部国家赞比亚于13日举行了总统、国民议会及地方选举。该国是非洲第二大产 铜 国，当前，全球AI和电动 汽车 产业飞速发展导致 铜 的需求与日俱增，因此本次大选吸引了不少关注。赞比亚选举委员会18日宣布，现任总统哈凯恩德·希奇莱马在2026年总统选举中获胜，赢得连任。按照宪法规定，总统候选人获得超过50%的选票即胜出。希奇莱马获得约60%的有效选票，主要竞争对手蒙杜比莱获得选票约38%。 值得注意的是，赞比亚此次大选出现了该国历史上极其罕见的巨大票差，前两名的差距甚至超过了20%。自1991年赞比亚开启多党化道路以来，除了1991和1996年，其他历次总统选举中第一和第二名的得票差都不足1",
+     "source": "东方财富股票",
+     "zh": "赞比亚大选何以出现罕见大胜？"
+    },
+    {
+     "title": "刚果民主共和国表示 确诊埃博拉病例数已升至5514例 其中死亡2642例",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850446686.html",
+     "pubDate": "Mon, 24 Aug 2026 04:26:30 +0800",
+     "summary": "刚果民主共和国表示，确诊埃博拉病例数已升至5514例，其中死亡2642例。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "刚果民主共和国表示 确诊埃博拉病例数已升至5514例 其中死亡2642例"
+    },
+    {
+     "title": "资金借道宽基ETF布局科技成长 科创50ETF单周吸金逾43亿元",
+     "link": "http://fund.eastmoney.com/news/11794,202608243850444020.html",
+     "pubDate": "Mon, 24 Aug 2026 04:24:00 +0800",
+     "summary": "上周，宽基ETF资金流向延续分化。在纳入统计范围内的10类宽基指数中，科创50、创业板指和上证50相关ETF获得资金净流入，其余7类指数相关ETF出现不同程度净流出。 值得注意的是，成长风格宽基ETF成为上周资金净流入的主要方向。其中，科创50相关ETF净流入43.48亿元，居各类宽基指数首位；创业板指相关ETF净流入9.71亿元。与此同时，大盘风格的中证A500相关ETF净流出32.64亿元，净流出规模居首。 机构认为，近期科技板块调整主要体现为估值和情绪的回落，但这并不意味着产业趋势发生根本变化。政策支持、AI产业景气以及硬件链量价逻辑仍构成中长期支撑，情绪与筹码进一步出清后，科技成长方向",
+     "source": "东方财富股票",
+     "zh": "资金借道宽基ETF布局科技成长 科创50ETF单周吸金逾43亿元"
+    },
+    {
+     "title": "面对“近乎窒息”的“经济绞杀” 伊朗寻找一丝喘息空间",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850446181.html",
+     "pubDate": "Mon, 24 Aug 2026 04:07:03 +0800",
+     "summary": "美国要对伊朗再出“大招”。美国财政部长贝森特20日威胁称，特朗普政府将对伊朗实施“史上最严厉制裁”，形成对伊“史上规模最大、协调一致的经济孤立”。 伊朗外交部发言人巴加埃22日说，美国宣称对伊朗实施新的经济制裁，这远不止针对单个国家持续进行的非法“经济战”，在国际法层面毫无依据。伊朗伊斯兰议会议长卡利巴夫表示，必须制定计划应对制裁。伊朗最高国家安全委员会秘书雷扎伊则警告周边国家不要参与美国对伊朗发动的“经济战”，否则将被伊朗视为敌人。 美国对伊政策为何从军事打击转向“经济绞杀”？伊朗有足够经济韧性从容应对吗？地区国家又将如何抉择？ 美国转向经济制裁 白宫尚未公布所谓对伊朗“史上最严制裁”的具体",
+     "source": "东方财富股票",
+     "zh": "面对“近乎窒息”的“经济绞杀” 伊朗寻找一丝喘息空间"
+    },
+    {
+     "title": "公募基金上半年经营数据陆续出炉 费率改革影响显现 头部稳固中部加速洗牌",
+     "link": "http://fund.eastmoney.com/news/11794,202608243850442598.html",
+     "pubDate": "Mon, 24 Aug 2026 04:04:13 +0800",
+     "summary": "随着上市公司2026年半年报陆续披露，部分基金公司的经营业绩相继揭晓。 据Wind数据统计，已披露经营数据的21家基金公司（包括有公募牌照的券商资管机构）中，20家实现盈利。 整体来看，在公募行业费率改革深入推进、权益市场结构性行情延续等背景下，头部公司凭借多元产品线和规模优势保持利润领先，彼此间的差距极为有限，竞争仍然激烈。 中型公司方面，部分机构凭借股东资源或特色策略实现弯道超车，排名剧烈洗牌。中小公募则业绩分化显著，部分机构存在亏损情况。 4家基金公司净利润超10亿元 从已披露数据看，上半年净利润突破10亿元的基金公司共有4家，分别是南方基金、华夏基金、富国基金和兴证全球基金。 具体来看",
+     "source": "东方财富股票",
+     "zh": "公募基金上半年经营数据陆续出炉 费率改革影响显现 头部稳固中部加速洗牌"
+    },
     {
      "title": "Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost?",
      "link": "https://finance.yahoo.com/healthcare/articles/gilead-revenue-accelerating-acquisitions-worth-195747159.html",
@@ -2264,14 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?"
-    },
-    {
-     "title": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
-     "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
-     "pubDate": "2026-08-23T19:43:03Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?"
     },
     {
      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
@@ -2336,6 +2384,14 @@ window.INDUSTRY_DATA = {
      "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
      "source": "MarketWatch",
      "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
+    },
+    {
+     "title": "Why every French politician is now a Gaullist",
+     "link": "https://www.ft.com/content/252df40a-48c0-47b8-850d-698a3d7a6dfd",
+     "pubDate": "Sun, 23 Aug 2026 17:58:17 GMT",
+     "summary": "The revival of de Gaulle’s legendary role in the second world war coincides with an increasing number of claims to his legacy",
+     "source": "Financial Times",
+     "zh": "Why every French politician is now a Gaullist"
     },
     {
      "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
@@ -2424,62 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "时隔七年，保险业迎来资产负债管理新规。 为有效防范系统性风险，完善审慎监管制度体系，提升保险业资产负债管理水平，8月21日，国家金融监督管理总局（以下简称“金融监管总局”）发布《保险公司资产负债管理办法》（以下简称《办法》）以及《关于实施〈保险公司资产负债管理办法〉有关事项的通知》（以下简称《实施通知》）。 国家金融监管总局表示，《办法》的实施，有助于引导保险公司树立稳健审慎的经营理念，...",
      "source": "经济观察网",
      "zh": "补齐制度短板、强化硬约束 保险业迎资产负债管理新规"
-    },
-    {
-     "title": "国家发展改革委“两天三会” 释放稳投资政策加力信号",
-     "link": "http://www.eeo.com.cn/2026/0824/1009013.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:04 +0800",
-     "summary": "■杜雨萌 近期，国家发展改革委在两天内接连召开三场重要会议，从“六张网”重大项目协调调度机制会，到民营企业座谈会，再到“两重”建设工作推进会，每一场会议均聚焦投资领域。 在笔者看来，这一系列部署并非零散安排，而是紧扣下半年经济工作要求，将基础设施的承载力、民间资本的活跃度与重大项目的牵引力放在同一张施工图里统筹推进，为下一阶段投资工作划出清晰路径：统筹“六张网”，重在形成合力、提升整...",
-     "source": "经济观察网",
-     "zh": "国家发展改革委“两天三会” 释放稳投资政策加力信号"
-    },
-    {
-     "title": "Top global stories this week: Alibaba, Unitree Robotics among notable names",
-     "link": "https://seekingalpha.com/news/4636060-top-global-stories-this-week-alibaba-unitree-robotics-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 12:11:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Top global stories this week: Alibaba, Unitree Robotics among notable names"
-    },
-    {
-     "title": "机器人缺数据，奥比中光当上了“卖铲人”",
-     "link": "https://wallstreetcn.com/articles/3780096",
-     "pubDate": "Sun, 23 Aug 2026 21:25:09 +0800",
-     "summary": "8月19日举行的2026世界机器人大会上，奥比中光首次集中展示无本体数据采集硬件矩阵，包括第一视角设备EGO、手持操作设备UMI、腕部近场设备WristCam以及同步中枢Hub。 对于一家过去主要给机器人卖 “眼睛”的公司而言，奥比中光正在把生意往机器人学会干活之前再推一步：卖数据采集的“铲子”。 这门生意背后是具身智能越来越明显的数据瓶颈。大模型可以从互联网获取文本和图像，但机器人要完成抓取、装配、整理等物理任务，需要动作轨迹、空间位置以及真实交互产生的多模态数据。 奥比中光切入的正是数采过程中所用的硬件设备。 此次奥比中光推出的 EGO负责第一视角，UMI记录手持操作，WristCam补充",
-     "source": "华尔街见闻",
-     "zh": "机器人缺数据，奥比中光当上了“卖铲人”"
-    },
-    {
-     "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
-     "link": "https://wallstreetcn.com/articles/3779970",
-     "pubDate": "Sun, 23 Aug 2026 21:16:39 +0800",
-     "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极",
-     "source": "华尔街见闻",
-     "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
-    },
-    {
-     "title": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”",
-     "link": "https://wallstreetcn.com/articles/3780090",
-     "pubDate": "Sun, 23 Aug 2026 20:57:19 +0800",
-     "summary": "英伟达正在两条鲜少被市场充分定价的战线上悄然构筑护城河。 据汇丰银行8月20日发布的最新研报，汇丰分析师Frank Lee认为，在持续\"业绩超预期\"之外，推动英伟达股价重新定价的新催化剂，将来自两条此前被市场忽视的叙事线。 其一，大力押注开源小语言模型（SLM），有望将潜在客户群从少数超大规模云厂商扩展至数百万开发者和主权国家；其二，通过一系列多年期采购协议提前锁定供应链产能，在竞争对手愈发难以获得关键制造资源的背景下，这一优势将愈加凸显。 两条新叙事线的市场意义在于，它们共同指向同一个核心命题：英伟达的增长引擎，正在从依赖少数超大规模客户的单一结构，向更宽广、更具韧性的客户生态演进。 这一转",
-     "source": "华尔街见闻",
-     "zh": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”"
-    },
-    {
-     "title": "8月23日晚间上市公司利好消息一览(附名单)",
-     "link": "http://finance.eastmoney.com/news/1353,202608233850367418.html",
-     "pubDate": "Sun, 23 Aug 2026 20:32:26 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布重要公告，以下为利好的消息汇总： 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，建设期一年",
-     "source": "东方财富资讯",
-     "zh": "8月23日晚间上市公司利好消息一览(附名单)"
-    },
-    {
-     "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-     "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
-     "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
-     "source": "CNBC",
-     "zh": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill"
     }
    ]
   },
