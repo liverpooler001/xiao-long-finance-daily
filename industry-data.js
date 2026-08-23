@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 22:14:13",
+ "generated_at": "2026/8/23 22:48:08",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+     "link": "https://www.qbitai.com/2026/08/478319.html",
+     "pubDate": "Sun, 23 Aug 2026 13:20:00 +0000",
+     "summary": "玩的就是真实",
+     "source": "量子位",
+     "zh": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店"
+    },
     {
      "title": "具身创业里的香港教授们",
      "link": "https://www.qbitai.com/2026/08/478289.html",
@@ -56,14 +64,6 @@ window.INDUSTRY_DATA = {
      "summary": "AstraTennis时刻背后的硬核技术",
      "source": "量子位",
      "zh": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起"
-    },
-    {
-     "title": "不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑",
-     "link": "https://www.qbitai.com/2026/08/478020.html",
-     "pubDate": "Sun, 23 Aug 2026 09:29:59 +0000",
-     "summary": "机器人开卡丁车连续过弯，一镜到底全自主",
-     "source": "量子位",
-     "zh": "不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑"
     },
     {
      "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+     "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+     "pubDate": "Sun, 23 Aug 2026 10:23:46 -0400",
+     "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+     "source": "BleepingComputer",
+     "zh": "ToxicPanda Android malware uses VPN permissions to block Google Play"
+    },
+    {
      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
      "pubDate": "Sat, 22 Aug 2026 20:02:41 +0530",
@@ -1674,14 +1682,6 @@ window.INDUSTRY_DATA = {
      "zh": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets"
     },
     {
-     "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-     "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-     "pubDate": "Fri, 21 Aug 2026 10:00:10 -0400",
-     "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
-     "source": "BleepingComputer",
-     "zh": "Is Online Privacy Possible? How Digital Identities Can Help"
-    },
-    {
      "title": "Calling on Cyber Pros to Help Defend City Hall",
      "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
      "pubDate": "Fri, 21 Aug 2026 14:00:00 GMT",
@@ -1746,6 +1746,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军",
+     "link": "https://www.ithome.com/0/993/310.htm",
+     "pubDate": "Sun, 23 Aug 2026 14:38:51 GMT",
+     "summary": "IT之家 8 月 23 日消息，据央视新闻报道，第二届世界人形机器人运动会昨天（8 月 22 日）在国家速滑馆开幕。今天（8 月 23 日），1500 米决赛鸣枪开跑，共 34 支队伍参赛。 “天卓队”以 2 分 21 秒 63 夺冠，大幅超过人类男子 1500 米 3 分 26 秒 00 的世界纪录。“飞雷神”以 2 分 30 秒 00 冲线摘银，“风火闪电队”仅慢 0.222 秒，以 2 分 30 秒 22 拿下铜牌。 作为对比，去年首届机器人运动会，宇树 H1 机器人 1500 米的夺冠成绩为 6 分 34 秒 40。 据悉，天卓队使用的人形机器人为天工 Ultra，由北京人形机器人创新",
+     "source": "IT之家",
+     "zh": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军"
+    },
+    {
+     "title": "加州伯克利数学教授撰文批评学生基础差，却被抓包“用 AI 写的”",
+     "link": "https://www.ithome.com/0/993/309.htm",
+     "pubDate": "Sun, 23 Aug 2026 14:33:38 GMT",
+     "summary": "IT之家 8 月 23 日消息，据英国《卫报》20 日报道，加州大学伯克利分校数学教授兹韦兹德利娜 · 斯坦科娃日前在《旧金山标准报》撰文批评部分学生存在“严重”的数学基础缺失，却又承认文章本身曾借助 AI 编辑，由此引发争议。 《旧金山标准报》上周刊登了斯坦科娃一篇约 2000 词的评论文章。她指出，自己教授的一些数学课学生水平 落后“五到八年” ，连分数和基础代数等初中阶段知识都没有掌握。 斯坦科娃将问题归咎于加州大学不参考标准化考试成绩的招生政策，认为 SAT 这类长期沿用的衡量标准取消后，一些尚未做好准备应对课程难度的学生也被录取。 上周末，加州大学伯克利分校学生报《加州人日报》的记者",
+     "source": "IT之家",
+     "zh": "加州伯克利数学教授撰文批评学生基础差，却被抓包“用 AI 写的”"
+    },
+    {
+     "title": "国补后立减 5000 元：华为 Mate X6 折叠屏手机京东 8999 元再降价",
+     "link": "https://www.ithome.com/0/993/308.htm",
+     "pubDate": "Sun, 23 Aug 2026 14:32:02 GMT",
+     "summary": "华为 Mate X6 折叠屏手机 2024 年 12 月开售，12+512G 上市价 13999 元。 今日京东直降至 9999 元，叠加国补 500~1000 元，实付仅需 8999 元起 +12 期免息： 京东 HUAWEI Mate X6 12GB+512GB 8999~9499 元 直达链接 设计方面，Mate X6 传承 Mate X 系列的经典寰宇家族化设计语言，采用“寰宇星轨”设计，外圈金属侧立面以立体钻切工艺打磨出切面。 ▲ 图源IT之家实拍：华为 Mate X6 「寰宇红」（下同） 提供两种机身材质，拥有星云灰、星云白、寰宇红、深海蓝、曜石黑五款配色。 屏幕方面，该机外屏尺寸",
+     "source": "IT之家",
+     "zh": "国补后立减 5000 元：华为 Mate X6 折叠屏手机京东 8999 元再降价"
+    },
+    {
+     "title": "宫崎英高确认《黄昏血族》游戏将包含匹配机制，保护新手免受高手虐菜",
+     "link": "https://www.ithome.com/0/993/307.htm",
+     "pubDate": "Sun, 23 Aug 2026 14:27:56 GMT",
+     "summary": "IT之家 8 月 23 日消息，FromSoftware 社长、《黄昏血族》（The Duskbloods）游戏总监接受 IGN 采访时确认，本作将采用基于玩家技术水平的匹配机制（SBMM），避免新手玩家遇到高手虐菜。 宫崎英高表示：“我们确实计划让匹配系统采用排名机制，高水平的玩家将会和其他高手匹配，新玩家则会与其他新手一起玩，可以避免实力悬殊的情况发生。” 他指出，即使玩家无法在对局中坚持到最后，也可以通过游戏来解锁故事内容和角色自定义内容。这意味着玩家即使在战斗中表现不佳，也能够通过探索游戏的其他内容获得回报。 不过宫崎英高特别强调， 上述机制可能不会在游戏上线初期就全部推出 ， 而是可",
+     "source": "IT之家",
+     "zh": "宫崎英高确认《黄昏血族》游戏将包含匹配机制，保护新手免受高手虐菜"
+    },
+    {
+     "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+     "link": "https://www.ithome.com/0/993/305.htm",
+     "pubDate": "Sun, 23 Aug 2026 14:13:31 GMT",
+     "summary": "IT之家 8 月 23 日消息，据英国《卫报》今天（23 日）报道，OpenAI 首席全球事务官克里斯 · 勒汉恩警告，前沿 AI 模型已经开始具备 规划和发动复杂网络攻击 的能力，公众和企业需要为 AI“持续不断”的网络攻击做好防御准备。 随着安全风险上升，OpenAI 本周宣布暂停开发部分最先进的内部模型。勒汉恩表示：“从这项技术现在能够做到的事情来看，AI 已经进入了一个不同的阶段。” 勒汉恩接受《卫报》采访前不久，OpenAI 刚刚遭遇一次意外事件。 据IT之家了解，7 月底，仍在训练中的前沿 AI 智能体突破了原本被认为安全的“沙箱”环境，连接互联网后入侵了 Hugging Face",
+     "source": "IT之家",
+     "zh": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备"
+    },
+    {
+     "title": "这辈子没碰到的心机，全™在商标上了",
+     "link": "https://www.huxiu.com/article/4885313.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 22:12:41 +0800",
+     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 01：心机现形记 全世界最有心眼子的地方在哪里？ 是各个国家的政治机构？是资金飞进飞出的华尔街？还是大小写字楼里的利益纷争？ 错，都不是，要论心机，没人比得过国内一众产品包装上的“心机商标”。 多到官网动态更新 近日，国家知识产权局商标局网站公布了一批“依职权宣告无效的带有欺骗性的商标”，该批次共有1782件相关商标被宣告无效。 别以为里面都是些什么杂牌，当中耳熟能详的品牌还真不少：什么今麦郎、美的、盒马、千禾、白象都位列其中。 区别于直接售卖假冒伪劣产品，“心机商标”的精髓在于那些“拍案叫绝”的文字游戏。 且看它们如何一步步拿捏了消费者的",
+     "source": "虎嗅",
+     "zh": "这辈子没碰到的心机，全™在商标上了"
+    },
+    {
      "title": "三星 Galaxy S27 Ultra 手机后盖工程图流出，可能存在两个版本",
      "link": "https://www.ithome.com/0/993/303.htm",
      "pubDate": "Sun, 23 Aug 2026 14:07:20 GMT",
@@ -1754,44 +1802,20 @@ window.INDUSTRY_DATA = {
      "zh": "三星 Galaxy S27 Ultra 手机后盖工程图流出，可能存在两个版本"
     },
     {
-     "title": "DOTA2 TI 史上首支三冠队伍：Team Spirit 获得 2026 年国际邀请赛冠军",
-     "link": "https://www.ithome.com/0/993/302.htm",
-     "pubDate": "Sun, 23 Aug 2026 13:58:38 GMT",
-     "summary": "IT之家 8 月 23 日消息，TI2026 主赛事总决赛，Team Spirit 在第五局中取胜，总比分 3-2 战胜 TEAM VISION，获得 2026 年国际邀请赛冠军！ 这是 Team Spirit 第三次获得国际邀请赛冠军， 他们也成为唯一一支三次举起冠军之神盾的队伍 。 IT之家注：他们在 TI10（2021 年）、TI12（2023 年）夺冠后，今日在 TI15（2026 年）总决赛中夺得第三座冠军神盾。Yatoro 与 Collapse 也成为目前唯二的 TI 三冠选手。",
-     "source": "IT之家",
-     "zh": "DOTA2 TI 史上首支三冠队伍：Team Spirit 获得 2026 年国际邀请赛冠军"
+     "title": "Death to px, long live ch",
+     "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+     "pubDate": "Sun, 23 Aug 2026 13:56:27 +0000",
+     "summary": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 10 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Death to px, long live ch"
     },
     {
-     "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
-     "link": "https://www.ithome.com/0/993/301.htm",
-     "pubDate": "Sun, 23 Aug 2026 13:53:40 GMT",
-     "summary": "IT之家 8 月 23 日消息，OpenAI 本周推出了 ChatGPT 青少年版，专门面向年轻用户，并通过年龄识别机制限制部分功能。 对此，外媒 Engadget 采访了多名儿童安全专家，他们对 ChatGPT 青少年版的评价并不一致。但所有人都认为，在向家长和年轻人推荐之前，这套系统还需要 接受大量独立测试 ，OpenAI 必须更加透明地说明安全机制究竟如何运作。 为家庭提供娱乐和科技产品建议的 Common Sense Media 公司 AI 与数字评估负责人罗比 · 托尼认为：“OpenAI 这次做出了一些非常重要的承诺， 但必须拿出证据， 证明这些安全承诺和功能真的有效。” 儿童网络",
-     "source": "IT之家",
-     "zh": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度"
-    },
-    {
-     "title": "三星 Galaxy Store 应用商店付款功能将停止支持安卓 4.x 系统",
-     "link": "https://www.ithome.com/0/993/299.htm",
-     "pubDate": "Sun, 23 Aug 2026 13:44:57 GMT",
-     "summary": "IT之家 8 月 23 日消息，据科技媒体 SammyGuru 今天报道，三星近日宣布，Galaxy Store 应用商店的付款系统将从 8 月 25 日起， 不再支持安卓 4.x 或更旧版本的操作系统 。 IT之家从原报道了解到，8 月 25 日之后，使用安卓 4.x 或更旧系统的用户将无法通过 Samsung Checkout 付款系统，购买应用商店付费内容，也无法进行应用内购买。 三星建议用户在 8 月 25 日前将设备升级至 Android 5 或更高版本操作系统 ，以便继续使用自家应用商店的付款系统。 对于大多数 Galaxy 用户来说，这项变化应该不会有太大影响，毕竟 Androi",
-     "source": "IT之家",
-     "zh": "三星 Galaxy Store 应用商店付款功能将停止支持安卓 4.x 系统"
-    },
-    {
-     "title": "杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留",
-     "link": "https://www.ithome.com/0/993/298.htm",
-     "pubDate": "Sun, 23 Aug 2026 13:44:03 GMT",
-     "summary": "IT之家 8 月 23 日消息，据法治天地今日报道，今年 7 月 8 日，某互联网企业向上海黄浦警方报案，称某自媒体账号发布内容为“知名企业上市失败”的不实贴文，对公司声誉造成负面影响。 黄浦公安分局网安部门接报后迅速开展调查，锁定了该账号运营者莫某。经查，莫某在某证券投资平台运营一个投资类账号，他在网上看到相关公司诉讼纠纷的信息后，在并未核实真伪的情况下，抱着博眼球、吸引流量的心态，杜撰了“企业上市失败”的虚假内容并发布在平台上。 IT之家从报道获悉，由于莫某的账号名称带有“某某投资”等字样，看起来颇具“官方感”，贴文发布后迅速被多名网络大 V 和自媒体博主截图引用转发。许多不明真相的网友信",
-     "source": "IT之家",
-     "zh": "杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留"
-    },
-    {
-     "title": "荣耀晒“闪电”机器人最新战报：打破半马、峰值速度等 5 项人类世界纪录",
-     "link": "https://www.ithome.com/0/993/297.htm",
-     "pubDate": "Sun, 23 Aug 2026 13:32:27 GMT",
-     "summary": "IT之家 8 月 23 日消息，今天（23 日）晚间，荣耀通过官微宣布：旗下自研人形机器人“闪电”打破五项人类世界纪录。 半马成绩 50 分 26 秒，打破人类半马世界纪录。 1500 米成绩 2 分 30 秒，打破人类 1500 米世界纪录。 400 米成绩 39.45 秒，打破人类 400 米世界纪录。 100 米成绩 9.32 秒，打破人类百米世界纪录。 峰值速度 14.5 米 / 秒，超越人类巅峰速度。 延伸阅读 在 8 月 22 日开赛的第二届世界人形机器人运动会 400 米大型组田径项目中，“闪电”以 40.6 秒的成绩冲线，打破人类世界纪录。 “闪电”机器人 身高 169cm，有",
-     "source": "IT之家",
-     "zh": "荣耀晒“闪电”机器人最新战报：打破半马、峰值速度等 5 项人类世界纪录"
+     "title": "My favorite nonfiction books about cults, scams, and schemes",
+     "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+     "pubDate": "Sun, 23 Aug 2026 13:51:10 +0000",
+     "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 16 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "My favorite nonfiction books about cults, scams, and schemes"
     },
     {
      "title": "终于要对日本下狠手了",
@@ -1813,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Malware infects Android-based automotive head unit firmware",
      "link": "https://securelist.com/android-head-unit-malware/121106/",
      "pubDate": "Sun, 23 Aug 2026 13:05:38 +0000",
-     "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 50 # Comments: 14",
+     "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 72 # Comments: 23",
      "source": "Hacker News",
      "zh": "Malware infects Android-based automotive head unit firmware"
     },
@@ -1856,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：王秀清 谷子餐厅扎堆开店，但和传统餐饮完全不是一套逻辑。 一家主题餐厅从开业到闭店，竟然只用了43天？ 这是GOODSLOVE在成都、广州两地为《甄嬛传》主题餐厅设定的营业时长。6月19日开业，7月31日收官，掐头去尾刚好覆盖暑期档最热的一个多月。 一家餐厅只卖43天，听起来不太常规，但在IP主题餐厅的赛道上，这算是一种计划内的周期。据行业观察，仅2026年7月，全国新开的二次元主题快闪餐饮店就有近20家，生命周期都以“天”来计算。 这些店还有另一个名字：谷子餐厅。“谷子”是英文Goods的音译，在二次元圈层里特指IP周边商品——徽章、立",
      "source": "虎嗅",
      "zh": "“又贵又难吃”的歹毒漂亮饭，年轻人为什么抢着买单？"
-    },
-    {
-     "title": "Tims中国：成不了星巴克，也学不会瑞幸",
-     "link": "https://www.huxiu.com/article/4885293.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 19:08:23 +0800",
-     "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 不容乐观！ 连续两季度业绩下滑 Tims中国的情况越来越不妙。 一季度已经够惨，二季度还在往下探。连品牌新任CEO张国华都直言“令人失望”。 先看一季度，Tims天好中国营收2.57亿元，同比下降14.6%，净亏损为1.09亿元，同比扩大113.98%；系统销售额为3.23亿元，同比下降14.2%。 拆开来看，问题主要还是出在门店生意上。自营门店收入2.07亿元，同比下降18.7%；同店销售额同比下降12.4%，平均客单价同比下降7.5%，以及订单量同比下降11.2%。 到了二季度，这种压力进一步显现。Tims天好中国营收2.73亿元，同比下",
-     "source": "虎嗅",
-     "zh": "Tims中国：成不了星巴克，也学不会瑞幸"
     },
     {
      "title": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了",
@@ -1909,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
      "link": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
      "pubDate": "Sun, 23 Aug 2026 10:14:48 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 68 # Comments: 40",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 78 # Comments: 47",
      "source": "Hacker News",
      "zh": "Sydney Marathon medal mistakenly depicts Munich stadium"
     },
@@ -1917,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Iranian hackers shut down UK power plant for 4 days",
      "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
      "pubDate": "Sun, 23 Aug 2026 10:03:01 +0000",
-     "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 38 # Comments: 14",
+     "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 43 # Comments: 22",
      "source": "Hacker News",
      "zh": "Iranian hackers shut down UK power plant for 4 days"
     },
@@ -1925,17 +1941,9 @@ window.INDUSTRY_DATA = {
      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
      "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
      "pubDate": "Sun, 23 Aug 2026 10:02:51 +0000",
-     "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 110 # Comments: 55",
+     "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 132 # Comments: 69",
      "source": "Hacker News",
      "zh": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes"
-    },
-    {
-     "title": "The Sloppification of Peptides",
-     "link": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
-     "pubDate": "Sun, 23 Aug 2026 09:32:54 +0000",
-     "summary": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 67 # Comments: 48",
-     "source": "Hacker News",
-     "zh": "The Sloppification of Peptides"
     },
     {
      "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
@@ -1944,14 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
      "source": "WIRED",
      "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
-    },
-    {
-     "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-     "link": "https://skylens.yantraai.app/",
-     "pubDate": "Sun, 23 Aug 2026 09:27:40 +0000",
-     "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 30 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive"
     },
     {
      "title": "Is Expensive Bottled Water Actually Better for You?",
@@ -1993,6 +1993,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Here’s what people who have used the iPhone Ultra like most",
+     "link": "https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/",
+     "pubDate": "Sun, 23 Aug 2026 14:41:50 +0000",
+     "summary": "We’re just a few weeks away from the rumored launch of the foldable iPhone Ultra. As we’ve written before , excitement for the device is mounting. A new report from Bloomberg today outlines what people inside Apple who have used the iPhone Ultra love about it.",
+     "source": "9to5Mac",
+     "zh": "Here’s what people who have used the iPhone Ultra like most"
+    },
+    {
+     "title": "Apple Stores preparing ‘significant’ changes for new Home product launches: report",
+     "link": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
+     "pubDate": "Sun, 23 Aug 2026 14:33:51 +0000",
+     "summary": "According to Bloomberg’s Mark Gurman , Apple is preparing significant changes at its retail stores in preparation for upcoming Home product launches. At the very least, Apple should debut a refreshed HomePod mini and Apple TV 4K this fall, though the changes would suggest a third, more significant p",
+     "source": "9to5Mac",
+     "zh": "Apple Stores preparing ‘significant’ changes for new Home product launches: report"
+    },
+    {
+     "title": "Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet?",
+     "link": "https://www.engadget.com/2240148/wi-fi-6-vs-wi-fi-7-whats-the-difference-and-which-is-better-for-home-internet/",
+     "pubDate": "Sun, 23 Aug 2026 14:30:00 +0000",
+     "summary": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet?",
+     "source": "Engadget",
+     "zh": "Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet?"
+    },
     {
      "title": "The reasons Siri may not work on CarPlay",
      "link": "https://www.engadget.com/2240145/siri-with-carplay-reasons-not-work-fixes/",
@@ -2146,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "How to limit Instagram from using your data for AI and ads"
     },
     {
-     "title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
-     "link": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
-     "pubDate": "Sat, 22 Aug 2026 20:00:00 +0000",
-     "summary": "Even old Apple devices you haven't touched in years could still get you some credit towards a new phone.",
-     "source": "Engadget",
-     "zh": "The oldest iPhone model you can trade-in with Apple is older than you'd think"
-    },
-    {
      "title": "Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app",
      "link": "https://9to5mac.com/2026/08/22/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-one-tvos-app/",
      "pubDate": "Sat, 22 Aug 2026 19:30:00 +0000",
@@ -2194,22 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "What is the ‘Android Pulse’ app that just appeared in Google Play Store updates?"
     },
     {
-     "title": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it",
-     "link": "https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/",
-     "pubDate": "Sat, 22 Aug 2026 13:30:00 +0000",
-     "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ",
-     "source": "9to5Mac",
-     "zh": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it"
-    },
-    {
-     "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
-     "link": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
-     "pubDate": "Sat, 22 Aug 2026 13:00:00 +0000",
-     "summary": "Apple’s fall iPhone event is expected to look different this year. Rather than unveiling four closely related models, rumors point to a flagship-only September lineup consisting of three premium models: iPhone 18 Pro, iPhone 18 Pro Max, and Apple’s first foldable, widely expected to be called iPhone",
-     "source": "9to5Mac",
-     "zh": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]"
-    },
-    {
      "title": "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case",
      "link": "https://9to5google.com/2026/08/22/please-dont-buy-googles-wildly-overpriced-pixel-11-clear-case/",
      "pubDate": "Sat, 22 Aug 2026 13:00:00 +0000",
@@ -2242,52 +2242,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "中英科技：上半年营业收入同比增长48.7%，收购英中电气打造第二增长曲线",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850398085.html",
-     "pubDate": "Sun, 23 Aug 2026 22:01:00 +0800",
-     "summary": "8月23日晚间， 中英科技 (300936)披露2026年半年度报告。2026年上半年，公司实现营业收入为1.45亿元，同比增长48.7%；归母净利润虽仍亏损357万元，但相较于去年同期795万元的亏损额已显著收窄。 在主营业务稳步回暖的背景下， 中英科技 于8月20日同步披露了重大资产购买暨关联交易报告书（草案），拟以现金方式溢价收购英中电气51%股权。业界认为，这一“业绩修复+外延并购”的组合拳，标志着公司正加速从单一 通信 材料供应商向“ 通信 + 智能电网 ”双轮驱动的战略平台转型。 业绩企稳回升，核心产品获市场认可 当前，随着5G网络建设及“十五五”数字中国建设的稳步推进， 通信 基",
+     "title": "广西南宁市郁江防洪四级应急响应提升为三级应急响应",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850403393.html",
+     "pubDate": "Sun, 23 Aug 2026 22:31:33 +0800",
+     "summary": "8月23日，记者从广西南宁市应急管理委员会了解到，8月23日20时，邕江南宁水文站水位已达71.41米，预计8月24日上午郁江南宁城区河段将出现超警戒水位（73.0米）的洪水。 按照《南宁市郁江防洪应急预案》规定，经南宁市应急管理委员会领导批准，决定于8月23日20时将南宁市郁江防洪四级应急响应提升为三级应急响应。请各县（市、区）、开发区和相关成员单位按照预案的有关规定和职责分工，做好江河洪水防御工作，确保人民群众生命财产安全。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "中英科技：上半年营业收入同比增长48.7%，收购英中电气打造第二增长曲线"
+     "zh": "广西南宁市郁江防洪四级应急响应提升为三级应急响应"
     },
     {
-     "title": "上峰材料2026半年报：净利大增452.5%，股权投资成最大功臣",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850397985.html",
-     "pubDate": "Sun, 23 Aug 2026 22:01:00 +0800",
-     "summary": "8月23日晚间， 上峰材料 (000672)公布2026半年度报告。在 水泥 行业整体承压的大环境下，依托“建材基石、股权投资、新质业务”三驾马车战略布局，公司实现经营业绩大幅跃升，展现出较强的抗周期发展韧性。2026年上半年，公司归属于上市公司股东的净利润达到13.64亿元，同比实现大幅增长，在行业普遍低迷的背景下形成鲜明对比。 上半年国内 水泥 行业面临严峻挑战，全国 水泥 产量跌至十七年新低，行业亏损面约六成，市场量价同步下行。面对主业承压， 上峰材料 坚持降本控费与工艺优化并举，骨料、 新能源 等延伸业务稳定输出利润，公司 综合 毛利率维持在25.84%，多项盈利指标稳居行业第一梯队，",
+     "title": "中原传媒营收净利双降 现金流恶化 研发投入接近“腰斩”！四大主业罕见全线下滑",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850403288.html",
+     "pubDate": "Sun, 23 Aug 2026 22:28:01 +0800",
+     "summary": "“行业普遍承压、学生自然减少、政策收紧加剧、技术变革冲击”，在 中原传媒 2026年半年报中，管理层用这样一组词汇概括了公司面临的经营环境。 8月23日， 中原传媒 （000719)交出了一份并不乐观的成绩单：2026年上半年，公司实现营业收入42.16亿元，同比下降7.83%；归母净利润为5.06亿元，同比下降4.92%；扣非归母净利润为5.05亿元，同比下降4.44%；经营现金流净额为8.74亿元，同比下降27.52%。 中原传媒 主要从事 出版 物的编辑、生产和市场销售，业务涵盖内容生产、产品销售、 出版 物 印刷 及 印刷 物资供应、数字 教育 及服务、文化产品贸易等领域。 中原 传媒",
      "source": "东方财富股票",
-     "zh": "上峰材料2026半年报：净利大增452.5%，股权投资成最大功臣"
+     "zh": "中原传媒营收净利双降 现金流恶化 研发投入接近“腰斩”！四大主业罕见全线下滑"
     },
     {
-     "title": "日本浦河附近海域发生6.0级地震",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850395846.html",
-     "pubDate": "Sun, 23 Aug 2026 21:57:05 +0800",
-     "summary": "据日本气象厅消息，当地时间23日22时00分左右，日本浦河附近海域发生6.0级地震，最大震感为震度4，震源深度40公里。 （文章来源：央视新闻）",
+     "title": "二季度净利环比增1396% 韶能股份上半年业绩报喜 拟发债15亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850402649.html",
+     "pubDate": "Sun, 23 Aug 2026 22:26:50 +0800",
+     "summary": "8月23日， 韶能股份 （000601.SZ，股价6.2元，市值65.97亿元）披露2026年半年度报告。报告期内，公司实现营业收入25.16亿元，同比增长7.75%；归母净利润为1.68亿元，同比增长75.64%；扣非后净利润1.48亿元，同比大增174.75%。 公司此前于6月30日发布半年度业绩预告，预计上半年归母净利润为1.55亿元~1.95亿元，本次业绩最终落在预计区间中部偏下。 上半年来水量同比增长，水电业务营收增长 韶能股份 主营业务涵盖清洁可再生能源（ 新能源 ）、生态植物纤维制品、精密（智能）制造三大板块。 2026年上半年，公司 电力 业务实现营业收入11.59亿元，同比增",
      "source": "东方财富股票",
-     "zh": "日本浦河附近海域发生6.0级地震"
+     "zh": "二季度净利环比增1396% 韶能股份上半年业绩报喜 拟发债15亿元"
     },
     {
-     "title": "新型电网建设进入“深水区” 上交所举办第三季第2期“硬科硬客”新质生产力行业沙龙",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850397760.html",
-     "pubDate": "Sun, 23 Aug 2026 21:55:00 +0800",
-     "summary": "2026年，新型电网建设进入“深水区”与“分化期”。从全球视角看，谁先解决算力与 电力 的协同问题，谁就在下一轮全球竞争中占据先机。从国内视角看，新型电网建设已成为“能源安全”与“产业升级”的双重战略支点。从产业视角看，谁能在“ 电力 +算力+数据”的三维空间中构建更高的协同效率，谁就拥有定义行业标准的话语权。 近日，上交所举办第三季第2期“硬科硬客”新质生产力行业沙龙，邀请3家科创板公司，尝试从宏观趋势、市场变局、企业实践等维度，拼出一幅新型电网“再进化”的全景图。 标志性成果涌现 在过去的“十四五”时期，中国新型电网建设取得了重大成就，这也为“十五五”时期新型电网建设更上一层楼奠定了坚实基",
+     "title": "佳缘科技，因财务造假将被ST",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850403089.html",
+     "pubDate": "Sun, 23 Aug 2026 22:23:46 +0800",
+     "summary": "8月23日， 佳缘科技 （301117）公告称，公司收到中国证监会《行政处罚事先告知书》。经查，公司2019年至2022年存在信息披露违法违规行为，涉及提前确认收入、无商业实质交易虚增收入，导致相关年度营收、利润总额存在虚增虚减，《招股说明书》及2021、2022年年报存在虚假记载。 证监会拟对公司责令改正、警告并处600万元罚款，对公司董事长王进、副总经理朱伟华、财务总监柳絮、公司实控人之一尹明君分别警告并处300万元、200万元、200万元、150万元罚款。公司判断该事项触及其他风险警示情形，未触及重大违法强制退市情形，最终处罚结果以正式决定为准。 经查明， 佳缘科技 自2019年起与某客",
      "source": "东方财富股票",
-     "zh": "新型电网建设进入“深水区” 上交所举办第三季第2期“硬科硬客”新质生产力行业沙龙"
+     "zh": "佳缘科技，因财务造假将被ST"
     },
     {
-     "title": "钒钛股份上半年营收增长17.45% 净利润扭亏为盈",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850396250.html",
-     "pubDate": "Sun, 23 Aug 2026 21:54:43 +0800",
-     "summary": "上证报中国证券网讯 钒钛股份 8月23日晚披露2026年半年度报告，公司上半年实现营业收入49.96亿元，较上年同期增加7.42亿元，同比增长17.45%；归属于上市公司股东的净利润2.21亿元，较上年同期增加4.21亿元，同比扭亏为盈。 上半年，公司业绩增长核心驱动源于生产、销售、采购多维度协同发力。生产端，持续优化工艺流程、提升运营效率，钒制品、 钛白粉 产量同比稳步提升，同时，聚焦 物流 、能源两大环节精准降本，全力支撑降本增效。销售端，深度研判市场需求及产品盈利差异，动态优化品类结构，提升高附加值产品投放，有效提升整体盈利水平。采购端，拓宽采购渠道、强化市场竞争，全方位严控采购成本。 ",
+     "title": "湾财周报 | 人物 许家印被判处无期徒刑；宇树上市后王兴兴首发声；北交所总经理变更",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850402411.html",
+     "pubDate": "Sun, 23 Aug 2026 22:22:53 +0800",
+     "summary": "一周人物（2026年8月17日-23日） 头条 许家印被判处无期徒刑 恒大集团、恒大地产等案一审宣判 2026年8月20日上午，广东省深圳市中级人民法院对被告单位恒大集团有限公司（以下简称恒大集团）、被告单位恒大地产集团有限公司（以下简称恒大地产）、被告人许家印案进行一审公开宣判。对恒大集团数罪并罚，判处罚金人民币88.2亿元；对恒大地产判处罚金人民币70亿元；对许家印数罪并罚，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；对违法所得继续追缴，不足部分责令退赔。 关注 李书福交棒！ 30年“老将”安聪慧，接任 吉利汽车 董事会主席 吉利汽车 控股有限公司（0175.HK，以下简称“ 吉",
      "source": "东方财富股票",
-     "zh": "钒钛股份上半年营收增长17.45% 净利润扭亏为盈"
+     "zh": "湾财周报 | 人物 许家印被判处无期徒刑；宇树上市后王兴兴首发声；北交所总经理变更"
     },
     {
-     "title": "奥翔药业“磷酸芦可替尼片”获批注册",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850396186.html",
-     "pubDate": "Sun, 23 Aug 2026 21:54:22 +0800",
-     "summary": "上证报中国证券网讯 8月22日， 奥翔药业 发布公告，其全资子公司浙江麒正药业有限公司近日收到国家药品监督管理局核准签发的磷酸芦可替尼片《药品注册证书》。 根据公告，磷酸芦可替尼片是一种Janus激酶（JAK）1/2选择性抑制剂，适用于治疗中危或高危的原发性骨髓纤维化、真性红细胞增多症继发的骨髓纤维化、原发性血小板增多症继发的骨髓纤维化成年患者的脾肿大及相关症状，也可用于治疗糖皮质激素难治性急性/慢性移植物抗宿主病，以及12岁及以上伴面部受累的非节段型白癜风。 该药品原研企业为美国Incyte公司，商品名为Jakafi（美国本土）和捷恪卫（Jakavi，含中国在内的其他地区），由诺华公司获美国",
+     "title": "美联储 重磅来袭！",
+     "link": "http://finance.eastmoney.com/news/1346,202608233850402576.html",
+     "pubDate": "Sun, 23 Aug 2026 22:22:36 +0800",
+     "summary": "本周聚焦 北京时间8月28日22点，美联储主席沃什首秀杰克逊霍尔全球央行年会。 英伟达 北京时间8月27日清晨发布最新财报。 A股与港股将迎来半年报披露收官高峰。 宏观·要闻 杰克逊霍尔全球央行年会召开，美联储主席发表关键演讲 2026年杰克逊霍尔全球央行研讨会8月27日至29日在美国怀俄明州举办，是全球每年最重要的宏观政策会议，全球主要央行官员、经济学家集中参会交流货币政策路径。 美联储新任主席沃什将于8月28日北京时间22点发表上任后首场年会主旨演讲，在当前美国30年期美债收益率维持高位、通胀与就业数据交织的背景下，市场将高度聚焦沃什对长端美债收益率、抗通胀路线图及未来利率路径的最新表态。",
      "source": "东方财富股票",
-     "zh": "奥翔药业“磷酸芦可替尼片”获批注册"
+     "zh": "美联储 重磅来袭！"
+    },
+    {
+     "title": "机器人开始“摸”世界，帕西尼做起触觉数据生意",
+     "link": "https://wallstreetcn.com/articles/3780097",
+     "pubDate": "Sun, 23 Aug 2026 22:17:00 +0800",
+     "summary": "机器人正在从“看见世界”走向真正接触世界。 8月19日举行的2026世界机器人大会上，帕西尼一口气推出足底多维触觉传感器PX-FOOTRIX、五指数据采集手套PXCap Pro等产品。 相比单纯给机器人增加一块传感器，帕西尼更大的生意是试图把机器人与物理世界接触产生的数据，变成一套可以采集、复用和训练的基础设施。 帕西尼此次推出的PXCap Pro，就是将人的操作过程直接转化成训练数据。手套同时记录触觉、视觉和手部姿态，再将这些数据映射到机器人灵巧手上。 WRC现场，佩戴PXCap Pro后，同一套手部动作可以被实时映射至不同灵巧手，实现“一次采集、多机复用”。 这试图解决当前具身数据生产中的",
+     "source": "华尔街见闻",
+     "zh": "机器人开始“摸”世界，帕西尼做起触觉数据生意"
+    },
+    {
+     "title": "连开新店型，外资零售重温北京市场",
+     "link": "http://www.eeo.com.cn/2026/0823/1008971.shtml",
+     "pubDate": "Sun, 23 Aug 2026 22:13:28 +0800",
+     "summary": "在北京市场沉寂多年的外资零售正在重新加码。8月22日，老牌日本零售企业伊藤洋华堂旗下的华堂超市（以下简称“华堂”）在北京望京V-HUB开出新店，面积约1500平方米。从过去“超市+百货”的综合店模式，转向打造“日式社区食品超市”。 华堂并非个例。沃尔玛正在...",
+     "source": "经济观察网",
+     "zh": "连开新店型，外资零售重温北京市场"
     },
     {
      "title": "钱大妈二度递表港交所，上半年溢利降至6805.1万元",
@@ -2352,14 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极",
      "source": "华尔街见闻",
      "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
-    },
-    {
-     "title": "泰康30年司庆人事变阵：陈东升专注战略 刘挺军出任CEO",
-     "link": "http://www.eeo.com.cn/2026/0823/1008953.shtml",
-     "pubDate": "Sun, 23 Aug 2026 21:10:10 +0800",
-     "summary": "2026年8月22日，泰康保险集团股份有限公司（下称“泰康保险集团”）迎来成立30周年。在公司庆典当天，一则人事变动消息引起了市场关注——该公司创始人陈东升将不再兼任集团首席执行官、继续担任集团董事长，现任总裁兼首席运营官刘挺军出任首席执行官一职。",
-     "source": "经济观察网",
-     "zh": "泰康30年司庆人事变阵：陈东升专注战略 刘挺军出任CEO"
     },
     {
      "title": "Raytheon Navy air-to-air long-range missile undergoes testing",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "沪深两市多家上市公司8月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，",
      "source": "东方财富资讯",
      "zh": "8月23日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
-     "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
-     "pubDate": "Sun, 23 Aug 2026 11:29:05 GMT",
-     "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
-     "source": "CNBC",
-     "zh": "Top Wall Street analysts believe in the growth potential of these 3 stocks"
     }
    ]
   },
