@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/24 05:44:41",
+ "generated_at": "2026/8/24 06:11:59",
  "recent_days": 7,
  "industries": [
   {
@@ -417,12 +417,44 @@
      "zh": "White House looking for 1000 rocket launches a year"
     },
     {
+     "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/epc-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 17:51:06 +0100",
+     "summary": "Efficient Power Conversion Corp (EPC) of El Segundo, CA, USA — which makes enhancement-mode gallium nitride on silicon (eGaN) power field-effect transistors (FETs) and integrated circuits for power management applications — has announced mass production of the EPC2370, an ultra-low on-resistance 18V",
+     "source": "Semiconductor Today",
+     "zh": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures"
+    },
+    {
      "title": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure",
      "link": "https://www.eetimes.com/synopsys-updates-cxl-ip-portfolio-for-ai-era-infrastructure/",
      "pubDate": "Thu, 20 Aug 2026 14:07:45 +0000",
      "summary": "Synopsys’s CXL 4.0 IP aims to help designers build faster, more flexible and secure disaggregated computing architectures as AI systems demand more memory capacity and bandwidth. The post Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure"
+    },
+    {
+     "title": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/yole-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 14:12:54 +0100",
+     "summary": "Power gallium nitride (GaN) has spent the past several years proving itself in consumer fast chargers, but that phase is ending, according to Yole Group’s annual report ‘Power GaN 2026’. GaN is now entering a broader, multi-market adoption cycle where AI data centers, electric vehicles, industrial s",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems"
+    },
+    {
+     "title": "Micross acquiring AEMtec, expanding reach into Europe",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/micross-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
+     "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
+     "source": "Semiconductor Today",
+     "zh": "Micross acquiring AEMtec, expanding reach into Europe"
+    },
+    {
+     "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/teksic-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 09:41:16 +0100",
+     "summary": "Silicon carbide wafer manufacturing technology firm TekSiC AB of Linköping, Sweden has announced progress in its development of semi-insulating silicon carbide (SI-SiC), which Europe currently lacks the domestic capability to manufacture commercially. The material underpins some of the most demandin",
+     "source": "Semiconductor Today",
+     "zh": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers"
     },
     {
      "title": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing",
@@ -463,30 +495,6 @@
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
-    },
-    {
-     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
-     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
-     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
-     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
-    },
-    {
-     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
-     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
-     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
-     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
-    },
-    {
-     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
-     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
-     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
-     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -1289,6 +1297,14 @@
    "total": 6,
    "items": [
     {
+     "title": "NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones",
+     "link": "https://www.nasaspaceflight.com/2026/08/roman-update-082326/",
+     "pubDate": "Sun, 23 Aug 2026 21:45:07 +0000",
+     "summary": "With a scheduled launch date of Aug. 30, NASA’s Nancy Grace Roman Space Telescope is… The post NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones"
+    },
+    {
      "title": "LandSpace’s Zhuque-3 topples following milestone landing",
      "link": "https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/",
      "pubDate": "Sun, 23 Aug 2026 18:57:05 +0000",
@@ -1519,14 +1535,6 @@
      "summary": "While Starship is grabbing headlines, another fully reusable vehicle is advancing towards a potential 2026… The post Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut"
-    },
-    {
-     "title": "LandSpace becomes first commercial Chinese company to land an orbital-class booster",
-     "link": "https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/",
-     "pubDate": "Wed, 19 Aug 2026 20:35:51 +0000",
-     "summary": "The August 19 landing of its ZhuQue-3 rocket marked the first landing of a Chinese-made rocket using landing legs as well.",
-     "source": "Spaceflight Now",
-     "zh": "LandSpace becomes first commercial Chinese company to land an orbital-class booster"
     }
    ]
   },
@@ -1873,22 +1881,6 @@
      "zh": "Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID (Mark Gurman/Bloomberg)"
     },
     {
-     "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-     "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-     "pubDate": "Sun, 23 Aug 2026 14:38:25 +0000",
-     "summary": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Slovakia finds Russian backdoor in traffic speed cameras"
-    },
-    {
-     "title": "Authoritarianism of Code",
-     "link": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
-     "pubDate": "Sun, 23 Aug 2026 14:36:38 +0000",
-     "summary": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Authoritarianism of Code"
-    },
-    {
      "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
      "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
      "pubDate": "Sun, 23 Aug 2026 14:30:16 +0000",
@@ -1897,44 +1889,12 @@
      "zh": "Due to need for 'absolute success,' China delays critical Moon launch to 2027"
     },
     {
-     "title": "What Is a Harness?",
-     "link": "https://earendil.com/posts/what-is-a-harness/",
-     "pubDate": "Sun, 23 Aug 2026 14:24:21 +0000",
-     "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
-     "source": "Hacker News",
-     "zh": "What Is a Harness?"
-    },
-    {
      "title": "柳树和杨树释放出的化合物会恶化城市空气质量",
      "link": "https://www.solidot.org/story?sid=85167",
      "pubDate": "Sun, 23 Aug 2026 22:07:42 +0800",
      "summary": "数百万棵垂柳和白杨树将北京装缀成一个绿色的大都市。然而根据《Science Advances》上发表的一项研究，柳树和杨树释放出的化合物是城市空气污染的重要来源。广州暨南大学的研究人员最初想要了解人类活动对臭氧污染的影响，结果意外发现城市植被是臭氧的重要来源。植物会释放出挥发性有机化合物，作为植物光合作用的副产品，被广泛种植的柳树和杨树会释放出大量的异戊二烯。研究团队发现，北京 35% 的树木会释放异戊二烯。研究人员在北京各地采集空气样本，测量挥发性有机化合物浓度，在城市各监测站收集臭氧数据。研究发现，在 2021 年 5 月至 7 月期间，植物排放的化合物约占北京总排放量的 10%，其余来自",
      "source": "Solidot",
      "zh": "柳树和杨树释放出的化合物会恶化城市空气质量"
-    },
-    {
-     "title": "Death to px, long live ch",
-     "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-     "pubDate": "Sun, 23 Aug 2026 13:56:27 +0000",
-     "summary": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "Death to px, long live ch"
-    },
-    {
-     "title": "My favorite nonfiction books about cults, scams, and schemes",
-     "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-     "pubDate": "Sun, 23 Aug 2026 13:51:10 +0000",
-     "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
-     "source": "Hacker News",
-     "zh": "My favorite nonfiction books about cults, scams, and schemes"
-    },
-    {
-     "title": "Malware infects Android-based automotive head unit firmware",
-     "link": "https://securelist.com/android-head-unit-malware/121106/",
-     "pubDate": "Sun, 23 Aug 2026 13:05:38 +0000",
-     "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
-     "source": "Hacker News",
-     "zh": "Malware infects Android-based automotive head unit firmware"
     },
     {
      "title": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
@@ -1975,6 +1935,54 @@
      "summary": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
      "source": "WIRED",
      "zh": "What’s the Best Kindle of 2026? (So Far)"
+    },
+    {
+     "title": "Volcanoes that made history",
+     "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+     "pubDate": "Sun, 23 Aug 2026 11:02:54 +0000",
+     "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+     "source": "Ars Technica",
+     "zh": "Volcanoes that made history"
+    },
+    {
+     "title": "Transistors Changed Everything. Here’s How They Work",
+     "link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
+     "pubDate": "Sun, 23 Aug 2026 11:00:00 +0000",
+     "summary": "How a tiny little electronic switch sparked the computer revolution.",
+     "source": "WIRED",
+     "zh": "Transistors Changed Everything. Here’s How They Work"
+    },
+    {
+     "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
+     "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
+     "pubDate": "Sun, 23 Aug 2026 10:37:00 +0000",
+     "summary": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
+     "source": "WIRED",
+     "zh": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)"
+    },
+    {
+     "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
+     "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
+     "pubDate": "Sun, 23 Aug 2026 09:30:00 +0000",
+     "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
+     "source": "WIRED",
+     "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
+    },
+    {
+     "title": "Is Expensive Bottled Water Actually Better for You?",
+     "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
+     "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
+     "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
+     "source": "WIRED",
+     "zh": "Is Expensive Bottled Water Actually Better for You?"
+    },
+    {
+     "title": "银行理财五星管理人评级报告 （2026年7月）",
+     "link": "https://www.tmtpost.com/8113345.html",
+     "pubDate": "Sun, 23 Aug 2026 16:14:53 +0800",
+     "summary": "在固定收益类中，宁银理财有限责任公司、中邮理财有限责任公司和平安理财有限责任公司脱颖而出，成为五星理财子公司。它们的各星级产品数量展示了市场的竞争力与多样性。",
+     "source": "钛媒体",
+     "zh": "银行理财五星管理人评级报告 （2026年7月）"
     }
    ]
   },
@@ -2233,6 +2241,78 @@
    "total": 13,
    "items": [
     {
+     "title": "8月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/1344,202608233850406014.html",
+     "pubDate": "Mon, 24 Aug 2026 06:03:16 +0800",
+     "summary": "8月24日(星期一)，今日报刊头条主要内容精华如下： 上海证券报 机构展望 | 美债扰动不改A股中期运行逻辑 券商建议锚定盈利修复主线 过去一周，美债长端利率快速上行，成为压制市场风险偏好的核心变量。其中，成长风格受到的影响尤为显著。券商策略展望报告认为，短期来看，市场或仍受海外波动、筹码结构扰动而出现震荡反复，但外部冲击并未改变A股中期运行的核心逻辑，后续随着国内政策效果逐步显现、企业盈利持续修复，反弹行情有望延续。 三大运营商半年报透视：算力与Token经营成转型主引擎 近日， 中国移动 、 中国电信 、 中国联通 的半年报引发广泛讨论。增值税税率上调、流量红利消退、传统业务见顶等多重压力",
+     "source": "东方财富资讯",
+     "zh": "8月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
+     "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
+     "link": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
+     "pubDate": "Sun, 23 Aug 2026 22:01:06 GMT",
+     "summary": "Bessent told CNBC that the sanctions will be the \"toughest\" in history.",
+     "source": "CNBC",
+     "zh": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat"
+    },
+    {
+     "title": "Here are the major earnings before the open Monday",
+     "link": "https://seekingalpha.com/news/4636048-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 18:00:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "以下是周一开盘前的主要财报"
+    },
+    {
+     "title": "特朗普表示 不接纳数据中心的社区正在犯错误",
+     "link": "http://finance.eastmoney.com/news/1348,202608243850449225.html",
+     "pubDate": "Mon, 24 Aug 2026 05:45:38 +0800",
+     "summary": "特朗普表示，不接纳 数据中心 的社区正在犯错误。 数据中心 提供大量的就业机会和资金。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "特朗普表示 不接纳数据中心的社区正在犯错误"
+    },
+    {
+     "title": "积极引入项目 拓宽协同空间 天津武清加速建设新产业之城",
+     "link": "http://finance.eastmoney.com/news/1350,202608243850451156.html",
+     "pubDate": "Mon, 24 Aug 2026 05:43:48 +0800",
+     "summary": "今年以来，天津市武清区紧扣 京津冀 协同发展重大国家战略，以京津产业新城“ 新产业 之城”建设为引擎，推进科技创新与产业升级协同发展。上半年，武清区全区共落地项目479个，预计投资额391.44亿元，其中北京项目67个，预计投资额296.7亿元，占比超七成，高质量发展动能积厚成势。 来自北京、扎根武清京津产业新城的西诺通科（天津）生物科技有限公司，依托京津同城化发展优势和武清良好营商环境，迅速发展壮大，近两年营收年均增速明显提高。据了解，京津产业新城抢抓北京（ 京津冀 ）国际科创中心扩围机遇，与14家高校院所建立深度合作关系，集聚11个院士及专家团队、1家全国重点实验室、25个市级研发创新平台",
+     "source": "东方财富股票",
+     "zh": "积极引入项目 拓宽协同空间 天津武清加速建设新产业之城"
+    },
+    {
+     "title": "全国统一大市场制度体系不断完善",
+     "link": "http://finance.eastmoney.com/news/1350,202608243850450122.html",
+     "pubDate": "Mon, 24 Aug 2026 05:43:48 +0800",
+     "summary": "近期召开的中央政治局会议要求，制定实施全国 统一大市场 建设条例。此前，十四届全国人大常委会第二十三次会议听取审议国务院关于建设全国 统一大市场 工作情况的报告，系统复盘全国 统一大市场 取得的积极成效和重要进展，直面当前改革堵点难点，明确了下一阶段纵深推进改革的重点任务。 据介绍，自2022年《中共中央国务院关于加快建设全国统一大市场的意见》发布以来，全国统一大市场建设的顶层制度体系加速完善，各类市场要素流动愈发畅通，市场化、法治化、国际化营商环境持续优化。 国家发展改革委有关负责人表示，全国统一大市场建设作为构建新发展格局的基础支撑，不断破除地方保护和市场分割壁垒，持续激活超大规模市场内生",
+     "source": "东方财富股票",
+     "zh": "全国统一大市场制度体系不断完善"
+    },
+    {
+     "title": "前7月网上商品和服务零售额增长4.8% 对社会商品和服务零售额增长贡献率超五成",
+     "link": "http://finance.eastmoney.com/news/1350,202608243850449745.html",
+     "pubDate": "Mon, 24 Aug 2026 05:43:48 +0800",
+     "summary": "商务部最新数据显示，今年前7个月，我国 电子 商务稳定创新发展， 线上线下 融合激发消费潜能。前7个月，全国网上商品和服务零售额增长4.8%，对社会商品和服务零售额增长贡献率超五成。 线上渠道拓展商品消费范围，提升服务消费便利性。前7个月，限额以上单位通过互联网实现的商品零售额占比28.7%，比上年同期提高2.5个百分点；商务部重点监测电商平台上，前7个月，在线旅游、在线生活服务销售额分别增长24.9%、16.3%。 数智化赋能产业转型升级。“数商兴农”不断深入，推动数字技术与农业农村发展深度融合。前7个月， 农产品 和农村商品网上零售额分别增长12.8%和5%。指导各地培育“电商+产业带”，",
+     "source": "东方财富股票",
+     "zh": "前7月网上商品和服务零售额增长4.8% 对社会商品和服务零售额增长贡献率超五成"
+    },
+    {
+     "title": "为煤炭产业划定“进”的路径",
+     "link": "http://finance.eastmoney.com/news/1348,202608243850449623.html",
+     "pubDate": "Mon, 24 Aug 2026 05:43:48 +0800",
+     "summary": "国家发展改革委、国家能源局近日印发《 煤炭 工业发展“十五五”规划》，明确到2030年基本建成现代 煤炭 产业体系。粗看这一目标，不少人会发现一组看似矛盾的导向：我国持续推进 煤炭 消费达峰、稳步降碳，同时又系统布局建设现代煤炭产业，煤炭行业究竟是要“退”还是要“进”？细看这份规划，可以得出一个肯定的结论：煤炭仍是保障我国能源安全的“压舱石”，但发展方式和扮演角色需要求新求变。 能源转型，贵在先立后破、稳中求进，稳住煤炭基本盘是立足国情的必然选择。“十四五”时期，我国煤炭产业结构持续优化，产量达到48.5亿吨，全国煤矿数量压减至4000处左右，大型煤矿主体地位持续巩固，为经济社会平稳发展筑牢了",
+     "source": "东方财富股票",
+     "zh": "为煤炭产业划定“进”的路径"
+    },
+    {
+     "title": "已故人士账户查询服务试点经验获推广——让个人身后金融事不再难办",
+     "link": "http://finance.eastmoney.com/news/1350,202608243850451880.html",
+     "pubDate": "Mon, 24 Aug 2026 05:43:47 +0800",
+     "summary": "8月21日，国家金融监督管理总局、民政部、司法部正式对外联合发布《关于推广浙江省、青岛市已故人士金融账户查询服务试点经验的通知》（以下简称《通知》），推动解决逝者金融资产查询面临的难点、堵点问题，进一步优化群众办事体验。 长期以来，逝者资产查询面临不少难题，要么机构多头跑，要么材料重复交—— 银行 资产、保险保单等金融资产分散在各个金融机构，继承人需要携带亲属关系证明、死亡证明等材料，逐家线下核查，不仅流程繁琐，还耗时耗力。 如何破解以上痛点、让逝者资产安全可查？跨部门协同、数据互联互通是关键。为此，浙江省、青岛市已依托当地政务系统，建设完善“个人身后一件事”联办平台，构建多部门 综合 服务体",
+     "source": "东方财富股票",
+     "zh": "已故人士账户查询服务试点经验获推广——让个人身后金融事不再难办"
+    },
+    {
      "title": "Gorilla Technology Group Q2 2026 Earnings Preview",
      "link": "https://seekingalpha.com/news/4635951-gorilla-technology-group-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 23 Aug 2026 17:35:00 -0400",
@@ -2257,9 +2337,17 @@
      "zh": "Tuya Q2 2026 Earnings Preview"
     },
     {
+     "title": "An economic D-Day is coming for Iran",
+     "link": "https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804",
+     "pubDate": "Sun, 23 Aug 2026 21:30:01 GMT",
+     "summary": "Countries that calculate appeasement of the regime to be a safer choice should reconsider",
+     "source": "Financial Times",
+     "zh": "An economic D-Day is coming for Iran"
+    },
+    {
      "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-23T21:07:44Z",
+     "pubDate": "2026-08-23T21:23:43Z",
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus"
@@ -2279,14 +2367,6 @@
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Pfizer vs. Gilead: Which Drugmaker Has the Stronger Growth Story?"
-    },
-    {
-     "title": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?",
-     "link": "https://finance.yahoo.com/healthcare/articles/zoetis-earnings-reveal-divided-business-194924344.html",
-     "pubDate": "2026-08-23T19:49:24Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?"
     },
     {
      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
@@ -2321,14 +2401,6 @@
      "zh": "'Spider-Man: Brand New Day' continues to dominate box office"
     },
     {
-     "title": "Hedge funds and mutual funds split on the AI trade - Goldman",
-     "link": "https://seekingalpha.com/news/4636064-hedge-funds-and-mutual-funds-split-on-the-ai-trade-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 14:31:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hedge funds and mutual funds split on the AI trade - Goldman"
-    },
-    {
      "title": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount",
      "link": "https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1",
      "pubDate": "Sun, 23 Aug 2026 18:00:00 GMT",
@@ -2351,14 +2423,6 @@
      "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
      "source": "MarketWatch",
      "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
-    },
-    {
-     "title": "Why every French politician is now a Gaullist",
-     "link": "https://www.ft.com/content/252df40a-48c0-47b8-850d-698a3d7a6dfd",
-     "pubDate": "Sun, 23 Aug 2026 17:58:17 GMT",
-     "summary": "The revival of de Gaulle’s legendary role in the second world war coincides with an increasing number of claims to his legacy",
-     "source": "Financial Times",
-     "zh": "Why every French politician is now a Gaullist"
     },
     {
      "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
@@ -2415,62 +2479,6 @@
      "summary": "■韩昱 美国联邦政府债务（以下简称“美债”）规模一路“狂飙”。美国财政部日前公布的数据显示，美债总额首次突破40万亿美元，再创历史新高。笔者认为，这一数字揭示了三重风险。 首先是美国债务失控风险，美债规模正呈现“滚雪球”式增长。 美债起源可追溯至美国独立战争时期，其先后经历了早期发展、快速扩张和加速膨胀等阶段。美债规模达到1万亿美元用时超过200年，从1万亿美元到突破10万亿美元仅用了27...",
      "source": "经济观察网",
      "zh": "美债“狂飙”背后的三重风险"
-    },
-    {
-     "title": "多措并举激发民间投资活力",
-     "link": "http://www.eeo.com.cn/2026/0824/1009015.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:08 +0800",
-     "summary": "■刘萌 8月20日，国家发展改革委主任郑栅洁主持召开座谈会，与来自电气设备、制药装备、消费服务、智能终端、纺织服装及冶金化工领域的企业负责人深入交流。这是今年以来国家发展改革委召开的第七场民营企业座谈会。 民营企业扎根市场最前沿，对需求冷暖、投资难点感知最为敏锐。把来自市场一线的真实声音纳入政策考量，能够让宏观调控举措更加贴合市场实际，提升政策落地实效。 此前多场民营企业座谈会，分...",
-     "source": "经济观察网",
-     "zh": "多措并举激发民间投资活力"
-    },
-    {
-     "title": "补齐制度短板、强化硬约束 保险业迎资产负债管理新规",
-     "link": "http://www.eeo.com.cn/2026/0824/1009014.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:07 +0800",
-     "summary": "时隔七年，保险业迎来资产负债管理新规。 为有效防范系统性风险，完善审慎监管制度体系，提升保险业资产负债管理水平，8月21日，国家金融监督管理总局（以下简称“金融监管总局”）发布《保险公司资产负债管理办法》（以下简称《办法》）以及《关于实施〈保险公司资产负债管理办法〉有关事项的通知》（以下简称《实施通知》）。 国家金融监管总局表示，《办法》的实施，有助于引导保险公司树立稳健审慎的经营理念，...",
-     "source": "经济观察网",
-     "zh": "补齐制度短板、强化硬约束 保险业迎资产负债管理新规"
-    },
-    {
-     "title": "国家发展改革委“两天三会” 释放稳投资政策加力信号",
-     "link": "http://www.eeo.com.cn/2026/0824/1009013.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:04 +0800",
-     "summary": "■杜雨萌 近期，国家发展改革委在两天内接连召开三场重要会议，从“六张网”重大项目协调调度机制会，到民营企业座谈会，再到“两重”建设工作推进会，每一场会议均聚焦投资领域。 在笔者看来，这一系列部署并非零散安排，而是紧扣下半年经济工作要求，将基础设施的承载力、民间资本的活跃度与重大项目的牵引力放在同一张施工图里统筹推进，为下一阶段投资工作划出清晰路径：统筹“六张网”，重在形成合力、提升整...",
-     "source": "经济观察网",
-     "zh": "国家发展改革委“两天三会” 释放稳投资政策加力信号"
-    },
-    {
-     "title": "机器人缺数据，奥比中光当上了“卖铲人”",
-     "link": "https://wallstreetcn.com/articles/3780096",
-     "pubDate": "Sun, 23 Aug 2026 21:25:09 +0800",
-     "summary": "8月19日举行的2026世界机器人大会上，奥比中光首次集中展示无本体数据采集硬件矩阵，包括第一视角设备EGO、手持操作设备UMI、腕部近场设备WristCam以及同步中枢Hub。 对于一家过去主要给机器人卖 “眼睛”的公司而言，奥比中光正在把生意往机器人学会干活之前再推一步：卖数据采集的“铲子”。 这门生意背后是具身智能越来越明显的数据瓶颈。大模型可以从互联网获取文本和图像，但机器人要完成抓取、装配、整理等物理任务，需要动作轨迹、空间位置以及真实交互产生的多模态数据。 奥比中光切入的正是数采过程中所用的硬件设备。 此次奥比中光推出的 EGO负责第一视角，UMI记录手持操作，WristCam补充",
-     "source": "华尔街见闻",
-     "zh": "机器人缺数据，奥比中光当上了“卖铲人”"
-    },
-    {
-     "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
-     "link": "https://wallstreetcn.com/articles/3779970",
-     "pubDate": "Sun, 23 Aug 2026 21:16:39 +0800",
-     "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极",
-     "source": "华尔街见闻",
-     "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
-    },
-    {
-     "title": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”",
-     "link": "https://wallstreetcn.com/articles/3780090",
-     "pubDate": "Sun, 23 Aug 2026 20:57:19 +0800",
-     "summary": "英伟达正在两条鲜少被市场充分定价的战线上悄然构筑护城河。 据汇丰银行8月20日发布的最新研报，汇丰分析师Frank Lee认为，在持续\"业绩超预期\"之外，推动英伟达股价重新定价的新催化剂，将来自两条此前被市场忽视的叙事线。 其一，大力押注开源小语言模型（SLM），有望将潜在客户群从少数超大规模云厂商扩展至数百万开发者和主权国家；其二，通过一系列多年期采购协议提前锁定供应链产能，在竞争对手愈发难以获得关键制造资源的背景下，这一优势将愈加凸显。 两条新叙事线的市场意义在于，它们共同指向同一个核心命题：英伟达的增长引擎，正在从依赖少数超大规模客户的单一结构，向更宽广、更具韧性的客户生态演进。 这一转",
-     "source": "华尔街见闻",
-     "zh": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”"
-    },
-    {
-     "title": "8月23日晚间上市公司利好消息一览(附名单)",
-     "link": "http://finance.eastmoney.com/news/1353,202608233850367418.html",
-     "pubDate": "Sun, 23 Aug 2026 20:32:26 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布重要公告，以下为利好的消息汇总： 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，建设期一年",
-     "source": "东方财富资讯",
-     "zh": "8月23日晚间上市公司利好消息一览(附名单)"
     }
    ]
   },
