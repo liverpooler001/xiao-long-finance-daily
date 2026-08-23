@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/24 07:11:31",
+ "generated_at": "2026/8/24 07:43:48",
  "recent_days": 7,
  "industries": [
   {
@@ -353,6 +353,46 @@
      "zh": "How TSMC Is Wiring the AI Era With Light"
     },
     {
+     "title": "Android XR advances as Jetpack XR SDK core libraries reach beta",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 14:39:56 +0000",
+     "summary": "Google is announcing that its Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries are officially in beta status. And Jetpack Compose is to follow soon, it says. Basically, […] The post Android XR advances as Jetpack XR SDK core libraries reach beta appeared first on Electronics Weekly",
+     "source": "Electronics Weekly",
+     "zh": "Android XR advances as Jetpack XR SDK core libraries reach beta"
+    },
+    {
+     "title": "Exotic Materials Adding Cost To Semis",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/exotic-materials-adding-cost-to-semis-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 13:30:13 +0000",
+     "summary": "19 years ago the chip industry was facing a similar problem to today – the need for, and rising cost of, exotic materials. ‘Semiconductor firms are facing critical pricing choices […] The post Exotic Materials Adding Cost To Semis appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Exotic Materials Adding Cost To Semis"
+    },
+    {
+     "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
+     "link": "https://www.electronicsweekly.com/news/saildrone-lockheed-martin-demonstrate-live-fire-from-usv-platform-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 10:30:33 +0000",
+     "summary": "Lockheed Martin is highlighting a successful collaboration with Saildrone, a specialist in maritime autonomous systems. USV Basically, an unmanned surface vehicle (USV) was equipped with lethal defence technology, the live-fire […] The post Saildrone, Lockheed Martin demonstrate live-fire from USV p",
+     "source": "Electronics Weekly",
+     "zh": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform"
+    },
+    {
+     "title": "JEDEC to host Automotive Electronics Forum",
+     "link": "https://www.electronicsweekly.com/news/business/jedec-to-host-automotive-electronics-forum-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 09:17:49 +0000",
+     "summary": "The JEDEC Solid State Technology Association has announced that it is hosting an Automotive Electronics Forum. The event will take place on 17 September 2026 in Santa Clara, California. The […] The post JEDEC to host Automotive Electronics Forum appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "JEDEC to host Automotive Electronics Forum"
+    },
+    {
+     "title": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 09:05:07 +0000",
+     "summary": "There's the next frontier of advanced optoelectronics, Samsung Foundry putting back its 1.4nm process to 2029, and Vishay sampling a short distance VCSEL-based proximity sensor... The post Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices"
+    },
+    {
      "title": "The Human Brain Versus AI: Similar Results, Very Different Machines",
      "link": "https://www.eetimes.com/the-human-brain-versus-ai-similar-results-very-different-machines/",
      "pubDate": "Fri, 21 Aug 2026 07:43:42 +0000",
@@ -367,6 +407,14 @@
      "summary": "New Micron lab; chip/AI price jump; multi-die monitoring; cryo links for quantum chips; interconnect RC bottleneck; 18A win; CPO roadmap; 2 new CEOs; humanoid readiness gap; Hot Interconnects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "White House looking for 1000 rocket launches a year",
+     "link": "https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 05:17:57 +0000",
+     "summary": "Yesterday US President Donald Trump signed a memo aimed at enabling 1,000 US rocket launches and re-entries a year – up from 178 launches in 2025. The memo requires agencies […] The post White House looking for 1000 rocket launches a year appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "White House looking for 1000 rocket launches a year"
     },
     {
      "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
@@ -447,46 +495,6 @@
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
-    },
-    {
-     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
-     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
-     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
-     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
-    },
-    {
-     "title": "HexSeed raises over £600,000 in early-stage funding",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/hexseed-190826.shtml",
-     "pubDate": "Wed, 19 Aug 2026 21:03:33 +0100",
-     "summary": "HexSeed Technology Ltd of Banchory, near Aberdeen, Scotland, UK has raised more than £600,000 in an early-stage funding round led by Carbon13, with participation from Net Zero Technology Centre and Vento Ventures. The cumulative investment unlocks a Partnership Grant from overnment agency Innovate U",
-     "source": "Semiconductor Today",
-     "zh": "HexSeed raises over £600,000 in early-stage funding"
-    },
-    {
-     "title": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/clas-sic-190826.shtml",
-     "pubDate": "Wed, 19 Aug 2026 20:50:08 +0100",
-     "summary": "Clas-SiC Wafer Fab Ltd of Lochgelly, Fife, Scotland — which was founded in 2017 and is the UK’s only commercial wafer fabrication facility dedicated to silicon carbide (SiC) — is one of the first recipients of Scottish Enterprise’s new Capital Grant, which has been designed to help drive levels of b",
-     "source": "Semiconductor Today",
-     "zh": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment"
-    },
-    {
-     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
-     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
-     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
-     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
-    },
-    {
-     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
-     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
-     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
-     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -1737,6 +1745,86 @@
    "total": 18,
    "items": [
     {
+     "title": "九十年代意味着什么？",
+     "link": "https://www.huxiu.com/article/4885332.html?f=rss",
+     "pubDate": "Mon, 24 Aug 2026 07:38:31 +0800",
+     "summary": "本文来自微信公众号： 元淦恭说 ，作者：元淦恭 前些日子，人们的思绪总被拉回记忆中的九十年代。 真实的九十年代，并不只是一个充满玫瑰色幻象的美好时代。其实，那是一个希望和痛苦并存的年代。 民营企业和外资经济蓬勃发展的同时，国企改革带来了数以千万计的工人下岗。 城市走上了加速增长的快车道，但城乡差距却空前扩大，农民面对着沉重的税费压力，“农业真苦，农民真穷，农村真危险”是对当时乡村的真实写照。在八十年代改革中，农村是受益最为显著和直接的区域，而在九十年代却成了相对滞后的部门。 在开启新的经济奇迹的同时，社会层面的不稳定因素也在增加，治安是相当大的问题，暴力犯罪频发，许多大案要案和重特大事故令举国",
+     "source": "虎嗅",
+     "zh": "九十年代意味着什么？"
+    },
+    {
+     "title": "那些已经习惯的行为方式可能也是你内耗的来源",
+     "link": "https://www.huxiu.com/article/4885331.html?f=rss",
+     "pubDate": "Mon, 24 Aug 2026 07:36:31 +0800",
+     "summary": "本文来自微信公众号： 景红空间 ，作者：景红空间 01 最近重新开始做普拉提。 因为有一段时间没练，很多动作明显生疏了。有些动作老师示范的时候，看起来非常简单，我照着做，自己觉得已经做到位了，老师却总在旁边提醒我：“不要这样发力，你又用回原来的方式了。” 一开始我其实有些不理解。动作明明完成了，姿势看起来也差不多，为什么还不对？ 后来慢慢在调整中体会到老师讲的，普拉提真正难的地方，并不是把一个动作“做出来”，而是要控制自己的身体，让该发力的地方真正发力，让不该代偿的地方停下来。 人的身体很聪明，也很偷懒。一个动作做久了，会自动形成最熟悉、最省力的一条路径。某个部位力量不够，身体就会调用另外一个",
+     "source": "虎嗅",
+     "zh": "那些已经习惯的行为方式可能也是你内耗的来源"
+    },
+    {
+     "title": "Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors (Julia Fioretti/Bloomberg)",
+     "link": "https://www.techmeme.com/260823/p12#a260823p12",
+     "pubDate": "Sun, 23 Aug 2026 19:30:37 -0400",
+     "summary": "Julia Fioretti / Bloomberg : Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors &nbsp; &mdash;&nbsp; Shein Global Holdings Ltd. is seeking to raise as much as $13.9 billion ($1.8 billion) in",
+     "source": "Techmeme",
+     "zh": "Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors (Julia Fioretti/Bloomberg)"
+    },
+    {
+     "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元",
+     "link": "https://www.ithome.com/0/993/329.htm",
+     "pubDate": "Sun, 23 Aug 2026 23:28:42 GMT",
+     "summary": "IT之家 8 月 24 日消息，据 Business Insider 当地时间周日援引知情人士消息报道，人工智能初创公司 Hugging Face 一直在探索出售事宜，该交易对公司的估值可能达到 130 亿美元 （IT之家注：现汇率约合 876.6 亿元人民币） 或更高。 这家总部位于纽约的公司托管开源大语言模型和数据集，据报道一直在与一家银行合作，以评估竞购者的兴趣。 2023 年，Hugging Face 在一轮由科技巨头 Salesforce、Alphabet 旗下谷歌以及英伟达领投的融资中估值达 45 亿美元 （现汇率约合 303.44 亿元人民币） 。 上个月，Hugging Fac",
+     "source": "IT之家",
+     "zh": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元"
+    },
+    {
+     "title": "比亚迪张卓透露海洋网 MPV 预计年底上市",
+     "link": "https://www.ithome.com/0/993/328.htm",
+     "pubDate": "Sun, 23 Aug 2026 23:27:04 GMT",
+     "summary": "IT之家 8 月 24 日消息，8 月 23 日，比亚迪海洋网总经理张卓在接受博主“向北不断电”的专访时透露，海洋网 MPV 年底可能要上市了，并表示 MPV 也是市场 独一无二 的存在。 IT之家注意到，在今年 4 月的 2026 北京国际车展上，比亚迪海洋网发布了一款 Ocean-V 概念车，宣称是“能越野的 MPV、能露营的家、可移动的家庭影院、能带娃的大玩具”。Ocean-V 概念车全舱 0 物理按键，可一键进入“海洋观影模式”，方向盘收缩，仪表台翻转出一个大幕布。户外露营模式下，Ocean-V 概念车的座椅可以实现两排相对，座椅全部放倒就是大床。目前，尚不清楚海洋网年底 MPV 是否",
+     "source": "IT之家",
+     "zh": "比亚迪张卓透露海洋网 MPV 预计年底上市"
+    },
+    {
+     "title": "郭锐详解智界 RX 轿跑 SUV 驾控性能，称硬件层面全面对标百万级性能豪车",
+     "link": "https://www.ithome.com/0/993/327.htm",
+     "pubDate": "Sun, 23 Aug 2026 23:27:02 GMT",
+     "summary": "IT之家 8 月 24 日消息，鸿蒙智行智界汽车董事长兼首席执行官郭锐昨晚发文，详细介绍了智界 RX 轿跑 SUV 的驾控性能，称在底盘机械素质方面， 团队是以百万级性能豪车的全套底盘硬件规格与调校标准在打磨该车 ，实现极致操控质感与日常驾乘舒适的双向统一。 据郭锐介绍，智界 RX 搭载创新 343 紧凑车身架构，搭配电磁热控压铸技术， 整车扭转刚度达到 50000+N·m/deg 。超高刚性车身可从根源抑制极限工况下的车身形变，让悬架动作无损耗、响应更纯粹、跟随性更强，充分释放整套底盘的操控潜力。同时通过全车材料科学配重布局， 实现近 50:50 黄金前后轴荷比 ，可规避推头、甩尾现象，让整",
+     "source": "IT之家",
+     "zh": "郭锐详解智界 RX 轿跑 SUV 驾控性能，称硬件层面全面对标百万级性能豪车"
+    },
+    {
+     "title": "【钛晨报】促进网信企业高质量发展，中央网信委‌最新部署；特斯拉客服回应近300万辆召回具体做法；阿里宣布800亿港元新股配售，即获超额认购",
+     "link": "https://www.tmtpost.com/8113453.html",
+     "pubDate": "Mon, 24 Aug 2026 07:20:00 +0800",
+     "summary": "上纬新材“启元机器人”正式开启预订，预计首发发货最早9月；DeepSeek API计费调整，周末统一按低谷时段价格计费；事涉儿童在线隐私保护，TikTok支付4亿美元和解；张雪机车宣布2027全年赛事赞助开放招商；SpaceX将组建内部天然气交易团队；Anthropic聘请谷歌定制芯片项目创始人，为进军自研半导体做准备；优衣库衣物回收服务扩展至全国门店；沃尔玛计划年内在全美门店和山姆会员店推出非接触支付服务；240小时过境免签政策适用国家增至57国；多家银行发布公告，单人在同家银行贴息上限提升到5000元；国常会：统筹推进基础网络、空间网络、国际网络、融合网络建设；市场监管总局：具身智能机器人",
+     "source": "钛媒体",
+     "zh": "【钛晨报】促进网信企业高质量发展，中央网信委‌最新部署；特斯拉客服回应近300万辆召回具体做法；阿里宣布800亿港元新股配售，即获超额认购"
+    },
+    {
+     "title": "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼",
+     "link": "https://www.ithome.com/0/993/326.htm",
+     "pubDate": "Sun, 23 Aug 2026 23:19:39 GMT",
+     "summary": "IT之家 8 月 24 日消息，Twitch 正面临一场集体诉讼，原因是其将主播的内容用于训练亚马逊的 AI。 一名 Twitch 主播已针对该平台及其母公司亚马逊提起拟议的集体诉讼，声称他的直播内容以及无数其他创作者的内容，在未经同意、也未获得报酬的情况下被用于生成式 AI 训练。 据 Courthouse News 报道，原告 Warren Pandiscia 是一位拥有约 1000 名粉丝的 Twitch 创作者，于上周在加州北区法院提交了长达 37 页的诉状。诉状指控 Twitch 和亚马逊在未获得适当授权的情况下复制了大量主播视频，这违反了创作者与平台之间的默示协议，也违反了州不公平",
+     "source": "IT之家",
+     "zh": "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼"
+    },
+    {
+     "title": "电动化时代，V8为何卷土重来？",
+     "link": "https://www.huxiu.com/article/4885329.html?f=rss",
+     "pubDate": "Mon, 24 Aug 2026 07:11:46 +0800",
+     "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进 Ram一度相信，自己找到了最适合新一代皮卡的动力系统。 2023年11月，Ram发布2025款Ram 1500。服役多年的5.7升HEMI V8从配置表上消失，接替它的是3.0升Hurricane（飓风）直列六缸双涡轮增压发动机。 这项决定看起来无可指摘。 Hurricane标准版本拥有420马力和635牛·米，高功率版本更达到540马力和706牛·米。被它取代的5.7升HEMI只有395马力和556牛·米。新发动机动力更强、燃油效率更高，运转也更加平顺。 但新车上市后，消费者抱怨的不是Hurricane不够强，而是它",
+     "source": "虎嗅",
+     "zh": "电动化时代，V8为何卷土重来？"
+    },
+    {
+     "title": "谷歌 Pixel 11 Pro 手机拆解揭示 HiLight 背后的秘密：硬件为 8 颗 RGB LED",
+     "link": "https://www.ithome.com/0/993/325.htm",
+     "pubDate": "Sun, 23 Aug 2026 23:11:34 GMT",
+     "summary": "IT之家 8 月 24 日消息，随着 Pixel 11 系列手机的发布，谷歌推出了一个新的后置视觉提醒环，名为 HiLight，正式取代了前几代 Pixel 上的红外温度传感器。 IT之家注意到，该硬件直接围绕后置相机条上的闪光灯构建，并覆盖全系列机型。目前，HiLight 作为一款专用指示灯，在 Gemini 助手激活时脉冲闪烁，当手机屏幕朝下放置时，会为来自收藏联系人的来电发出亮光。尽管谷歌在发布会上宣布该功能将支持短信，但这一能力在发布时缺失。此外，HiLight 不支持第三方应用集成，这意味着用户无法为单个应用分配特定颜色，以便一眼识别通知来源。视觉自定义也受到严格限制，用户只能从五种",
+     "source": "IT之家",
+     "zh": "谷歌 Pixel 11 Pro 手机拆解揭示 HiLight 背后的秘密：硬件为 8 颗 RGB LED"
+    },
+    {
      "title": "中国铁路官方解答儿童乘火车出行疑问：不具备一对一全程看护单独出行儿童的条件",
      "link": "https://www.ithome.com/0/993/324.htm",
      "pubDate": "Sun, 23 Aug 2026 23:04:30 GMT",
@@ -1751,30 +1839,6 @@
      "summary": "Truman Dickerson / Business Insider : Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade &ldquo;a lot of liberty for safety&rdquo; &nbsp; &mdash;&nbsp; OpenAI CEO Sam Altman says he worries that AI will one day be controlled by a ",
      "source": "Techmeme",
      "zh": "Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade \"a lot of liberty for safety\" (Truman Dickerson/Business Insider)"
-    },
-    {
-     "title": "分析师称 Epic 游戏商城改版也难撼动 Steam，Epic 晒数据予以反驳",
-     "link": "https://www.ithome.com/0/993/322.htm",
-     "pubDate": "Sun, 23 Aug 2026 23:00:31 GMT",
-     "summary": "IT之家 8 月 24 日消息，Epic Games 长期以来一直试图将 Epic 游戏商城打造成 Steam 的替代品，这也是其自 2018 年以来提供著名的每周免费游戏的原因。最近，Epic 承诺对游戏商城进行大规模改版，以吸引更多游戏发行商和玩家，带来新功能、更精致的用户界面、更好的游戏发现机制，甚至支持 Linux。在最近接受 PC Gamer 采访时，Newzoo 分析师 Emmanuel Rosier 认为，对于 Epic 来说，想通过重新设计来夺回足够的市场份额，可能为时已晚。 这位分析师称，玩家只是为了免费游戏才去 Epic，当他们想购买真正愿意花钱的游戏时，又会转身回到 St",
-     "source": "IT之家",
-     "zh": "分析师称 Epic 游戏商城改版也难撼动 Steam，Epic 晒数据予以反驳"
-    },
-    {
-     "title": "微软 Win11 文件资源管理器将新增“仍要预览”按钮，兼顾安全与下载文件预览体验",
-     "link": "https://www.ithome.com/0/993/321.htm",
-     "pubDate": "Sun, 23 Aug 2026 22:52:26 GMT",
-     "summary": "IT之家 8 月 24 日消息，Windows 11 的文件资源管理器正在恢复一项此前因安全问题被禁用的功能，新增了一个“仍要预览”（Preview anyway）按钮。该功能将在未来几周内开始推送。 据IT之家了解，2025 年 10 月初，用户发现文件资源管理器不再为从互联网下载的文件在预览窗格中显示预览，当时一些人以为这是异常行为或是一个 Bug。 微软后来确认，出于安全原因，其有意阻止了文件资源管理器的预览功能，这使得用户无法快速浏览 PDF 和其他文档。 对于不了解情况的用户，文件资源管理器有两个窗格。一个是“详细信息”窗格，显示所选文件的信息，例如文件大小、创建日期等。它还可以在不",
-     "source": "IT之家",
-     "zh": "微软 Win11 文件资源管理器将新增“仍要预览”按钮，兼顾安全与下载文件预览体验"
-    },
-    {
-     "title": "古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色",
-     "link": "https://www.ithome.com/0/993/320.htm",
-     "pubDate": "Sun, 23 Aug 2026 22:40:45 GMT",
-     "summary": "IT之家 8 月 24 日消息，据彭博社的马克 · 古尔曼（Mark Gurman）报道，苹果正在准备推出搭载升级芯片和新配色选项的新款 iMac 机型。 古尔曼在其最新的 Power On 通讯中写道，新款机型很可能是搭载 M6 芯片的 24 英寸升级款机型，将取代于 2024 年 10 月推出的现有 M4 机型。 据说新配色也在计划之中，不过古尔曼没有透露具体是什么颜色。IT之家注意到，目前的 iMac 有七种颜色，包括绿色、黄色、橙色、粉色、紫色、蓝色和银色。 除此之外，新款机型预计不会有重大的设计变化。据报道，苹果正在开发配备 OLED 显示屏的 24 英寸 iMac，但这要等几年后才",
-     "source": "IT之家",
-     "zh": "古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色"
     },
     {
      "title": "Greg Abbott says data center companies \"dug their own grave\" by moving into communities without first gaining support, signaling growing Republican backlash (Axios)",
@@ -1825,22 +1889,6 @@
      "zh": "弄清中国的消费数据|| 大视野"
     },
     {
-     "title": "只为省2000块运费？一斤两毛的康保白菜，毁在一桶甲醛上",
-     "link": "https://www.huxiu.com/article/4885320.html?f=rss",
-     "pubDate": "Mon, 24 Aug 2026 00:00:32 +0800",
-     "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 原本平静的高原小县城，被一条网络视频推上风口浪尖。 画面里，有人用不明液体浸泡白菜，准备装车发往外地。视频迅速扩散，“康保白菜蘸甲醛”几个字冲上热搜。一时间，质疑、谩骂涌向这座坝上小城。 8月22日，博主“渔猎齐哥”曝光河北张家口康保县部分商贩在白菜装车前违规蘸取甲醛溶液以延长保鲜期，其中确认有一车涉事白菜的目的地为江苏宿迁。 这段网络流出的暗访视频，将蔬菜流通中一条隐秘的“保鲜黑链”推至公众视野。为压低长途损耗率，部分收购商违规使用甲醛溶液浸泡白菜，这本应出现在工业领域的消毒剂，如今却渗透进农产品的运输环节。 视频引爆舆情当日，官方通报：情况",
-     "source": "虎嗅",
-     "zh": "只为省2000块运费？一斤两毛的康保白菜，毁在一桶甲醛上"
-    },
-    {
-     "title": "玩家抵制 PlayStation 行动升级：一周 → 无限期，直至索尼为取消实体光盘认错",
-     "link": "https://www.ithome.com/0/993/318.htm",
-     "pubDate": "Sun, 23 Aug 2026 15:57:18 GMT",
-     "summary": "IT之家 8 月 23 日消息，上个月，长期倡导实体游戏保存和使用权的网络团体 Does It Play? 提议发起为期一周的 PlayStation 抵制行动，抗议索尼计划从 2028 年起取消游戏光盘。 提议很快发展成实际行动，不少玩家纷纷响应，将在 8 月停用 PlayStation 主机，以此表达不满。 据悉，这起 PlayStation“抵制行动”将于 24 日开始。活动前夕，Does It Play? 修改了原先的计划： 从先前的一周改为一直持续到“索尼意识到自己的错误”为止 。 北京时间 23 日（今天）Does It Play? 在 X 发文称：“PlayStation 抵制行",
-     "source": "IT之家",
-     "zh": "玩家抵制 PlayStation 行动升级：一周 → 无限期，直至索尼为取消实体光盘认错"
-    },
-    {
      "title": "Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&apos;s close (Reuters)",
      "link": "https://www.techmeme.com/260823/p7#a260823p7",
      "pubDate": "Sun, 23 Aug 2026 11:50:02 -0400",
@@ -1857,28 +1905,12 @@
      "zh": "机器人短跑超越人类，但刹住是问题"
     },
     {
-     "title": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路",
-     "link": "https://www.ithome.com/0/993/317.htm",
-     "pubDate": "Sun, 23 Aug 2026 15:24:10 GMT",
-     "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼今天（23 日）晚间更新《Power On》时事通讯称，苹果零售店布局即将迎来调整，为一系列新的家庭设备做准备。 古尔曼披露，苹果今年秋季将准备重新调整零售店， 为新的家庭设备腾出空间 。负责门店布局的团队已经开始规划新的展示区域。较新的苹果零售店四周设有 Avenues 陈列区，用来展示 HomePod、Apple TV、AirPods、Beats 以及第三方配件。 今年秋季，苹果准备大幅重新布置这些区域，并增加新的配件展示位。他进一步分析称，已知新品包括升级版 Apple TV 机顶盒和新款 HomePod mini，但调整范围之大",
-     "source": "IT之家",
-     "zh": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路"
-    },
-    {
      "title": "卡巴斯基发现第一种针对汽车的 Android 恶意程序",
      "link": "https://www.solidot.org/story?sid=85168",
      "pubDate": "Sun, 23 Aug 2026 23:02:01 +0800",
      "summary": "俄罗斯安全公司卡巴斯基的研究人员报告他们发现第一种针对汽车的 Android 恶意程序。恶意程序通过基于 Android 的兜风出行汽车主机（head unit）固件的内置更新程序传播，被认为与 MoYu Group 黑客组织有关，该组织与 BADBOX 僵尸网络有关联。卡巴斯基称它已经通知了兜风出行，对方表示已修复相关安全问题。这一汽车恶意程序传播案例类似廉价电视盒，攻击者旨在创建住宅代理僵尸网络，因此使用了相同的网络基础设施。",
      "source": "Solidot",
      "zh": "卡巴斯基发现第一种针对汽车的 Android 恶意程序"
-    },
-    {
-     "title": "Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID (Mark Gurman/Bloomberg)",
-     "link": "https://www.techmeme.com/260823/p6#a260823p6",
-     "pubDate": "Sun, 23 Aug 2026 10:45:22 -0400",
-     "summary": "Mark Gurman / Bloomberg : Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID &nbsp; &mdash;&nbsp; Also: Get ready for iPhone price hikes.&nbsp; &mdash;&nbsp; Apple is about to bring some of it",
-     "source": "Techmeme",
-     "zh": "Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID (Mark Gurman/Bloomberg)"
     },
     {
      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
@@ -1951,30 +1983,6 @@
      "summary": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.",
      "source": "WIRED",
      "zh": "Asus ROG Swift RGB Stripe OLED Review: Clarity King"
-    },
-    {
-     "title": "豆包将推WorkBuddy类产品，飞书十年积累正在组件化",
-     "link": "https://www.tmtpost.com/8113359.html",
-     "pubDate": "Sun, 23 Aug 2026 20:31:00 +0800",
-     "summary": "豆包团队最快将于下周推出一款对标腾讯WorkBuddy的办公类产品",
-     "source": "钛媒体",
-     "zh": "豆包将推WorkBuddy类产品，飞书十年积累正在组件化"
-    },
-    {
-     "title": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了",
-     "link": "https://www.solidot.org/story?sid=85166",
-     "pubDate": "Sun, 23 Aug 2026 19:04:24 +0800",
-     "summary": "Nicole Suszek 最后一次收到哥哥 Sylwester 的电话语音留言是在 2022 年，在留言中 Sylwester 急迫的请求她给他寄去比特币，否则以后就永远见不到面了。Sylwester 从此杳无音信，家人认为他已经遇害。Sylwester 是东欧和中欧最大加密货币交易所 Zondacrypto 的创始人，他在 2014 年创办了 Zondacrypto 的前身 BitBay。接替 Sylwester 担任 Zondacrypto CEO 的波兰律师 Przemyslaw Kral 在今年四月也失踪了，这一事件让 Sylwester 案再次浮出水面。波兰总理 Donald Tu",
-     "source": "Solidot",
-     "zh": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了"
-    },
-    {
-     "title": "What’s the Best Kindle of 2026? (So Far)",
-     "link": "https://www.wired.com/gallery/best-kindle/",
-     "pubDate": "Sun, 23 Aug 2026 11:03:00 +0000",
-     "summary": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
-     "source": "WIRED",
-     "zh": "What’s the Best Kindle of 2026? (So Far)"
     }
    ]
   },
@@ -2249,12 +2257,84 @@
      "zh": "UK fintech funding hits lowest level in a decade"
     },
     {
+     "title": "算力全链条绿色化成效初显 词元经济等成新增长极",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850438435.html",
+     "pubDate": "Mon, 24 Aug 2026 07:36:38 +0800",
+     "summary": "记者从日前召开的2026绿色算力（ 人工智能 ）大会上获悉，当前我国算力规模快速增长，算力设备向高能效方向升级，算力载体绿色化转型进展积极，算电协同从理念走向实践，算力网、词元经济、算力出海等新模式新业态成为新增长极。 随着算电协同持续深化和国产大模型全面爆发，算力产业迎来新格局。中国信息 通信 研究院副院长敖立在大会上发布的《绿色算力发展研究报告（2026年）》显示，我国算力设备加速向高能效方向迭代升级。截至2026年6月底，我国智能算力规模达2185EFLOPS。 算力从“建得快”转向“用得好”，从“拼规模”转向“拼能效”成为产业界的共识。 在内蒙古和林格尔新区，华电全国首批算电协同示范项",
+     "source": "东方财富股票",
+     "zh": "算力全链条绿色化成效初显 词元经济等成新增长极"
+    },
+    {
+     "title": "AI赋能生态保护背后的“三本账”",
+     "link": "http://finance.eastmoney.com/news/1348,202608243850438615.html",
+     "pubDate": "Mon, 24 Aug 2026 07:35:39 +0800",
+     "summary": "为江豚打造“AI金牌月嫂”、给人熊冲突设置“防火墙”、让金丝猴拥有“身份证”……刚刚过去的全国生态日，记者实地探访了长江旗舰物种江豚的智慧监测、神农架国家公园人熊冲突预警和珍稀物种监测示范项目。记者走访发现，5G、 物联网 、 人工智能 等数字技术已融入生态环境保护全过程，在生态文明建设纵深推进的当下，科技正在重新定义生态保护的成本函数。 智慧监测重算“人力账” “以前江豚监测是24小时四班倒，非常耗费人力。特别是后半夜，人最容易疲劳，注意力不集中，观察数据很难保证完全准确。”中国科学院水生生物研究所研究员、武汉白鱀豚保护基金会秘书长王克雄说。这个事实指向了传统生态监测最大的成本“黑洞”——人",
+     "source": "东方财富股票",
+     "zh": "AI赋能生态保护背后的“三本账”"
+    },
+    {
+     "title": "清晨集体跳水！伊朗重磅发声！国际油价下挫",
+     "link": "http://finance.eastmoney.com/news/1344,202608243850467687.html",
+     "pubDate": "Mon, 24 Aug 2026 07:35:22 +0800",
+     "summary": "美伊局势持续搅动能源市场。 今日清晨，亚太盘初，国际油价集体跳水，WTI原油 期货 、布伦特原油 期货 价格均跌超1%。消息面上，伊朗总统佩泽希齐扬在最新的讲话中表示，伊朗应以理性方式，使国家摆脱“既非战争、也非和平”状态。 与此同时，针对美国总统特朗普此前宣布的“史无前例的经济战”，伊朗方面亮出了“石油出口反制牌”。当地时间23日，伊朗最高国家安全委员会秘书雷扎伊表示，如果美国对伊朗继续发动经济战，则没有石油会通过霍尔木兹海峡乃至波斯湾地区出口。 国际油价下挫 北京时间8月24日清晨，国际油价下挫，截至7:15，WTI原油 期货 价格跌1.04%，报86.16美元/桶；布伦特原油期货价格跌1",
+     "source": "东方财富股票",
+     "zh": "清晨集体跳水！伊朗重磅发声！国际油价下挫"
+    },
+    {
+     "title": "长存控股IPO获受理 国产存储产业加速崛起",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850438266.html",
+     "pubDate": "Mon, 24 Aug 2026 07:33:40 +0800",
+     "summary": "8月21日晚，上交所官网受理长江存储控股股份有限公司（以下简称“长存控股”）首次公开发行股票申请，这是继8月19日IPO辅导验收后的又一标志性动作。 继7月 长鑫科技 登陆科创板创下板块最大IPO纪录后，长存控股IPO快速受理，标志着“存储双雄”在科创板会师进入倒计时，国产存储产业从“单点突围”跨入“资本—技术—产能”正循环加速期。 招股书显示，长存控股拟募资330亿元，其中208亿元将用于长江存储量产线技术升级项目，122亿元用于研发相关募投项目。 自成立以来，长存控股专注于打造全球领先层数、高存储密度的NAND Flash系列产品，广泛应用于企业服务器、 数据中心 、 消费电子 等领域，成",
+     "source": "东方财富股票",
+     "zh": "长存控股IPO获受理 国产存储产业加速崛起"
+    },
+    {
+     "title": "沃什若未提供明确指引 美国长债恐遭进一步抛售",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850467296.html",
+     "pubDate": "Mon, 24 Aug 2026 07:33:05 +0800",
+     "summary": "债券投资者将重点关注凯文·沃什本周在杰克逊霍尔发表的讲话，市场将从中研判美联储主席将如何应对持续通胀和财政问题，长期美债或将进一步遭到抛售。近几周来美国长期债券承压，交易员一度将30年期国债收益率推至2007年以来最高水平。美国财政部随后宣布计划将长期证券的回购规模至少扩大一倍，但这只能暂时缓解抛售压力。收益率的剧烈波动凸显了沃什周五在杰克逊霍尔经济政策研讨会上讲话的重要性。交易员将密切关注美联储的反应机制，特别是决策者计划如何应对持续高于央行2%目标的通胀，以及不断恶化的财政状况，目前美国债务已超过40万亿美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "沃什若未提供明确指引 美国长债恐遭进一步抛售"
+    },
+    {
+     "title": "以色列对加沙一处医院周边实施空袭，造成数人受伤",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850466933.html",
+     "pubDate": "Mon, 24 Aug 2026 07:33:05 +0800",
+     "summary": "以色列对加沙一处 医院 周边实施空袭，造成数人受伤。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "以色列对加沙一处医院周边实施空袭，造成数人受伤"
+    },
+    {
+     "title": "Gilead’s HIV Business is Surging, but is the Company Too Dependent on One Franchise?",
+     "link": "https://finance.yahoo.com/healthcare/articles/gilead-hiv-business-surging-company-231505800.html",
+     "pubDate": "2026-08-23T23:15:05Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Gilead’s HIV Business is Surging, but is the Company Too Dependent on One Franchise?"
+    },
+    {
+     "title": "Pfizer’s Turnaround is Gaining Traction, but Can New Products Offset its Patent Cliff?",
+     "link": "https://finance.yahoo.com/healthcare/articles/pfizer-turnaround-gaining-traction-products-231313770.html",
+     "pubDate": "2026-08-23T23:13:13Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Pfizer’s Turnaround is Gaining Traction, but Can New Products Offset its Patent Cliff?"
+    },
+    {
      "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
      "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
      "pubDate": "Sun, 23 Aug 2026 23:03:00 GMT",
      "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trade partners.",
      "source": "MarketWatch",
      "zh": "Stock futures flat as U.S. and Canada appear headed for trade war"
+    },
+    {
+     "title": "Is Johnson & Johnson’s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-5-5-billion-230104916.html",
+     "pubDate": "2026-08-23T23:01:04Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Is Johnson & Johnson’s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年8月24日",
@@ -2273,36 +2353,12 @@
      "zh": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead"
     },
     {
-     "title": "Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside?",
-     "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-thermo-fisher-healthcare-225340177.html",
-     "pubDate": "2026-08-23T22:53:40Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside?"
-    },
-    {
-     "title": "Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery?",
-     "link": "https://finance.yahoo.com/healthcare/articles/abbott-vs-thermo-fisher-better-224317862.html",
-     "pubDate": "2026-08-23T22:43:17Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery?"
-    },
-    {
      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
      "link": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
      "pubDate": "Sun, 23 Aug 2026 22:39:41 GMT",
      "summary": "Bessent told CNBC that the sanctions will be the \"toughest\" in history.",
      "source": "CNBC",
      "zh": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat"
-    },
-    {
-     "title": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?",
-     "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-thermo-fisher-223203633.html",
-     "pubDate": "2026-08-23T22:32:03Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?"
     },
     {
      "title": "8月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
@@ -2423,54 +2479,6 @@
      "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
      "source": "MarketWatch",
      "zh": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
-    },
-    {
-     "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
-     "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 17:00:00 GMT",
-     "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
-     "source": "MarketWatch",
-     "zh": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?"
-    },
-    {
-     "title": "“沪八条”重在畅通一二手房联动",
-     "link": "http://www.eeo.com.cn/2026/0824/1009018.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:13 +0800",
-     "summary": "■王丽新 时隔半年，上海再出楼市新政。8月20日，上海市住房城乡建设管理委、市房屋管理局、市财政局等六部门联合印发《关于优化本市房地产政策措施的通知》（简称“沪八条”），推出涵盖住房公积金、信贷、购房补贴、房票安置、收购二手住房等五大维度的八项举措。 今年以来，上海房地产市场交易持续活跃、整体回暖，展现出较强韧性。从上海楼市实际成交结构看，总价300万元以下的刚需盘与千万元级以上的高端项目...",
-     "source": "经济观察网",
-     "zh": "“沪八条”重在畅通一二手房联动"
-    },
-    {
-     "title": "让住房公积金更好服务安居需求",
-     "link": "http://www.eeo.com.cn/2026/0824/1009017.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:13 +0800",
-     "summary": "■张芗逸 日前，《国务院关于修改〈住房公积金管理条例〉的决定》正式公布，自2026年9月20日起施行。这是《住房公积金管理条例》（以下简称《条例》）自1999年出台以来的第三次修订。此次修订拓宽了住房公积金提取范围，同时扩大制度覆盖面，将个体工商户、非全日制从业人员以及其他灵活就业人员纳入自愿缴存范围。 在笔者看来，这不仅是住房公积金制度本身的完善，更体现了发展理念的转变。随着房地产市场发展阶段...",
-     "source": "经济观察网",
-     "zh": "让住房公积金更好服务安居需求"
-    },
-    {
-     "title": "美债“狂飙”背后的三重风险",
-     "link": "http://www.eeo.com.cn/2026/0824/1009016.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:08 +0800",
-     "summary": "■韩昱 美国联邦政府债务（以下简称“美债”）规模一路“狂飙”。美国财政部日前公布的数据显示，美债总额首次突破40万亿美元，再创历史新高。笔者认为，这一数字揭示了三重风险。 首先是美国债务失控风险，美债规模正呈现“滚雪球”式增长。 美债起源可追溯至美国独立战争时期，其先后经历了早期发展、快速扩张和加速膨胀等阶段。美债规模达到1万亿美元用时超过200年，从1万亿美元到突破10万亿美元仅用了27...",
-     "source": "经济观察网",
-     "zh": "美债“狂飙”背后的三重风险"
-    },
-    {
-     "title": "多措并举激发民间投资活力",
-     "link": "http://www.eeo.com.cn/2026/0824/1009015.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:08 +0800",
-     "summary": "■刘萌 8月20日，国家发展改革委主任郑栅洁主持召开座谈会，与来自电气设备、制药装备、消费服务、智能终端、纺织服装及冶金化工领域的企业负责人深入交流。这是今年以来国家发展改革委召开的第七场民营企业座谈会。 民营企业扎根市场最前沿，对需求冷暖、投资难点感知最为敏锐。把来自市场一线的真实声音纳入政策考量，能够让宏观调控举措更加贴合市场实际，提升政策落地实效。 此前多场民营企业座谈会，分...",
-     "source": "经济观察网",
-     "zh": "多措并举激发民间投资活力"
-    },
-    {
-     "title": "补齐制度短板、强化硬约束 保险业迎资产负债管理新规",
-     "link": "http://www.eeo.com.cn/2026/0824/1009014.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:07 +0800",
-     "summary": "时隔七年，保险业迎来资产负债管理新规。 为有效防范系统性风险，完善审慎监管制度体系，提升保险业资产负债管理水平，8月21日，国家金融监督管理总局（以下简称“金融监管总局”）发布《保险公司资产负债管理办法》（以下简称《办法》）以及《关于实施〈保险公司资产负债管理办法〉有关事项的通知》（以下简称《实施通知》）。 国家金融监管总局表示，《办法》的实施，有助于引导保险公司树立稳健审慎的经营理念，...",
-     "source": "经济观察网",
-     "zh": "补齐制度短板、强化硬约束 保险业迎资产负债管理新规"
     }
    ]
   },
