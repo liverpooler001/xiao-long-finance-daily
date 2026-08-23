@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 00:49:46",
+ "generated_at": "2026/8/24 01:13:46",
  "recent_days": 7,
  "industries": [
   {
@@ -32,54 +32,6 @@ window.INDUSTRY_DATA = {
      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
      "source": "TechCrunch AI",
      "zh": "Is it legal to train AI models on copyrighted books? It’s complicated"
-    },
-    {
-     "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
-     "link": "https://www.qbitai.com/2026/08/478319.html",
-     "pubDate": "Sun, 23 Aug 2026 13:20:00 +0000",
-     "summary": "玩的就是真实",
-     "source": "量子位",
-     "zh": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店"
-    },
-    {
-     "title": "具身创业里的香港教授们",
-     "link": "https://www.qbitai.com/2026/08/478289.html",
-     "pubDate": "Sun, 23 Aug 2026 11:20:13 +0000",
-     "summary": "香港的大学里冒出了一批很特别的人",
-     "source": "量子位",
-     "zh": "具身创业里的香港教授们"
-    },
-    {
-     "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-     "link": "https://www.qbitai.com/2026/08/478234.html",
-     "pubDate": "Sun, 23 Aug 2026 11:17:22 +0000",
-     "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
-     "source": "量子位",
-     "zh": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长"
-    },
-    {
-     "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-     "link": "https://www.qbitai.com/2026/08/478191.html",
-     "pubDate": "Sun, 23 Aug 2026 09:56:12 +0000",
-     "summary": "Tokenizer、视频编码、API报错全扒一遍",
-     "source": "量子位",
-     "zh": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的"
-    },
-    {
-     "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-     "link": "https://www.qbitai.com/2026/08/478164.html",
-     "pubDate": "Sun, 23 Aug 2026 09:51:49 +0000",
-     "summary": "内存成本飙升逼涨硬件",
-     "source": "量子位",
-     "zh": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元"
-    },
-    {
-     "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
-     "link": "https://www.qbitai.com/2026/08/478093.html",
-     "pubDate": "Sun, 23 Aug 2026 09:45:27 +0000",
-     "summary": "AstraTennis时刻背后的硬核技术",
-     "source": "量子位",
-     "zh": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起"
     },
     {
      "title": "影视飓风Tim看呆！鸡排哥2小时做出八大菜系，AI首次长出「大厨大脑」",
@@ -248,6 +200,54 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 李水青 编辑 | 漠影 智东西8月21日报道，过去一个月，阿里巴巴模型发布全面提速， 大语言、图像、语音、视频、音乐五大类 模型密集完成重要版本迭代，性能均跻身国际第一梯队。 有业内人士评价， 多模态 是 下一代智能的范式 。阿里在多模态上的布局节奏，远比市场感知的要快。 模型密集迭代的另一面，是模型能力开始 与云基础设施的增长形成更紧密的联动。 2027财年第一季度（对应2026年4月1日-6月30日），阿里云外部商业化收入增速提升至 45% ，创下22个季度新高。AI云及算力服务收入 484.37亿元 ，经调整EBITA达到 56.28亿元 ，同比暴增 133% 。AI相",
      "source": "智东西",
      "zh": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队"
+    },
+    {
+     "title": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=1&sn=d5a0a68f04d7e09d9cabe5c4950db88e",
+     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
+     "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
+     "source": "新智元",
+     "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
+    },
+    {
+     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
+     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
+     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
+     "source": "新智元",
+     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
+    },
+    {
+     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
+     "source": "机器之心",
+     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
+    },
+    {
+     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
+     "source": "机器之心",
+     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
+    },
+    {
+     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "端到端研究论文生成系统。",
+     "source": "机器之心",
+     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
+    },
+    {
+     "title": "Measuring benchmark optimization in speech recognition",
+     "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+     "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Measuring benchmark optimization in speech recognition"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "The Twelve-Month Rule Does Not Describe a New Fab",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/372509-the-twelve-month-rule-does-not-describe-a-new-fab/",
+     "pubDate": "Sun, 23 Aug 2026 17:00:18 +0000",
+     "summary": "By Nikhil Shah Capital spending is often treated as if it becomes semiconductor capacity about twelve months later. That can be a useful rule for equipment installed in an existing fab. It is a poor description of a new fab built from the ground up. I tested the distinction using five advanced-node ",
+     "source": "SemiWiki",
+     "zh": "The Twelve-Month Rule Does Not Describe a New Fab"
+    },
     {
      "title": "CEO Interview with Sumeet Kumar of Innatera",
      "link": "https://semiwiki.com/ceo-interviews/371350-ceo-interview-with-sumeet-kumar-of-innatera/",
@@ -408,14 +416,6 @@ window.INDUSTRY_DATA = {
      "summary": "Agentrys believes that a purpose-built multi-agent system for chip design shouldn’t be a quarter-long project. Agentic AI systems are becoming quite popular to cut design time and increase quality for complex chip design projects. The challenge is finding the right agentic flow for a particular appl",
      "source": "SemiWiki",
      "zh": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes"
-    },
-    {
-     "title": "Questa One Updated at DAC 2026",
-     "link": "https://semiwiki.com/eda/372370-questa-one-updated-at-dac-2026/",
-     "pubDate": "Thu, 20 Aug 2026 17:00:56 +0000",
-     "summary": "Abhi Kolpekwar, VP & General Manager, Digital Verification Technologies at Siemens EDA met with me at #DAC2026 to provide the big picture on smart verification tools, something they call Questa One . Their verification tools are infused with AI to improve productivity on projects like SoCs, 3D IC an",
-     "source": "SemiWiki",
-     "zh": "Questa One Updated at DAC 2026"
     },
     {
      "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
@@ -2242,12 +2242,28 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 16:45:00 GMT",
-     "summary": "“The cost is absolutely ridiculous.”",
-     "source": "MarketWatch",
-     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+     "title": "以色列总理办公室警告哈马斯称：若无人机、燃烧气球和风筝的发射不停止 将加大对加沙的打击力度",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850430882.html",
+     "pubDate": "Mon, 24 Aug 2026 00:48:47 +0800",
+     "summary": "以色列总理办公室警告哈马斯称，若 无人机 、燃烧气球和风筝（捆绑燃烧物）的发射不停止，将加大对加沙的打击力度。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "以色列总理办公室警告哈马斯称：若无人机、燃烧气球和风筝的发射不停止 将加大对加沙的打击力度"
+    },
+    {
+     "title": "阿里新股配售 中东、欧洲、亚洲主要主权基金积极认购",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850429660.html",
+     "pubDate": "Mon, 24 Aug 2026 00:48:00 +0800",
+     "summary": "8月24日， 阿里巴巴 宣布完成800亿港元（约102亿美元）新股配售定价，发行价为每股普通股112.70港元，共配售7.1亿股。配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的领先地位。 据悉， 中金公司 （CICC）、汇丰（HSBC）、 摩根士丹利 （Morgan Stanley）、瑞银（UBS）参与了本轮新股配售 。中东、欧洲、亚洲等地区的主要主权基金积极参与此次认购。 记者了解到，本次配售自启动后不到一小时即获超额认购，最终配售份额以主权财富基金等高质量长线做多投资者为主，是全球长线资本对阿里AI投资回报前景投出的信任票。 长线投资者的踊",
+     "source": "东方财富股票",
+     "zh": "阿里新股配售 中东、欧洲、亚洲主要主权基金积极认购"
+    },
+    {
+     "title": "以色列总理办公室警告哈马斯称，若无人机、燃烧气球和风筝（捆绑燃烧物）的发射不停止，将加大对加沙的打击力度",
+     "link": "http://global.eastmoney.com/news/11798,202608243850432371.html",
+     "pubDate": "Mon, 24 Aug 2026 00:46:55 +0800",
+     "summary": "以色列总理办公室警告哈马斯称，若 无人机 、燃烧气球和风筝（捆绑燃烧物）的发射不停止，将加大对加沙的打击力度。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "以色列总理办公室警告哈马斯称，若无人机、燃烧气球和风筝（捆绑燃烧物）的发射不停止，将加大对加沙的打击力度"
     },
     {
      "title": "Fed's Kashkari not worried about rising US Treasury yields",
@@ -2338,30 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Top global stories this week: Alibaba, Unitree Robotics among notable names"
     },
     {
-     "title": "中原环保上半年扣非净利降10%，经营现金流净额-4.1亿元，拟转让新升公司49%股权",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850427994.html",
-     "pubDate": "Mon, 24 Aug 2026 00:11:00 +0800",
-     "summary": "8月23日， 中原环保 （000544）公布2026年半年报，公司营业收入为24.0亿元，同比下降1.5%；归母净利润为6.52亿元，同比下降7.3%； 扣非归母净利润为6.16亿元，同比下降10.3%；经营现金流净额为-4.1亿元，同比增长22.3%。 截至二季度末，公司总资产458.77亿元，较上年度末增长1.5%；归母净资产为114.12亿元，较上年度末增长2.8%。 资料显示， 中原环保 股份有限公司是国家高新技术企业、国有控股上市公司和全国国企改革“双百企业”。近年来，公司形成了污水处理、污泥处理、再生水利用、供水供热、生态治理、装备制造、清洁能源等“1+2+N”产业布局和现代化产业",
-     "source": "东方财富股票",
-     "zh": "中原环保上半年扣非净利降10%，经营现金流净额-4.1亿元，拟转让新升公司49%股权"
-    },
-    {
-     "title": "“全球97%出货量，来自中国”！",
-     "link": "http://finance.eastmoney.com/news/1350,202608243850428190.html",
-     "pubDate": "Mon, 24 Aug 2026 00:07:22 +0800",
-     "summary": "8月19日至23日 2026世界 机器人 大会在北京亦庄举行 大会以“人机共生，产需共融”为主题 373家国内外知名企业 及3000件创新产品参展 311款新品亮相 大会期间发布的权威行业报告显示 2026年上半年 中国交付的人形 机器人 出货量超过4万台 占到全球总出货量的97% 8月，北京亦庄，近5万平方米的展区内人流如织。在2026世界 机器人 大会上， 多款“身怀绝技”的 机器人 悉数亮相，吸引大批国内外观众，展现出中国 机器人 产业的蓬勃生机。 从能变形的3米巨型机甲，到能贴楼飞行的载人飞行器；从产线上精准分拣的机械臂，再到家庭里端茶递水“样样通”的人形管家—— 机器人 正以肉眼可见",
-     "source": "东方财富股票",
-     "zh": "“全球97%出货量，来自中国”！"
-    },
-    {
-     "title": "几内亚首都一垃圾填埋场坍塌造成多人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850423832.html",
-     "pubDate": "Mon, 24 Aug 2026 00:05:15 +0800",
-     "summary": "科纳克里消息：据外媒23日报道，几内亚首都科纳克里一垃圾填埋场当天发生坍塌，造成至少十余人死亡。 （文章来源： 新华网 ）",
-     "source": "东方财富股票",
-     "zh": "几内亚首都一垃圾填埋场坍塌造成多人死亡"
-    },
-    {
      "title": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus",
      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
      "pubDate": "2026-08-23T15:56:36Z",
@@ -2442,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
     },
     {
-     "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
-     "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 13:00:00 GMT",
-     "summary": "Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.",
-     "source": "MarketWatch",
-     "zh": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test"
-    },
-    {
      "title": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”",
      "link": "https://wallstreetcn.com/articles/3780090",
      "pubDate": "Sun, 23 Aug 2026 20:57:19 +0800",
@@ -2480,6 +2464,22 @@ window.INDUSTRY_DATA = {
      "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
      "source": "CNBC",
      "zh": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill"
+    },
+    {
+     "title": "8月23日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202608233850358355.html",
+     "pubDate": "Sun, 23 Aug 2026 19:32:16 +0800",
+     "summary": "沪深两市多家上市公司8月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，",
+     "source": "东方财富资讯",
+     "zh": "8月23日晚间沪深上市公司重大事项公告最新快递"
+    },
+    {
+     "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
+     "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
+     "pubDate": "Sun, 23 Aug 2026 11:29:05 GMT",
+     "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
+     "source": "CNBC",
+     "zh": "Top Wall Street analysts believe in the growth potential of these 3 stocks"
     }
    ]
   },
