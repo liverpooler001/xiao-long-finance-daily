@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 13:27:08",
+ "generated_at": "2026/8/23 13:54:11",
  "recent_days": 7,
  "industries": [
   {
@@ -50,12 +50,52 @@ window.INDUSTRY_DATA = {
      "zh": "Frontier AI labs still won’t say how they’d contain a rogue model"
     },
     {
+     "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+     "link": "https://www.qbitai.com/2026/08/477253.html",
+     "pubDate": "Sat, 22 Aug 2026 14:46:43 +0000",
+     "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+     "source": "量子位",
+     "zh": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径"
+    },
+    {
+     "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+     "link": "https://www.qbitai.com/2026/08/477246.html",
+     "pubDate": "Sat, 22 Aug 2026 14:19:39 +0000",
+     "summary": "直击WRC",
+     "source": "量子位",
+     "zh": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒"
+    },
+    {
+     "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+     "link": "https://www.qbitai.com/2026/08/477155.html",
+     "pubDate": "Sat, 22 Aug 2026 14:11:20 +0000",
+     "summary": "一脑驱动多形落地",
+     "source": "量子位",
+     "zh": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗"
+    },
+    {
+     "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+     "link": "https://www.qbitai.com/2026/08/477094.html",
+     "pubDate": "Sat, 22 Aug 2026 13:56:00 +0000",
+     "summary": "采集，从一条腕带开始",
+     "source": "量子位",
+     "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
+    },
+    {
      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
      "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
      "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
      "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
      "source": "MarkTechPost",
      "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
+    },
+    {
+     "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+     "link": "https://www.qbitai.com/2026/08/477090.html",
+     "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
+     "summary": "将真实场景重建为持续更新、可计算的4D数字世界。",
+     "source": "量子位",
+     "zh": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台"
     },
     {
      "title": "AI4S八年积累迎来新节点，北京再落一子，抢跑科研范式变革下半场",
@@ -208,46 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西8月21日报道，8月20日，2026世界机器人大会平行活动“仿生赋能·智创未来——仿生具身智能机器人技术突破与产业生态共建”举办。本次活动在长春市委、市政府支持下举办，由国际仿生工程学会、长春市贸促会、长春市工信局、吉林省仿生机器人制造业创新中心主办，长春国际商会、月泉仿生、吉林省仿生机器人创新中心承办，海内外院士专家、产业链企业及创投机构代表300余人参会。 会上，月泉仿生和吉林省仿生机器人创新中心联合带来了多项科创成果集中首发。英国曼彻斯特大学终身教授、月泉仿生创始人、吉林省仿生机器人创新中心执行委员会主任任雷教授现场宣讲仿生拉压体机器人理",
      "source": "智东西",
      "zh": "月泉仿生发布仿生拉压体灵巧手，满足多场景精细操控"
-    },
-    {
-     "title": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=1&sn=d5a0a68f04d7e09d9cabe5c4950db88e",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
-     "source": "新智元",
-     "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
-    },
-    {
-     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
-     "source": "新智元",
-     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
-    },
-    {
-     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
-     "source": "机器之心",
-     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
-    },
-    {
-     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
-     "source": "机器之心",
-     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
-    },
-    {
-     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "端到端研究论文生成系统。",
-     "source": "机器之心",
-     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
     }
    ]
   },
@@ -322,12 +322,52 @@ window.INDUSTRY_DATA = {
      "zh": "How TSMC Is Wiring the AI Era With Light"
     },
     {
+     "title": "Android XR advances as Jetpack XR SDK core libraries reach beta",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 14:39:56 +0000",
+     "summary": "Google is announcing that its Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries are officially in beta status. And Jetpack Compose is to follow soon, it says. Basically, […] The post Android XR advances as Jetpack XR SDK core libraries reach beta appeared first on Electronics Weekly",
+     "source": "Electronics Weekly",
+     "zh": "Android XR advances as Jetpack XR SDK core libraries reach beta"
+    },
+    {
+     "title": "Exotic Materials Adding Cost To Semis",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/exotic-materials-adding-cost-to-semis-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 13:30:13 +0000",
+     "summary": "19 years ago the chip industry was facing a similar problem to today – the need for, and rising cost of, exotic materials. ‘Semiconductor firms are facing critical pricing choices […] The post Exotic Materials Adding Cost To Semis appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Exotic Materials Adding Cost To Semis"
+    },
+    {
      "title": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/",
      "pubDate": "Fri, 21 Aug 2026 13:00:41 +0000",
      "summary": "Intel is considering a return to memory technology decades after abandoning mainstream DRAM and, more recently, selling its NAND business. Chief executive Lip-Bu Tan has argued that memory should no longer be viewed simply as a low-margin commodity. Artificial intelligence is turning bandwidth, late",
      "source": "SemiWiki",
      "zh": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics"
+    },
+    {
+     "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
+     "link": "https://www.electronicsweekly.com/news/saildrone-lockheed-martin-demonstrate-live-fire-from-usv-platform-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 10:30:33 +0000",
+     "summary": "Lockheed Martin is highlighting a successful collaboration with Saildrone, a specialist in maritime autonomous systems. USV Basically, an unmanned surface vehicle (USV) was equipped with lethal defence technology, the live-fire […] The post Saildrone, Lockheed Martin demonstrate live-fire from USV p",
+     "source": "Electronics Weekly",
+     "zh": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform"
+    },
+    {
+     "title": "JEDEC to host Automotive Electronics Forum",
+     "link": "https://www.electronicsweekly.com/news/business/jedec-to-host-automotive-electronics-forum-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 09:17:49 +0000",
+     "summary": "The JEDEC Solid State Technology Association has announced that it is hosting an Automotive Electronics Forum. The event will take place on 17 September 2026 in Santa Clara, California. The […] The post JEDEC to host Automotive Electronics Forum appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "JEDEC to host Automotive Electronics Forum"
+    },
+    {
+     "title": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 09:05:07 +0000",
+     "summary": "There's the next frontier of advanced optoelectronics, Samsung Foundry putting back its 1.4nm process to 2029, and Vishay sampling a short distance VCSEL-based proximity sensor... The post Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices"
     },
     {
      "title": "The Human Brain Versus AI: Similar Results, Very Different Machines",
@@ -344,6 +384,14 @@ window.INDUSTRY_DATA = {
      "summary": "New Micron lab; chip/AI price jump; multi-die monitoring; cryo links for quantum chips; interconnect RC bottleneck; 18A win; CPO roadmap; 2 new CEOs; humanoid readiness gap; Hot Interconnects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "White House looking for 1000 rocket launches a year",
+     "link": "https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 05:17:57 +0000",
+     "summary": "Yesterday US President Donald Trump signed a memo aimed at enabling 1,000 US rocket launches and re-entries a year – up from 178 launches in 2025. The memo requires agencies […] The post White House looking for 1000 rocket launches a year appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "White House looking for 1000 rocket launches a year"
     },
     {
      "title": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes",
@@ -448,46 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
-    },
-    {
-     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
-     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
-     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
-     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
-    },
-    {
-     "title": "HexSeed raises over £600,000 in early-stage funding",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/hexseed-190826.shtml",
-     "pubDate": "Wed, 19 Aug 2026 21:03:33 +0100",
-     "summary": "HexSeed Technology Ltd of Banchory, near Aberdeen, Scotland, UK has raised more than £600,000 in an early-stage funding round led by Carbon13, with participation from Net Zero Technology Centre and Vento Ventures. The cumulative investment unlocks a Partnership Grant from overnment agency Innovate U",
-     "source": "Semiconductor Today",
-     "zh": "HexSeed raises over £600,000 in early-stage funding"
-    },
-    {
-     "title": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/clas-sic-190826.shtml",
-     "pubDate": "Wed, 19 Aug 2026 20:50:08 +0100",
-     "summary": "Clas-SiC Wafer Fab Ltd of Lochgelly, Fife, Scotland — which was founded in 2017 and is the UK’s only commercial wafer fabrication facility dedicated to silicon carbide (SiC) — is one of the first recipients of Scottish Enterprise’s new Capital Grant, which has been designed to help drive levels of b",
-     "source": "Semiconductor Today",
-     "zh": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment"
-    },
-    {
-     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
-     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
-     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
-     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
-    },
-    {
-     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
-     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
-     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
-     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -1738,12 +1746,44 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能",
+     "link": "https://www.ithome.com/0/993/180.htm",
+     "pubDate": "Sun, 23 Aug 2026 05:51:11 GMT",
+     "summary": "IT之家 8 月 23 日消息，华为官方昨晚宣布， HUAWEI Pura X Max 系列横向阔折叠手机的鸿蒙 HarmonyOS 7.0.0.100 SP10 → 7.0.0.102 SP8 版本 升级不限量开放 （升级方式：设置 > 搜索“软件更新”> 检查更新）。 IT之家附版本更新日志： 亮点推荐 1. 新增 3D 空间壁纸功能，通过照片中的元素与 3D 时钟巧妙结合，打造 3D 透视空间感锁屏壁纸，为您提供丰富的壁纸视觉效果和玩法 (设置> 桌面和个性化 > 壁纸 > 3D 空间壁纸) 2. 新增亲密圈功能，支持通过联系人、华为账号添加家人与挚友，即可与对方共享健康数据，实时查看对",
+     "source": "IT之家",
+     "zh": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能"
+    },
+    {
+     "title": "上汽荣威家越 07 成都车展首次向公众开放，15 万级家庭 SUV",
+     "link": "https://www.ithome.com/0/993/179.htm",
+     "pubDate": "Sun, 23 Aug 2026 05:49:47 GMT",
+     "summary": "IT之家 8 月 23 日消息，2026 成都车展于 8 月 21 日开幕，上汽荣威家越 07 首次向公众开放，定位“15 万级家庭 SUV”，号称“25 万级配置，15 万级享有”。 据此前官方介绍，荣威家越 07 采用昂扬美学设计，提供龙晶紫、玛瑙灰、宝石蓝、珍溪黑、钻石白、翡翠绿等宝石车色，可选绵云青空、坚果可可内饰色，车内还配有 AI 灵光氛围灯。此次新车主打 AI 极速制冰冷暖两用冰箱，可实现最快十分钟制冰。 IT之家注意到，新车尺寸为 4900×1910×1753mm、 轴距 2908mm ，拥有 88.8% 高得房率、3237mm 有效车长和 1339mm 同级最大垂向空间。车内",
+     "source": "IT之家",
+     "zh": "上汽荣威家越 07 成都车展首次向公众开放，15 万级家庭 SUV"
+    },
+    {
+     "title": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)",
+     "link": "https://www.techmeme.com/260823/p3#a260823p3",
+     "pubDate": "Sun, 23 Aug 2026 01:30:01 -0400",
+     "summary": "Financial Times : The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &nbsp; &mdash;&nbsp; Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during marke",
+     "source": "Techmeme",
+     "zh": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)"
+    },
+    {
      "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 预售价格再降，叠加权益后最低 32.99 万元起",
      "link": "https://www.ithome.com/0/993/177.htm",
      "pubDate": "Sun, 23 Aug 2026 05:20:30 GMT",
      "summary": "IT之家 8 月 23 日消息， 奇瑞捷豹路虎 FREELANDER 神行者 8 已于 8 月 14 日晚间开启预售 。新车全系标配华为乾崑智驾 ADS 5；全球首批搭载高通骁龙最新一代 8397 车规级芯片；全系标配 800V 高压平台，预售价 33.99 万-44.99 万元。 IT之家注意到，在 2026 成都车展上，神行者 8 也迎来亮相，并在发布会上公布了最新权益及预售价格，新车叠加权益后最低 32.99 万元起。 权益 订金膨胀：订金 1,000 元可抵扣 6,000 元购车款； 增换补贴：奇瑞捷豹路虎车主享 15,000 元补贴，其他品牌车主享 10,000 元补贴； 金融方案：",
      "source": "IT之家",
      "zh": "奇瑞捷豹路虎 FREELANDER 神行者 8 预售价格再降，叠加权益后最低 32.99 万元起"
+    },
+    {
+     "title": "80%的具身订单可能是假的，缺订单正让赛道疯狂",
+     "link": "https://www.huxiu.com/article/4885231.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 13:20:26 +0800",
+     "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜WRC现场拍摄 &ldquo;世界模型这个概念太抽象了，现在谁说世界模型，大概率是为了圈钱。&rdquo; &ldquo;现在市面上90%做世界模型的团队，他们连自己都不相信&lsquo;世界模型&rsquo;。&rdquo; 有多位长期看具身智能的投资人这样对虎嗅说道。2026年的世界机器人大会（ 以下简称&ldquo;WRC&rdquo; ）如约而至，今年场内场外几乎都在聊世界模型。 所以，世界模型究竟是什么？ 至少从2025年开始，在国内具身智能的语境里，我们听到的&ldquo;世界模型&rdquo;，大部分时候指的是具身智能的&ldq",
+     "source": "虎嗅",
+     "zh": "80%的具身订单可能是假的，缺订单正让赛道疯狂"
     },
     {
      "title": "Sources: Flipkart Minutes, the quick commerce service of Walmart&apos;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 (Jagmeet Singh/TechCrunch)",
@@ -1821,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
      "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
      "pubDate": "Sun, 23 Aug 2026 04:28:18 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 10 # Comments: 2",
+     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 11 # Comments: 2",
      "source": "Hacker News",
      "zh": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has"
     },
@@ -1842,34 +1882,10 @@ window.INDUSTRY_DATA = {
      "zh": "中国创新药出海第一站，为何选澳洲？"
     },
     {
-     "title": "中签就像中彩票，A股掀打新狂潮",
-     "link": "https://www.huxiu.com/article/4885243.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 12:11:39 +0800",
-     "summary": "本文来自微信公众号： 经济观察报 ，作者：蔡越坤 张鹏瑞 今年以来，从人工智能到算力，从半导体、存储到机器人，资金像潮水般涌入A股市场上的科技新赛道。这一热浪也传导至新股市场，打新收益一再创出新高，新股市场持续沸腾。个别新股中一签首日浮盈就动辄数十万元，演绎着惊人的财富效应。 8月18日，发行价为186.88元/股的频准激光（N频准，688826.SH），在上市首日演绎了一场“打新狂欢”。 开盘后，频准激光直接冲上1100元/股，盘中最高触及1300元/股，最终收于1152元/股，首日暴涨516.44%。对于中签的投资者而言，这意味中签500股，收盘后账面浮盈接近48万元；如果在盘中最高点卖出",
-     "source": "虎嗅",
-     "zh": "中签就像中彩票，A股掀打新狂潮"
-    },
-    {
-     "title": "朱雀归巢：实现我国首次火箭陆地回收后，蓝箭航天朱雀三号一子级装车返程",
-     "link": "https://www.ithome.com/0/993/171.htm",
-     "pubDate": "Sun, 23 Aug 2026 04:03:48 GMT",
-     "summary": "IT之家 8 月 23 日消息，今年 8 月 19 日，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪， 飞行任务取得圆满成功 。 这是我国在重复使用火箭关键技术上取得的又一重大突破，朱雀三号成为我国首款成功入轨并实现陆地回收的运载火箭。本次任务是继 7 月 10 日长征十号乙运载火箭一子级海上网系成功回收后，我国首次成功实施重复使用运载火箭一子级着陆腿方式陆地可控回收，标志着我国重复使用火箭技术取得重大突破。 IT之家注意到，蓝箭航天今日宣布，朱雀三号重复使用遥二运载火箭本周圆满完成入轨及一子级陆地回收。对于重复使用运载火箭而",
-     "source": "IT之家",
-     "zh": "朱雀归巢：实现我国首次火箭陆地回收后，蓝箭航天朱雀三号一子级装车返程"
-    },
-    {
-     "title": "第 48 届世界技能大赛 9 月 22 日上海开幕，新增无人机系统等 7 个项目",
-     "link": "https://www.ithome.com/0/993/170.htm",
-     "pubDate": "Sun, 23 Aug 2026 04:00:59 GMT",
-     "summary": "IT之家 8 月 23 日消息，据央视新闻今日报道，第 48 届世界技能大赛将于 9 月 22 日至 27 日 在上海举行，目前，中国代表团已正式成立。当前，人工智能技术加速赋能千行百业，对劳动者技能提出全新要求。本届世赛新增 7 个相关项目，以赛事引领技能人才培养方向，拓宽技能人才职业边界。 本届世赛紧贴产业发展需求， 新增无人机系统、数字交互媒体设计、轨道车辆技术、智慧安防技术、软件测试、口腔修复工艺技术、零售 7 个比赛项目 ，世界技能大赛不再只比拼传统手艺，赛项持续向数字、智能赛道迭代，考察选手驾驭新技术、善用 AI 工具解决真实岗位难题的能力。而这些世赛标准正加速向教学标准、培训标准",
-     "source": "IT之家",
-     "zh": "第 48 届世界技能大赛 9 月 22 日上海开幕，新增无人机系统等 7 个项目"
-    },
-    {
      "title": "The Golden Rule for Becoming a Better Writer",
      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
      "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 16 # Comments: 2",
+     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 23 # Comments: 4",
      "source": "Hacker News",
      "zh": "The Golden Rule for Becoming a Better Writer"
     },
@@ -1909,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
      "link": "https://martypc.net/",
      "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
-     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 43 # Comments: 2",
+     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 53 # Comments: 3",
      "source": "Hacker News",
      "zh": "MartyPC is a cross-platform emulator of early PCs written in Rust"
     },
@@ -1949,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "I Dream of Quieter Computing",
      "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
      "pubDate": "Sun, 23 Aug 2026 02:33:22 +0000",
-     "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 26 # Comments: 6",
+     "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 31 # Comments: 6",
      "source": "Hacker News",
      "zh": "I Dream of Quieter Computing"
     },
@@ -1957,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "The Art and Beauty of Blade Runner",
      "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
      "pubDate": "Sun, 23 Aug 2026 00:56:03 +0000",
-     "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 33 # Comments: 6",
+     "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 40 # Comments: 6",
      "source": "Hacker News",
      "zh": "The Art and Beauty of Blade Runner"
     },
@@ -1968,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reuters : Sources and documents detail how Tether's plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply &nbsp; &mdash;&nbsp; Uruguay seemed like the perfect place for cryptocurrency giant Tether to launch a bitcoin mining operation.",
      "source": "Techmeme",
      "zh": "Sources and documents detail how Tether&apos;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply (Reuters)"
-    },
-    {
-     "title": "NanoGPT Speedrun Frontier",
-     "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-     "pubDate": "Sat, 22 Aug 2026 22:14:27 +0000",
-     "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 78 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "NanoGPT Speedrun Frontier"
     }
    ]
   },
@@ -1985,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Weekly poll: would you buy the Honor Robot Phone and why?",
+     "link": "https://www.gsmarena.com/weekly_poll_would_you_buy_the_honor_robot_phone_and_why-news-74243.php",
+     "pubDate": "Sun, 23 Aug 2026 07:31:01 +0200",
+     "summary": "After months of teasers and red carpet events, the Honor Robot Phone is finally official and it is now available in stores – only in China, but you didn’t want one anyway, right? Wait, did you? The robot-like arm that acts as the gimbal on this device (and gives it its name) feels like the end-stage",
+     "source": "GSMArena",
+     "zh": "Weekly poll: would you buy the Honor Robot Phone and why?"
+    },
     {
      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
      "link": "https://sspai.com/post/113002",
@@ -2192,14 +2208,6 @@ window.INDUSTRY_DATA = {
      "summary": "Some of the best ones need to be manually set up.",
      "source": "Android Authority",
      "zh": "5 Android safety features you probably aren’t using — and how to turn them on"
-    },
-    {
-     "title": "Deals: Pixel 11 lineup goes on sale, latest Galaxy phones get discounts",
-     "link": "https://www.gsmarena.com/deals_pixel_11_lineup_goes_on_sale_latest_galaxy_phones_get_discounts-news-74293.php",
-     "pubDate": "Sat, 22 Aug 2026 11:03:02 +0200",
-     "summary": "The Google Pixel 11 series, which went up for pre-order last week, is now officially available for purchase on Amazon UK. Alongside the Pixel phones, Samsung’s latest Galaxy foldables and the Galaxy S26 series have received price cuts. While the Google Pixel 11 lineup hasn’t received any price cut, ",
-     "source": "GSMArena",
-     "zh": "Deals: Pixel 11 lineup goes on sale, latest Galaxy phones get discounts"
     },
     {
      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
