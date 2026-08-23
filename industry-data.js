@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 03:15:55",
+ "generated_at": "2026/8/24 03:44:30",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+     "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+     "pubDate": "Sun, 23 Aug 2026 19:14:08 +0000",
+     "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+     "source": "TechCrunch AI",
+     "zh": "Linkdaze’s smart calendar is built to run a household, not just track a schedule"
+    },
     {
      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
      "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
@@ -42,12 +50,60 @@ window.INDUSTRY_DATA = {
      "zh": "Is it legal to train AI models on copyrighted books? It’s complicated"
     },
     {
+     "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+     "link": "https://www.qbitai.com/2026/08/478319.html",
+     "pubDate": "Sun, 23 Aug 2026 13:20:00 +0000",
+     "summary": "玩的就是真实",
+     "source": "量子位",
+     "zh": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店"
+    },
+    {
+     "title": "具身创业里的香港教授们",
+     "link": "https://www.qbitai.com/2026/08/478289.html",
+     "pubDate": "Sun, 23 Aug 2026 11:20:13 +0000",
+     "summary": "香港的大学里冒出了一批很特别的人",
+     "source": "量子位",
+     "zh": "具身创业里的香港教授们"
+    },
+    {
+     "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+     "link": "https://www.qbitai.com/2026/08/478234.html",
+     "pubDate": "Sun, 23 Aug 2026 11:17:22 +0000",
+     "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
+     "source": "量子位",
+     "zh": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长"
+    },
+    {
      "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
      "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
      "pubDate": "Sun, 23 Aug 2026 10:44:59 +0000",
      "summary": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU appeared first on MarkTechPost .",
      "source": "MarkTechPost",
      "zh": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU"
+    },
+    {
+     "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+     "link": "https://www.qbitai.com/2026/08/478191.html",
+     "pubDate": "Sun, 23 Aug 2026 09:56:12 +0000",
+     "summary": "Tokenizer、视频编码、API报错全扒一遍",
+     "source": "量子位",
+     "zh": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的"
+    },
+    {
+     "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+     "link": "https://www.qbitai.com/2026/08/478164.html",
+     "pubDate": "Sun, 23 Aug 2026 09:51:49 +0000",
+     "summary": "内存成本飙升逼涨硬件",
+     "source": "量子位",
+     "zh": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元"
+    },
+    {
+     "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+     "link": "https://www.qbitai.com/2026/08/478093.html",
+     "pubDate": "Sun, 23 Aug 2026 09:45:27 +0000",
+     "summary": "AstraTennis时刻背后的硬核技术",
+     "source": "量子位",
+     "zh": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起"
     },
     {
      "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
@@ -112,14 +168,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
      "source": "TechCrunch AI",
      "zh": "OpenAI says California should strengthen its AI safety bill"
-    },
-    {
-     "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-     "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-     "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
-     "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-     "source": "TechCrunch AI",
-     "zh": "Frontier AI labs still won’t say how they’d contain a rogue model"
     },
     {
      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
@@ -200,54 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "See how AI agents are autonomously handling support, coding, supply chains, healthcare, and fraud detection today.",
      "source": "KDnuggets",
      "zh": "5 Real-World Use Cases for AI Agents Transforming Industries"
-    },
-    {
-     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-     "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-     "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
-     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-     "source": "DeepMind",
-     "zh": "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-    },
-    {
-     "title": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验",
-     "link": "https://zhidx.com/p/586881.html",
-     "pubDate": "Fri, 21 Aug 2026 19:19:04 +0800",
-     "summary": "当AI接管代码和影像后，社媒上一度流行“一句话跑出游戏”的各种DEMO演示。 可直到今天，完全用AI打造的现象级游戏， 几乎无处寻觅 。为什么？在Coding Agent和视频模型高速发展的今天，AI原生游戏的困难到底在哪里？ 与此同时，一个4个月前，才 全面 转入AI游戏赛道的团队，上线了当下定位于“AI精品游戏”的平台Elseland。 平台上已经上线了大量来自创作者和工作室的游戏。其中，更具代表性的，则是Elseland团队基于自研游戏开发工具，打造的数十款“原创游戏”。CEO刘耕提到，他们已经能把数百关体量精品游戏的生产时间，从一年降到一星期左右。成本的百倍下降，是支撑 快速创新与验证",
-     "source": "智东西",
-     "zh": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验"
-    },
-    {
-     "title": "How mobility gives language models a deeper understanding of place",
-     "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
-     "pubDate": "Fri, 21 Aug 2026 10:54:00 +0000",
-     "summary": "Algorithms & Theory",
-     "source": "Google Research",
-     "zh": "How mobility gives language models a deeper understanding of place"
-    },
-    {
-     "title": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆",
-     "link": "https://zhidx.com/p/587166.html",
-     "pubDate": "Fri, 21 Aug 2026 18:17:43 +0800",
-     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西8月21日报道，刚刚，雷鸟iO AI眼镜发布。这款产品 重34克 ，日常续航可达两天。眼镜搭载 DeepSeek和千问大模型 ，其“AI全天智记”功能支持 连续记录18小时 。 设计方面，雷鸟iO采用皇冠框型设计，前框使用镁铝合金，镜腿采用双层钛合金结构，提供 “极夜”和“沙丘”两款配色 。 显示方面，雷鸟iO采用单绿色显示，搭载自研 蓝湖光波导和萤火光引擎Nano 。蓝湖光波导显示区域透过率为93%，非显示区域透过率超过98%，萤火光引擎Nano体积仅0.085cc，可实现等效33英寸显示及1800尼特入眼亮度。 AI方面，雷鸟iO围绕 知识",
-     "source": "智东西",
-     "zh": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆"
-    },
-    {
-     "title": "DeepSeek多模态模型终于来了！一张图最高只要0.001元",
-     "link": "https://zhidx.com/p/587260.html",
-     "pubDate": "Fri, 21 Aug 2026 18:03:28 +0800",
-     "summary": "智东西 作者 | 陈骏达 编辑 | 李水青 智东西8月21日报道，就在刚刚，DeepSeek宣布全新的多模态视觉理解模型DeepSeek-V4-Flash-Vision-Exp（实验性质模型）上线DeepSeek API 平台。 DeepSeek同步公布了这一模型的详细基准测试结果。根据模型名字推测，DeepSeek-V4-Flash-Vision-Exp是在DeepSeek-V4-Flash基础上打造的，基准测试中其 纯文本能力（Agent、推理、世界知识等）与DeepSeek-V4-Flash正式版持平 。 在需要视觉理解的Agent Benchmark上，DeepSeek-V4-Flas",
-     "source": "智东西",
-     "zh": "DeepSeek多模态模型终于来了！一张图最高只要0.001元"
-    },
-    {
-     "title": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队",
-     "link": "https://zhidx.com/p/587115.html",
-     "pubDate": "Fri, 21 Aug 2026 17:05:57 +0800",
-     "summary": "智东西 作者 | 李水青 编辑 | 漠影 智东西8月21日报道，过去一个月，阿里巴巴模型发布全面提速， 大语言、图像、语音、视频、音乐五大类 模型密集完成重要版本迭代，性能均跻身国际第一梯队。 有业内人士评价， 多模态 是 下一代智能的范式 。阿里在多模态上的布局节奏，远比市场感知的要快。 模型密集迭代的另一面，是模型能力开始 与云基础设施的增长形成更紧密的联动。 2027财年第一季度（对应2026年4月1日-6月30日），阿里云外部商业化收入增速提升至 45% ，创下22个季度新高。AI云及算力服务收入 484.37亿元 ，经调整EBITA达到 56.28亿元 ，同比暴增 133% 。AI相",
-     "source": "智东西",
-     "zh": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+     "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+     "pubDate": "Sun, 23 Aug 2026 19:30:00 +0000",
+     "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+     "source": "TechCrunch Transport",
+     "zh": "Uber faces fine of nearly $1B over automated driver suspensions"
+    },
+    {
      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
      "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
      "pubDate": "Sun, 23 Aug 2026 16:03:00 +0000",
@@ -832,14 +840,6 @@ window.INDUSTRY_DATA = {
      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
      "source": "TechCrunch Transport",
      "zh": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada"
-    },
-    {
-     "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-     "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-     "pubDate": "Wed, 19 Aug 2026 22:25:01 +0000",
-     "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
-     "source": "TechCrunch Transport",
-     "zh": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities"
     }
    ]
   },
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders&apos; interest (Katie Roof/Business Insider)",
+     "link": "https://www.techmeme.com/260823/p9#a260823p9",
+     "pubDate": "Sun, 23 Aug 2026 15:20:01 -0400",
+     "summary": "Katie Roof / Business Insider : Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders' interest &nbsp; &mdash;&nbsp; The AI industry's next blockbuster acquisition may not be another model maker.&nbsp; &",
+     "source": "Techmeme",
+     "zh": "Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders&apos; interest (Katie Roof/Business Insider)"
+    },
+    {
      "title": "《牛来》封神记：烂片名垂影史的三大条件",
      "link": "https://www.huxiu.com/article/4885325.html?f=rss",
      "pubDate": "Mon, 24 Aug 2026 02:30:08 +0800",
@@ -1786,12 +1794,60 @@ window.INDUSTRY_DATA = {
      "zh": "只为省2000块运费？一斤两毛的康保白菜，毁在一桶甲醛上"
     },
     {
+     "title": "玩家抵制 PlayStation 行动升级：一周 → 无限期，直至索尼为取消实体光盘认错",
+     "link": "https://www.ithome.com/0/993/318.htm",
+     "pubDate": "Sun, 23 Aug 2026 15:57:18 GMT",
+     "summary": "IT之家 8 月 23 日消息，上个月，长期倡导实体游戏保存和使用权的网络团体 Does It Play? 提议发起为期一周的 PlayStation 抵制行动，抗议索尼计划从 2028 年起取消游戏光盘。 提议很快发展成实际行动，不少玩家纷纷响应，将在 8 月停用 PlayStation 主机，以此表达不满。 据悉，这起 PlayStation“抵制行动”将于 24 日开始。活动前夕，Does It Play? 修改了原先的计划： 从先前的一周改为一直持续到“索尼意识到自己的错误”为止 。 北京时间 23 日（今天）Does It Play? 在 X 发文称：“PlayStation 抵制行",
+     "source": "IT之家",
+     "zh": "玩家抵制 PlayStation 行动升级：一周 → 无限期，直至索尼为取消实体光盘认错"
+    },
+    {
      "title": "Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&apos;s close (Reuters)",
      "link": "https://www.techmeme.com/260823/p7#a260823p7",
      "pubDate": "Sun, 23 Aug 2026 11:50:02 -0400",
      "summary": "Reuters : Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday's close &nbsp; &mdash;&nbsp; China's Alibaba (9988.HK) on Sunday launched a HK$80-billion ($10.2 billion) share placement to fund artificia",
      "source": "Techmeme",
      "zh": "Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&apos;s close (Reuters)"
+    },
+    {
+     "title": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路",
+     "link": "https://www.ithome.com/0/993/317.htm",
+     "pubDate": "Sun, 23 Aug 2026 15:24:10 GMT",
+     "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼今天（23 日）晚间更新《Power On》时事通讯称，苹果零售店布局即将迎来调整，为一系列新的家庭设备做准备。 古尔曼披露，苹果今年秋季将准备重新调整零售店， 为新的家庭设备腾出空间 。负责门店布局的团队已经开始规划新的展示区域。较新的苹果零售店四周设有 Avenues 陈列区，用来展示 HomePod、Apple TV、AirPods、Beats 以及第三方配件。 今年秋季，苹果准备大幅重新布置这些区域，并增加新的配件展示位。他进一步分析称，已知新品包括升级版 Apple TV 机顶盒和新款 HomePod mini，但调整范围之大",
+     "source": "IT之家",
+     "zh": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路"
+    },
+    {
+     "title": "揭秘苹果摄像头版 AirPods 为何泄露：可能是测试新功能时合并错误",
+     "link": "https://www.ithome.com/0/993/316.htm",
+     "pubDate": "Sun, 23 Aug 2026 15:22:40 GMT",
+     "summary": "IT之家 8 月 23 日消息，苹果在 8 月 17 日发布 macOS Tahoe 26.7 RC 时，意外泄露了摄像头版 AirPods 的演示视频。除了耳机惨遭曝光以外，这个系统还包含了 Home Hub 家庭中枢等大量未公布产品信息。 据彭博社报道，本次泄露并不是内鬼曝光或黑客入侵，仅仅只是一次人为失误。 众所周知，苹果内部的测试版操作系统与开发者直接获取的测试版有所不同。当苹果员工开发或测试 macOS / iOS 未来功能时，需要通过 Feature Flags（IT之家注：特性切换）开关来调整一切。当然系统在发布给公众时，未公开的 Feature Flags 设置会设置为关闭状态",
+     "source": "IT之家",
+     "zh": "揭秘苹果摄像头版 AirPods 为何泄露：可能是测试新功能时合并错误"
+    },
+    {
+     "title": "联影医疗、天津大学发布全球首个磁共振脑机接口全栈式解决方案 uMR 神观",
+     "link": "https://www.ithome.com/0/993/315.htm",
+     "pubDate": "Sun, 23 Aug 2026 15:18:31 GMT",
+     "summary": "IT之家 8 月 23 日消息，由天津大学、脑机交互与人机共融海河实验室、联影医疗共同主办的全国首届磁共振脑机接口大会今日在天津市举办。 上海联影医疗科技股份有限公司与天津大学共同发布了 全球首个磁共振脑机接口全栈式解决方案“uMR 神观” ，该方案是以联影 uMR 系列设备为硬件基座，面向脑机接口技术研发与临床转化打造的磁共振专属解决方案。 据介绍，该方案围绕脑机接口“读脑 — 写脑 — 验证”闭环中的核心痛点， 构建了从高时空分辨磁共振成像、磁共振硬件适配优化、磁兼容脑机接口适配工具箱，到磁共振引导神经调控新范式的完整技术体系 。 依托联影 uMR 机型 3.0T、5.0T、9.4T 跨场",
+     "source": "IT之家",
+     "zh": "联影医疗、天津大学发布全球首个磁共振脑机接口全栈式解决方案 uMR 神观"
+    },
+    {
+     "title": "前 R 星技术总监谈《GTA 6》画面泄露：实则“没什么大不了”",
+     "link": "https://www.ithome.com/0/993/314.htm",
+     "pubDate": "Sun, 23 Aug 2026 15:14:52 GMT",
+     "summary": "IT之家 8 月 23 日消息，Rockstar Games 资深开发者奥贝 · 维尔梅伊回应了近期接连出现的《GTA 6》游戏画面泄露，认为对 R 星来说，这些泄露其实“没什么大不了”。 近日，黑客组织 Cyberleek 不知如何获得了游戏资料，几乎每天都会放出新的游戏画面。事件发生后，R 星和 Take-Two 始终相当沉默，只有部分法院文件显示两家公司已经开始追查泄露者。彭博社记者杰森 · 施赖尔最近透露，开发人员因为持续泄露感到“ 沮丧和疲惫 ”。 曾任 R 星技术总监、并一直工作到《GTA 4》发售的奥贝 · 维尔梅伊在 X 平台发文呼吁玩家冷静。在他看来，R 星长期保持高度神秘，",
+     "source": "IT之家",
+     "zh": "前 R 星技术总监谈《GTA 6》画面泄露：实则“没什么大不了”"
+    },
+    {
+     "title": "获英伟达投资，美国初创 Starcloud 研发 GPU 卫星欲建太空数据中心",
+     "link": "https://www.ithome.com/0/993/313.htm",
+     "pubDate": "Sun, 23 Aug 2026 15:09:37 GMT",
+     "summary": "IT之家 8 月 23 日消息，据外媒 Interesting Engineering 今天报道，美国初创公司 Starcloud 已完成 2.5 亿美元 （IT之家注：现汇率约合 16.86 亿元人民币） A 轮扩展融资，估值达到 23 亿美元 （现汇率约合 155.09 亿元人民币） 。这笔新资金将用于研发配备高性能 GPU 的卫星，为 AI 提供算力。 据报道，本轮融资由 Manhattan West 领投， 新投资者涵盖英伟达 、 思科等 ，现有投资方包括 Benchmark 和 EQT。 Starcloud 计划将数据中心从地球搬到太空。 这家公司去年 11 月将搭载英伟达 H100",
+     "source": "IT之家",
+     "zh": "获英伟达投资，美国初创 Starcloud 研发 GPU 卫星欲建太空数据中心"
     },
     {
      "title": "卡巴斯基发现第一种针对汽车的 Android 恶意程序",
@@ -1928,62 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "How a tiny little electronic switch sparked the computer revolution.",
      "source": "WIRED",
      "zh": "Transistors Changed Everything. Here’s How They Work"
-    },
-    {
-     "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-     "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-     "pubDate": "Sun, 23 Aug 2026 10:37:00 +0000",
-     "summary": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
-     "source": "WIRED",
-     "zh": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)"
-    },
-    {
-     "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
-     "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
-     "pubDate": "Sun, 23 Aug 2026 09:30:00 +0000",
-     "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
-     "source": "WIRED",
-     "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
-    },
-    {
-     "title": "Is Expensive Bottled Water Actually Better for You?",
-     "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
-     "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
-     "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
-     "source": "WIRED",
-     "zh": "Is Expensive Bottled Water Actually Better for You?"
-    },
-    {
-     "title": "银行理财五星管理人评级报告 （2026年7月）",
-     "link": "https://www.tmtpost.com/8113345.html",
-     "pubDate": "Sun, 23 Aug 2026 16:14:53 +0800",
-     "summary": "在固定收益类中，宁银理财有限责任公司、中邮理财有限责任公司和平安理财有限责任公司脱颖而出，成为五星理财子公司。它们的各星级产品数量展示了市场的竞争力与多样性。",
-     "source": "钛媒体",
-     "zh": "银行理财五星管理人评级报告 （2026年7月）"
-    },
-    {
-     "title": "在试错中求索：一套本土行业分类的突围之路",
-     "link": "https://www.tmtpost.com/8113337.html",
-     "pubDate": "Sun, 23 Aug 2026 16:14:41 +0800",
-     "summary": "面对本土市场提出的全新命题，没有现成标准答案，不奉行拿来主义，也不幻想一步建成完美制度。",
-     "source": "钛媒体",
-     "zh": "在试错中求索：一套本土行业分类的突围之路"
-    },
-    {
-     "title": "价值判断：跌停板的投资机会和风险提示（8月21日）｜上市公司观察",
-     "link": "https://www.tmtpost.com/8113335.html",
-     "pubDate": "Sun, 23 Aug 2026 16:14:29 +0800",
-     "summary": "板块层面，贵金属、能源金属、算力硬件链领涨；医药生物全线重挫，农林牧渔、农产品加工跌幅靠前。高位人气股集中补跌，一鸣食品、红四方、京粮控股等前期爆炒股封死跌停，题材炒作情绪退潮特征明显。",
-     "source": "钛媒体",
-     "zh": "价值判断：跌停板的投资机会和风险提示（8月21日）｜上市公司观察"
-    },
-    {
-     "title": "价值判断：涨停板的投资机会和风险提示（8月21日）｜上市公司观察",
-     "link": "https://www.tmtpost.com/8113330.html",
-     "pubDate": "Sun, 23 Aug 2026 16:14:18 +0800",
-     "summary": "盘面上贵金属板块全线领涨，湖南白银、白银有色、盛达资源涨停，现货黄金站上4500美元；算力硬件、光通信、锂矿局部活跃，瑞斯康达、星网锐捷、通鼎互联、融捷股份涨停。昨日爆发的医药板块今日大幅退潮，仅汉森制药3板及键凯科技、中关村、近岸蛋白、康希诺等2板晋级，创新药、CRO重挫；农业板块集体调整。市场连板高度由4板降至3板，资金由医药切向贵金属与科技硬件，缩量格局下板块\"一日游\"特征凸显，追涨容错率急剧下降。",
-     "source": "钛媒体",
-     "zh": "价值判断：涨停板的投资机会和风险提示（8月21日）｜上市公司观察"
     }
    ]
   },
@@ -2242,12 +2242,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+     "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 19:30:00 GMT",
+     "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+     "source": "MarketWatch",
+     "zh": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
+    },
+    {
+     "title": "俄国防部：击落269架乌克兰无人机",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850445246.html",
+     "pubDate": "Mon, 24 Aug 2026 03:24:09 +0800",
+     "summary": "俄罗斯国防部23日晚发布通报说，莫斯科时间当天8时至20时，俄防空部队在阿尔汉格尔斯克州、别尔哥罗德州、布良斯克州以及莫斯科地区等俄多地拦截并击落269架乌克兰 无人机 。 此前一天，俄罗斯总统普京在一段视频采访中表示，乌克兰武装部队在过去40天里持续使用导弹和 无人机 对俄民用和 物流 设施发动攻击，这是乌方及其背后西方支持者的“又一场冒险”，目标是让俄方遭遇战略性失败。普京说，俄军不仅继续在各个方向发动进攻，而且还加强攻势，有信心完成特别军事行动目标。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "俄国防部：击落269架乌克兰无人机"
+    },
+    {
+     "title": "市场潜力大出海空间广 生物医药价值重估在路上",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850442972.html",
+     "pubDate": "Mon, 24 Aug 2026 03:21:14 +0800",
+     "summary": "“三五年内，沪市生物医药行业的估值还有提升空间。”在近日举行的一场沪市生物医药行业沙龙中，富国基金权益研究部行业研究员杨波说。 近两个月来，医药股迎来一波行情。以全指医药（000991）为例，该指数自6月22日以来累计涨幅达15.64%。 创新药 当前估值是否充分反映未来三五年预期？杨波认为答案是否定的。在杨波看来，国内市场潜力巨大，未来不排除大单品涌现；出海方面，市场也显著低估了BD（商务拓展）带来的确定性现金流。 创新药 价值尚未充分释放 今年上半年，生物医药板块整体估值处于相对低位，市场情绪偏谨慎。 华海药业 副总裁祝永华表示，随着国内药企源头创新能力持续提升、全球商业化体系不断完善、产",
+     "source": "东方财富股票",
+     "zh": "市场潜力大出海空间广 生物医药价值重估在路上"
+    },
+    {
+     "title": "人工智能开源社区Hugging Face据称目前正收到多份并购提议 潜在交易价值达到130亿美元",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850445195.html",
+     "pubDate": "Mon, 24 Aug 2026 03:11:22 +0800",
+     "summary": "人工智能 开源社区Hugging Face据称目前正收到多份并购提议，潜在交易价值达到130亿美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "人工智能开源社区Hugging Face据称目前正收到多份并购提议 潜在交易价值达到130亿美元"
+    },
+    {
+     "title": "几内亚首都一垃圾填埋场垮塌造成至少30人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850445069.html",
+     "pubDate": "Mon, 24 Aug 2026 03:05:14 +0800",
+     "summary": "几内亚政府当地时间23日发布通报说，该国首都科纳克里郊区一处垃圾填埋场当天发生垮塌事故，已造成30人死亡、22人受伤，其中6人重伤。 据悉，事故发生在23日凌晨3时左右。事故发生前，科纳克里地区遭遇强降雨。或受此影响，该垃圾填埋场发生垮塌，掩埋了附近部分区域人员，并造成财产损失。 目前，搜救和清理工作仍在进行。几内亚总理阿马杜·乌里·巴已前往事故现场指导救援工作。 据当地媒体报道，几内亚有关部门原计划于23日关闭该垃圾填埋场，而垮塌事故恰于当天发生。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "几内亚首都一垃圾填埋场垮塌造成至少30人死亡"
+    },
+    {
      "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
      "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
      "pubDate": "Sun, 23 Aug 2026 19:00:00 GMT",
      "summary": "“I’m curious whether there’s a downside.”",
      "source": "MarketWatch",
      "zh": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?"
+    },
+    {
+     "title": "法国电力公司（EDF）表示 圣阿尔班2号机组输出功率从1335兆瓦降至150兆瓦",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850444928.html",
+     "pubDate": "Mon, 24 Aug 2026 02:55:17 +0800",
+     "summary": "法国 电力 公司（EDF）表示，圣阿尔班2号机组输出功率从1335兆瓦降至150兆瓦。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "法国电力公司（EDF）表示 圣阿尔班2号机组输出功率从1335兆瓦降至150兆瓦"
     },
     {
      "title": "SA Asks: Will Bessent's recent moves to curb bond yields boost the stock market?",
@@ -2272,6 +2320,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus"
+    },
+    {
+     "title": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850444882.html",
+     "pubDate": "Mon, 24 Aug 2026 02:35:02 +0800",
+     "summary": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业"
     },
     {
      "title": "Hedge funds and mutual funds split on the AI trade - Goldman",
@@ -2424,62 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them"
-    },
-    {
-     "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
-     "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 13:00:00 GMT",
-     "summary": "Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.",
-     "source": "MarketWatch",
-     "zh": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test"
-    },
-    {
-     "title": "8月23日晚间上市公司利好消息一览(附名单)",
-     "link": "http://finance.eastmoney.com/news/1353,202608233850367418.html",
-     "pubDate": "Sun, 23 Aug 2026 20:32:26 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布重要公告，以下为利好的消息汇总： 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，建设期一年",
-     "source": "东方财富资讯",
-     "zh": "8月23日晚间上市公司利好消息一览(附名单)"
-    },
-    {
-     "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-     "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
-     "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
-     "source": "CNBC",
-     "zh": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill"
-    },
-    {
-     "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-     "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
-     "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
-     "source": "CNBC",
-     "zh": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI"
-    },
-    {
-     "title": "8月23日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202608233850358355.html",
-     "pubDate": "Sun, 23 Aug 2026 19:32:16 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，",
-     "source": "东方财富资讯",
-     "zh": "8月23日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
-     "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
-     "pubDate": "Sun, 23 Aug 2026 11:29:05 GMT",
-     "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
-     "source": "CNBC",
-     "zh": "Top Wall Street analysts believe in the growth potential of these 3 stocks"
-    },
-    {
-     "title": "Government can bring robotics to life",
-     "link": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
-     "pubDate": "Sun, 23 Aug 2026 11:15:07 GMT",
-     "summary": "Without policy, there are few incentives to automate business functions where labour costs are low",
-     "source": "Financial Times",
-     "zh": "Government can bring robotics to life"
     }
    ]
   },
