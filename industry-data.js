@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 17:51:39",
+ "generated_at": "2026/8/23 18:13:56",
  "recent_days": 7,
  "industries": [
   {
@@ -1061,7 +1061,7 @@ window.INDUSTRY_DATA = {
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
+     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1082,12 +1082,12 @@ window.INDUSTRY_DATA = {
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
-     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
-     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
-     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
-     "source": "Utility Dive",
-     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
+     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
+     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
+     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
+     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
+     "source": "Energy Storage News",
+     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
     }
    ]
   },
@@ -1746,6 +1746,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "全球首款电容式全身电子皮肤发布，为仿生机器人提供类人全身触觉感知与智能交互能力",
+     "link": "https://www.ithome.com/0/993/250.htm",
+     "pubDate": "Sun, 23 Aug 2026 10:01:35 GMT",
+     "summary": "IT之家 8 月 23 日消息，在 2026 世界机器人大会期间，汉威科技与卓益得联合发布全球首款电容式全身电子皮肤，为仿生机器人提供类人全身触觉感知与智能交互能力。 官方表示，目前机器人触觉感知方案主要集中在灵巧手的指尖、指腹、手掌等部位， 尚缺乏覆盖全身肢体的触觉感知方案 。 IT之家获悉，这款全身电子皮肤以电容式柔性敏感织物为基底，通过双层织物结构将大面积压力阵列传感器与服装集成，具有抗干扰、高精度等特点， 实现了 0.1N 级灵敏度与毫秒级响应 。 这款电子皮肤选用银色科技感面料配哑光拼接，采用流线型立体剪裁；服装式设计便于穿脱维护，还可以让仿生机器人走、跑、招手等肢体动作自然灵动。 ",
+     "source": "IT之家",
+     "zh": "全球首款电容式全身电子皮肤发布，为仿生机器人提供类人全身触觉感知与智能交互能力"
+    },
+    {
+     "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+     "link": "https://www.ithome.com/0/993/248.htm",
+     "pubDate": "Sun, 23 Aug 2026 10:01:14 GMT",
+     "summary": "IT之家 8 月 23 日消息，据新华网报道，橡鹿机器人今日在 2026 世界机器人大会全球首发三款新品：多模态烹饪 AI 基座 CookingMuse 厨启、3K 视觉 AI 炒菜机器人和具身烹饪机器人“现炒方舟”。 IT之家从原报道获悉，3K 是一款融合了 AI 视觉与烹饪智脑的智能 AI 炒菜机器人， 它拥有三颗 4000 万像素全局快门工业相机 ，以 30 FPS 的帧率捕捉锅内画面，再交由百万级菜品数据训练的 AI 大模型实时判断食材状态，让 AI 能够“看到”锅里的变化，并依此自主决策。 同时，这款机器人能够将出品管控从“事后”提前到“事中”，提升餐饮品牌的后厨运营效率。解决过去炒",
+     "source": "IT之家",
+     "zh": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品"
+    },
+    {
+     "title": "日租60元，被索赔10万，全季起诉小旅馆，老板苦言：大公司就不能先发个律师函吗？",
+     "link": "https://www.huxiu.com/article/4885282.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 17:53:17 +0800",
+     "summary": "本文来自微信公众号： 新浪财经 ，作者：徐苑蕾，原文标题：《日租60元，被索赔10万！全季起诉小旅馆，老板苦言：大公司就不能先发个律师函吗？》 近日，河北正定一家名为“金季酒店”的旅馆，因店名与酒店巨头华住集团旗下的全季酒店仅一字之差，被全季酒店关联公司汉庭星空（上海）酒店管理有限公司（以下简称“汉庭星空”）以侵害商标权及不正当竞争为由告上法庭，索赔10万元。 案件原定8月24日开庭，不过据媒体最新报道，8月21日双方经法院调解初步达成和解。金季酒店老板娘赵女士告诉《BUG》栏目，调解中双方都有让步，整个过程尚算顺利，具体赔偿金额不便透露，仅表示“比原本的10万元减少超过一半”。 谈及下一步计",
+     "source": "虎嗅",
+     "zh": "日租60元，被索赔10万，全季起诉小旅馆，老板苦言：大公司就不能先发个律师函吗？"
+    },
+    {
+     "title": "张丹丹在学术上是扶不起的，不要再强行挽尊了",
+     "link": "https://www.huxiu.com/article/4885277.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 17:50:49 +0800",
+     "summary": "本文来自微信公众号： 太阳照常升起 ，作者：慕峰，题图来自：视觉中国 不明白为什么今天出现不少替张丹丹强行挽尊的文章。一是讲张丹丹口中的&ldquo;福利&rdquo;是经济学上的welfare，不是老百姓理解的&ldquo;好处&rdquo;，一句话，&ldquo;你们比我们更没文化&rdquo;。二是讲，张丹丹做的很多研究都是站在底层考虑的，尤其是对外卖员研究很深入，提出很多对他们有利的政策建议。 第一，灵活在什么时候能够成为&ldquo;福利&rdquo;呢？ 作者讲的北大教授及其专家朋友肯定看不上，毕竟张丹丹自己主页的主要论文都是发表在英文期刊的，那作者就引用一下海外学者们关于灵活用工",
+     "source": "虎嗅",
+     "zh": "张丹丹在学术上是扶不起的，不要再强行挽尊了"
+    },
+    {
+     "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
+     "link": "https://www.ithome.com/0/993/242.htm",
+     "pubDate": "Sun, 23 Aug 2026 09:49:59 GMT",
+     "summary": "IT之家 8 月 23 日消息，据外媒 Neowin 当地时间 21 日报道，微软计划在英国利兹斯凯尔顿农庄建设一座超大规模 AI 数据中心园区。其规模包括 3 栋建筑，总建筑面积达到 4.65 万平方米。这项计划遭到当地居民反对，社区发起了要求阻止项目获得最终规划批准的请愿，目前已 收集到 4 万个签名 。 项目所在地原为一座发电站。Harworth Group 于 2014 年仅以 300 万英镑 （IT之家注：现汇率约合 2,755.6 万元人民币） 买下约 65.6 公顷土地，之后 以 1.066 亿英镑 （现汇率约合 9.79 亿元人民币） 出售给微软 。利兹规划委员会目前只是有条件",
+     "source": "IT之家",
+     "zh": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对"
+    },
+    {
      "title": "招 300 人超 8000 人报名：格力技工学校报名已结束，董明珠亲自当校长",
      "link": "https://www.ithome.com/0/993/240.htm",
      "pubDate": "Sun, 23 Aug 2026 09:45:58 GMT",
@@ -1778,22 +1818,6 @@ window.INDUSTRY_DATA = {
      "zh": "消息称追觅汽车高管已密集开启外部求职，项目员工出现批量离职与被裁"
     },
     {
-     "title": "美国造车新势力 Rivian CEO 斯卡林格：我们将直接影响大众下一代电车",
-     "link": "https://www.ithome.com/0/993/236.htm",
-     "pubDate": "Sun, 23 Aug 2026 09:16:43 GMT",
-     "summary": "IT之家 8 月 23 日消息，美国造车新势力 Rivian 创始人兼 CEO RJ· 斯卡林格日前接受英媒《Auto Express》采访，披露了 Rivian 与大众汽车集团总额 45 亿英镑 （IT之家注：现汇率约合 413.34 亿元人民币） 合资项目的更多细节。双方开发的技术将直接影响大众汽车集团下一代电动汽车。 Rivian 与大众汽车集团于 2024 年宣布合作，并共同成立 RV Tech。合资公司将 Rivian 在软件和电子硬件领域的技术优势，与大众汽车集团庞大的全球业务规模结合起来，为未来电动汽车开发新的核心技术。 双方正以 Rivian 现有技术为基础，共同开发更加灵活、",
-     "source": "IT之家",
-     "zh": "美国造车新势力 Rivian CEO 斯卡林格：我们将直接影响大众下一代电车"
-    },
-    {
-     "title": "OpenAI Codex 明天重置额度，并修复近期出现的用量消耗快问题",
-     "link": "https://www.ithome.com/0/993/235.htm",
-     "pubDate": "Sun, 23 Aug 2026 09:11:30 GMT",
-     "summary": "IT之家 8 月 23 日消息，OpenAI Codex &amp; ChatGPT 团队负责人蒂博 · 索蒂奥（Thibault Sottiaux）今天在 X 平台发文，回应近期网友提出的用量消耗过快问题，并将在明天为所有 Codex 订阅用户重置额度。 据蒂博所述，他们目前发现了三个影响用量计算的问题： a：在长时间会话中使用图片并进行多次上下文压缩（compaction）时，存在效率问题； b：计算机历史记录（Computer History）的 P95 及上分位数使用量较高； c：原本用于生成对话标题的某项功能，消耗使用量比预期稍多。 OpenAI 现已组建专项团队排查上述问题，并计划",
-     "source": "IT之家",
-     "zh": "OpenAI Codex 明天重置额度，并修复近期出现的用量消耗快问题"
-    },
-    {
      "title": "年轻人的网络社交，正在偷偷“鸽化”",
      "link": "https://www.huxiu.com/article/4885275.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 17:10:53 +0800",
@@ -1810,14 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "从小用AI 的一代，连青春期也要外包吗？"
     },
     {
-     "title": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹",
-     "link": "https://www.ithome.com/0/993/234.htm",
-     "pubDate": "Sun, 23 Aug 2026 09:02:48 GMT",
-     "summary": "IT之家 8 月 23 日消息，据外媒 TechCrunch 报道，当地时间 20 日，皮尤研究中心发布的一项研究显示，自 2022 年 11 月 ChatGPT 问世后发布的网页中，超过三分之一可能带有 AI 生成痕迹。这一结果与其他研究相互印证，表明 近年来新增的大量网页已经由 AI 直接生成，或经过了 AI 的“魔改” 。 就在这一研究发布前不久，互联网基础设施服务商 Cloudflare 指出，机器人产生的网络流量已经 超过人工访问流量 ，比此前预测的还要来得更早。 皮尤研究中心此次研究关注的重点在于“互联网上哪些内容正在被访问”。研究结果显示，大量网页可能正在形成一种 由机器人阅读机",
-     "source": "IT之家",
-     "zh": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹"
-    },
-    {
      "title": "Is Expensive Bottled Water Actually Better for You?",
      "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
      "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
@@ -1829,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
      "link": "https://erikengdahl.se/autism/isnt/",
      "pubDate": "Sun, 23 Aug 2026 08:48:34 +0000",
-     "summary": "Article URL: https://erikengdahl.se/autism/isnt/ Comments URL: https://news.ycombinator.com/item?id=49407143 Points: 30 # Comments: 27",
+     "summary": "Article URL: https://erikengdahl.se/autism/isnt/ Comments URL: https://news.ycombinator.com/item?id=49407143 Points: 44 # Comments: 37",
      "source": "Hacker News",
      "zh": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical"
     },
@@ -1906,26 +1922,10 @@ window.INDUSTRY_DATA = {
      "zh": "阿里七年来最大的资本运作"
     },
     {
-     "title": "机器人越来越便宜，高端会成新战场？",
-     "link": "https://www.huxiu.com/article/4885265.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 16:02:47 +0800",
-     "summary": "出品 | 妙投APP 作者 | 董必政 编辑 | 丁萍 头图 | 中坚科技 今年的WRC2026（世界机器人大会），人更挤了。 不过，在展馆里走一圈，虎嗅发现一个明显变化。去年大家还在比谁家机器人能翻跟头、能跑马拉松，今年的话题几乎整齐划一地转向了\"落地场景\"和\"如何干活\"，进工厂、做分拣、搞巡检，每个展台都在讲同一套叙事。 难道除了&ldquo;进厂打螺丝&rdquo;，就没有更有差异化的厂商吗？在产品和场景趋同下，机器人厂商还能有什么样的打法？ 在路过5米巨型ZERO概念人形机器人时，我们在中坚科技（002779.SZ）的展台找到了新的解题思路。有意思的是，对中坚科技机器人感兴趣的还有，N",
-     "source": "虎嗅",
-     "zh": "机器人越来越便宜，高端会成新战场？"
-    },
-    {
-     "title": "出货已超4万台，工厂准备好为“人形”买单了吗？",
-     "link": "https://www.huxiu.com/article/4885268.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 15:58:35 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：王碧微 张校毓 8月19日至23日，2026世界机器人大会（WRC）在北京亦庄举行，300余家企业携超过2000件展品参展，首发新品150余款。本届大会首次设置了“采购日”，主题措辞也第一次把“产需”放在了“炫技”之前。 开幕当天，宇树科技（688836.SH）在上交所科创板挂牌上市，成为A股人形机器人第一股；同日下午，小米新一代双足人形机器人“铁大”首次在大会现场公开亮相。 今年上半年，中国人形机器人出货量已超4万台，全球占比进一步提升至97%。IT桔子事件库数据显示，2026年上半年国内具身智能赛道融资总金额达到935亿元，较2025上半年提升了5倍。",
-     "source": "虎嗅",
-     "zh": "出货已超4万台，工厂准备好为“人形”买单了吗？"
-    },
-    {
      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
      "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
      "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
-     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 93 # Comments: 76",
+     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 98 # Comments: 78",
      "source": "Hacker News",
      "zh": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "JIT Compiling Code in 5μs",
      "link": "https://malisper.me/jit-compiling-code-in-5-us/",
      "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
-     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 56 # Comments: 21",
+     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 61 # Comments: 22",
      "source": "Hacker News",
      "zh": "JIT Compiling Code in 5μs"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "The End of an Athlon",
      "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
      "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
-     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 78 # Comments: 18",
+     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 83 # Comments: 22",
      "source": "Hacker News",
      "zh": "The End of an Athlon"
     },
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Fast and Hard Code",
      "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
      "pubDate": "Sun, 23 Aug 2026 05:39:06 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 18 # Comments: 3",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 24 # Comments: 3",
      "source": "Hacker News",
      "zh": "Fast and Hard Code"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "To become a better writer, read as much as you can",
      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
      "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 136 # Comments: 86",
+     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 144 # Comments: 94",
      "source": "Hacker News",
      "zh": "To become a better writer, read as much as you can"
     }
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "After over a decade with Android, these are the 6 apps I’ve used the longest",
+     "link": "https://www.androidauthority.com/android-apps-ive-used-longest-3696721/",
+     "pubDate": "Sun, 23 Aug 2026 10:00:44 +0000",
+     "summary": "While there are plenty of apps out there, some are worth keeping around longer than others.",
+     "source": "Android Authority",
+     "zh": "After over a decade with Android, these are the 6 apps I’ve used the longest"
+    },
     {
      "title": "Google’s foldable strategy is broken, and the Pixel 11 Pro Fold proves it",
      "link": "https://www.androidauthority.com/google-foldable-strategy-broken-pixel-11-pro-fold-proves-3698972/",
@@ -2210,14 +2218,6 @@ window.INDUSTRY_DATA = {
      "zh": "The Pixel 11 Pro is setting a dangerous precedent for Android upgrades"
     },
     {
-     "title": "I found a free, open-source Android app that replaced 8 other apps I used to rely on",
-     "link": "https://www.androidauthority.com/image-toolbox-android-app-hands-on-3699127/",
-     "pubDate": "Sat, 22 Aug 2026 10:30:56 +0000",
-     "summary": "Why use multiple apps when one can do it all?",
-     "source": "Android Authority",
-     "zh": "I found a free, open-source Android app that replaced 8 other apps I used to rely on"
-    },
-    {
      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
      "link": "https://sspai.com/post/113675",
      "pubDate": "Sat, 22 Aug 2026 11:00:00 +0800",
@@ -2242,52 +2242,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "【调研快报】天壕能源接待耕霁(上海)投资管理有限公司等36家机构调研",
+     "title": "佳缘科技：因招股说明书及年报存在虚假记载 股票被实施其他风险警示",
+     "link": "http://finance.eastmoney.com/news/1349,202608233850315966.html",
+     "pubDate": "Sun, 23 Aug 2026 18:00:55 +0800",
+     "summary": "佳缘科技 (301117.SZ)公告称，公司收到证监会《行政处罚事先告知书》，因招股说明书及年报存在虚假记载，股票自8月25日起被实施其他风险警示，简称变更为“ST佳缘”，日涨跌幅限制仍为20%。公司股票8月24日停牌一天，8月25日复牌。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "佳缘科技：因招股说明书及年报存在虚假记载 股票被实施其他风险警示"
+    },
+    {
+     "title": "【调研快报】大金重工接待国金证券股份有限公司等101家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202608233850315798.html",
+     "pubDate": "Sun, 23 Aug 2026 17:49:25 +0800",
+     "summary": "大金重工 8月22日公告称， 8月21日 接待 国金证券 股份有限公司 等101家机构 调研。 接待人员包括公司管理层。 公司就以下问题进行了回复： 一、公司经营情况 2026年上半年,公司经营发展质效全面提升,盈利水平、业务结构、财务质量及运营效率实现全方位升级,由单一装备制造商向“制造+运输+交付”一站式 综合 服务商的转型进程加速,核心竞争壁垒持续夯实,整体发展态势稳健向好。 营收、净利润稳步双增,盈利内生动力强劲。公司实现营业收入... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无",
+     "source": "东方财富股票",
+     "zh": "【调研快报】大金重工接待国金证券股份有限公司等101家机构调研"
+    },
+    {
+     "title": "云南边坡垮塌致4人失联 自然资源部启动地质灾害防御Ⅳ级响应",
+     "link": "http://finance.eastmoney.com/news/1350,202608233850314755.html",
+     "pubDate": "Sun, 23 Aug 2026 17:44:17 +0800",
+     "summary": "8月23日，云南省临沧市凤庆县凤山镇发生2起边坡垮塌，造成4人失联。自然资源部于23日14时对云南启动地质灾害防御Ⅳ级响应，并派工作组赴现场指导开展抢险救援等工作。 自然资源部要求云南省自然资源厅立即先行派出专家工作组前往现场，协助地方做好人员搜救、抢险救援期间技术支撑等工作，并举一反三，做好类似情况下地质灾害巡查排查、监测预警和防范应对等工作；中国地质调查局、自然资源部地质灾害技术指导中心加强专家调度、组织协调、会商研判，全力协助指导做好技术支撑等工作。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "云南边坡垮塌致4人失联 自然资源部启动地质灾害防御Ⅳ级响应"
+    },
+    {
+     "title": "【调研快报】天壕能源接待Pro Tactical Global等47家机构调研",
      "link": "http://stock.eastmoney.com/news/11064,202608233850313692.html",
      "pubDate": "Sun, 23 Aug 2026 17:40:28 +0800",
-     "summary": "天壕能源 8月23日公告称， 8月21日 接待耕霁(上海)投资管理有限公司 等36家机构 调研。 接待人员包括董事长、总经理 陈作涛,董事会秘书 边娜。 公司就以下问题进行了回复： 一、董事长介绍 2026 年上半年经营业绩 公司 2026 年上半年实现营收 14.07 亿元,同比增长 2.54%;归母净利润 7,199.96 万元,同比增长 4.33%;经营性现金流超 4 亿元,资产负债率降至44.79%,财务结构持续优化。上半年供气量5.03 亿方,同比增长 5.47%,一... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发",
+     "summary": "天壕能源 8月23日公告称， 8月21日 接待Pro Tactical Global 等47家机构 调研。 接待人员包括董事长、总经理 陈作涛,董事会秘书 边娜。 公司就以下问题进行了回复： 一、董事长介绍2026年上半年经营业绩 公司2026年上半年实现营收14.07亿元,同比增长2.54%;归母净利润7,199.96万元,同比增长4.33%;经营性现金流超4亿元,资产负债率降至44.79%,财务结构持续优化。上半年供气量5.03亿方,同比增长5.47%,一季度因工业需求承压等影... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富",
      "source": "东方财富股票",
-     "zh": "【调研快报】天壕能源接待耕霁(上海)投资管理有限公司等36家机构调研"
+     "zh": "【调研快报】天壕能源接待Pro Tactical Global等47家机构调研"
     },
     {
      "title": "【调研快报】万润股份接待华创证券调研",
      "link": "http://stock.eastmoney.com/news/11064,202608233850313591.html",
      "pubDate": "Sun, 23 Aug 2026 17:37:26 +0800",
-     "summary": "万润股份 8月23日公告称， 8月23日 接待华创证券 调研。 接待人员包括董事长 霍中和,董事会秘书 于书敏,证券事务代表 李增。 公司就以下问题进行了回复： 交流内容及具体问答记录 1、问:公司上半年营收增长净利润下降的主要原因是什么? 答:公司上半年营业收入增长主要原因为功能性材料收入较比去年同期增长约1.42亿元,其中 OLED 材料、 半导体 制造材料、成品聚酰亚胺材料、沸石系列 环保 材料等功能性材料收入较比去年同期有所增长,液晶材料收入较比去年同期有所下... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨",
+     "summary": "万润股份 8月23日公告称， 8月23日 接待华创证券 调研。 接待人员包括董事长 霍中和,董事会秘书 于书敏,证券事务代表 李增。 公司就以下问题进行了回复： 一、公司情况简介 2026年上半年公司实现营收约19.83亿元,同比增长约6.07%,实现归属于上市公司股东的净利润约1.77亿元,同比下降约18.67%;年内分季度来看,2026年二季度公司实现营收约9.68亿元,环比2026年一季度下降约4.64%,实现归属于上市公司股东的净利润约0.90... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，",
      "source": "东方财富股票",
      "zh": "【调研快报】万润股份接待华创证券调研"
     },
     {
-     "title": "【调研快报】永新股份接待信达证券等32家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202608233850312037.html",
-     "pubDate": "Sun, 23 Aug 2026 17:34:26 +0800",
-     "summary": "永新股份 8月22日公告称， 8月20日 接待 信达证券 等32家机构 调研。 接待人员包括董事会秘书 唐永亮,证券事务代表 潘吉沣。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况: 1、Q:公司 2026 年上半年彩印、薄膜两块业务的量价情况分别是怎样的,对下半年这两块业务的量价有何展望? A:2026 年上半年公司整体收入同比增长近11%,主要原因是目前已逐步走出以前量增价跌的不利局面,同时存在一定产品结构调整带来的影响。分业务来看,彩印业... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多",
+     "title": "十大机构论市：本轮政策底已逐步显现 继续关注三方面配置机会",
+     "link": "http://finance.eastmoney.com/news/1345,202608233850315812.html",
+     "pubDate": "Sun, 23 Aug 2026 17:35:30 +0800",
+     "summary": "本周沪指下跌0.56%，深证成指下跌1.81%，创业板指下跌2.23%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 开源策略：A股风险偏好受到扰动 再平衡仍是主旋律 继续重点推荐小微盘 本周创业板、科创50单日调整均超过6%，价格层面的风险已经快速释放，但筹码调整仍需时间。后续市场更可能进入反复震荡、逐步完成筹码交换的阶段，短期反弹仍可以积极参与，但在交易集中度明显下降以前，反弹的空间和持续性不宜给出过高预期。拥挤消化过程中，再平衡仍然是当前最重要的市场结构，继续重点推荐中证2000和万得 微盘股 。行业层面，继续关注有色、 基础化工 、 新能源 、农业、医药，以及造",
      "source": "东方财富股票",
-     "zh": "【调研快报】永新股份接待信达证券等32家机构调研"
-    },
-    {
-     "title": "【调研快报】甘源食品接待北京橡果资产管理有限公司等44家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202608233850311988.html",
-     "pubDate": "Sun, 23 Aug 2026 17:34:26 +0800",
-     "summary": "甘源食品 8月22日公告称， 8月22日 接待北京橡果 资产管理 有限公司 等44家机构 调研。 接待人员包括董事会秘书 张婷,财务总监、董事 涂文莉。 公司就以下问题进行了回复： 提问与回答环节 问:请介绍公司上半年整体经营业绩情况? 答:2026年上半年,公司实现营业收入10.70亿元,同比增长13.18%;实现归属于上市公司股东的净利润0.80亿元,同比增长7.34%;实现归属于上市公司股东的扣除非经常性损益的净利润0.68亿元,同比增长6.79%。营业收入增长主要得益... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布",
-     "source": "东方财富股票",
-     "zh": "【调研快报】甘源食品接待北京橡果资产管理有限公司等44家机构调研"
-    },
-    {
-     "title": "印度对俄罗斯石油的依赖达到历史新高！日进口量飙至260万桶",
-     "link": "http://finance.eastmoney.com/news/1345,202608233850309259.html",
-     "pubDate": "Sun, 23 Aug 2026 17:29:51 +0800",
-     "summary": "由于海湾冲突导致供应紧张，印度对俄罗斯石油的采购量达到历史最高水平，使印度更难摆脱对俄罗斯的石油依赖。 据贸易咨询公司Kpler首席分析师Sumit Ritolia表示，6月和7月期间，印度每天进口超过260万桶俄罗斯石油，占印度原油进口总量的一半以上，较2月份每日100万桶的低点成倍上涨。 去年，印度因美国总统特朗普的指责而在对俄罗斯石油的进口上稍加克制。然而，随着美伊之间和平协议始终未能达成，霍尔木兹海峡的石油出口问题正促使印度重新转向俄罗斯寻求石油供应。 为缓解海湾危机带来的影响，特朗普已批准豁免规定，允许其购买俄罗斯石油。 依赖进口 目前印度超过90%的原油和 天然气 需求依赖进口，海",
-     "source": "东方财富股票",
-     "zh": "印度对俄罗斯石油的依赖达到历史新高！日进口量飙至260万桶"
-    },
-    {
-     "title": "国内首部干细胞外泌体临床研究管理团体标准在新疆发布",
-     "link": "http://finance.eastmoney.com/news/1350,202608233850306163.html",
-     "pubDate": "Sun, 23 Aug 2026 17:28:41 +0800",
-     "summary": "《人脐带间充质干细胞来源外泌体临床研究管理规范》团体标准8月22日在乌鲁木齐发布。这是国内干细胞行业首个覆盖人脐带间充质干细胞来源外泌体临床研究全流程的团体标准，自今年8月15日起实施。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "国内首部干细胞外泌体临床研究管理团体标准在新疆发布"
+     "zh": "十大机构论市：本轮政策底已逐步显现 继续关注三方面配置机会"
     },
     {
      "title": "理奇智能：第一届董事会第十九次会议决议公告",
@@ -2490,6 +2490,14 @@ window.INDUSTRY_DATA = {
    "total": 8,
    "items": [
     {
+     "title": "'Starry Night' telescope photo captures some of the oldest stars in the universe — Space photo of the week",
+     "link": "https://www.livescience.com/space/astronomy/starry-night-telescope-photo-captures-some-of-the-oldest-stars-in-the-universe-space-photo-of-the-week",
+     "pubDate": "Sun, 23 Aug 2026 10:00:00 +0000",
+     "summary": "The Corona Australis Molecular Cloud shines in a stunning new image revealing glowing nebulae, newborn stars and the Chandelier Cluster.",
+     "source": "Live Science",
+     "zh": "'Starry Night' telescope photo captures some of the oldest stars in the universe — Space photo of the week"
+    },
+    {
      "title": "Do other animals call each other by name?",
      "link": "https://www.livescience.com/animals/do-other-animals-call-each-other-by-name",
      "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
@@ -2616,14 +2624,6 @@ window.INDUSTRY_DATA = {
      "summary": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
      "zh": "‘Huge Breakthrough’ in the Math of Imbalance"
-    },
-    {
-     "title": "Have your say: Would you trust a humanoid robot with your household chores?",
-     "link": "https://www.livescience.com/technology/robotics/have-your-say-would-you-trust-a-humanoid-robot-with-your-household-chores",
-     "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
-     "summary": "Humanoid robots are moving out of the lab and into people's homes, from $30-an-hour cleaners to $20,000 domestic helpers. Tell us in our poll if you'd let one loose with a mop.",
-     "source": "Live Science",
-     "zh": "Have your say: Would you trust a humanoid robot with your household chores?"
     },
     {
      "title": "Crossword: Lab Animals",
