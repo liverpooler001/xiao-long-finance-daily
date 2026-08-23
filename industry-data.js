@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 17:18:12",
+ "generated_at": "2026/8/23 17:51:39",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,22 @@ window.INDUSTRY_DATA = {
      "summary": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows. The post B",
      "source": "MarkTechPost",
      "zh": "Building an End-to-End Document Intelligence Pipeline with deepDoctection"
+    },
+    {
+     "title": "影视飓风Tim看呆！鸡排哥2小时做出八大菜系，AI首次长出「大厨大脑」",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719752&idx=1&sn=44657ada08096ab4c58495a046f7fd9a",
+     "pubDate": "Sun, 23 Aug 2026 15:38:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "影视飓风Tim看呆！鸡排哥2小时做出八大菜系，AI首次长出「大厨大脑」"
+    },
+    {
+     "title": "Anthropic：AI没有导致失业率的增加",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719752&idx=2&sn=3398644c4097e677bb518600f98811bf",
+     "pubDate": "Sun, 23 Aug 2026 15:38:00 +0800",
+     "summary": "三大奇点：软件奇点、经济奇点、科斯奇点。",
+     "source": "新智元",
+     "zh": "Anthropic：AI没有导致失业率的增加"
     },
     {
      "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
@@ -130,6 +146,22 @@ window.INDUSTRY_DATA = {
      "zh": "AI4S八年积累迎来新节点，北京再落一子，抢跑科研范式变革下半场"
     },
     {
+     "title": "刚刚，销量第一的机器狗，长出了人形！",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719604&idx=1&sn=78d21f46a4274fe421007d09541eb841",
+     "pubDate": "Sat, 22 Aug 2026 18:09:00 +0800",
+     "summary": "换一副身体，带走智能 | 独家专访Vbot秦海龙",
+     "source": "新智元",
+     "zh": "刚刚，销量第一的机器狗，长出了人形！"
+    },
+    {
+     "title": "25岁广州女孩用AI验成了！两大菲尔兹奖得主心血，无误",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719604&idx=2&sn=1d04a1c84dba8b4d2c79b5a8905b826f",
+     "pubDate": "Sat, 22 Aug 2026 18:09:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "25岁广州女孩用AI验成了！两大菲尔兹奖得主心血，无误"
+    },
+    {
      "title": "对话维他动力秦海龙：具身智能真正难题不是让机器人「学会」，而是跨本体「继承」",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051744&idx=1&sn=22c2857fcc9f3c5976d2bca19c597075",
      "pubDate": "Sat, 22 Aug 2026 14:00:00 +0800",
@@ -216,38 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
      "source": "DeepMind",
      "zh": "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-    },
-    {
-     "title": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验",
-     "link": "https://zhidx.com/p/586881.html",
-     "pubDate": "Fri, 21 Aug 2026 19:19:04 +0800",
-     "summary": "当AI接管代码和影像后，社媒上一度流行“一句话跑出游戏”的各种DEMO演示。 可直到今天，完全用AI打造的现象级游戏， 几乎无处寻觅 。为什么？在Coding Agent和视频模型高速发展的今天，AI原生游戏的困难到底在哪里？ 与此同时，一个4个月前，才 全面 转入AI游戏赛道的团队，上线了当下定位于“AI精品游戏”的平台Elseland。 平台上已经上线了大量来自创作者和工作室的游戏。其中，更具代表性的，则是Elseland团队基于自研游戏开发工具，打造的数十款“原创游戏”。CEO刘耕提到，他们已经能把数百关体量精品游戏的生产时间，从一年降到一星期左右。成本的百倍下降，是支撑 快速创新与验证",
-     "source": "智东西",
-     "zh": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验"
-    },
-    {
-     "title": "How mobility gives language models a deeper understanding of place",
-     "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
-     "pubDate": "Fri, 21 Aug 2026 10:54:00 +0000",
-     "summary": "Algorithms & Theory",
-     "source": "Google Research",
-     "zh": "How mobility gives language models a deeper understanding of place"
-    },
-    {
-     "title": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆",
-     "link": "https://zhidx.com/p/587166.html",
-     "pubDate": "Fri, 21 Aug 2026 18:17:43 +0800",
-     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西8月21日报道，刚刚，雷鸟iO AI眼镜发布。这款产品 重34克 ，日常续航可达两天。眼镜搭载 DeepSeek和千问大模型 ，其“AI全天智记”功能支持 连续记录18小时 。 设计方面，雷鸟iO采用皇冠框型设计，前框使用镁铝合金，镜腿采用双层钛合金结构，提供 “极夜”和“沙丘”两款配色 。 显示方面，雷鸟iO采用单绿色显示，搭载自研 蓝湖光波导和萤火光引擎Nano 。蓝湖光波导显示区域透过率为93%，非显示区域透过率超过98%，萤火光引擎Nano体积仅0.085cc，可实现等效33英寸显示及1800尼特入眼亮度。 AI方面，雷鸟iO围绕 知识",
-     "source": "智东西",
-     "zh": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆"
-    },
-    {
-     "title": "DeepSeek多模态模型终于来了！一张图最高只要0.001元",
-     "link": "https://zhidx.com/p/587260.html",
-     "pubDate": "Fri, 21 Aug 2026 18:03:28 +0800",
-     "summary": "智东西 作者 | 陈骏达 编辑 | 李水青 智东西8月21日报道，就在刚刚，DeepSeek宣布全新的多模态视觉理解模型DeepSeek-V4-Flash-Vision-Exp（实验性质模型）上线DeepSeek API 平台。 DeepSeek同步公布了这一模型的详细基准测试结果。根据模型名字推测，DeepSeek-V4-Flash-Vision-Exp是在DeepSeek-V4-Flash基础上打造的，基准测试中其 纯文本能力（Agent、推理、世界知识等）与DeepSeek-V4-Flash正式版持平 。 在需要视觉理解的Agent Benchmark上，DeepSeek-V4-Flas",
-     "source": "智东西",
-     "zh": "DeepSeek多模态模型终于来了！一张图最高只要0.001元"
     }
    ]
   },
@@ -1061,7 +1061,7 @@ window.INDUSTRY_DATA = {
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
+     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1082,12 +1082,12 @@ window.INDUSTRY_DATA = {
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
-     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
-     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
-     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
-     "source": "Energy Storage News",
-     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
+     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
+     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
+     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
+     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
+     "source": "Utility Dive",
+     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
     }
    ]
   },
@@ -1746,12 +1746,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "招 300 人超 8000 人报名：格力技工学校报名已结束，董明珠亲自当校长",
+     "link": "https://www.ithome.com/0/993/240.htm",
+     "pubDate": "Sun, 23 Aug 2026 09:45:58 GMT",
+     "summary": "IT之家 8 月 23 日消息，8 月 21 日，珠海市格力技工学校正式关闭 2026 年招生报名通道。据蓝鲸新闻从学校方面了解到，截至到最终报名， 初步统计报名人数超 8000 人。 学校工作人员表示报名结束后，还会安排线下或线上的面试环节。后续待面试环节结束，会公布录取情况。 据IT之家此前报道，经珠海市人力资源和社会保障局批准， 由格力电器创办的珠海市格力技工学校正式获得招生资格 。学校坐落于广东省珠海市香洲区香山路 3200 号，占地面积约 19.1 万平方米，建筑面积约 12.4 万平方米。 官方称“ 入校即入企，毕业即适岗 ”，该校由格力电器董事长董明珠亲自担任学校校长，首批开设九",
+     "source": "IT之家",
+     "zh": "招 300 人超 8000 人报名：格力技工学校报名已结束，董明珠亲自当校长"
+    },
+    {
+     "title": "小米新款超旗舰充电宝曝光：97.36Wh、多口输出 250W MAX，自带伸缩线",
+     "link": "https://www.ithome.com/0/993/239.htm",
+     "pubDate": "Sun, 23 Aug 2026 09:34:09 GMT",
+     "summary": "IT之家 8 月 23 日消息，一款型号为 P25 的小米移动电源前天通过 3C 认证，博主 @体验more 称该产品为超旗舰充电宝品类。 IT之家从该条微博获悉， 这款充电宝采用自带伸缩线设计 ， 支持 140W 高速自充 ， 多口输出功率可达 250W MAX 。额定能量为 97.36Wh，大约是 27000mAh，C1 口自带伸缩线。 输入方面，该充电宝的 C1、C2 口均是单口 140W，支持 PD 3.1 协议。 输出方面，该充电宝的 C1 口支持 140W PD 3.1、120W PPS 快充；C2 口为 140W PD3.1，120W PPS；A 口则是 120W、120W PP",
+     "source": "IT之家",
+     "zh": "小米新款超旗舰充电宝曝光：97.36Wh、多口输出 250W MAX，自带伸缩线"
+    },
+    {
+     "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
+     "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
+     "pubDate": "Sun, 23 Aug 2026 09:30:00 +0000",
+     "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
+     "source": "WIRED",
+     "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
+    },
+    {
+     "title": "消息称追觅汽车高管已密集开启外部求职，项目员工出现批量离职与被裁",
+     "link": "https://www.ithome.com/0/993/238.htm",
+     "pubDate": "Sun, 23 Aug 2026 09:19:21 GMT",
+     "summary": "IT之家 8 月 23 日消息，据第一财经消息，追觅汽车高管已密集开启外部求职，项目员工出现批量离职与被裁，办公区域大量工位闲置。 该媒体在 8 月下旬一个工作日进行了实地探访，在 9 楼的办公区域中，至少有三分之二以上的工位处于闲置状态，桌上没有任何办公用品和办公迹象。内部员工李达（化名）表示，高峰期公司人数达到七八百人，9 楼大约有四分之三的工位有同事在办公。 李达透露，星空计划（追觅造车品牌） 现在正在按照 8 月份的裁员名单进行裁员 ，而这样的裁员动作两个多月前就开始了，“陆陆续续一直有，每一波基本都是 25% 左右”。 按照该员工的说法，此轮裁员完后， 星空计划预计将只剩下部分高管 ",
+     "source": "IT之家",
+     "zh": "消息称追觅汽车高管已密集开启外部求职，项目员工出现批量离职与被裁"
+    },
+    {
+     "title": "美国造车新势力 Rivian CEO 斯卡林格：我们将直接影响大众下一代电车",
+     "link": "https://www.ithome.com/0/993/236.htm",
+     "pubDate": "Sun, 23 Aug 2026 09:16:43 GMT",
+     "summary": "IT之家 8 月 23 日消息，美国造车新势力 Rivian 创始人兼 CEO RJ· 斯卡林格日前接受英媒《Auto Express》采访，披露了 Rivian 与大众汽车集团总额 45 亿英镑 （IT之家注：现汇率约合 413.34 亿元人民币） 合资项目的更多细节。双方开发的技术将直接影响大众汽车集团下一代电动汽车。 Rivian 与大众汽车集团于 2024 年宣布合作，并共同成立 RV Tech。合资公司将 Rivian 在软件和电子硬件领域的技术优势，与大众汽车集团庞大的全球业务规模结合起来，为未来电动汽车开发新的核心技术。 双方正以 Rivian 现有技术为基础，共同开发更加灵活、",
+     "source": "IT之家",
+     "zh": "美国造车新势力 Rivian CEO 斯卡林格：我们将直接影响大众下一代电车"
+    },
+    {
      "title": "OpenAI Codex 明天重置额度，并修复近期出现的用量消耗快问题",
      "link": "https://www.ithome.com/0/993/235.htm",
      "pubDate": "Sun, 23 Aug 2026 09:11:30 GMT",
      "summary": "IT之家 8 月 23 日消息，OpenAI Codex &amp; ChatGPT 团队负责人蒂博 · 索蒂奥（Thibault Sottiaux）今天在 X 平台发文，回应近期网友提出的用量消耗过快问题，并将在明天为所有 Codex 订阅用户重置额度。 据蒂博所述，他们目前发现了三个影响用量计算的问题： a：在长时间会话中使用图片并进行多次上下文压缩（compaction）时，存在效率问题； b：计算机历史记录（Computer History）的 P95 及上分位数使用量较高； c：原本用于生成对话标题的某项功能，消耗使用量比预期稍多。 OpenAI 现已组建专项团队排查上述问题，并计划",
      "source": "IT之家",
      "zh": "OpenAI Codex 明天重置额度，并修复近期出现的用量消耗快问题"
+    },
+    {
+     "title": "年轻人的网络社交，正在偷偷“鸽化”",
+     "link": "https://www.huxiu.com/article/4885275.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 17:10:53 +0800",
+     "summary": "本文来自微信公众号： 极客公园 ，作者：宇航猿，编辑：靖宇，原文标题：《年轻人的网络社交，正在偷偷「鸽化」》 把「等待」，变成期待。 「从前的日色变得慢，车，马，邮件都慢。」 作家木心的小诗「车马慢」，到现在还是不少年轻人的微信签名。对于长在移动互联网中的年轻原住民来说，前互联网是时代的「慢」，不是不便，而是一种「怀古」的浪漫。 这也怪不了他们，微信等即时通信工具上，消息不仅是实时发送的，你甚至能在屏幕上看到「对方正在输入」的字样——一切都太快了。 当这种过快的互联网速度正在透支人们的精力时，反抗就出现了。 试想这样一个场景： 你发了一条消息。屏幕上没有「对方正在输入」，取而代之的是一只鸽子，",
+     "source": "虎嗅",
+     "zh": "年轻人的网络社交，正在偷偷“鸽化”"
+    },
+    {
+     "title": "从小用AI 的一代，连青春期也要外包吗？",
+     "link": "https://www.huxiu.com/article/4885274.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 17:09:02 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《从小用 AI 的一代，连青春期也要外包吗？》 作为家长，你会让自己的孩子接触AI吗？ 如果已经在接触了，你的孩子用它来干什么？ 写作文、查资料？还是说你不太确定，有点担心？ 8月18日，OpenAI上线了一个专门面向青少年的ChatGPT版本。注册时填写年龄在13到17岁之间的用户，会被自动放进这个版本。 2025年，研究者Blake、Carter与Velloso对青少年使用Character.AI的行为进行了系统追踪。他们发现，在该平台最活跃的用户群体中，年龄在13至17岁之间的占据约半数。这些青少年使用聊天机器人的目的，",
+     "source": "虎嗅",
+     "zh": "从小用AI 的一代，连青春期也要外包吗？"
     },
     {
      "title": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹",
@@ -1770,44 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "Is Expensive Bottled Water Actually Better for You?"
     },
     {
-     "title": "消息称华为 Mate 90 系列手机风驰版继续迭代，友商也会跟进",
-     "link": "https://www.ithome.com/0/993/233.htm",
-     "pubDate": "Sun, 23 Aug 2026 08:50:16 GMT",
-     "summary": "IT之家 8 月 23 日消息，据博主 @智慧皮卡丘 消息，华为 Mate 90 系列手机风驰版继续迭代（预计为华为 Mate 90 Pro Max 风驰版），而且友商也会跟。 博主在评论区进一步表示，友商跟进的方式为“ 旗舰机上主动散热 ”。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 据IT之家此前报道， 华为 Mate 80 Pro Max 风驰版发布于 3 月 23 日 ，搭载麒麟 9030 Pro 芯片，售价 8499 元起。 这款手机配备风驰散热模组， 业界首创隐藏式无感出风设计 ；业界首创仿生羽翼涡扇（长短翼型扇叶 + 高功率密度电机），同等噪声下风量提升",
-     "source": "IT之家",
-     "zh": "消息称华为 Mate 90 系列手机风驰版继续迭代，友商也会跟进"
-    },
-    {
      "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
      "link": "https://erikengdahl.se/autism/isnt/",
      "pubDate": "Sun, 23 Aug 2026 08:48:34 +0000",
-     "summary": "Article URL: https://erikengdahl.se/autism/isnt/ Comments URL: https://news.ycombinator.com/item?id=49407143 Points: 13 # Comments: 3",
+     "summary": "Article URL: https://erikengdahl.se/autism/isnt/ Comments URL: https://news.ycombinator.com/item?id=49407143 Points: 30 # Comments: 27",
      "source": "Hacker News",
      "zh": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical"
-    },
-    {
-     "title": "北汽株洲工厂技改完成：产能提升 33%，极狐贝塔 T1、S3 交付提速",
-     "link": "https://www.ithome.com/0/993/232.htm",
-     "pubDate": "Sun, 23 Aug 2026 08:34:33 GMT",
-     "summary": "IT之家 8 月 23 日消息，极狐官方昨日宣布，北汽株洲工厂技改完成， 产能提升 33% ，极狐贝塔 T1、贝塔 S3 开启加速交付模式，全力排产，加快发运。 据介绍，2009 年，北汽株洲工厂落户株洲国家高新区，是北汽集团第一个自主品牌外埠乘用车基地。17 年来， 这里累计下线的车辆已经超过了 170 万辆 。 IT之家获悉，本次核心技术改造升级扩展了 3 条全新产线，增加了 40 个工位，工位总数达到了 150 个；并增加了机械手的数量和优化了多处工序。 升级之前，该工厂每天生产交付 600 辆整车，现在提升到了 800 辆， 交付能力提升了 1/3 ；每个月的交付量增加了 6000 台",
-     "source": "IT之家",
-     "zh": "北汽株洲工厂技改完成：产能提升 33%，极狐贝塔 T1、S3 交付提速"
-    },
-    {
-     "title": "传音推出 Infinix Xpad 30 Pro 平板，联发科 Helio G200 芯片、11 寸 2.5K 屏幕",
-     "link": "https://www.ithome.com/0/993/230.htm",
-     "pubDate": "Sun, 23 Aug 2026 08:31:04 GMT",
-     "summary": "IT之家 8 月 23 日消息，传音现已在海外市场推出 Infinix Xpad 30 Pro 平板，新品搭载 11 英寸 2.5K 屏幕，定位中低端，定价约为 227 美元 （IT之家注：现汇率约合 1,531 元人民币） 。 据介绍， 这款平板搭载联发科 Helio G200 Ultimate 芯片 ， 配备 11 英寸屏幕 ，分辨率为 1600*2560，支持 90Hz 刷新率，最高亮度可达 550nits。 同时，这款平板拥有立体声扬声器和 DTS 音效支持，满足日常影音播放需求。拥有 8200mAh 电池，支持 18W 充电，最高配置为 8GB 内存 +256GB 存储， 支持 4G",
-     "source": "IT之家",
-     "zh": "传音推出 Infinix Xpad 30 Pro 平板，联发科 Helio G200 芯片、11 寸 2.5K 屏幕"
-    },
-    {
-     "title": "总台中国之声解读车辆应急机械拉手安全隐患：与内饰颜色接近、不易识别",
-     "link": "https://www.ithome.com/0/993/229.htm",
-     "pubDate": "Sun, 23 Aug 2026 08:25:20 GMT",
-     "summary": "IT之家 8 月 23 日消息，据中央广播电视总台中国之声今天（23 日）报道，日前，国家市场监督管理总局集中发布汽车召回公告，特斯拉、小米、小鹏、零跑等 9 家车企同步启动召回，覆盖数百万辆新能源汽车。本次召回的核心原因高度统一： 车内应急机械拉手与内饰颜色接近、辨识度不足 ，极端碰撞断电场景下可能 影响驾乘人员逃生与外部救援 。 报道指出，在普遍采用电动开门的新能源车型上，车内应急机械拉手是完全脱离电控系统的纯机械结构，也是极端险情下的最后一道逃生防线。 汽车产业专家李洋介绍，与传统燃油车直接外露的机械门把手不同，新能源车的应急拉手安装位置 并无统一标准 ：有的藏在车门储物槽内，有的内嵌于",
-     "source": "IT之家",
-     "zh": "总台中国之声解读车辆应急机械拉手安全隐患：与内饰颜色接近、不易识别"
     },
     {
      "title": "银行理财五星管理人评级报告 （2026年7月）",
@@ -1898,26 +1922,10 @@ window.INDUSTRY_DATA = {
      "zh": "出货已超4万台，工厂准备好为“人形”买单了吗？"
     },
     {
-     "title": "人民币对美元升破6.72，创近三年半新高，“越结越高”效应下此轮升值停不下来？",
-     "link": "https://www.huxiu.com/article/4885267.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 15:56:59 +0800",
-     "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者，原文标题：《人民币对美元升破6.72，创近三年半新高！“越结越高”效应下此轮升值停不下来？》 8月21日，人民币对美元继续升值。在岸市场上，盘中一度达6.7192，人民币对美元汇率创下近三年半新高。离岸市场上，人民币对美元盘中一度达6.7179。 2026年以来，在岸人民币对美元升幅已近3.85%。当前国内维持低利率条件，中美利差约300BP。在中美利差压力之下，人民币对美元币值近一年多时间一路抬升，该走势背后，新的驱动因素在发挥着更重要的作用。 人民币对美元屡屡升值，经济学者白明接受《每日经济新闻》记者（以下简称每经记者）采访时指出，在外",
-     "source": "虎嗅",
-     "zh": "人民币对美元升破6.72，创近三年半新高，“越结越高”效应下此轮升值停不下来？"
-    },
-    {
-     "title": "我们正面临后现代治理问题",
-     "link": "https://www.huxiu.com/article/4885263.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 15:45:08 +0800",
-     "summary": "本文来自微信公众号： 诗翰 ，作者：卢诗翰的赞赏小号 仔细说一下前因后果吧，很多报道聚焦于细节，往往忽视了问题的整体性和社会性。 故事的起因，我认为要从2022年说起。 TFBOY大家都熟，时代峻峰就是TFBOY的母公司。 时代峻峰的所在地是长江国际大厦，也就是这次所在地。 作为TFBOY母公司，时代峰峻还运营孵化着大量后继偶像团队，这些团队被称为二代，三代。 第一代是TFBOY， 第二代是时代少年团，就是马嘉祺那几个， 第三代是TOP登陆少年， 第四代叫TF家族四代，没有名字是因为没正式出道， 第五代同理，目前也在训练阶段，只是公布了照片和名单，平均年龄11到14岁，都是练习生。 同时，作为",
-     "source": "虎嗅",
-     "zh": "我们正面临后现代治理问题"
-    },
-    {
      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
      "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
      "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
-     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 88 # Comments: 72",
+     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 93 # Comments: 76",
      "source": "Hacker News",
      "zh": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
     },
@@ -1925,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "JIT Compiling Code in 5μs",
      "link": "https://malisper.me/jit-compiling-code-in-5-us/",
      "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
-     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 52 # Comments: 11",
+     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 56 # Comments: 21",
      "source": "Hacker News",
      "zh": "JIT Compiling Code in 5μs"
     },
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "The End of an Athlon",
      "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
      "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
-     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 72 # Comments: 17",
+     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 78 # Comments: 18",
      "source": "Hacker News",
      "zh": "The End of an Athlon"
     },
@@ -1941,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Fast and Hard Code",
      "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
      "pubDate": "Sun, 23 Aug 2026 05:39:06 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 11 # Comments: 0",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 18 # Comments: 3",
      "source": "Hacker News",
      "zh": "Fast and Hard Code"
     },
@@ -1973,17 +1981,9 @@ window.INDUSTRY_DATA = {
      "title": "To become a better writer, read as much as you can",
      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
      "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 125 # Comments: 70",
+     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 136 # Comments: 86",
      "source": "Hacker News",
      "zh": "To become a better writer, read as much as you can"
-    },
-    {
-     "title": "Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi (Robbie Whelan/Wall Street Journal)",
-     "link": "https://www.techmeme.com/260822/p16#a260822p16",
-     "pubDate": "Sat, 22 Aug 2026 23:30:01 -0400",
-     "summary": "Robbie Whelan / Wall Street Journal : Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi &nbsp; &mdash;&nbsp; A sweeping agreement with startup Poolside aims to build an open AI ecosystem in the U.S. to compe",
-     "source": "Techmeme",
-     "zh": "Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi (Robbie Whelan/Wall Street Journal)"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google’s foldable strategy is broken, and the Pixel 11 Pro Fold proves it",
+     "link": "https://www.androidauthority.com/google-foldable-strategy-broken-pixel-11-pro-fold-proves-3698972/",
+     "pubDate": "Sun, 23 Aug 2026 09:30:08 +0000",
+     "summary": "This Fold left me cold.",
+     "source": "Android Authority",
+     "zh": "Google’s foldable strategy is broken, and the Pixel 11 Pro Fold proves it"
+    },
     {
      "title": "Deals: Pixel 11 series available, Galaxy Z Fold8 Ultra price drop, Oppo Reno16 series on sale",
      "link": "https://www.gsmarena.com/deals_pixel_11_series_available_galaxy_z_fold8_ultra_price_drop_oppo_reno16_series_on_sale-news-74287.php",
@@ -2210,14 +2218,6 @@ window.INDUSTRY_DATA = {
      "zh": "I found a free, open-source Android app that replaced 8 other apps I used to rely on"
     },
     {
-     "title": "Whatever you do, don’t buy a Pixel 11 right now if you already have a Pixel 10",
-     "link": "https://www.androidauthority.com/pixel-10-vs-pixel-11-3697199/",
-     "pubDate": "Sat, 22 Aug 2026 10:00:25 +0000",
-     "summary": "The Pixel 11 series looks great, but the Pixel 10 hasn't aged much in just a year.",
-     "source": "Android Authority",
-     "zh": "Whatever you do, don’t buy a Pixel 11 right now if you already have a Pixel 10"
-    },
-    {
      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
      "link": "https://sspai.com/post/113675",
      "pubDate": "Sat, 22 Aug 2026 11:00:00 +0800",
@@ -2242,36 +2242,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "外交部部长助理蔡伟会见联合国常务副秘书长阿明娜",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850296931.html",
-     "pubDate": "Sun, 23 Aug 2026 17:05:43 +0800",
-     "summary": "据外交部官网，2026年8月22日，外交部部长助理蔡伟会见联合国常务副秘书长阿明娜。阿明娜此次来华系主持“ 人工智能 与人类发展”对话会。 （文章来源：财联社）",
+     "title": "【调研快报】天壕能源接待耕霁(上海)投资管理有限公司等36家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202608233850313692.html",
+     "pubDate": "Sun, 23 Aug 2026 17:40:28 +0800",
+     "summary": "天壕能源 8月23日公告称， 8月21日 接待耕霁(上海)投资管理有限公司 等36家机构 调研。 接待人员包括董事长、总经理 陈作涛,董事会秘书 边娜。 公司就以下问题进行了回复： 一、董事长介绍 2026 年上半年经营业绩 公司 2026 年上半年实现营收 14.07 亿元,同比增长 2.54%;归母净利润 7,199.96 万元,同比增长 4.33%;经营性现金流超 4 亿元,资产负债率降至44.79%,财务结构持续优化。上半年供气量5.03 亿方,同比增长 5.47%,一... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发",
      "source": "东方财富股票",
-     "zh": "外交部部长助理蔡伟会见联合国常务副秘书长阿明娜"
+     "zh": "【调研快报】天壕能源接待耕霁(上海)投资管理有限公司等36家机构调研"
     },
     {
-     "title": "印度古吉拉特邦假酒事件死亡人数升至13人",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850296866.html",
-     "pubDate": "Sun, 23 Aug 2026 16:58:05 +0800",
-     "summary": "印度官方23日发布通报称，该国古吉拉特邦近日发生的假酒中毒事件中死亡人数再次上升，累计已造成13人死亡。 据印度方面21日消息，印度西部古吉拉特邦包纳加尔地区，陆续有多地居民在饮用假酒后死亡，死者血液样本检测结果显示含有甲醇。警方随后展开调查，将21人列为嫌疑人。 古吉拉特邦实行禁酒政策，酒类生产、销售和消费受到严格限制，类似假酒致死事件在当地时有发生。 （文章来源：央视新闻）",
+     "title": "【调研快报】万润股份接待华创证券调研",
+     "link": "http://stock.eastmoney.com/news/11064,202608233850313591.html",
+     "pubDate": "Sun, 23 Aug 2026 17:37:26 +0800",
+     "summary": "万润股份 8月23日公告称， 8月23日 接待华创证券 调研。 接待人员包括董事长 霍中和,董事会秘书 于书敏,证券事务代表 李增。 公司就以下问题进行了回复： 交流内容及具体问答记录 1、问:公司上半年营收增长净利润下降的主要原因是什么? 答:公司上半年营业收入增长主要原因为功能性材料收入较比去年同期增长约1.42亿元,其中 OLED 材料、 半导体 制造材料、成品聚酰亚胺材料、沸石系列 环保 材料等功能性材料收入较比去年同期有所增长,液晶材料收入较比去年同期有所下... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨",
      "source": "东方财富股票",
-     "zh": "印度古吉拉特邦假酒事件死亡人数升至13人"
+     "zh": "【调研快报】万润股份接待华创证券调研"
     },
     {
-     "title": "五洲医疗：上半年净利润1536.34万元 同比增长46.11%",
-     "link": "http://finance.eastmoney.com/news/1349,202608233850296715.html",
-     "pubDate": "Sun, 23 Aug 2026 16:51:32 +0800",
-     "summary": "五洲医疗 (301234)8月23日披露半年报，2026年上半年，公司实现营业收入2.03亿元，同比下降6.40%；归属于上市公司股东的净利润1536.34万元，同比增长46.11%；基本每股收益0.2259元。注射器、医用穿刺针等核心产品毛利率提升是净利润同比实现较大幅度增长的主要原因。 （文章来源：人民财讯）",
+     "title": "【调研快报】永新股份接待信达证券等32家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202608233850312037.html",
+     "pubDate": "Sun, 23 Aug 2026 17:34:26 +0800",
+     "summary": "永新股份 8月22日公告称， 8月20日 接待 信达证券 等32家机构 调研。 接待人员包括董事会秘书 唐永亮,证券事务代表 潘吉沣。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况: 1、Q:公司 2026 年上半年彩印、薄膜两块业务的量价情况分别是怎样的,对下半年这两块业务的量价有何展望? A:2026 年上半年公司整体收入同比增长近11%,主要原因是目前已逐步走出以前量增价跌的不利局面,同时存在一定产品结构调整带来的影响。分业务来看,彩印业... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多",
      "source": "东方财富股票",
-     "zh": "五洲医疗：上半年净利润1536.34万元 同比增长46.11%"
+     "zh": "【调研快报】永新股份接待信达证券等32家机构调研"
     },
     {
-     "title": "中泰策略：回调如期启动 科技进入右侧配置窗口",
-     "link": "http://finance.eastmoney.com/news/1370,202608233850296678.html",
-     "pubDate": "Sun, 23 Aug 2026 16:41:25 +0800",
-     "summary": "报告摘要 一、市场急跌后企稳，美伊博弈的反复超出预期 8月中下旬回调如期启动，市场冲高回落后已缩量企稳，9月重新转强的中期判断维持不变。 我们前期持续提示8月中下旬市场与科技将进入回踩，幅度可控，形态接近强势震荡。本周调整集中于单日完成，成交额急跌后明显收敛；8月以来主要宽基指数仍普遍录得正收益，本轮回吐主要消化8月上旬的快速拉升，趋势并未走坏。 但需要提示： 第一，科创50是唯一跌破7月20日波段低点的宽基指数，修复所需幅度明显大于其他指数。第二，港股同期逆势走强，恒生指数与恒生科技均收涨；同样面对美债波动而未跟随调整， 说明压制A股科技的主要力量来自内部筹码，海外利率的解释力有限。 8月1",
+     "title": "【调研快报】甘源食品接待北京橡果资产管理有限公司等44家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202608233850311988.html",
+     "pubDate": "Sun, 23 Aug 2026 17:34:26 +0800",
+     "summary": "甘源食品 8月22日公告称， 8月22日 接待北京橡果 资产管理 有限公司 等44家机构 调研。 接待人员包括董事会秘书 张婷,财务总监、董事 涂文莉。 公司就以下问题进行了回复： 提问与回答环节 问:请介绍公司上半年整体经营业绩情况? 答:2026年上半年,公司实现营业收入10.70亿元,同比增长13.18%;实现归属于上市公司股东的净利润0.80亿元,同比增长7.34%;实现归属于上市公司股东的扣除非经常性损益的净利润0.68亿元,同比增长6.79%。营业收入增长主要得益... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布",
      "source": "东方财富股票",
-     "zh": "中泰策略：回调如期启动 科技进入右侧配置窗口"
+     "zh": "【调研快报】甘源食品接待北京橡果资产管理有限公司等44家机构调研"
+    },
+    {
+     "title": "印度对俄罗斯石油的依赖达到历史新高！日进口量飙至260万桶",
+     "link": "http://finance.eastmoney.com/news/1345,202608233850309259.html",
+     "pubDate": "Sun, 23 Aug 2026 17:29:51 +0800",
+     "summary": "由于海湾冲突导致供应紧张，印度对俄罗斯石油的采购量达到历史最高水平，使印度更难摆脱对俄罗斯的石油依赖。 据贸易咨询公司Kpler首席分析师Sumit Ritolia表示，6月和7月期间，印度每天进口超过260万桶俄罗斯石油，占印度原油进口总量的一半以上，较2月份每日100万桶的低点成倍上涨。 去年，印度因美国总统特朗普的指责而在对俄罗斯石油的进口上稍加克制。然而，随着美伊之间和平协议始终未能达成，霍尔木兹海峡的石油出口问题正促使印度重新转向俄罗斯寻求石油供应。 为缓解海湾危机带来的影响，特朗普已批准豁免规定，允许其购买俄罗斯石油。 依赖进口 目前印度超过90%的原油和 天然气 需求依赖进口，海",
+     "source": "东方财富股票",
+     "zh": "印度对俄罗斯石油的依赖达到历史新高！日进口量飙至260万桶"
+    },
+    {
+     "title": "国内首部干细胞外泌体临床研究管理团体标准在新疆发布",
+     "link": "http://finance.eastmoney.com/news/1350,202608233850306163.html",
+     "pubDate": "Sun, 23 Aug 2026 17:28:41 +0800",
+     "summary": "《人脐带间充质干细胞来源外泌体临床研究管理规范》团体标准8月22日在乌鲁木齐发布。这是国内干细胞行业首个覆盖人脐带间充质干细胞来源外泌体临床研究全流程的团体标准，自今年8月15日起实施。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "国内首部干细胞外泌体临床研究管理团体标准在新疆发布"
+    },
+    {
+     "title": "理奇智能：第一届董事会第十九次会议决议公告",
+     "link": "http://www.eeo.com.cn/2026/0823/1008843.shtml",
+     "pubDate": "Sun, 23 Aug 2026 17:26:22 +0800",
+     "summary": "证券日报网讯 8月23日，理奇智能发布公告称，公司第一届董事会第十九次会议审议通过《关于〈2026年半年度报告〉全文及其摘要的议案》《关于〈2026年半年度募集资金存放、管理与使用情况的专项报告〉的议案》《关于2026年半年度利润分配预案的议案》等多项议案。 （编辑 王雪儿）",
+     "source": "经济观察网",
+     "zh": "理奇智能：第一届董事会第十九次会议决议公告"
+    },
+    {
+     "title": "南华生物：第十二届董事会第十一次会议决议公告",
+     "link": "http://www.eeo.com.cn/2026/0823/1008842.shtml",
+     "pubDate": "Sun, 23 Aug 2026 17:26:16 +0800",
+     "summary": "证券日报网讯 8月23日，南华生物发布公告称，公司第十二届董事会第十一次会议审议通过《关于公司〈2026年半年度报告〉及其摘要的议案》《关于修订〈投资者关系管理制度〉的议案》《关于修订〈董事、高级管理人员所持本公司股份及其变动管理制度〉的议案》等多项议案。 （编辑 王雪儿）",
+     "source": "经济观察网",
+     "zh": "南华生物：第十二届董事会第十一次会议决议公告"
     },
     {
      "title": "免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？",
@@ -2288,22 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
      "source": "Financial Times",
      "zh": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment"
-    },
-    {
-     "title": "中信证券：科技股近期的调整不能简单归因于美国长债利率高企",
-     "link": "http://stock.eastmoney.com/news/11791,202608233850296358.html",
-     "pubDate": "Sun, 23 Aug 2026 16:32:21 +0800",
-     "summary": "中信证券 研报认为，科技股近期的调整不能简单归因于美国长债利率高企，调整的背后是AI相关股票的远期定价问题，有三个关键叙事变量：1)商业化的速率和空间是否跟得上市场预期；2)算力优势是不是带来份额和定价权优势；3)当期的算力差距是否会明显拉开远期的AI模型差距。这其中当前共识性担忧是商业化的速率和空间，最大的潜在变量是“防蒸馏”是否在未来会重新拉大模型差距。至于宏观因素，美国财政部宣布回购长债的影响十分有限，不过短期内美元走弱和加息预期的走弱都有利于全球市场K型分化的收敛。然而，造成美国长端利率持续上行的因素并没有发生根本性变化，未来一段时间可能还会出现持续扰动。在这些外部扰动影响下，A股短期",
-     "source": "东方财富股票",
-     "zh": "中信证券：科技股近期的调整不能简单归因于美国长债利率高企"
-    },
-    {
-     "title": "智光电气：终止发行股份及支付现金购买资产并募集配套资金事项",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850296244.html",
-     "pubDate": "Sun, 23 Aug 2026 16:31:50 +0800",
-     "summary": "智光电气 (002169.SZ)公告称，公司召开董事会审议通过议案，同意终止发行股份及支付现金购买广州智光储能科技有限公司27.18%股权并募集配套资金暨关联交易事项。终止原因为当前市场环境较筹划初期发生较大变化，经审慎考虑并与交易对方协商决定终止。公司承诺自终止公告之日起1个月内不再筹划重大资产重组。本次交易终止不影响公司对标的公司的控制权，目前生产经营正常。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "智光电气：终止发行股份及支付现金购买资产并募集配套资金事项"
     },
     {
      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
@@ -2346,14 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "别争“灵活算不算福利”了，先给超2亿打工人把保障补齐"
     },
     {
-     "title": "“国内金融业第一位CEO”卸任！万亿级保险机构，重要人事变动",
-     "link": "http://www.eeo.com.cn/2026/0823/1008646.shtml",
-     "pubDate": "Sun, 23 Aug 2026 15:13:04 +0800",
-     "summary": "8月22日，泰康保险集团宣布治理结构调整：创始人、董事长陈东升不再兼任首席执行官（CEO），聘任公司总裁刘挺军出任公司首席执行官。此决定已于8月20日获泰康保险集团第四届七次董事会审议通过。 调整后，陈东升将回归并专注公司战略、团队、风险、文化以及重大事项决策，继续发挥核心领导作用。刘挺军将聚焦于公司整体经营与内部协同效率提升，并将持续贯彻推进泰康“新寿险”战略，扩大落地成果。 此次调整不同寻...",
-     "source": "经济观察网",
-     "zh": "“国内金融业第一位CEO”卸任！万亿级保险机构，重要人事变动"
-    },
-    {
      "title": "SemiAnalysis：闪存制造正“由钨转钼”",
      "link": "https://wallstreetcn.com/articles/3780077",
      "pubDate": "Sun, 23 Aug 2026 14:40:54 +0800",
@@ -2376,14 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "特朗普6月投资账户完成逾千笔股票交易，金融板块成为最大买入方向，白宫坚称总统本人对交易决策毫不知情。 据《华尔街日报》8月22日报道，根据最新政府披露文件，美国总统特朗普的投资账户在今年6月完成了逾1000笔股票交易，买入笔数超过550笔，卖出笔数超过450笔。他的证券买入总额超过4900万美元，而卖出总额至少为2850万美元。 这份文件于当地时间周六公开发布。白宫随即表示，总统本人在上述交易中不扮演任何角色，所有操作均由独立管理人通过计算机模型自动执行，以复制主流股票指数的表现。 6月18日：单日大额买卖同步发生 披露文件显示，6月18日是当月交易最为集中的一天。 当天，特朗普账户分别买入逾",
      "source": "华尔街见闻",
      "zh": "特朗普投资账户6月交易上千笔，金融股成重仓方向"
-    },
-    {
-     "title": "阿里拟配售800亿港元新股，全部投入AI建设",
-     "link": "http://www.eeo.com.cn/2026/0823/1008538.shtml",
-     "pubDate": "Sun, 23 Aug 2026 13:52:04 +0800",
-     "summary": "中新经纬8月23日电 中新经纬8月23日获悉，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售。 本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。(中新经纬APP) 编辑：李晓萱 责编：魏薇",
-     "source": "经济观察网",
-     "zh": "阿里拟配售800亿港元新股，全部投入AI建设"
     },
     {
      "title": "七年来首次配售新股！阿里800亿港元配股获超额认购，将全部投入AI建设",
