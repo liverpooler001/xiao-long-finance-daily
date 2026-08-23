@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 13:00:37",
+ "generated_at": "2026/8/23 13:27:08",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+     "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+     "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
+     "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based ",
+     "source": "MarkTechPost",
+     "zh": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety"
+    },
     {
      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
@@ -41,44 +49,12 @@
      "zh": "Frontier AI labs still won’t say how they’d contain a rogue model"
     },
     {
-     "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-     "link": "https://www.qbitai.com/2026/08/477253.html",
-     "pubDate": "Sat, 22 Aug 2026 14:46:43 +0000",
-     "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
-     "source": "量子位",
-     "zh": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径"
-    },
-    {
-     "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-     "link": "https://www.qbitai.com/2026/08/477246.html",
-     "pubDate": "Sat, 22 Aug 2026 14:19:39 +0000",
-     "summary": "直击WRC",
-     "source": "量子位",
-     "zh": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒"
-    },
-    {
-     "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
-     "link": "https://www.qbitai.com/2026/08/477155.html",
-     "pubDate": "Sat, 22 Aug 2026 14:11:20 +0000",
-     "summary": "一脑驱动多形落地",
-     "source": "量子位",
-     "zh": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗"
-    },
-    {
-     "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
-     "link": "https://www.qbitai.com/2026/08/477094.html",
-     "pubDate": "Sat, 22 Aug 2026 13:56:00 +0000",
-     "summary": "采集，从一条腕带开始",
-     "source": "量子位",
-     "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
-    },
-    {
-     "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-     "link": "https://www.qbitai.com/2026/08/477090.html",
-     "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
-     "summary": "将真实场景重建为持续更新、可计算的4D数字世界。",
-     "source": "量子位",
-     "zh": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台"
+     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
+     "source": "MarkTechPost",
+     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
     },
     {
      "title": "AI4S八年积累迎来新节点，北京再落一子，抢跑科研范式变革下半场",
@@ -113,6 +89,14 @@
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
+     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
+     "source": "MarkTechPost",
+     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
+    },
+    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -127,6 +111,22 @@
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
+    },
+    {
+     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
+     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
+     "source": "MarkTechPost",
+     "zh": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure"
+    },
+    {
+     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
+     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
+     "source": "MarkTechPost",
+     "zh": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
     },
     {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
@@ -321,52 +321,12 @@
      "zh": "How TSMC Is Wiring the AI Era With Light"
     },
     {
-     "title": "Android XR advances as Jetpack XR SDK core libraries reach beta",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 14:39:56 +0000",
-     "summary": "Google is announcing that its Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries are officially in beta status. And Jetpack Compose is to follow soon, it says. Basically, […] The post Android XR advances as Jetpack XR SDK core libraries reach beta appeared first on Electronics Weekly",
-     "source": "Electronics Weekly",
-     "zh": "Android XR advances as Jetpack XR SDK core libraries reach beta"
-    },
-    {
-     "title": "Exotic Materials Adding Cost To Semis",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/exotic-materials-adding-cost-to-semis-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 13:30:13 +0000",
-     "summary": "19 years ago the chip industry was facing a similar problem to today – the need for, and rising cost of, exotic materials. ‘Semiconductor firms are facing critical pricing choices […] The post Exotic Materials Adding Cost To Semis appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Exotic Materials Adding Cost To Semis"
-    },
-    {
      "title": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/",
      "pubDate": "Fri, 21 Aug 2026 13:00:41 +0000",
      "summary": "Intel is considering a return to memory technology decades after abandoning mainstream DRAM and, more recently, selling its NAND business. Chief executive Lip-Bu Tan has argued that memory should no longer be viewed simply as a low-margin commodity. Artificial intelligence is turning bandwidth, late",
      "source": "SemiWiki",
      "zh": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics"
-    },
-    {
-     "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
-     "link": "https://www.electronicsweekly.com/news/saildrone-lockheed-martin-demonstrate-live-fire-from-usv-platform-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 10:30:33 +0000",
-     "summary": "Lockheed Martin is highlighting a successful collaboration with Saildrone, a specialist in maritime autonomous systems. USV Basically, an unmanned surface vehicle (USV) was equipped with lethal defence technology, the live-fire […] The post Saildrone, Lockheed Martin demonstrate live-fire from USV p",
-     "source": "Electronics Weekly",
-     "zh": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform"
-    },
-    {
-     "title": "JEDEC to host Automotive Electronics Forum",
-     "link": "https://www.electronicsweekly.com/news/business/jedec-to-host-automotive-electronics-forum-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 09:17:49 +0000",
-     "summary": "The JEDEC Solid State Technology Association has announced that it is hosting an Automotive Electronics Forum. The event will take place on 17 September 2026 in Santa Clara, California. The […] The post JEDEC to host Automotive Electronics Forum appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "JEDEC to host Automotive Electronics Forum"
-    },
-    {
-     "title": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 09:05:07 +0000",
-     "summary": "There's the next frontier of advanced optoelectronics, Samsung Foundry putting back its 1.4nm process to 2029, and Vishay sampling a short distance VCSEL-based proximity sensor... The post Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices"
     },
     {
      "title": "The Human Brain Versus AI: Similar Results, Very Different Machines",
@@ -383,14 +343,6 @@
      "summary": "New Micron lab; chip/AI price jump; multi-die monitoring; cryo links for quantum chips; interconnect RC bottleneck; 18A win; CPO roadmap; 2 new CEOs; humanoid readiness gap; Hot Interconnects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "White House looking for 1000 rocket launches a year",
-     "link": "https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 05:17:57 +0000",
-     "summary": "Yesterday US President Donald Trump signed a memo aimed at enabling 1,000 US rocket launches and re-entries a year – up from 178 launches in 2025. The memo requires agencies […] The post White House looking for 1000 rocket launches a year appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "White House looking for 1000 rocket launches a year"
     },
     {
      "title": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes",
@@ -495,6 +447,46 @@
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
+    },
+    {
+     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
+     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
+     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
+     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
+    },
+    {
+     "title": "HexSeed raises over £600,000 in early-stage funding",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/hexseed-190826.shtml",
+     "pubDate": "Wed, 19 Aug 2026 21:03:33 +0100",
+     "summary": "HexSeed Technology Ltd of Banchory, near Aberdeen, Scotland, UK has raised more than £600,000 in an early-stage funding round led by Carbon13, with participation from Net Zero Technology Centre and Vento Ventures. The cumulative investment unlocks a Partnership Grant from overnment agency Innovate U",
+     "source": "Semiconductor Today",
+     "zh": "HexSeed raises over £600,000 in early-stage funding"
+    },
+    {
+     "title": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/clas-sic-190826.shtml",
+     "pubDate": "Wed, 19 Aug 2026 20:50:08 +0100",
+     "summary": "Clas-SiC Wafer Fab Ltd of Lochgelly, Fife, Scotland — which was founded in 2017 and is the UK’s only commercial wafer fabrication facility dedicated to silicon carbide (SiC) — is one of the first recipients of Scottish Enterprise’s new Capital Grant, which has been designed to help drive levels of b",
+     "source": "Semiconductor Today",
+     "zh": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment"
+    },
+    {
+     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
+     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
+     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
+     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
+    },
+    {
+     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
+     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
+     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
+     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -1745,6 +1737,38 @@
    "total": 18,
    "items": [
     {
+     "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 预售价格再降，叠加权益后最低 32.99 万元起",
+     "link": "https://www.ithome.com/0/993/177.htm",
+     "pubDate": "Sun, 23 Aug 2026 05:20:30 GMT",
+     "summary": "IT之家 8 月 23 日消息， 奇瑞捷豹路虎 FREELANDER 神行者 8 已于 8 月 14 日晚间开启预售 。新车全系标配华为乾崑智驾 ADS 5；全球首批搭载高通骁龙最新一代 8397 车规级芯片；全系标配 800V 高压平台，预售价 33.99 万-44.99 万元。 IT之家注意到，在 2026 成都车展上，神行者 8 也迎来亮相，并在发布会上公布了最新权益及预售价格，新车叠加权益后最低 32.99 万元起。 权益 订金膨胀：订金 1,000 元可抵扣 6,000 元购车款； 增换补贴：奇瑞捷豹路虎车主享 15,000 元补贴，其他品牌车主享 10,000 元补贴； 金融方案：",
+     "source": "IT之家",
+     "zh": "奇瑞捷豹路虎 FREELANDER 神行者 8 预售价格再降，叠加权益后最低 32.99 万元起"
+    },
+    {
+     "title": "Sources: Flipkart Minutes, the quick commerce service of Walmart&apos;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 (Jagmeet Singh/TechCrunch)",
+     "link": "https://www.techmeme.com/260823/p2#a260823p2",
+     "pubDate": "Sun, 23 Aug 2026 01:20:02 -0400",
+     "summary": "Jagmeet Singh / TechCrunch : Sources: Flipkart Minutes, the quick commerce service of Walmart's Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 &nbsp; &mdash;&nbsp; Indian startups spent years getting consumers accustomed to having groceries and everyday goo",
+     "source": "Techmeme",
+     "zh": "Sources: Flipkart Minutes, the quick commerce service of Walmart&apos;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 (Jagmeet Singh/TechCrunch)"
+    },
+    {
+     "title": "Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses (Financial Times)",
+     "link": "https://www.techmeme.com/260823/p1#a260823p1",
+     "pubDate": "Sun, 23 Aug 2026 01:15:01 -0400",
+     "summary": "Financial Times : Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses &nbsp; &mdash;&nbsp; Private tutors teach semiconductor basics and help polish CVs for hopefuls looking to join lucrative se",
+     "source": "Techmeme",
+     "zh": "Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses (Financial Times)"
+    },
+    {
+     "title": "索尼发邮件重申：PlayStation 数字游戏仅为授权许可，并非出售给玩家",
+     "link": "https://www.ithome.com/0/993/176.htm",
+     "pubDate": "Sun, 23 Aug 2026 05:04:18 GMT",
+     "summary": "IT之家 8 月 23 日消息，从 8 月 23 日开始，部分 PlayStation 用户计划关闭主机，在 9 月 1 日之前拒绝游玩任何游戏，也不在 PlayStation 平台上进行消费，以抗议索尼决定在 2028 年停止生产实体游戏光盘。 如今，一些用户开始收到索尼发送的电子邮件，其中详细说明了 PlayStation 关于数字游戏购买的服务条款，提醒用户此前已经同意 PlayStation 的服务条款。 邮件中的一部分内容再次强调，数字版 PlayStation 软件是授权给玩家使用，而不是出售给玩家的。如果玩家的账号被封禁或关闭，相关授权可能会被撤销。 目前尚不清楚这封邮件是在针对",
+     "source": "IT之家",
+     "zh": "索尼发邮件重申：PlayStation 数字游戏仅为授权许可，并非出售给玩家"
+    },
+    {
      "title": "藏在宇树、长鑫和寒武纪里的市值叙事秘密",
      "link": "https://www.huxiu.com/article/4885249.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 12:49:35 +0800",
@@ -1796,7 +1820,7 @@
      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
      "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
      "pubDate": "Sun, 23 Aug 2026 04:28:18 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 10 # Comments: 2",
      "source": "Hacker News",
      "zh": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has"
     },
@@ -1815,14 +1839,6 @@
      "summary": "本文来自微信公众号： 大橘财经 ，作者：王力 中国创新药出海的第一站，不是全球最大的医药市场美国，而是人口约2800万的澳大利亚？ 截至2026年8月，已有超70家中国创新药企业在澳大利亚开展临床试验。复星医药、开拓药业、康诺亚、英矽智能、衡泰生物、阿诺医药等均已将全球研发和临床布局延伸至澳洲。 据药融圈2026年8月不完全统计，从澳洲早期临床进一步走向全球授权的BD交易（Business Development，商务拓展交易），含里程碑在内的潜在总交易额已超过340亿美元。 从百济神州2014年首次在澳洲启动临床，到如今超过70家企业相继进入，这条路径已经覆盖ADC、双抗/三抗、siRNA、",
      "source": "虎嗅",
      "zh": "中国创新药出海第一站，为何选澳洲？"
-    },
-    {
-     "title": "The Covid-19 scandal is still unfolding",
-     "link": "https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding",
-     "pubDate": "Sun, 23 Aug 2026 04:16:50 +0000",
-     "summary": "Article URL: https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding Comments URL: https://news.ycombinator.com/item?id=49406021 Points: 6 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "The Covid-19 scandal is still unfolding"
     },
     {
      "title": "中签就像中彩票，A股掀打新狂潮",
@@ -1849,34 +1865,10 @@
      "zh": "第 48 届世界技能大赛 9 月 22 日上海开幕，新增无人机系统等 7 个项目"
     },
     {
-     "title": "沈腾主演电影《欢迎来龙餐馆》 总票房破 15 亿，进入年度前五",
-     "link": "https://www.ithome.com/0/993/169.htm",
-     "pubDate": "Sun, 23 Aug 2026 03:52:43 GMT",
-     "summary": "IT之家 8 月 23 日消息，据猫眼专业版数据，电影 《欢迎来龙餐馆》 上映 13 天，总票房破 15 亿。数据显示，该片已超越《蜘蛛侠：崭新之日》，进入 2026 年中国内地票房前五。 IT之家附 2026 年电影票房榜： 《飞驰人生 3》44.20 亿元 《功夫女足》23.06 亿元 《给阿嬷的情书》20.03 亿元 《八仙！》17.23 亿元 《欢迎来龙餐馆》15.03 亿元 《蜘蛛侠：崭新之日》14.88 亿元 《镖人：风起大漠》14.48 亿元 《惊蛰无声》13.65 亿元 《熊出没 · 年年有熊》10.67 亿元 《消失的人》5.75 亿元 《欢迎来龙餐馆》是由宁浩监制，文牧野执",
-     "source": "IT之家",
-     "zh": "沈腾主演电影《欢迎来龙餐馆》 总票房破 15 亿，进入年度前五"
-    },
-    {
-     "title": "赵长江：智界 RX 预售开启 24 小时，L3 级自动驾驶架构版本订单达到 90%",
-     "link": "https://www.ithome.com/0/993/168.htm",
-     "pubDate": "Sun, 23 Aug 2026 03:48:09 GMT",
-     "summary": "IT之家 8 月 23 日消息，智界汽车执行董事及执行副总裁赵长江今日发文透露， 智界 RX 预售开启 24 小时，L3 级自动驾驶架构版本的订单达到 90% 。 赵长江还表示，下订用户中，有不少是法拉利、保时捷、宝马车主，他们认为智界 RX 是智能时代更好的选择，同时也有部分鸿蒙智行 9 系车主增购，认为智界 RX 是家里第二台适合自己开的车。 目前这款新车的各版本配置已出炉，预售价 29.98 万元起。 IT之家汇总智界 RX 新车主要信息如下： 智界 RX 定位中大型纯电轿跑 SUV， 基于华为途灵平台打造 ，提供单电机后驱与双电机四驱两种布局，车身尺寸为 5020×2007×1585m",
-     "source": "IT之家",
-     "zh": "赵长江：智界 RX 预售开启 24 小时，L3 级自动驾驶架构版本订单达到 90%"
-    },
-    {
-     "title": "Microsoft Blames Windows Gaming Issues on RGB Lighting Devices",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
-     "pubDate": "Sun, 23 Aug 2026 03:45:05 +0000",
-     "summary": "Article URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/ Comments URL: https://news.ycombinator.com/item?id=49405895 Points: 8 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Microsoft Blames Windows Gaming Issues on RGB Lighting Devices"
-    },
-    {
      "title": "The Golden Rule for Becoming a Better Writer",
      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
      "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 16 # Comments: 2",
      "source": "Hacker News",
      "zh": "The Golden Rule for Becoming a Better Writer"
     },
@@ -1916,7 +1908,7 @@
      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
      "link": "https://martypc.net/",
      "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
-     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 21 # Comments: 0",
+     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 43 # Comments: 2",
      "source": "Hacker News",
      "zh": "MartyPC is a cross-platform emulator of early PCs written in Rust"
     },
@@ -1956,9 +1948,17 @@
      "title": "I Dream of Quieter Computing",
      "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
      "pubDate": "Sun, 23 Aug 2026 02:33:22 +0000",
-     "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 11 # Comments: 0",
+     "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 26 # Comments: 6",
      "source": "Hacker News",
      "zh": "I Dream of Quieter Computing"
+    },
+    {
+     "title": "The Art and Beauty of Blade Runner",
+     "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+     "pubDate": "Sun, 23 Aug 2026 00:56:03 +0000",
+     "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 33 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "The Art and Beauty of Blade Runner"
     },
     {
      "title": "Sources and documents detail how Tether&apos;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply (Reuters)",
@@ -1969,20 +1969,12 @@
      "zh": "Sources and documents detail how Tether&apos;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply (Reuters)"
     },
     {
-     "title": "AI agents&apos; growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents (Katherine Bindley/Wall Street Journal)",
-     "link": "https://www.techmeme.com/260822/p13#a260822p13",
-     "pubDate": "Sat, 22 Aug 2026 18:00:02 -0400",
-     "summary": "Katherine Bindley / Wall Street Journal : AI agents' growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents &nbsp; &mdash;&nbsp; The growing capabilities of AI give new meaning to working yourself to the b",
-     "source": "Techmeme",
-     "zh": "AI agents&apos; growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents (Katherine Bindley/Wall Street Journal)"
-    },
-    {
-     "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-     "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-     "pubDate": "Sat, 22 Aug 2026 20:24:20 +0000",
-     "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
-     "source": "TechCrunch",
-     "zh": "Will the DOJ’s investigation into a16z spook other VCs?"
+     "title": "NanoGPT Speedrun Frontier",
+     "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+     "pubDate": "Sat, 22 Aug 2026 22:14:27 +0000",
+     "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 78 # Comments: 20",
+     "source": "Hacker News",
+     "zh": "NanoGPT Speedrun Frontier"
     }
    ]
   },
@@ -2241,52 +2233,28 @@
    "total": 13,
    "items": [
     {
-     "title": "北京启动防汛四级应急响应",
-     "link": "http://finance.eastmoney.com/news/11790,202608233850257947.html",
-     "pubDate": "Sun, 23 Aug 2026 12:41:57 +0800",
-     "summary": "北京市防汛办提示：8月23日10时30分，北京市启动防汛四级应急响应。请各单位启动值守备勤和零报告制度，跟踪研判雨情汛情险情，落实低洼院落、老旧危房、道路积水和山区包保责任，重点做好山洪、地质灾害避险应对，城区积滞水处置、危险区域人员转移安置工作。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "北京启动防汛四级应急响应"
+     "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
+     "link": "https://wallstreetcn.com/articles/3780052",
+     "pubDate": "Sun, 23 Aug 2026 13:18:34 +0800",
+     "summary": "本周，美国市场罕见出现“股、债、汇”同步承压：美股、美债和美元同时走弱，与此同时日元也未能幸免。市场对美国财政部试图通过债券回购和供给管理稳定长端利率的政策效果开始产生质疑。 8月21日，野村证券宏观策略师松泽中认为， 贝森特试图通过扩大国债回购压低长端收益率的“贝森特看跌期权”正在失效。政策干预不仅未能持续稳定债市，反而进一步加大了美元的下行压力。 本周三，美国财政部宣布将10年至30年期美债回购规模“至少翻倍”，距上次公布回购计划仅两周。然而，政策对市场的支撑仅维持不到一天：长端美债收益率短暂回落后迅速反弹，整周基本持平。 更值得警惕的是，美国的政策路径可能成为日本的前车之鉴。松泽中警告，",
+     "source": "华尔街见闻",
+     "zh": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险"
     },
     {
-     "title": "联影、天津大学联合发布全球首个磁共振脑机接口全栈式解决方案uMR神观",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850258292.html",
-     "pubDate": "Sun, 23 Aug 2026 12:40:48 +0800",
-     "summary": "全国首届磁共振 脑机接口 大会今日在天津召开。会议期间， 联影医疗 携手天津大学发布了全球首个磁共振 脑机接口 全栈式解决方案uMR神观，并联合发起成立磁共振 脑机接口 创新联盟。 联影医疗 磁共振事业部、联合创新部总监袁健闵介绍，uMR神观打通“成像-仿真-调控-评估-算法迭代”完整闭环，使磁共振从影像工具升级为脑机交互核心中枢。天津大学医学院副院长范秋筠表示，磁共振脑机接口创新联盟旨在打通“采集-解码-调控-评估”全链条，推动我国在这一战略性前沿方向抢占国际制高点。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "联影、天津大学联合发布全球首个磁共振脑机接口全栈式解决方案uMR神观"
+     "title": "【环球财经】美债收益率走高 欧洲债市承压加剧",
+     "link": "http://www.eeo.com.cn/2026/0823/1008476.shtml",
+     "pubDate": "Sun, 23 Aug 2026 13:13:11 +0800",
+     "summary": "新华财经贝尔格莱德8月23日电（记者金丹依）近日，美国长期国债收益率升至近20年高位，致使欧洲债券市场持续受到影响。尽管美国财政部出手干预一度缓解美债抛售压力，但欧洲债市仍普遍承压。 21日，作为美国财...",
+     "source": "经济观察网",
+     "zh": "【环球财经】美债收益率走高 欧洲债市承压加剧"
     },
     {
-     "title": "上纬新材“启元机器人”正式开启预订 预计首发发货最早9月",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850258150.html",
-     "pubDate": "Sun, 23 Aug 2026 12:39:52 +0800",
-     "summary": "8月23日，启元 机器人 正式开启启元Q1、启元T1双产品预订，用户可通过上纬启元官方小程序、天猫、抖音、B站官方店铺，以及线下体验活动参与预订，预计首发发货时间为2026年9月。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "上纬新材“启元机器人”正式开启预订 预计首发发货最早9月"
-    },
-    {
-     "title": "阿里巴巴宣布拟在香港配售新股 配售总额为800亿港元",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850258029.html",
-     "pubDate": "Sun, 23 Aug 2026 12:39:41 +0800",
-     "summary": "阿里巴巴 宣布拟在香港配售新股，配售总额为800亿港元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "阿里巴巴宣布拟在香港配售新股 配售总额为800亿港元"
-    },
-    {
-     "title": "浙商策略：市场连续反弹之后短暂步入调整 建议中线仓位继续持有",
-     "link": "http://finance.eastmoney.com/news/1370,202608233850257516.html",
-     "pubDate": "Sun, 23 Aug 2026 12:16:17 +0800",
-     "summary": "核心观点 本周市场在上半周继续“进二”反弹，周三开始进入“退一”调整，全周以调整为主。展望后市，尽管市场在连续反弹之后短暂步入调整，但从时间-结构关系上来讲，我们依旧认为中线反弹尚未结束，目前只是在“进二退一”的“退一”过程中，整理后依然还有继续反弹的可能性，因此整体上无需对市场过分悲观。配置方面，基于“市场步入退一过程，修整过后有望上攻”的判断，我们建议：择时方面，建议中线仓位继续持有、等待中线反弹逐步到位，短线仓位可以在指数“进二退一”的“退一”时逢低参与，但不宜在“退一”调整时自乱阵脚。行业方面，前期推荐的 创新药 近期涨幅较大，可以逢低捡漏但不能随意追高；证券、恒生科技近期逐步完成“退",
-     "source": "东方财富股票",
-     "zh": "浙商策略：市场连续反弹之后短暂步入调整 建议中线仓位继续持有"
-    },
-    {
-     "title": "天风证券：本轮政策底已逐步显现 长线资金正积极入场布局",
-     "link": "http://finance.eastmoney.com/news/1370,202608233850257374.html",
-     "pubDate": "Sun, 23 Aug 2026 12:13:24 +0800",
-     "summary": "核心观点： 当前A股指数较前期调整后，估值性价比有所改善。与此同时，监管层对市场动态保持高度关注，长线资金正积极入场布局。基于这些积极信号，我们认为本轮政策底已逐步显现，后续需密切关注政策底向市场底传导的节奏与力度。 摘要： 从政策底到市场底。1）当前A股指数较前期调整后，估值性价比有所改善。与此同时，监管层对市场动态保持高度关注，长线资金正积极入场布局。基于这些积极信号，我们认为本轮政策底已逐步显现，后续需密切关注政策底向市场底传导的节奏与力度。回顾2012年、2018年及2024年三轮周期，政策组合拳对市场情绪的提振效能正逐步增强。2）普林格周期同步指标和先行指标出现结构型分化：先行指标方",
-     "source": "东方财富股票",
-     "zh": "天风证券：本轮政策底已逐步显现 长线资金正积极入场布局"
+     "title": "天天315｜AI客服成消费“拦路虎”  科技不能沦为甩客工具",
+     "link": "http://www.eeo.com.cn/2026/0823/1008475.shtml",
+     "pubDate": "Sun, 23 Aug 2026 13:13:10 +0800",
+     "summary": "据《人民日报》消息，中消协最新投诉数据显示，人工通道层层卡顿、AI承诺不算数、机器回答错误误导消费，诸多乱象让无数消费者求助无门，体验感大打折扣。",
+     "source": "经济观察网",
+     "zh": "天天315｜AI客服成消费“拦路虎”  科技不能沦为甩客工具"
     },
     {
      "title": "记者手记｜省运会落幕：致敬高光，亦致敬平凡",
@@ -2359,22 +2327,6 @@
      "summary": "8月21日，国家卫生健康委召开新闻发布会，介绍时令节气与健康（立秋、处暑）有关情况。发布会上，北京大学人民医院主任医师张晓辉介绍，白血病既往被世界上公认为“不治之症”，但是随着技术的进步和方案的进步，白血病已经达到了可治可控，甚至大部分患者走向治愈。我们从原来的技术跟跑、并跑到现在领跑全世界，中国在造血干细胞移植领域处在世界的前沿，使我国大多数患者能够在技术条件完备的体系下，得到治愈。因此，我们能...",
      "source": "经济观察网",
      "zh": "国家卫健委发布会：白血病不再是不治之症"
-    },
-    {
-     "title": "天津落地金融租赁公司首单大额套保业务",
-     "link": "http://www.eeo.com.cn/2026/0823/1008287.shtml",
-     "pubDate": "Sun, 23 Aug 2026 11:13:04 +0800",
-     "summary": "上证报中国证券网讯（记者 常佩琦）记者自国家外汇管理局天津市分局获悉，近日天津落地金融租赁公司首单大额套保业务，开辟金融租赁行业汇率避险新路径。记者了解到，针对金融租赁公司开展外汇套保业务的资质痛点，国家外汇管理局天津市分局强化跨部门联动，于今年4月推动辖内某金融租赁公司获得天津金融监管局批复开展基础类衍生产品交易资质，成为天津辖内首家具备该资质的金融租赁公司。资质获批后，国家外汇管理局天津市分局多...",
-     "source": "经济观察网",
-     "zh": "天津落地金融租赁公司首单大额套保业务"
-    },
-    {
-     "title": "【环球财经】伊朗称参与美对伊“经济战”的周边国家将被视为敌人",
-     "link": "http://www.eeo.com.cn/2026/0823/1008250.shtml",
-     "pubDate": "Sun, 23 Aug 2026 10:52:16 +0800",
-     "summary": "新华财经德黑兰8月23日电 据伊朗伊斯兰共和国广播电视台22日夜间报道，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊警告周边国家不要参与美国对伊朗发动的“经济战”，否则将被伊朗视为敌人。 雷扎伊在接受这家...",
-     "source": "经济观察网",
-     "zh": "【环球财经】伊朗称参与美对伊“经济战”的周边国家将被视为敌人"
     },
     {
      "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
@@ -2479,6 +2431,46 @@
      "summary": "“The cost is absolutely ridiculous.”",
      "source": "MarketWatch",
      "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+    },
+    {
+     "title": "SA Asks: How could Trump's new executive order impact vaccine makers?",
+     "link": "https://seekingalpha.com/news/4636043-sa-asks-how-could-trumps-new-executive-order-impact-vaccine-makers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 15:49:45 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: How could Trump's new executive order impact vaccine makers?"
+    },
+    {
+     "title": "Key deals this week: Stripe, KKR, Virtu and more",
+     "link": "https://seekingalpha.com/news/4635957-key-deals-this-week-stripe-kkr-virtu-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 15:15:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: Stripe, KKR, Virtu and more"
+    },
+    {
+     "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+     "link": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+     "pubDate": "Sat, 22 Aug 2026 18:57:46 GMT",
+     "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
+     "source": "CNBC",
+     "zh": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway"
+    },
+    {
+     "title": "Iconic fast-food fried chicken chain closes over 300 restaurants",
+     "link": "https://finance.yahoo.com/small-business/articles/iconic-fast-food-fried-chicken-184700958.html",
+     "pubDate": "2026-08-22T18:47:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Iconic fast-food fried chicken chain closes over 300 restaurants"
+    },
+    {
+     "title": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says",
+     "link": "https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2",
+     "pubDate": "Sat, 22 Aug 2026 18:17:56 GMT",
+     "summary": "Washington’s ambassador to Ankara says attack on air base could have been ‘aggressive . . . pre-election concept’ ahead of October polls",
+     "source": "Financial Times",
+     "zh": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says"
     }
    ]
   },
