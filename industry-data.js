@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 15:56:02",
+ "generated_at": "2026/8/23 16:18:11",
  "recent_days": 7,
  "industries": [
   {
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+     "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+     "pubDate": "Sun, 23 Aug 2026 07:39:28 +0000",
+     "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” ",
+     "source": "NASA",
+     "zh": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming"
+    },
+    {
      "title": "How will NASA's astronaut training hub change with commercial space stations?",
      "link": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations",
      "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
@@ -1432,14 +1440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Daniel Biedermann, a partner at NewSpace Capital, gives his insights on what technologies are driving the future of space tech. The post Op-ed: The Technologies That Could Define the Future of Space appeared first on Payload .",
      "source": "Payload",
      "zh": "Op-ed: The Technologies That Could Define the Future of Space"
-    },
-    {
-     "title": "Europe’s Scorching Summer",
-     "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
-     "pubDate": "Fri, 21 Aug 2026 04:01:00 +0000",
-     "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
-     "source": "NASA",
-     "zh": "Europe’s Scorching Summer"
     },
     {
      "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
@@ -1746,6 +1746,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "吉利汽车测试固态电池：500Wh/kg 电芯能量密度，目标续航破千公里",
+     "link": "https://www.ithome.com/0/993/227.htm",
+     "pubDate": "Sun, 23 Aug 2026 08:06:54 GMT",
+     "summary": "IT之家 8 月 23 日消息，据外媒 insideevs 当地时间 20 日报道，吉利正在为 固态电池技术的实际应用 做准备，计划从 2027 年开始在旗下多个品牌中开展固态电池试点部署，作为子公司的沃尔沃也有望成为其中之一。 吉利公布的固态电池参数十分突出： 电芯能量密度可达 500Wh/kg ，约为现有“金砖电池”的两倍。续航方面，吉利目标是让搭载该电池的车型达到 柴油车级别的续航水平 ，单次充电行驶超过 1000 公里，设计使用寿命更可 超过 100 万公里 。 固态电池相比传统电池还具有多项优势，例如 减轻整车重量、减少易挥发化学物质 ，从而降低事故中的安全风险和热失控可能性，同时提",
+     "source": "IT之家",
+     "zh": "吉利汽车测试固态电池：500Wh/kg 电芯能量密度，目标续航破千公里"
+    },
+    {
+     "title": "英伟达砸 60 亿美元投资 Poolside，意图打造中国开源 AI 竞争对手",
+     "link": "https://www.ithome.com/0/993/226.htm",
+     "pubDate": "Sun, 23 Aug 2026 08:05:55 GMT",
+     "summary": "IT之家 8 月 23 日消息，据《华尔街日报》今天报道，英伟达同意向人工智能初创企业 Poolside 支付 60 亿美元 （IT之家注：现汇率约合 404.58 亿元人民币） ，换取该公司的 AI 模型软件授权，同时将向该公司 109 名员工提供工作机会， 旨在开发一款能够与 DeepSeek 和 Kimi K3 竞争的人工智能模型 。 匿名知情人士透露，英伟达还将向 Poolside 追加投资 10 亿美元 （现汇率约合 67.43 亿元人民币） ，对应 Poolside 的 120 亿美元 （现汇率约合 809.17 亿元人民币） 估值。此次授权为非独家授权，Poolside 将保持独",
+     "source": "IT之家",
+     "zh": "英伟达砸 60 亿美元投资 Poolside，意图打造中国开源 AI 竞争对手"
+    },
+    {
+     "title": "A profile of Judge Yvonne Gonzalez Rogers, who is presiding over US state AGs&apos; social media addiction lawsuit against Meta and oversaw the Musk v. Altman trial (Jeffrey Kopp/CNBC)",
+     "link": "https://www.techmeme.com/260823/p4#a260823p4",
+     "pubDate": "Sun, 23 Aug 2026 04:05:29 -0400",
+     "summary": "Jeffrey Kopp / CNBC : A profile of Judge Yvonne Gonzalez Rogers, who is presiding over US state AGs' social media addiction lawsuit against Meta and oversaw the Musk v. Altman trial &nbsp; &mdash;&nbsp; It's been a crazy four months for Yvonne Gonzalez Rogers.&nbsp; &mdash;&nbsp; The judge in the No",
+     "source": "Techmeme",
+     "zh": "A profile of Judge Yvonne Gonzalez Rogers, who is presiding over US state AGs&apos; social media addiction lawsuit against Meta and oversaw the Musk v. Altman trial (Jeffrey Kopp/CNBC)"
+    },
+    {
+     "title": "阿里七年来最大的资本运作",
+     "link": "https://www.tmtpost.com/8113306.html",
+     "pubDate": "Sun, 23 Aug 2026 16:03:42 +0800",
+     "summary": "极度烧钱、重资产的AI军备竞赛，已经不能纯靠自由现金流来支撑了。阿里的自由现金流已经连续两个季度转负。 财报会上阿里CFO徐宏说，必须capex先行，800亿配股，就是给这句话一个及时的注脚。而吴泳铭的三年回本\"狂言\"，也有了资本的重量。",
+     "source": "钛媒体",
+     "zh": "阿里七年来最大的资本运作"
+    },
+    {
+     "title": "机器人越来越便宜，高端会成新战场？",
+     "link": "https://www.huxiu.com/article/4885265.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 16:02:47 +0800",
+     "summary": "出品 | 妙投APP 作者 | 董必政 编辑 | 丁萍 头图 | 中坚科技 今年的WRC2026（世界机器人大会），人更挤了。 不过，在展馆里走一圈，虎嗅发现一个明显变化。去年大家还在比谁家机器人能翻跟头、能跑马拉松，今年的话题几乎整齐划一地转向了\"落地场景\"和\"如何干活\"，进工厂、做分拣、搞巡检，每个展台都在讲同一套叙事。 难道除了&ldquo;进厂打螺丝&rdquo;，就没有更有差异化的厂商吗？在产品和场景趋同下，机器人厂商还能有什么样的打法？ 在路过5米巨型ZERO概念人形机器人时，我们在中坚科技（002779.SZ）的展台找到了新的解题思路。有意思的是，对中坚科技机器人感兴趣的还有，N",
+     "source": "虎嗅",
+     "zh": "机器人越来越便宜，高端会成新战场？"
+    },
+    {
+     "title": "中国卫通推出“卫星移动数据业务”，合约机套餐售价 27999 元起",
+     "link": "https://www.ithome.com/0/993/224.htm",
+     "pubDate": "Sun, 23 Aug 2026 07:59:38 GMT",
+     "summary": "IT之家 8 月 23 日消息，中国卫通 8 月 21 日宣布，推出“卫星移动数据业务”，首批适配三款官方认证终端。 中国卫通表示，即日起，面向消费级市场推出的“卫星移动数据业务”正式全面上线开售，推出三款移动数据业务适配的合约机产品，并由终端制造厂家统一面向市场销售。 据介绍，用户连接适配的卫星上网机 Wi-Fi 进入线上平台，完成“注册登录 —— 激活权益卡 —— 上网使用”三步，即可启用卫星高速上网。 IT之家获悉，用户首批可通过选购以下三款移动数据业务适配的合约机享受高效稳定的卫星互联网接入服务： 便携式卫星上网合约机套餐 官方套餐售价： 27,999 元 核心配置： &nbsp;1 ",
+     "source": "IT之家",
+     "zh": "中国卫通推出“卫星移动数据业务”，合约机套餐售价 27999 元起"
+    },
+    {
+     "title": "出货已超4万台，工厂准备好为“人形”买单了吗？",
+     "link": "https://www.huxiu.com/article/4885268.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 15:58:35 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：王碧微 张校毓 8月19日至23日，2026世界机器人大会（WRC）在北京亦庄举行，300余家企业携超过2000件展品参展，首发新品150余款。本届大会首次设置了“采购日”，主题措辞也第一次把“产需”放在了“炫技”之前。 开幕当天，宇树科技（688836.SH）在上交所科创板挂牌上市，成为A股人形机器人第一股；同日下午，小米新一代双足人形机器人“铁大”首次在大会现场公开亮相。 今年上半年，中国人形机器人出货量已超4万台，全球占比进一步提升至97%。IT桔子事件库数据显示，2026年上半年国内具身智能赛道融资总金额达到935亿元，较2025上半年提升了5倍。",
+     "source": "虎嗅",
+     "zh": "出货已超4万台，工厂准备好为“人形”买单了吗？"
+    },
+    {
+     "title": "人民币对美元升破6.72，创近三年半新高，“越结越高”效应下此轮升值停不下来？",
+     "link": "https://www.huxiu.com/article/4885267.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 15:56:59 +0800",
+     "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者，原文标题：《人民币对美元升破6.72，创近三年半新高！“越结越高”效应下此轮升值停不下来？》 8月21日，人民币对美元继续升值。在岸市场上，盘中一度达6.7192，人民币对美元汇率创下近三年半新高。离岸市场上，人民币对美元盘中一度达6.7179。 2026年以来，在岸人民币对美元升幅已近3.85%。当前国内维持低利率条件，中美利差约300BP。在中美利差压力之下，人民币对美元币值近一年多时间一路抬升，该走势背后，新的驱动因素在发挥着更重要的作用。 人民币对美元屡屡升值，经济学者白明接受《每日经济新闻》记者（以下简称每经记者）采访时指出，在外",
+     "source": "虎嗅",
+     "zh": "人民币对美元升破6.72，创近三年半新高，“越结越高”效应下此轮升值停不下来？"
+    },
+    {
      "title": "联想推出 LOQ 15IPH11 游戏本：酷睿 Ultra 7 356H 处理器、RTX5050/5060 显卡",
      "link": "https://www.ithome.com/0/993/223.htm",
      "pubDate": "Sun, 23 Aug 2026 07:45:42 GMT",
@@ -1778,52 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "上纬新材董事长彭志辉：机器人的终点不是站在舞台上跳舞，而是真正进入每一个人的生活"
     },
     {
-     "title": "莲花 ELETRE / EMEYA 900 GOLD 车型 8 月 31 日上市，预售价 92.8 万 / 91.8 万元起",
-     "link": "https://www.ithome.com/0/993/219.htm",
-     "pubDate": "Sun, 23 Aug 2026 07:30:25 GMT",
-     "summary": "IT之家 8 月 23 日消息，莲花跑车昨日宣布， 黄金双 900 将于 8 月 31 日上市 。 据IT之家此前报道，8 月 12 日，莲花汽车 ELETRE 900 GOLD 和 EMEYA 900 GOLD 两款车型开启预售 ， 前者预售价为 92.8 万元起，后者预售价为 91.8 万元起 。 两款新车均搭载高性能核心操控装备包，包含内外饰碳纤维拓展包、10 活塞碳陶瓷制动、锻造碳纤维插片轮圈以及 900 GOLD 专属碳纤维徽标与纹理。官方称相应装备包助力 EMEYA 以原厂状态在 F1 雪邦赛道实现了 2 分 20 秒 317 的圈速成绩， 刷新了该赛道量产电动车圈速纪录 。 两款",
-     "source": "IT之家",
-     "zh": "莲花 ELETRE / EMEYA 900 GOLD 车型 8 月 31 日上市，预售价 92.8 万 / 91.8 万元起"
-    },
-    {
-     "title": "iQOO Z11S 手机首销优惠价延长至 8 月 31 日：品牌首款万级大电池、天玑 7500 满血版，1799 元起",
-     "link": "https://www.ithome.com/0/993/213.htm",
-     "pubDate": "Sun, 23 Aug 2026 07:28:32 GMT",
-     "summary": "IT之家 8 月 23 日消息，iQOO 官方宣布， iQOO Z11S 的首销优惠价延长至 8 月 31 日（此前活动截止日期为 8 月 24 日）。该机是 iQOO 首款万级大电池机型，搭载 10000mAh 蓝海电池，配备联发科天玑 7500 满血版芯片， 首销优惠价 1799 元起、叠加国补到手价 1529.15 元起 。 京东 iQOO Z11S 首销优惠价 1799 元起 直达链接 8GB+128GB：零售价 1999 元，首销优惠价 1799 元，国补到手价 1529.15 元 8GB+256GB：零售价 2199 元，首销优惠价 1999 元，国补到手价 1699.15 元 1",
-     "source": "IT之家",
-     "zh": "iQOO Z11S 手机首销优惠价延长至 8 月 31 日：品牌首款万级大电池、天玑 7500 满血版，1799 元起"
-    },
-    {
      "title": "黄仁勋女儿，从厨师到年薪800万",
      "link": "https://www.huxiu.com/article/4885261.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 15:17:19 +0800",
      "summary": "本文来自微信公众号： 投资界 ，作者：王露 黄仁勋女儿罕见现身北京。 2026世界机器人大会开幕当天，黄敏珊（Madison Huang）来到北京亦庄，一路走访越疆、光轮智能、优必选等机器人公司。 这位90后“英伟达千金”，如今担任英伟达物理AI平台产品与技术营销高级总监，年薪120万美元，约合人民币800多万元。鲜为人知的是，她最早学的是烹饪，做过厨师，也曾供职于LVMH。兜兜转转，最终以实习生身份进入父亲创办的英伟达。 此次她来到北京，恰逢中国机器人产业最热闹的时刻。宇树科技刚刚敲钟，中国机器人IPO队伍正在赶来。机器人下半场，已经开局。 黄仁勋女儿 来北京看机器人 全球机器人的目光再次落",
      "source": "虎嗅",
      "zh": "黄仁勋女儿，从厨师到年薪800万"
-    },
-    {
-     "title": "亚马逊 Kindle 电纸书、Fire TV 电视棒等硬件产品涨价，涨幅最高 60%",
-     "link": "https://www.ithome.com/0/993/194.htm",
-     "pubDate": "Sun, 23 Aug 2026 07:15:39 GMT",
-     "summary": "IT之家 8 月 23 日消息，据科技媒体 The Verge 今天报道，亚马逊以内存和存储元器件成本大幅上涨为由，上调多款 Kindle 电纸书、Fire 电视棒、Echo 智能音箱和 Eero 全屋网络方案的售价。 亚马逊的平价硬件产品受影响最大。其中 Echo Dot 智能音箱售价从 49.99 美元 （现汇率约合 337.1 元人民币） 上涨至 79.99 美元 （现汇率约合 539.4 元人民币） 。 Fire TV Stick 4K Max 的价格也上涨超 40%，从 59.99 美元 （现汇率约合 404.5 元人民币） 涨至 84.99 美元 （现汇率约合 573.1 元人民币",
-     "source": "IT之家",
-     "zh": "亚马逊 Kindle 电纸书、Fire TV 电视棒等硬件产品涨价，涨幅最高 60%"
-    },
-    {
-     "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-     "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-     "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
-     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 43 # Comments: 19",
-     "source": "Hacker News",
-     "zh": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
-    },
-    {
-     "title": "JIT Compiling Code in 5μs",
-     "link": "https://malisper.me/jit-compiling-code-in-5-us/",
-     "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
-     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 27 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "JIT Compiling Code in 5μs"
     },
     {
      "title": "藏在宇树、长鑫和寒武纪里的市值叙事秘密",
@@ -1834,28 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "藏在宇树、长鑫和寒武纪里的市值叙事秘密"
     },
     {
-     "title": "The End of an Athlon",
-     "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-     "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
-     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 38 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "The End of an Athlon"
-    },
-    {
      "title": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)",
      "link": "https://www.techmeme.com/260823/p3#a260823p3",
      "pubDate": "Sun, 23 Aug 2026 01:30:01 -0400",
      "summary": "Financial Times : The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &nbsp; &mdash;&nbsp; Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during marke",
      "source": "Techmeme",
      "zh": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)"
-    },
-    {
-     "title": "80%的具身订单可能是假的，缺订单正让赛道疯狂",
-     "link": "https://www.huxiu.com/article/4885231.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 13:20:26 +0800",
-     "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜WRC现场拍摄 &ldquo;世界模型这个概念太抽象了，现在谁说世界模型，大概率是为了圈钱。&rdquo; &ldquo;现在市面上90%做世界模型的团队，他们连自己都不相信&lsquo;世界模型&rsquo;。&rdquo; 有多位长期看具身智能的投资人这样对虎嗅说道。2026年的世界机器人大会（ 以下简称&ldquo;WRC&rdquo; ）如约而至，今年场内场外几乎都在聊世界模型。 所以，世界模型究竟是什么？ 至少从2025年开始，在国内具身智能的语境里，我们听到的&ldquo;世界模型&rdquo;，大部分时候指的是具身智能的&ldq",
-     "source": "虎嗅",
-     "zh": "80%的具身订单可能是假的，缺订单正让赛道疯狂"
     },
     {
      "title": "Sources: Flipkart Minutes, the quick commerce service of Walmart&apos;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 (Jagmeet Singh/TechCrunch)",
@@ -1874,44 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses (Financial Times)"
     },
     {
-     "title": "戚薇授权AI短剧，观众为什么坐不住了？",
-     "link": "https://www.huxiu.com/article/4885240.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 12:41:37 +0800",
-     "summary": "本文来自微信公众号： 新周刊 ，作者：刀巾，编辑：陆一鸣，题图来自：视觉中国 如果盘点AI时代的年轻人独有的消遣方式，下班后缩在被窝里刷一部末世AI短剧，绝对能提名前三。 从最初版本的《十二星座决定你的庇护所》，到完美满足囤积爱好的&ldquo;重生之我在极寒末世囤货&rdquo;，再到&ldquo;我和闺蜜在丧尸末日觉醒了超绝组合技&rdquo;的打斗爽文，末世题材已经被玩出了花。 （图/红果短剧） 无论是抽象的平面画风还是精致的3D人像，只要一看上就挪不开眼。嘴上说着AI短剧有什么好看的，手指却诚实地划开了下一集。 但近期，一条真人AI短片却难得地引发了热议。画面里，随着镜头从战斗服饰特写",
-     "source": "虎嗅",
-     "zh": "戚薇授权AI短剧，观众为什么坐不住了？"
-    },
-    {
      "title": "享界G9的野心：把硬派SUV卖给更多豪华车用户",
      "link": "https://www.tmtpost.com/8112877.html",
      "pubDate": "Sun, 23 Aug 2026 12:39:30 +0800",
      "summary": "当豪华SUV开始走向户外，享界G9希望用科技、舒适与探索能力，打开旗舰SUV新的生活方式。",
      "source": "钛媒体",
      "zh": "享界G9的野心：把硬派SUV卖给更多豪华车用户"
-    },
-    {
-     "title": "从打球机器人，看Physical AI 的路线之争",
-     "link": "https://www.huxiu.com/article/4885248.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 12:37:24 +0800",
-     "summary": "本文来自微信公众号： 42号电波 ，作者：小波，编辑：大吉，原文标题：《从打球机器人，看 Physical AI 的路线之争》 8月22日晚上，第二届世界人形机器人运动会开幕式上，银河通用把一台人形机器人带到了「冰丝带」的网球场。站在球网另一侧的是真正的人类运动员。 机器人要做的也不再是提前编排好的挥拍动作：它需要追踪高速来球，判断球未来会落在哪里，根据球的位置调整脚步，再协调腿、腰、肩和手臂完成击球。现场三轮对拉中，「银河·星仔」每轮一来一回都超过20次；在与郑洁的单打展示里，正手、反手、底线移动和连续回球都被放进了一个不断变化的真实对抗过程。 银河通用这套系统背后，是清华大学、银河通用等团",
-     "source": "虎嗅",
-     "zh": "从打球机器人，看Physical AI 的路线之争"
-    },
-    {
-     "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
-     "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-     "pubDate": "Sun, 23 Aug 2026 04:28:18 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 29 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has"
-    },
-    {
-     "title": "The Golden Rule for Becoming a Better Writer",
-     "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-     "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 78 # Comments: 45",
-     "source": "Hacker News",
-     "zh": "The Golden Rule for Becoming a Better Writer"
     },
     {
      "title": "Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi (Robbie Whelan/Wall Street Journal)",
@@ -1946,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Iran-linked hackers shut down a small UK power plant for four days, coinciding with a wave of Iran-affiliated attacks on US water utilities (Telegraph)"
     },
     {
-     "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-     "link": "https://martypc.net/",
-     "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
-     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 86 # Comments: 22",
-     "source": "Hacker News",
-     "zh": "MartyPC is a cross-platform emulator of early PCs written in Rust"
-    },
-    {
      "title": "世界模型站上风口，机器人距离“真正干活”还有多远？",
      "link": "https://www.tmtpost.com/8113119.html",
      "pubDate": "Sun, 23 Aug 2026 11:11:25 +0800",
@@ -1978,12 +1946,44 @@ window.INDUSTRY_DATA = {
      "zh": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders"
     },
     {
-     "title": "26岁离开10亿私募，一个交易天才与他的AI Trading创业｜独家对话",
-     "link": "https://www.tmtpost.com/8111128.html",
-     "pubDate": "Sun, 23 Aug 2026 10:42:45 +0800",
-     "summary": "一个人就是一支AI 交易团队。",
-     "source": "钛媒体",
-     "zh": "26岁离开10亿私募，一个交易天才与他的AI Trading创业｜独家对话"
+     "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+     "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+     "pubDate": "Sat, 22 Aug 2026 20:24:20 +0000",
+     "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+     "source": "TechCrunch",
+     "zh": "Will the DOJ’s investigation into a16z spook other VCs?"
+    },
+    {
+     "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
+     "link": "https://www.solidot.org/story?sid=85165",
+     "pubDate": "Sat, 22 Aug 2026 23:59:22 +0800",
+     "summary": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodomain shedding）的快速细胞信号传导过程进入血液的——蛋白质并非新产生并释放，而是细胞表面已有的蛋白质片段被切",
+     "source": "Solidot",
+     "zh": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同"
+    },
+    {
+     "title": "Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份",
+     "link": "https://www.solidot.org/story?sid=85164",
+     "pubDate": "Sat, 22 Aug 2026 23:30:51 +0800",
+     "summary": "2022 年 9 月一名黑客泄漏了当时尚未宣布的 GTA6 的图片和视频，此事促使开发商 Rockstar Games 加强了安全措施。然而到了 2026 年 8 月游戏还有 3 个月即将发售时，自称 Cyber​​Leek 的个人或组织发布了 GTA6 的一系列新视频，视频显示泄密者手中可能有一个可运行的版本，也就是游戏本体被盗了。彭博社援引知情人士的消息称，Rockstar 尚未确定泄密者身份，也不知道游戏本体是如何泄漏出去的。该公司目前正全力查明泄露源头并追踪泄密者。为了识别泄密者，Rockstar 母公司 Take-Two 的律师正向法院申请传票，要求微软和 Discord 提供信息帮",
+     "source": "Solidot",
+     "zh": "Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份"
+    },
+    {
+     "title": "因门把手安全隐患特斯拉在华召回近 300 万辆车",
+     "link": "https://www.solidot.org/story?sid=85163",
+     "pubDate": "Sat, 22 Aug 2026 21:32:18 +0800",
+     "summary": "特斯拉和另外 8 家汽车制造商 21 日宣布，将在中国召回总计约 430 万辆汽车，创下中国汽车召回规模纪录。此次召回的整改措施包括软件更新、加贴警示标签，以及改进门把手周围的标识等。大多数车企还将通过 OTA 远程升级软件。根据国家市场监督管理总局发布的公告，特斯拉将从 9 月 25 日起召回 298 万辆进口及中国制造的 Model 3、Model Y、Model S 和 Model X 汽车。特斯拉的召回规模最大，这也反映出该公司采用此类门把手设计的车型销量巨大。除特斯拉外，此次召回行动涉及车企包括中国一汽、北汽蓝谷、东风汽车、奇瑞、吉利、小鹏、零跑和小米。小米将召回约 39 万辆汽车，",
+     "source": "Solidot",
+     "zh": "因门把手安全隐患特斯拉在华召回近 300 万辆车"
+    },
+    {
+     "title": "使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪",
+     "link": "https://www.solidot.org/story?sid=85162",
+     "pubDate": "Sat, 22 Aug 2026 21:22:17 +0800",
+     "summary": "2025 年 1 月，Samuel Tunick 从多米尼加共和国度假返回美国时，在亚特兰大 Hartsfield-Jackson 国际机场被拦下，美国海关和边境保护局官员要求搜查他的手机。他最终交出了手机以及一个密码，该密码删除了手机上的数据。他的 Pixel 智能手机运行的是安全加固的 Android 操作系统 GrapheneOS，它内置了被称为胁迫密码的安全功能，输入该密码后会删除手机上的数据。美国检方以妨碍联邦执法的重罪起诉了他，他因此面临最高五年的监禁。这是已知首个因输入特定密码删除设备数据而遭到起诉的案例。佐治亚州北区联邦检察官 Theodore Hertzberg 在一份声明中",
+     "source": "Solidot",
+     "zh": "使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪"
     }
    ]
   },
@@ -2242,6 +2242,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "受台风影响 8月24日海南环岛高铁部分列车临时停运",
+     "link": "http://finance.eastmoney.com/news/1350,202608233850292125.html",
+     "pubDate": "Sun, 23 Aug 2026 16:07:31 +0800",
+     "summary": "记者从海南铁路海口车务段获悉，受台风影响，海南环岛高铁将于8月24日临时停运部分旅客列车。具体停运车次：C7233次、C7234次、C7235次、C7238/7次、C7240/39次、C7236次、C7241次、C7244/3次、C7246/5次、C7242次。 铁路部门温馨提示，已购买上述停运列车车票的旅客，可自票面乘车日期起30日内，通过12306APP或车站人工退票窗口办理退票手续，免收退票费，票款将按原支付路径退回。后续列车开行方案将根据台风动态实时调整，实际开行信息以12306官方平台及车站现场公告为准，请广大旅客密切关注天气及列车开行动态，合理安排行程。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "受台风影响 8月24日海南环岛高铁部分列车临时停运"
+    },
+    {
+     "title": "【调研快报】北新建材接待高毅资本等18家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202608233850292025.html",
+     "pubDate": "Sun, 23 Aug 2026 16:04:25 +0800",
+     "summary": "北新建材 8月22日公告称， 8月21日 接待高毅资本 等18家机构 调研。 接待人员包括公司董事长、总经理 管理,独立董事 王竞达,副总经理、董事会秘书 李畅,财务负责人(财务总监) 王佳传。 公司就以下问题进行了回复： 公司对2026年上半年经营情况进行简要介绍,并就主营业务及投资者关注的其他事项与投资者进行互动交流。主要交流内容如下: 1、在行业需求普遍承压的背景下,公司下半年采取哪些应对措施? 答:下半年,公司将着力抓好以下几个方面经营工作:一是,深化内部协同,降成本、拓增量。依托石膏板事业群,以价... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据",
+     "source": "东方财富股票",
+     "zh": "【调研快报】北新建材接待高毅资本等18家机构调研"
+    },
+    {
+     "title": "天保基建：将于2026年08月24日召开2026年第五次临时股东大会",
+     "link": "http://stock.eastmoney.com/news/11671,202608233850291750.html",
+     "pubDate": "Sun, 23 Aug 2026 16:01:07 +0800",
+     "summary": "天保基建 将于2026年08月24日（星期一）下午14:00，在天津空港经济区西五道35号汇津广场一号楼公司八楼会议室召开 2026年第五次 临时股东大会。本次股东大会将审议以下议案： 1、关于选举公司第十届董事会非独立董事的议案 2、关于选举公司第十届董事会独立董事的议案 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《天保基建:关于召开2026年第五次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，",
+     "source": "东方财富股票",
+     "zh": "天保基建：将于2026年08月24日召开2026年第五次临时股东大会"
+    },
+    {
+     "title": "炬光科技：将于2026年08月24日召开2026年第四次临时股东大会",
+     "link": "http://stock.eastmoney.com/news/11671,202608233850291669.html",
+     "pubDate": "Sun, 23 Aug 2026 16:01:06 +0800",
+     "summary": "炬光科技将于2026年08月24日（星期一）下午14:30，在陕西省西安市高新区丈八六路56号西安炬光科技股份有限公司召开 2026年第四次 临时股东大会。本次股东大会将审议以下议案： 1、《关于公司符合向特定对象发行A股股票条件的议案》 2、《关于公司 2026 年度向特定对象发行 A 股股票方案的议案》 3、《关于公司 2026 年度向特定对象发行 A 股股票预案的议案》 4、《关于公司 2026 年度向特定对象发行 A 股股票方案论证分析报告的议案》 5、《关于公司 2026 年度向特定对象发行 A 股股票募集资金使用的可行性分析报告的议案》 6、《关于公司前次募集资金使用情况专项报告的",
+     "source": "东方财富股票",
+     "zh": "炬光科技：将于2026年08月24日召开2026年第四次临时股东大会"
+    },
+    {
+     "title": "ST嘉澳：将于2026年08月24日召开2026年第二次临时股东大会",
+     "link": "http://stock.eastmoney.com/news/11671,202608233850291567.html",
+     "pubDate": "Sun, 23 Aug 2026 16:01:06 +0800",
+     "summary": "ST嘉澳将于2026年08月24日（星期一）下午13:30，在浙江嘉澳环保科技股份有限公司会议室召开 2026年第二次 临时股东大会。本次股东大会将审议以下议案： 1、关于增设副董事长职务并修订 的议案 2、关于修订 的议案 3、关于修订 的议案 4、关于选举公司第七届董事会非独立董事的议案 5、关于选举公司第七届董事会独立董事的议案 股东可现场参会投票，或在东方财富APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《ST嘉澳:603822_嘉澳环保_股东会通知_2026-08-08》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传",
+     "source": "东方财富股票",
+     "zh": "ST嘉澳：将于2026年08月24日召开2026年第二次临时股东大会"
+    },
+    {
+     "title": "深城交：将于2026年08月24日召开2026年第五次临时股东大会",
+     "link": "http://stock.eastmoney.com/news/11671,202608233850291449.html",
+     "pubDate": "Sun, 23 Aug 2026 16:01:06 +0800",
+     "summary": "深城交 将于2026年08月24日（星期一）下午15:00，在深圳市龙华区民治街道北站社区龙华设计产业园总部大厦1栋1202会议室召开 2026年第五次 临时股东大会。本次股东大会将审议以下议案： 1、关于换届选举第三届董事会非独立董事的议案 2、关于换届选举第三届董事会独立董事的议案 3、关于修订《公司章程》的议案 4、关于修订《董事会议事规则》的议案 股东可现场参会投票，或在 东方财富 APP内，搜索“网络投票”，即可参与网上投票 相关公告： 《深城交:关于召开2026年第五次临时股东会的通知》 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此",
+     "source": "东方财富股票",
+     "zh": "深城交：将于2026年08月24日召开2026年第五次临时股东大会"
+    },
+    {
      "title": "别争“灵活算不算福利”了，先给超2亿打工人把保障补齐",
      "link": "http://www.eeo.com.cn/2026/0823/1008663.shtml",
      "pubDate": "Sun, 23 Aug 2026 15:26:12 +0800",
@@ -2296,6 +2344,14 @@ window.INDUSTRY_DATA = {
      "summary": "阿里巴巴宣布港股上市以来首次配售新股，募资800亿港元，全部用于AI基础设施。 8月23日，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售 。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。 AI正在成为驱动阿里加速增长的核心引擎，8月20日阿里发布的最新财报显示，阿里巴巴AI相关产品年化收入（ARR）已突破495亿元人民币（73亿美元），预计下季度达到100亿美元。阿里云2030年外部商业化收入预计达1000亿美元，利润率有望突破20%。近期，全球投",
      "source": "华尔街见闻",
      "zh": "七年来首次配售新股！阿里800亿港元配股获超额认购，将全部投入AI建设"
+    },
+    {
+     "title": "周末要闻汇总：国常会再做部署 适度超前统筹推进新一代通信网建设",
+     "link": "http://finance.eastmoney.com/news/1345,202608233850265497.html",
+     "pubDate": "Sun, 23 Aug 2026 13:27:39 +0800",
+     "summary": "本周末影响市场的重要资讯有： 国务院常务会议要求，适度超前统筹推进新一代 通信 网建设；人民日报评“甲醛白菜”：性质恶劣，荒唐至极；信用卡分期贴息提额扩围，六大行集体落地，一年最高省5000元；美债救市升级，特朗普放狠话：必要时动用军队；加拿大宣布“全额对等报复”美国新关税；长存控股IPO获受理，公司拟融资330亿元； 英伟达 搭载 人工智能 芯片的服务器价格将上涨超15%；1361亿项目集中签约，万亿算力赛道迎来重磅驱动；世界人形 机器人 运动会开幕，100米9秒39打破人类纪录；我国牵头 固态电池 首项国际标准正式立项；阿里拟配售800亿港元新股，全部投入AI建设；DeepSeek调整峰谷",
+     "source": "东方财富资讯",
+     "zh": "周末要闻汇总：国常会再做部署 适度超前统筹推进新一代通信网建设"
     },
     {
      "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
@@ -2424,62 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: What does the growing national debt mean for bond yields?"
-    },
-    {
-     "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
-     "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 20:31:00 GMT",
-     "summary": "Canadian Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
-     "source": "MarketWatch",
-     "zh": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
-    },
-    {
-     "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-     "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 20:30:00 GMT",
-     "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
-     "source": "MarketWatch",
-     "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
-    },
-    {
-     "title": "Nvidia customers reportedly warned about AI-related price hikes",
-     "link": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-     "pubDate": "Sat, 22 Aug 2026 20:26:44 GMT",
-     "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
-     "source": "CNBC",
-     "zh": "Nvidia customers reportedly warned about AI-related price hikes"
-    },
-    {
-     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 20:15:00 GMT",
-     "summary": "“The cost is absolutely ridiculous.”",
-     "source": "MarketWatch",
-     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
-    },
-    {
-     "title": "SA Asks: How could Trump's new executive order impact vaccine makers?",
-     "link": "https://seekingalpha.com/news/4636043-sa-asks-how-could-trumps-new-executive-order-impact-vaccine-makers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 15:49:45 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: How could Trump's new executive order impact vaccine makers?"
-    },
-    {
-     "title": "Key deals this week: Stripe, KKR, Virtu and more",
-     "link": "https://seekingalpha.com/news/4635957-key-deals-this-week-stripe-kkr-virtu-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 15:15:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Key deals this week: Stripe, KKR, Virtu and more"
-    },
-    {
-     "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
-     "link": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
-     "pubDate": "Sat, 22 Aug 2026 18:57:46 GMT",
-     "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
-     "source": "CNBC",
-     "zh": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway"
     }
    ]
   },
