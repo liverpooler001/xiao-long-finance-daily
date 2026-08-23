@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 01:43:51",
+ "generated_at": "2026/8/24 02:13:59",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+     "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+     "pubDate": "Sun, 23 Aug 2026 17:51:56 +0000",
+     "summary": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work"
+    },
     {
      "title": "800亿港元！阿里宣布为AI再融资，传已超额认购",
      "link": "https://zhidx.com/p/587414.html",
@@ -216,14 +224,6 @@ window.INDUSTRY_DATA = {
      "summary": "将人像重打光重新表述为光照一致的特征传输问题。",
      "source": "机器之心",
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
-    },
-    {
-     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
-     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
-     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
-     "source": "MarkTechPost",
-     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
     },
     {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+     "link": "https://oilprice.com/Energy/Energy-General/Private-Equity-Is-Circling-Utilities-as-AI-Reshapes-the-Grid.html",
+     "pubDate": "Sun, 23 Aug 2026 13:00:00 -0500",
+     "summary": "While it seems that Democrats and Republicans can’t agree on much of anything these days, there’s at least one common enemy that’s bringing both sides of the aisle together: data centers. Representatives on both sides of the aisle are increasingly pushing back against hyperscalers who are developing",
+     "source": "OilPrice",
+     "zh": "Private Equity Is Circling Utilities as AI Reshapes the Grid"
+    },
+    {
      "title": "Underwater Volcanoes Are Geothermal Energy’s Next Frontier",
      "link": "https://oilprice.com/Energy/Energy-General/Underwater-Volcanoes-Are-Geothermal-Energys-Next-Frontier.html",
      "pubDate": "Sun, 23 Aug 2026 10:00:00 -0500",
@@ -928,14 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "Donald Trump is accidentally overseeing a massive buildout of the country’s renewable energy capacity and infrastructure. Not only are investments in renewable technologies soaring to new highs, the national energy grid is rapidly transforming to accommodate an increasingly solar- and wind-powered e",
      "source": "OilPrice",
      "zh": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026"
-    },
-    {
-     "title": "Every Chokepoint That Isn't Hormuz",
-     "link": "https://oilprice.com/Energy/Energy-General/Every-Chokepoint-That-Isnt-Hormuz.html",
-     "pubDate": "Sat, 22 Aug 2026 12:00:00 -0500",
-     "summary": "For six months the entire conversation about oil logistics has been about one strait, and you can hardly blame anyone for that. Hormuz has been effectively closed since late February, when the war between Iran and the U.S. and Israel started, and the EIA reckons only 4.9 million barrels a day of cru",
-     "source": "OilPrice",
-     "zh": "Every Chokepoint That Isn't Hormuz"
     },
     {
      "title": "AC-Coupled vs. DC-Coupled",
@@ -1061,7 +1061,7 @@ window.INDUSTRY_DATA = {
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
+     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1082,12 +1082,12 @@ window.INDUSTRY_DATA = {
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
-     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
-     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
-     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
-     "source": "Utility Dive",
-     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
+     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
+     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
+     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
+     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
+     "source": "Energy Storage News",
+     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
     }
    ]
   },
@@ -1097,6 +1097,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "StockWatch: Merck/Moderna Cancer Vaccine Gives a Shot in the Arm to Sequencing Companies, Too",
+     "link": "https://www.genengnews.com/topics/cancer/stockwatch-merck-moderna-cancer-vaccine-gives-a-shot-in-the-arm-to-sequencing-companies-too/",
+     "pubDate": "Sun, 23 Aug 2026 17:54:35 +0000",
+     "summary": "Because intismeran autogene is a personalized cancer therapy made for each patient based on the individual genetic mutations of their tumors, the Merck-Moderna stock surge extended to sequencing giants such as Illumina, Pacific Biosciences of California, and to a degree Oxford Nanopore Technologies.",
+     "source": "GEN",
+     "zh": "StockWatch: Merck/Moderna Cancer Vaccine Gives a Shot in the Arm to Sequencing Companies, Too"
+    },
     {
      "title": "Third death in China’s expedited trials; Merck and Moderna’s cancer vaccine win; and more",
      "link": "https://endpoints.news/third-death-in-chinas-expedited-trials-merck-and-modernas-cancer-vaccine-win-and-more/",
@@ -1248,14 +1256,6 @@ window.INDUSTRY_DATA = {
      "summary": "Urologic oncologists who treat prostate cancer are split over the benefits of focal therapy compared to traditional surgery or radiation.",
      "source": "STAT News",
      "zh": "Focal therapy for localized prostate cancer has divided physicians. Will new data change minds?"
-    },
-    {
-     "title": "AI Identifies Pre-existing Antimicrobial Antibody Profile That May Predict Immune Response to Vaccination",
-     "link": "https://www.genengnews.com/topics/infectious-diseases/ai-identifies-pre-existing-antimicrobial-antibody-profile-that-may-predict-immune-response-to-vaccination/",
-     "pubDate": "Thu, 20 Aug 2026 18:53:21 +0000",
-     "summary": "Researchers analyzing antibody profiles in thousands of individuals have discovered that pre-existing antibodies to common microbes can predict the strength of new vaccine responses. The post AI Identifies Pre-existing Antimicrobial Antibody Profile That May Predict Immune Response to Vaccination ap",
-     "source": "GEN",
-     "zh": "AI Identifies Pre-existing Antimicrobial Antibody Profile That May Predict Immune Response to Vaccination"
     },
     {
      "title": "Regeneron to challenge Ipsen as FDA clears bone disease drug",
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 (George Hammond/Financial Times)",
+     "link": "https://www.techmeme.com/260823/p8#a260823p8",
+     "pubDate": "Sun, 23 Aug 2026 13:45:27 -0400",
+     "summary": "George Hammond / Financial Times : Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 &nbsp; &mdash;&nbsp; AI lab's Fable 5 has met with sluggish demand from corporate clients&nbsp; &mdash;&nbsp; ",
+     "source": "Techmeme",
+     "zh": "Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 (George Hammond/Financial Times)"
+    },
+    {
      "title": "GraphWorkflow 提速62.5% 后，Agent 蜂群真正要解决什么？",
      "link": "https://www.huxiu.com/article/4885324.html?f=rss",
      "pubDate": "Mon, 24 Aug 2026 01:18:39 +0800",
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
      "source": "WIRED",
      "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
-    },
-    {
-     "title": "Is Expensive Bottled Water Actually Better for You?",
-     "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
-     "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
-     "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
-     "source": "WIRED",
-     "zh": "Is Expensive Bottled Water Actually Better for You?"
     }
    ]
   },
@@ -1993,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Does Analogue 3D really make retro games 4K? Here's what you should know",
+     "link": "https://www.engadget.com/2240184/is-analogue-3d-actually-4k/",
+     "pubDate": "Sun, 23 Aug 2026 18:00:00 +0000",
+     "summary": "The Analogue 3D does a great job at upscaling old N64 games, with a few caveats.",
+     "source": "Engadget",
+     "zh": "Does Analogue 3D really make retro games 4K? Here's what you should know"
+    },
+    {
+     "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+     "link": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
+     "pubDate": "Sun, 23 Aug 2026 17:39:26 +0000",
+     "summary": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
+     "source": "Engadget",
+     "zh": "Twitch and Amazon hit with lawsuit for training AI with streamers' content"
+    },
     {
      "title": "Is it safe to use a USB-C laptop charger on your phone?",
      "link": "https://www.engadget.com/2240179/using-usb-c-laptop-charger-for-phone-safety-tips/",
@@ -2058,28 +2074,12 @@ window.INDUSTRY_DATA = {
      "zh": "Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet?"
     },
     {
-     "title": "The reasons Siri may not work on CarPlay",
-     "link": "https://www.engadget.com/2240145/siri-with-carplay-reasons-not-work-fixes/",
-     "pubDate": "Sun, 23 Aug 2026 13:30:00 +0000",
-     "summary": "If you're struggling to get Siri to work with your car's CarPlay system, there are some things you can check.",
-     "source": "Engadget",
-     "zh": "The reasons Siri may not work on CarPlay"
-    },
-    {
      "title": "Huawei Pura X View previewed, more iPhone 18 Pro leaks, Week 34 in review",
      "link": "https://www.gsmarena.com/huawei_pura_x_view_previewed_more_iphone_18_pro_leaks_week_34_in_review-news-74283.php",
      "pubDate": "Sun, 23 Aug 2026 15:02:02 +0200",
      "summary": "Here’s a recap of this past week’s top stories. Huawei previewed its Pura X View featuring a 6.39-inch OLED and a wide 16:9.5 aspect ratio. This is a proper wide boy, with Huawei advertising its expanded horizontal real estate for more immersive reading, gaming and other content consumption. Huawei ",
      "source": "GSMArena",
      "zh": "Huawei Pura X View previewed, more iPhone 18 Pro leaks, Week 34 in review"
-    },
-    {
-     "title": "This affordable fix may be all you need to improve earbud sound quality",
-     "link": "https://www.engadget.com/2240144/earbuds-sound-quality-improve-with-affordable-fix/",
-     "pubDate": "Sun, 23 Aug 2026 13:00:00 +0000",
-     "summary": "You might not need to invest in a newer pair of earbuds to improve the sound quality. Here's how to upgrade your current pair for a better listening experience.",
-     "source": "Engadget",
-     "zh": "This affordable fix may be all you need to improve earbud sound quality"
     },
     {
      "title": "How I fixed the most annoying thing about Claude in less than five minutes",
@@ -2242,6 +2242,94 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "伊朗总统称应摆脱非战非和状态",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850441856.html",
+     "pubDate": "Mon, 24 Aug 2026 02:03:51 +0800",
+     "summary": "据伊朗官方通讯社伊通社8月23日报道，伊朗总统佩泽希齐扬当地时间8月22日晚在德黑兰出席一场活动时表示，伊朗最高国家安全委员会成员均认为，此前与美国达成的谅解备忘录是基于尊严、智慧及国家利益所能达成的最佳方案。这份备忘录中“找不到任何一项条款表明伊朗投降或作出退让”，相关承诺均由对方承担。但伊朗也应以理性方式，使国家摆脱眼下这种“既非战争、也非和平”的状态，在战争或“非战非和”的状态下，伊朗难以吸引投资。他还提及已故最高领袖阿里·哈梅内伊也曾明确表示必须摆脱“非战非和”状态。佩泽希齐扬还表示，伊朗最高领袖穆杰塔巴·哈梅内伊制定国家政策，政府将按照相关政策继续推进有关工作。 （文章来源：CCTV",
+     "source": "东方财富股票",
+     "zh": "伊朗总统称应摆脱非战非和状态"
+    },
+    {
+     "title": "广发基金叶帅：“主观+量化”双策略 捕捉小盘风格贝塔",
+     "link": "http://fund.eastmoney.com/news/11794,202608243850441539.html",
+     "pubDate": "Mon, 24 Aug 2026 02:00:19 +0800",
+     "summary": "近期，A股市场持续波动，科技赛道经历了一轮快速的估值修正，不少资金谋求风格再平衡，开始关注今年以来涨幅较小或者具备独立修复逻辑、拉升阻力相对较小的弹性方向，如红利、消费、小盘风格等。 在这一轮再平衡中，小盘风格因前期涨幅有限且具备独立修复逻辑而受到关注。广发新锐智选混合基金经理叶帅表示，当市场风格切换至偏价值品种时，基于错误定价修复的反转效应， 小盘股 往往会有较好表现，弹性表现甚至高于价值板块。他长期看好小盘风格的投资价值，并以“主观+量化”的策略筛选兼具安全边际与成长性的小盘标的。 看好小盘风格贝塔投资价值 叶帅现任广发基金稳健策略部基金经理，拥有近10年证券从业经验、近5年投资管理经验。",
+     "source": "东方财富股票",
+     "zh": "广发基金叶帅：“主观+量化”双策略 捕捉小盘风格贝塔"
+    },
+    {
+     "title": "浦银基金江峰——逆向分散平滑波动 在中小市值板块掘金",
+     "link": "http://stock.eastmoney.com/news/11791,202608243850442046.html",
+     "pubDate": "Mon, 24 Aug 2026 02:00:17 +0800",
+     "summary": "在A股市场热点轮动、波动加大的背景下，投资者极易陷入追涨杀跌的困境，通过逆向投资将追涨杀跌变成“越跌越买”，反而有助于把握投资节奏，提升长期投资体验。 浦银基金权益投资三部总经理、基金经理江峰践行逆向投资策略多年。他拥有19年证券从业经验及6年投资管理经验，曾任 中信证券 投行部高级副总裁、资本市场部总监及中信 保诚 基金基金经理等职务，以深耕逆向投资、分散投资为投资者所熟知，这种投资风格在全行业的基金经理中独树一帜。 2026年4月，江峰以出任浦银增长动力混合基金经理官宣复出，带着一套历经市场考验的逆向投资和分散投资策略，在浦银基金开启了新的征程。 以PB—ROE为核心 做逆向投资 江峰系管",
+     "source": "东方财富股票",
+     "zh": "浦银基金江峰——逆向分散平滑波动 在中小市值板块掘金"
+    },
+    {
+     "title": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount",
+     "link": "https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1",
+     "pubDate": "Sun, 23 Aug 2026 18:00:00 GMT",
+     "summary": "Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium",
+     "source": "Financial Times",
+     "zh": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount"
+    },
+    {
+     "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+     "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 18:00:00 GMT",
+     "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
+     "source": "MarketWatch",
+     "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
+    },
+    {
+     "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+     "link": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+     "pubDate": "Sun, 23 Aug 2026 17:58:06 GMT",
+     "summary": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
+     "source": "CNBC",
+     "zh": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom"
+    },
+    {
+     "title": "Michael Burry dumps Alibaba for JD.com, says BABA would need to fall 50%",
+     "link": "https://seekingalpha.com/news/4636063-michael-burry-dumps-alibaba-for-jd-com-says-baba-would-need-to-fall-50-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 13:56:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Michael Burry dumps Alibaba for JD.com, says BABA would need to fall 50%"
+    },
+    {
+     "title": "全球市场波动中 谁在买入中国资产",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850439157.html",
+     "pubDate": "Mon, 24 Aug 2026 01:52:09 +0800",
+     "summary": "7月以来，全球股市在多重因素扰动下出现波动， 纳斯达克 中国金龙指数却逆势走强， 阿里巴巴 、 拼多多 、 京东 等中概股集体上涨。与此同时，多只海外上市的中国ETF，尤其是聚焦 半导体 、AI赛道的产品规模持续攀升。最新披露的美国13F文件显示， 摩根士丹利 、瑞银、花旗等全球资管机构在二季度密集加仓 百度 、 阿里巴巴 、 京东 等中国互联 网龙 头。 在多家机构看来，中国互联网与AI产业链凭借庞大的用户基础、丰富的数据资源及完善的生态体系，正站在 人工智能 商业化加速落地的长期风口之上，未来发展空间值得期待。 海外中国ETF规模持续攀升 Choice数据显示：截至8月19日，7月以来 纳",
+     "source": "东方财富股票",
+     "zh": "全球市场波动中 谁在买入中国资产"
+    },
+    {
+     "title": "从“对表”到“找入口” 资本市场如何与中小企业同频共振",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850439568.html",
+     "pubDate": "Mon, 24 Aug 2026 01:47:03 +0800",
+     "summary": "日前，在北京经开区的一场投融资路演活动上，坤维科技创始人熊琳向台下数十家投资机构展示了公司的六维力 传感器 产品和产业化进展。会后，熊琳在接受上海证券报记者采访时表示，公司目前正专注于产能爬坡和技术研发，“上市是水到渠成的事，目前在做一些规范性的基础工作”。 对于一家正处于产业化爆发期的硬科技企业而言，这种“从容”表态的背后，是资本与产业发展节奏之间的一次精准“对表”。这种对表揭示了一个核心命题：融资与上市的时点选择，不应追随市场情绪的起伏，而应锚定产业自身的成长逻辑。 路演台下，坐着的不只是投资人。同期，上交所、深交所、北交所、港交所的工作人员也分别就各自板块的上市规则进行解读。对于许多像坤",
+     "source": "东方财富股票",
+     "zh": "从“对表”到“找入口” 资本市场如何与中小企业同频共振"
+    },
+    {
+     "title": "权益回暖推盈利劲增 多家头部公募上半年净利超过10亿元",
+     "link": "http://fund.eastmoney.com/news/11794,202608243850439662.html",
+     "pubDate": "Mon, 24 Aug 2026 01:47:02 +0800",
+     "summary": "随着上市公司半年报的陆续披露，其控股参股的基金公司的最新经营情况随之浮出水面。截至8月23日，从被动披露的19家基金公司来看，今年上半年营收全部实现增长，净利润有18家实现增长，剩余1家也实现了减亏。就发展情况而言，行业“马太效应”凸显，头部公募强者恒强，凭借多元化打法发展势头迅猛，多家公司上半年净利润超过10亿元。 头部公司表现抢眼 具体分析这19家基金公司的经营情况可以发现，头部基金公司净利润领跑。其中：华夏基金上半年实现营业收入57.08亿元，实现净利润14.13亿元，同比增长均超过25%；南方基金上半年实现营业收入50.14亿元，实现净利润15.03亿元，同比增长均在25%以上；类似的",
+     "source": "东方财富股票",
+     "zh": "权益回暖推盈利劲增 多家头部公募上半年净利超过10亿元"
+    },
+    {
+     "title": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus",
+     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+     "pubDate": "2026-08-23T17:30:17Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus"
+    },
+    {
      "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
      "pubDate": "Sun, 23 Aug 2026 17:30:00 GMT",
@@ -2264,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy"
-    },
-    {
-     "title": "Dow Jones Futures Due; Nvidia Earnings, Canada Tariffs, Warsh In Focus",
-     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-23T16:56:06Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Dow Jones Futures Due; Nvidia Earnings, Canada Tariffs, Warsh In Focus"
     },
     {
      "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
@@ -2386,14 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "SA Asks: How concerned should Meta investors be about child safety lawsuits?"
     },
     {
-     "title": "Iran says it has discovered huge natural gas field",
-     "link": "https://seekingalpha.com/news/4636057-iran-says-has-discovered-huge-natural-gas-field?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 09:26:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Iran says it has discovered huge natural gas field"
-    },
-    {
      "title": "机器人缺数据，奥比中光当上了“卖铲人”",
      "link": "https://wallstreetcn.com/articles/3780096",
      "pubDate": "Sun, 23 Aug 2026 21:25:09 +0800",
@@ -2408,78 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极",
      "source": "华尔街见闻",
      "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
-    },
-    {
-     "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
-     "link": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
-     "pubDate": "Sun, 23 Aug 2026 13:00:01 GMT",
-     "summary": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad.",
-     "source": "CNBC",
-     "zh": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion"
-    },
-    {
-     "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
-     "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 13:00:00 GMT",
-     "summary": "Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.",
-     "source": "MarketWatch",
-     "zh": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test"
-    },
-    {
-     "title": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”",
-     "link": "https://wallstreetcn.com/articles/3780090",
-     "pubDate": "Sun, 23 Aug 2026 20:57:19 +0800",
-     "summary": "英伟达正在两条鲜少被市场充分定价的战线上悄然构筑护城河。 据汇丰银行8月20日发布的最新研报，汇丰分析师Frank Lee认为，在持续\"业绩超预期\"之外，推动英伟达股价重新定价的新催化剂，将来自两条此前被市场忽视的叙事线。 其一，大力押注开源小语言模型（SLM），有望将潜在客户群从少数超大规模云厂商扩展至数百万开发者和主权国家；其二，通过一系列多年期采购协议提前锁定供应链产能，在竞争对手愈发难以获得关键制造资源的背景下，这一优势将愈加凸显。 两条新叙事线的市场意义在于，它们共同指向同一个核心命题：英伟达的增长引擎，正在从依赖少数超大规模客户的单一结构，向更宽广、更具韧性的客户生态演进。 这一转",
-     "source": "华尔街见闻",
-     "zh": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”"
-    },
-    {
-     "title": "8月23日晚间上市公司利好消息一览(附名单)",
-     "link": "http://finance.eastmoney.com/news/1353,202608233850367418.html",
-     "pubDate": "Sun, 23 Aug 2026 20:32:26 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布重要公告，以下为利好的消息汇总： 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，建设期一年",
-     "source": "东方财富资讯",
-     "zh": "8月23日晚间上市公司利好消息一览(附名单)"
-    },
-    {
-     "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-     "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
-     "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
-     "source": "CNBC",
-     "zh": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill"
-    },
-    {
-     "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-     "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
-     "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
-     "source": "CNBC",
-     "zh": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI"
-    },
-    {
-     "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
-     "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
-     "summary": "You can’t just sweep $40 trillion in U.S. national debt under a rug and forget about it — or so the bond market appears to be telling Treasury Secretary Scott Bessent.",
-     "source": "MarketWatch",
-     "zh": "The Treasury’s bond-market intervention isn’t working. So what comes next?"
-    },
-    {
-     "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
-     "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
-     "summary": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years.",
-     "source": "MarketWatch",
-     "zh": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement."
-    },
-    {
-     "title": "8月23日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202608233850358355.html",
-     "pubDate": "Sun, 23 Aug 2026 19:32:16 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，",
-     "source": "东方财富资讯",
-     "zh": "8月23日晚间沪深上市公司重大事项公告最新快递"
     }
    ]
   },
