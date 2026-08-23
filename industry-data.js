@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 01:13:46",
+ "generated_at": "2026/8/24 01:43:51",
  "recent_days": 7,
  "industries": [
   {
@@ -34,6 +34,70 @@ window.INDUSTRY_DATA = {
      "zh": "Is it legal to train AI models on copyrighted books? It’s complicated"
     },
     {
+     "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+     "link": "https://www.qbitai.com/2026/08/478319.html",
+     "pubDate": "Sun, 23 Aug 2026 13:20:00 +0000",
+     "summary": "玩的就是真实",
+     "source": "量子位",
+     "zh": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店"
+    },
+    {
+     "title": "具身创业里的香港教授们",
+     "link": "https://www.qbitai.com/2026/08/478289.html",
+     "pubDate": "Sun, 23 Aug 2026 11:20:13 +0000",
+     "summary": "香港的大学里冒出了一批很特别的人",
+     "source": "量子位",
+     "zh": "具身创业里的香港教授们"
+    },
+    {
+     "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+     "link": "https://www.qbitai.com/2026/08/478234.html",
+     "pubDate": "Sun, 23 Aug 2026 11:17:22 +0000",
+     "summary": "多多支持像王兴兴这样优秀的具身机器人创业者",
+     "source": "量子位",
+     "zh": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长"
+    },
+    {
+     "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+     "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+     "pubDate": "Sun, 23 Aug 2026 10:44:59 +0000",
+     "summary": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU"
+    },
+    {
+     "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+     "link": "https://www.qbitai.com/2026/08/478191.html",
+     "pubDate": "Sun, 23 Aug 2026 09:56:12 +0000",
+     "summary": "Tokenizer、视频编码、API报错全扒一遍",
+     "source": "量子位",
+     "zh": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的"
+    },
+    {
+     "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+     "link": "https://www.qbitai.com/2026/08/478164.html",
+     "pubDate": "Sun, 23 Aug 2026 09:51:49 +0000",
+     "summary": "内存成本飙升逼涨硬件",
+     "source": "量子位",
+     "zh": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元"
+    },
+    {
+     "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+     "link": "https://www.qbitai.com/2026/08/478093.html",
+     "pubDate": "Sun, 23 Aug 2026 09:45:27 +0000",
+     "summary": "AstraTennis时刻背后的硬核技术",
+     "source": "量子位",
+     "zh": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起"
+    },
+    {
+     "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
+     "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
+     "pubDate": "Sun, 23 Aug 2026 07:51:22 +0000",
+     "summary": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows. The post B",
+     "source": "MarkTechPost",
+     "zh": "Building an End-to-End Document Intelligence Pipeline with deepDoctection"
+    },
+    {
      "title": "影视飓风Tim看呆！鸡排哥2小时做出八大菜系，AI首次长出「大厨大脑」",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719752&idx=1&sn=44657ada08096ab4c58495a046f7fd9a",
      "pubDate": "Sun, 23 Aug 2026 15:38:00 +0800",
@@ -48,6 +112,22 @@ window.INDUSTRY_DATA = {
      "summary": "三大奇点：软件奇点、经济奇点、科斯奇点。",
      "source": "新智元",
      "zh": "Anthropic：AI没有导致失业率的增加"
+    },
+    {
+     "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
+     "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+     "pubDate": "Sun, 23 Aug 2026 07:37:14 +0000",
+     "summary": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks. The post Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks"
+    },
+    {
+     "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+     "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+     "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
+     "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based ",
+     "source": "MarkTechPost",
+     "zh": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety"
     },
     {
      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -80,6 +160,14 @@ window.INDUSTRY_DATA = {
      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
      "source": "TechCrunch AI",
      "zh": "Frontier AI labs still won’t say how they’d contain a rogue model"
+    },
+    {
+     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
+     "source": "MarkTechPost",
+     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
     },
     {
      "title": "AI4S八年积累迎来新节点，北京再落一子，抢跑科研范式变革下半场",
@@ -130,6 +218,14 @@ window.INDUSTRY_DATA = {
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
+     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
+     "source": "MarkTechPost",
+     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
+    },
+    {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
      "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
      "pubDate": "Fri, 21 Aug 2026 17:02:24 +0000",
@@ -152,102 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "See how AI agents are autonomously handling support, coding, supply chains, healthcare, and fraud detection today.",
      "source": "KDnuggets",
      "zh": "5 Real-World Use Cases for AI Agents Transforming Industries"
-    },
-    {
-     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-     "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-     "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
-     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-     "source": "DeepMind",
-     "zh": "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-    },
-    {
-     "title": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验",
-     "link": "https://zhidx.com/p/586881.html",
-     "pubDate": "Fri, 21 Aug 2026 19:19:04 +0800",
-     "summary": "当AI接管代码和影像后，社媒上一度流行“一句话跑出游戏”的各种DEMO演示。 可直到今天，完全用AI打造的现象级游戏， 几乎无处寻觅 。为什么？在Coding Agent和视频模型高速发展的今天，AI原生游戏的困难到底在哪里？ 与此同时，一个4个月前，才 全面 转入AI游戏赛道的团队，上线了当下定位于“AI精品游戏”的平台Elseland。 平台上已经上线了大量来自创作者和工作室的游戏。其中，更具代表性的，则是Elseland团队基于自研游戏开发工具，打造的数十款“原创游戏”。CEO刘耕提到，他们已经能把数百关体量精品游戏的生产时间，从一年降到一星期左右。成本的百倍下降，是支撑 快速创新与验证",
-     "source": "智东西",
-     "zh": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验"
-    },
-    {
-     "title": "How mobility gives language models a deeper understanding of place",
-     "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
-     "pubDate": "Fri, 21 Aug 2026 10:54:00 +0000",
-     "summary": "Algorithms & Theory",
-     "source": "Google Research",
-     "zh": "How mobility gives language models a deeper understanding of place"
-    },
-    {
-     "title": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆",
-     "link": "https://zhidx.com/p/587166.html",
-     "pubDate": "Fri, 21 Aug 2026 18:17:43 +0800",
-     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西8月21日报道，刚刚，雷鸟iO AI眼镜发布。这款产品 重34克 ，日常续航可达两天。眼镜搭载 DeepSeek和千问大模型 ，其“AI全天智记”功能支持 连续记录18小时 。 设计方面，雷鸟iO采用皇冠框型设计，前框使用镁铝合金，镜腿采用双层钛合金结构，提供 “极夜”和“沙丘”两款配色 。 显示方面，雷鸟iO采用单绿色显示，搭载自研 蓝湖光波导和萤火光引擎Nano 。蓝湖光波导显示区域透过率为93%，非显示区域透过率超过98%，萤火光引擎Nano体积仅0.085cc，可实现等效33英寸显示及1800尼特入眼亮度。 AI方面，雷鸟iO围绕 知识",
-     "source": "智东西",
-     "zh": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆"
-    },
-    {
-     "title": "DeepSeek多模态模型终于来了！一张图最高只要0.001元",
-     "link": "https://zhidx.com/p/587260.html",
-     "pubDate": "Fri, 21 Aug 2026 18:03:28 +0800",
-     "summary": "智东西 作者 | 陈骏达 编辑 | 李水青 智东西8月21日报道，就在刚刚，DeepSeek宣布全新的多模态视觉理解模型DeepSeek-V4-Flash-Vision-Exp（实验性质模型）上线DeepSeek API 平台。 DeepSeek同步公布了这一模型的详细基准测试结果。根据模型名字推测，DeepSeek-V4-Flash-Vision-Exp是在DeepSeek-V4-Flash基础上打造的，基准测试中其 纯文本能力（Agent、推理、世界知识等）与DeepSeek-V4-Flash正式版持平 。 在需要视觉理解的Agent Benchmark上，DeepSeek-V4-Flas",
-     "source": "智东西",
-     "zh": "DeepSeek多模态模型终于来了！一张图最高只要0.001元"
-    },
-    {
-     "title": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队",
-     "link": "https://zhidx.com/p/587115.html",
-     "pubDate": "Fri, 21 Aug 2026 17:05:57 +0800",
-     "summary": "智东西 作者 | 李水青 编辑 | 漠影 智东西8月21日报道，过去一个月，阿里巴巴模型发布全面提速， 大语言、图像、语音、视频、音乐五大类 模型密集完成重要版本迭代，性能均跻身国际第一梯队。 有业内人士评价， 多模态 是 下一代智能的范式 。阿里在多模态上的布局节奏，远比市场感知的要快。 模型密集迭代的另一面，是模型能力开始 与云基础设施的增长形成更紧密的联动。 2027财年第一季度（对应2026年4月1日-6月30日），阿里云外部商业化收入增速提升至 45% ，创下22个季度新高。AI云及算力服务收入 484.37亿元 ，经调整EBITA达到 56.28亿元 ，同比暴增 133% 。AI相",
-     "source": "智东西",
-     "zh": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队"
-    },
-    {
-     "title": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=1&sn=d5a0a68f04d7e09d9cabe5c4950db88e",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
-     "source": "新智元",
-     "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
-    },
-    {
-     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
-     "source": "新智元",
-     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
-    },
-    {
-     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
-     "source": "机器之心",
-     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
-    },
-    {
-     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
-     "source": "机器之心",
-     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
-    },
-    {
-     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "端到端研究论文生成系统。",
-     "source": "机器之心",
-     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
-    },
-    {
-     "title": "Measuring benchmark optimization in speech recognition",
-     "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-     "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Measuring benchmark optimization in speech recognition"
     }
    ]
   },
@@ -1061,7 +1061,7 @@ window.INDUSTRY_DATA = {
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
+     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1082,12 +1082,12 @@ window.INDUSTRY_DATA = {
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
-     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
-     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
-     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
-     "source": "Energy Storage News",
-     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
+     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
+     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
+     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
+     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
+     "source": "Utility Dive",
+     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
     }
    ]
   },
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "GraphWorkflow 提速62.5% 后，Agent 蜂群真正要解决什么？",
+     "link": "https://www.huxiu.com/article/4885324.html?f=rss",
+     "pubDate": "Mon, 24 Aug 2026 01:18:39 +0800",
+     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《GraphWorkflow 提速 62.5% 后，Agent 蜂群真正要解决什么？》 8月19日，Swarms团队发布了一篇关于GraphWorkflow的论文。把预先定义好的多Agent任务图编译一次，再反复执行，以减少运行时的编排开销。 论文拿它和LangGraph 1.0.4比较，在10、50、200个节点的静态图上，报告了最高62.5%的加速，稳态几何平均约为7倍。 又有一个Agent框架跑得更快了。 但把论文的方法和限制一起读完，会发现更值得看的东西不在那个数字里。它测的是单机、同步、静态DAG的编排开销，节点甚至可",
+     "source": "虎嗅",
+     "zh": "GraphWorkflow 提速62.5% 后，Agent 蜂群真正要解决什么？"
+    },
+    {
      "title": "弄清中国的消费数据|| 大视野",
      "link": "https://www.huxiu.com/article/4885321.html?f=rss",
      "pubDate": "Mon, 24 Aug 2026 00:09:00 +0800",
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
      "source": "WIRED",
      "zh": "Is Expensive Bottled Water Actually Better for You?"
-    },
-    {
-     "title": "银行理财五星管理人评级报告 （2026年7月）",
-     "link": "https://www.tmtpost.com/8113345.html",
-     "pubDate": "Sun, 23 Aug 2026 16:14:53 +0800",
-     "summary": "在固定收益类中，宁银理财有限责任公司、中邮理财有限责任公司和平安理财有限责任公司脱颖而出，成为五星理财子公司。它们的各星级产品数量展示了市场的竞争力与多样性。",
-     "source": "钛媒体",
-     "zh": "银行理财五星管理人评级报告 （2026年7月）"
     }
    ]
   },
@@ -1993,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Is it safe to use a USB-C laptop charger on your phone?",
+     "link": "https://www.engadget.com/2240179/using-usb-c-laptop-charger-for-phone-safety-tips/",
+     "pubDate": "Sun, 23 Aug 2026 17:30:00 +0000",
+     "summary": "If you've ever wondered whether you can just charge your phone with the cable for your laptop, read on and find out how to tell.",
+     "source": "Engadget",
+     "zh": "Is it safe to use a USB-C laptop charger on your phone?"
+    },
+    {
+     "title": "Google’s inevitable ‘Pixel Watch Ultra’ should copy the Fitbit Air",
+     "link": "https://9to5google.com/2026/08/23/google-pixel-watch-ultra-ideas/",
+     "pubDate": "Sun, 23 Aug 2026 16:45:00 +0000",
+     "summary": "It feels rather inevitable that Google will give in to the whole “Ultra” smartwatch fad, and when something along the lines of a “Pixel Watch Ultra” does arrive, I really hope it pulls influence from Fitbit Air. This issue of 9to5Google Weekender is a part of our newsletter that highlights the bigge",
+     "source": "9to5Google",
+     "zh": "Google’s inevitable ‘Pixel Watch Ultra’ should copy the Fitbit Air"
+    },
     {
      "title": "Is a liquid-cooled PC worth it?",
      "link": "https://www.engadget.com/2240150/is-liquid-cooled-pc-worth-it/",
@@ -2064,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "You might not need to invest in a newer pair of earbuds to improve the sound quality. Here's how to upgrade your current pair for a better listening experience.",
      "source": "Engadget",
      "zh": "This affordable fix may be all you need to improve earbud sound quality"
-    },
-    {
-     "title": "What to try when an Android app keeps crashing",
-     "link": "https://www.engadget.com/2240143/what-to-try-andoird-app-keeps-crashing/",
-     "pubDate": "Sun, 23 Aug 2026 12:30:00 +0000",
-     "summary": "Don't keep restarting your phone. Try these other steps instead.",
-     "source": "Engadget",
-     "zh": "What to try when an Android app keeps crashing"
     },
     {
      "title": "How I fixed the most annoying thing about Claude in less than five minutes",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ... 查看全文",
      "source": "少数派",
      "zh": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展"
-    },
-    {
-     "title": "Pixel 11 Pro Fold still doesn’t survive bend test, but at least it didn’t ‘explode’ this time [Video]",
-     "link": "https://9to5google.com/2026/08/21/pixel-11-pro-fold-still-doesnt-survive-bend-test-but-at-least-it-didnt-explode-this-time-video/",
-     "pubDate": "Fri, 21 Aug 2026 23:15:00 +0000",
-     "summary": "The Pixel 11 Pro Fold has gone through the typical torture test of JerryRigEverything and, while it faired better than last year, Google still has work to do.",
-     "source": "9to5Google",
-     "zh": "Pixel 11 Pro Fold still doesn’t survive bend test, but at least it didn’t ‘explode’ this time [Video]"
     }
    ]
   },
@@ -2242,28 +2242,44 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "以色列总理办公室警告哈马斯称：若无人机、燃烧气球和风筝的发射不停止 将加大对加沙的打击力度",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850430882.html",
-     "pubDate": "Mon, 24 Aug 2026 00:48:47 +0800",
-     "summary": "以色列总理办公室警告哈马斯称，若 无人机 、燃烧气球和风筝（捆绑燃烧物）的发射不停止，将加大对加沙的打击力度。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "以色列总理办公室警告哈马斯称：若无人机、燃烧气球和风筝的发射不停止 将加大对加沙的打击力度"
+     "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 17:30:00 GMT",
+     "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
+     "source": "MarketWatch",
+     "zh": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
     },
     {
-     "title": "阿里新股配售 中东、欧洲、亚洲主要主权基金积极认购",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850429660.html",
-     "pubDate": "Mon, 24 Aug 2026 00:48:00 +0800",
-     "summary": "8月24日， 阿里巴巴 宣布完成800亿港元（约102亿美元）新股配售定价，发行价为每股普通股112.70港元，共配售7.1亿股。配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的领先地位。 据悉， 中金公司 （CICC）、汇丰（HSBC）、 摩根士丹利 （Morgan Stanley）、瑞银（UBS）参与了本轮新股配售 。中东、欧洲、亚洲等地区的主要主权基金积极参与此次认购。 记者了解到，本次配售自启动后不到一小时即获超额认购，最终配售份额以主权财富基金等高质量长线做多投资者为主，是全球长线资本对阿里AI投资回报前景投出的信任票。 长线投资者的踊",
-     "source": "东方财富股票",
-     "zh": "阿里新股配售 中东、欧洲、亚洲主要主权基金积极认购"
+     "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
+     "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 17:00:00 GMT",
+     "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
+     "source": "MarketWatch",
+     "zh": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?"
     },
     {
-     "title": "以色列总理办公室警告哈马斯称，若无人机、燃烧气球和风筝（捆绑燃烧物）的发射不停止，将加大对加沙的打击力度",
-     "link": "http://global.eastmoney.com/news/11798,202608243850432371.html",
-     "pubDate": "Mon, 24 Aug 2026 00:46:55 +0800",
-     "summary": "以色列总理办公室警告哈马斯称，若 无人机 、燃烧气球和风筝（捆绑燃烧物）的发射不停止，将加大对加沙的打击力度。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "以色列总理办公室警告哈马斯称，若无人机、燃烧气球和风筝（捆绑燃烧物）的发射不停止，将加大对加沙的打击力度"
+     "title": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
+     "link": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html",
+     "pubDate": "2026-08-23T17:00:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy"
+    },
+    {
+     "title": "Dow Jones Futures Due; Nvidia Earnings, Canada Tariffs, Warsh In Focus",
+     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+     "pubDate": "2026-08-23T16:56:06Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Dow Jones Futures Due; Nvidia Earnings, Canada Tariffs, Warsh In Focus"
+    },
+    {
+     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 16:45:00 GMT",
+     "summary": "“The cost is absolutely ridiculous.”",
+     "source": "MarketWatch",
+     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     },
     {
      "title": "Fed's Kashkari not worried about rising US Treasury yields",
@@ -2272,22 +2288,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Fed's Kashkari not worried about rising US Treasury yields"
-    },
-    {
-     "title": "阿里巴巴计划以每股112.70港元的价格发售7.1亿股股份 股权配售预计于8月26日完成",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850428556.html",
-     "pubDate": "Mon, 24 Aug 2026 00:35:35 +0800",
-     "summary": "阿里巴巴 计划以每股112.70港元的价格发售7.1亿股股份。股权配售预计于8月26日完成。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "阿里巴巴计划以每股112.70港元的价格发售7.1亿股股份 股权配售预计于8月26日完成"
-    },
-    {
-     "title": "土耳其央行表示：决定恢复一周期回购拍卖",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850428435.html",
-     "pubDate": "Mon, 24 Aug 2026 00:33:56 +0800",
-     "summary": "土耳其央行表示，决定恢复一周期回购拍卖。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "土耳其央行表示：决定恢复一周期回购拍卖"
     },
     {
      "title": "“沪八条”重在畅通一二手房联动",
@@ -2338,28 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "国家发展改革委“两天三会” 释放稳投资政策加力信号"
     },
     {
-     "title": "财务造假！301117将被ST 24日停牌",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850427451.html",
-     "pubDate": "Mon, 24 Aug 2026 00:15:12 +0800",
-     "summary": "佳缘科技 （SZ301117，股价17.72元，市值32.04亿元）因招股说明书及年报存在虚假记载，即将被“戴帽”。 公司8月23日晚间公告，其于8月21日收到中国证监会下发的《行政处罚事先告知书》，因涉嫌信息披露违法违规， 佳缘科技 及多名时任高管拟被处罚，其中，公司拟被罚款600万元。 经查明， 佳缘科技 2019年至2022年营业收入、利润总额存在多期虚增或虚减，公司招股说明书及2021年、2022年年报均存在虚假记载。 受此影响，公司股票自8月24日开市起停牌一天，8月25日开市起被实施其他风险警示，股票简称由“佳缘科技”变更为“ST佳缘”。 不过，公司表示该情形尚未触及重大违法强制退",
-     "source": "东方财富股票",
-     "zh": "财务造假！301117将被ST 24日停牌"
-    },
-    {
      "title": "Top global stories this week: Alibaba, Unitree Robotics among notable names",
      "link": "https://seekingalpha.com/news/4636060-top-global-stories-this-week-alibaba-unitree-robotics-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 23 Aug 2026 12:11:09 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Top global stories this week: Alibaba, Unitree Robotics among notable names"
-    },
-    {
-     "title": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus",
-     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-23T15:56:36Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus"
     },
     {
      "title": "Walmart launching clothing brand Scenario in bid to appeal to younger shoppers",
@@ -2402,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "SA Asks: How concerned should Meta investors be about child safety lawsuits?"
     },
     {
-     "title": "Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners",
-     "link": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html",
-     "pubDate": "2026-08-23T15:00:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners"
-    },
-    {
      "title": "Iran says it has discovered huge natural gas field",
      "link": "https://seekingalpha.com/news/4636057-iran-says-has-discovered-huge-natural-gas-field?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 23 Aug 2026 09:26:58 -0400",
@@ -2434,6 +2410,22 @@ window.INDUSTRY_DATA = {
      "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
     },
     {
+     "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
+     "link": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
+     "pubDate": "Sun, 23 Aug 2026 13:00:01 GMT",
+     "summary": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad.",
+     "source": "CNBC",
+     "zh": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion"
+    },
+    {
+     "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
+     "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 13:00:00 GMT",
+     "summary": "Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.",
+     "source": "MarketWatch",
+     "zh": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test"
+    },
+    {
      "title": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”",
      "link": "https://wallstreetcn.com/articles/3780090",
      "pubDate": "Sun, 23 Aug 2026 20:57:19 +0800",
@@ -2450,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "8月23日晚间上市公司利好消息一览(附名单)"
     },
     {
-     "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-     "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
-     "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
-     "source": "CNBC",
-     "zh": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI"
-    },
-    {
      "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
      "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
      "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
@@ -2466,20 +2450,36 @@ window.INDUSTRY_DATA = {
      "zh": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill"
     },
     {
+     "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+     "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
+     "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
+     "source": "CNBC",
+     "zh": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI"
+    },
+    {
+     "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
+     "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
+     "summary": "You can’t just sweep $40 trillion in U.S. national debt under a rug and forget about it — or so the bond market appears to be telling Treasury Secretary Scott Bessent.",
+     "source": "MarketWatch",
+     "zh": "The Treasury’s bond-market intervention isn’t working. So what comes next?"
+    },
+    {
+     "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
+     "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
+     "summary": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years.",
+     "source": "MarketWatch",
+     "zh": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement."
+    },
+    {
      "title": "8月23日晚间沪深上市公司重大事项公告最新快递",
      "link": "http://finance.eastmoney.com/news/1345,202608233850358355.html",
      "pubDate": "Sun, 23 Aug 2026 19:32:16 +0800",
      "summary": "沪深两市多家上市公司8月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，",
      "source": "东方财富资讯",
      "zh": "8月23日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
-     "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
-     "pubDate": "Sun, 23 Aug 2026 11:29:05 GMT",
-     "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
-     "source": "CNBC",
-     "zh": "Top Wall Street analysts believe in the growth potential of these 3 stocks"
     }
    ]
   },
