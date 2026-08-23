@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 06:46:46",
+ "generated_at": "2026/8/24 07:11:31",
  "recent_days": 7,
  "industries": [
   {
@@ -24,6 +24,14 @@ window.INDUSTRY_DATA = {
      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
      "source": "TechCrunch AI",
      "zh": "Linkdaze’s smart calendar is built to run a household, not just track a schedule"
+    },
+    {
+     "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+     "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+     "pubDate": "Sun, 23 Aug 2026 17:51:56 +0000",
+     "summary": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work"
     },
     {
      "title": "800亿港元！阿里宣布为AI再融资，传已超额认购",
@@ -74,6 +82,14 @@ window.INDUSTRY_DATA = {
      "zh": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长"
     },
     {
+     "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+     "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+     "pubDate": "Sun, 23 Aug 2026 10:44:59 +0000",
+     "summary": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU"
+    },
+    {
      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
      "link": "https://www.qbitai.com/2026/08/478191.html",
      "pubDate": "Sun, 23 Aug 2026 09:56:12 +0000",
@@ -98,6 +114,14 @@ window.INDUSTRY_DATA = {
      "zh": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起"
     },
     {
+     "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
+     "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
+     "pubDate": "Sun, 23 Aug 2026 07:51:22 +0000",
+     "summary": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows. The post B",
+     "source": "MarkTechPost",
+     "zh": "Building an End-to-End Document Intelligence Pipeline with deepDoctection"
+    },
+    {
      "title": "影视飓风Tim看呆！鸡排哥2小时做出八大菜系，AI首次长出「大厨大脑」",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719752&idx=1&sn=44657ada08096ab4c58495a046f7fd9a",
      "pubDate": "Sun, 23 Aug 2026 15:38:00 +0800",
@@ -114,6 +138,22 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic：AI没有导致失业率的增加"
     },
     {
+     "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
+     "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+     "pubDate": "Sun, 23 Aug 2026 07:37:14 +0000",
+     "summary": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks. The post Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks"
+    },
+    {
+     "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+     "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+     "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
+     "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based ",
+     "source": "MarkTechPost",
+     "zh": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety"
+    },
+    {
      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
      "pubDate": "Sat, 22 Aug 2026 21:46:56 +0000",
@@ -128,6 +168,14 @@ window.INDUSTRY_DATA = {
      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
      "source": "TechCrunch AI",
      "zh": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research"
+    },
+    {
+     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
+     "source": "MarkTechPost",
+     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
     },
     {
      "title": "AI4S八年积累迎来新节点，北京再落一子，抢跑科研范式变革下半场",
@@ -200,54 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "See how AI agents are autonomously handling support, coding, supply chains, healthcare, and fraud detection today.",
      "source": "KDnuggets",
      "zh": "5 Real-World Use Cases for AI Agents Transforming Industries"
-    },
-    {
-     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-     "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-     "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
-     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-     "source": "DeepMind",
-     "zh": "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-    },
-    {
-     "title": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验",
-     "link": "https://zhidx.com/p/586881.html",
-     "pubDate": "Fri, 21 Aug 2026 19:19:04 +0800",
-     "summary": "当AI接管代码和影像后，社媒上一度流行“一句话跑出游戏”的各种DEMO演示。 可直到今天，完全用AI打造的现象级游戏， 几乎无处寻觅 。为什么？在Coding Agent和视频模型高速发展的今天，AI原生游戏的困难到底在哪里？ 与此同时，一个4个月前，才 全面 转入AI游戏赛道的团队，上线了当下定位于“AI精品游戏”的平台Elseland。 平台上已经上线了大量来自创作者和工作室的游戏。其中，更具代表性的，则是Elseland团队基于自研游戏开发工具，打造的数十款“原创游戏”。CEO刘耕提到，他们已经能把数百关体量精品游戏的生产时间，从一年降到一星期左右。成本的百倍下降，是支撑 快速创新与验证",
-     "source": "智东西",
-     "zh": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验"
-    },
-    {
-     "title": "How mobility gives language models a deeper understanding of place",
-     "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
-     "pubDate": "Fri, 21 Aug 2026 10:54:00 +0000",
-     "summary": "Algorithms & Theory",
-     "source": "Google Research",
-     "zh": "How mobility gives language models a deeper understanding of place"
-    },
-    {
-     "title": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆",
-     "link": "https://zhidx.com/p/587166.html",
-     "pubDate": "Fri, 21 Aug 2026 18:17:43 +0800",
-     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西8月21日报道，刚刚，雷鸟iO AI眼镜发布。这款产品 重34克 ，日常续航可达两天。眼镜搭载 DeepSeek和千问大模型 ，其“AI全天智记”功能支持 连续记录18小时 。 设计方面，雷鸟iO采用皇冠框型设计，前框使用镁铝合金，镜腿采用双层钛合金结构，提供 “极夜”和“沙丘”两款配色 。 显示方面，雷鸟iO采用单绿色显示，搭载自研 蓝湖光波导和萤火光引擎Nano 。蓝湖光波导显示区域透过率为93%，非显示区域透过率超过98%，萤火光引擎Nano体积仅0.085cc，可实现等效33英寸显示及1800尼特入眼亮度。 AI方面，雷鸟iO围绕 知识",
-     "source": "智东西",
-     "zh": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆"
-    },
-    {
-     "title": "DeepSeek多模态模型终于来了！一张图最高只要0.001元",
-     "link": "https://zhidx.com/p/587260.html",
-     "pubDate": "Fri, 21 Aug 2026 18:03:28 +0800",
-     "summary": "智东西 作者 | 陈骏达 编辑 | 李水青 智东西8月21日报道，就在刚刚，DeepSeek宣布全新的多模态视觉理解模型DeepSeek-V4-Flash-Vision-Exp（实验性质模型）上线DeepSeek API 平台。 DeepSeek同步公布了这一模型的详细基准测试结果。根据模型名字推测，DeepSeek-V4-Flash-Vision-Exp是在DeepSeek-V4-Flash基础上打造的，基准测试中其 纯文本能力（Agent、推理、世界知识等）与DeepSeek-V4-Flash正式版持平 。 在需要视觉理解的Agent Benchmark上，DeepSeek-V4-Flas",
-     "source": "智东西",
-     "zh": "DeepSeek多模态模型终于来了！一张图最高只要0.001元"
-    },
-    {
-     "title": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队",
-     "link": "https://zhidx.com/p/587115.html",
-     "pubDate": "Fri, 21 Aug 2026 17:05:57 +0800",
-     "summary": "智东西 作者 | 李水青 编辑 | 漠影 智东西8月21日报道，过去一个月，阿里巴巴模型发布全面提速， 大语言、图像、语音、视频、音乐五大类 模型密集完成重要版本迭代，性能均跻身国际第一梯队。 有业内人士评价， 多模态 是 下一代智能的范式 。阿里在多模态上的布局节奏，远比市场感知的要快。 模型密集迭代的另一面，是模型能力开始 与云基础设施的增长形成更紧密的联动。 2027财年第一季度（对应2026年4月1日-6月30日），阿里云外部商业化收入增速提升至 45% ，创下22个季度新高。AI云及算力服务收入 484.37亿元 ，经调整EBITA达到 56.28亿元 ，同比暴增 133% 。AI相",
-     "source": "智东西",
-     "zh": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队"
     }
    ]
   },
@@ -354,46 +354,6 @@ window.INDUSTRY_DATA = {
      "zh": "How TSMC Is Wiring the AI Era With Light"
     },
     {
-     "title": "Android XR advances as Jetpack XR SDK core libraries reach beta",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 14:39:56 +0000",
-     "summary": "Google is announcing that its Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries are officially in beta status. And Jetpack Compose is to follow soon, it says. Basically, […] The post Android XR advances as Jetpack XR SDK core libraries reach beta appeared first on Electronics Weekly",
-     "source": "Electronics Weekly",
-     "zh": "Android XR advances as Jetpack XR SDK core libraries reach beta"
-    },
-    {
-     "title": "Exotic Materials Adding Cost To Semis",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/exotic-materials-adding-cost-to-semis-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 13:30:13 +0000",
-     "summary": "19 years ago the chip industry was facing a similar problem to today – the need for, and rising cost of, exotic materials. ‘Semiconductor firms are facing critical pricing choices […] The post Exotic Materials Adding Cost To Semis appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Exotic Materials Adding Cost To Semis"
-    },
-    {
-     "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
-     "link": "https://www.electronicsweekly.com/news/saildrone-lockheed-martin-demonstrate-live-fire-from-usv-platform-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 10:30:33 +0000",
-     "summary": "Lockheed Martin is highlighting a successful collaboration with Saildrone, a specialist in maritime autonomous systems. USV Basically, an unmanned surface vehicle (USV) was equipped with lethal defence technology, the live-fire […] The post Saildrone, Lockheed Martin demonstrate live-fire from USV p",
-     "source": "Electronics Weekly",
-     "zh": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform"
-    },
-    {
-     "title": "JEDEC to host Automotive Electronics Forum",
-     "link": "https://www.electronicsweekly.com/news/business/jedec-to-host-automotive-electronics-forum-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 09:17:49 +0000",
-     "summary": "The JEDEC Solid State Technology Association has announced that it is hosting an Automotive Electronics Forum. The event will take place on 17 September 2026 in Santa Clara, California. The […] The post JEDEC to host Automotive Electronics Forum appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "JEDEC to host Automotive Electronics Forum"
-    },
-    {
-     "title": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 09:05:07 +0000",
-     "summary": "There's the next frontier of advanced optoelectronics, Samsung Foundry putting back its 1.4nm process to 2029, and Vishay sampling a short distance VCSEL-based proximity sensor... The post Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices"
-    },
-    {
      "title": "The Human Brain Versus AI: Similar Results, Very Different Machines",
      "link": "https://www.eetimes.com/the-human-brain-versus-ai-similar-results-very-different-machines/",
      "pubDate": "Fri, 21 Aug 2026 07:43:42 +0000",
@@ -408,14 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "New Micron lab; chip/AI price jump; multi-die monitoring; cryo links for quantum chips; interconnect RC bottleneck; 18A win; CPO roadmap; 2 new CEOs; humanoid readiness gap; Hot Interconnects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "White House looking for 1000 rocket launches a year",
-     "link": "https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 05:17:57 +0000",
-     "summary": "Yesterday US President Donald Trump signed a memo aimed at enabling 1,000 US rocket launches and re-entries a year – up from 178 launches in 2025. The memo requires agencies […] The post White House looking for 1000 rocket launches a year appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "White House looking for 1000 rocket launches a year"
     },
     {
      "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
@@ -496,6 +448,46 @@ window.INDUSTRY_DATA = {
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
+    },
+    {
+     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
+     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
+     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
+     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
+    },
+    {
+     "title": "HexSeed raises over £600,000 in early-stage funding",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/hexseed-190826.shtml",
+     "pubDate": "Wed, 19 Aug 2026 21:03:33 +0100",
+     "summary": "HexSeed Technology Ltd of Banchory, near Aberdeen, Scotland, UK has raised more than £600,000 in an early-stage funding round led by Carbon13, with participation from Net Zero Technology Centre and Vento Ventures. The cumulative investment unlocks a Partnership Grant from overnment agency Innovate U",
+     "source": "Semiconductor Today",
+     "zh": "HexSeed raises over £600,000 in early-stage funding"
+    },
+    {
+     "title": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/clas-sic-190826.shtml",
+     "pubDate": "Wed, 19 Aug 2026 20:50:08 +0100",
+     "summary": "Clas-SiC Wafer Fab Ltd of Lochgelly, Fife, Scotland — which was founded in 2017 and is the UK’s only commercial wafer fabrication facility dedicated to silicon carbide (SiC) — is one of the first recipients of Scottish Enterprise’s new Capital Grant, which has been designed to help drive levels of b",
+     "source": "Semiconductor Today",
+     "zh": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment"
+    },
+    {
+     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
+     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
+     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
+     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
+    },
+    {
+     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
+     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
+     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
+     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -850,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Diesel Crisis Threatens to Outlast the Middle East War",
+     "link": "https://oilprice.com/Energy/Energy-General/Diesel-Crisis-Threatens-to-Outlast-the-Middle-East-War.html",
+     "pubDate": "Sun, 23 Aug 2026 18:00:00 -0500",
+     "summary": "The outlook for the Middle East war remains grim, the U.S. just threatened Iran with the “toughest sanctions in history,” and the world is running out of stored fuels. To make matters worse, refining capacity is down considerably, and even if the outlook for the war suddenly changed and the U.S. and",
+     "source": "OilPrice",
+     "zh": "Diesel Crisis Threatens to Outlast the Middle East War"
+    },
+    {
      "title": "BYD Da Han Claims Global Flagship Status",
      "link": "https://cleantechnica.com/2026/08/23/byd-da-han-claims-global-flagship-status/",
      "pubDate": "Sun, 23 Aug 2026 21:34:33 +0000",
@@ -888,14 +888,6 @@ window.INDUSTRY_DATA = {
      "summary": "While it seems that Democrats and Republicans can’t agree on much of anything these days, there’s at least one common enemy that’s bringing both sides of the aisle together: data centers. Representatives on both sides of the aisle are increasingly pushing back against hyperscalers who are developing",
      "source": "OilPrice",
      "zh": "Private Equity Is Circling Utilities as AI Reshapes the Grid"
-    },
-    {
-     "title": "Underwater Volcanoes Are Geothermal Energy’s Next Frontier",
-     "link": "https://oilprice.com/Energy/Energy-General/Underwater-Volcanoes-Are-Geothermal-Energys-Next-Frontier.html",
-     "pubDate": "Sun, 23 Aug 2026 10:00:00 -0500",
-     "summary": "A Seattle startup is seeking to revolutionize geothermal energy by tapping into undersea volcanoes. In September, a 100-kilowatt geothermal generator will be deployed to the seafloor off Oregon’s coast, where a hydrothermal vent emits temperatures of up to 750 degrees Fahrenheit. The pilot project –",
-     "source": "OilPrice",
-     "zh": "Underwater Volcanoes Are Geothermal Energy’s Next Frontier"
     },
     {
      "title": "Tesla Semi Moves Into Europe & Gets Largest Order To Date",
@@ -1746,6 +1738,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "中国铁路官方解答儿童乘火车出行疑问：不具备一对一全程看护单独出行儿童的条件",
+     "link": "https://www.ithome.com/0/993/324.htm",
+     "pubDate": "Sun, 23 Aug 2026 23:04:30 GMT",
+     "summary": "IT之家 8 月 24 日消息，当前正值暑期旅客出行高峰时期，许多家长选择带娃出行。针对家长们关于铁路儿童优惠票、儿童是否能单独乘火车出行、列车上是否有儿童托管服务等问题，中国铁路官方昨晚进行了解答，IT之家整理如下： 1、铁路对未满 14 周岁的儿童 购票乘车 是如何规定的？ 答：当前铁路部门的规定是，随同成年人乘车的儿童，年满 6 周岁且未满 14 周岁的应当购买儿童优惠票；年满 14 周岁，应当购买全价票。每一名持票成年人旅客可免费携带一名未满 6 周岁且不单独占用席位的儿童乘车；超过一名时，超过人数应当购买儿童优惠票。免费乘车的儿童单独使用席位时，也应购买儿童优惠票。 儿童优惠票的乘车",
+     "source": "IT之家",
+     "zh": "中国铁路官方解答儿童乘火车出行疑问：不具备一对一全程看护单独出行儿童的条件"
+    },
+    {
+     "title": "Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade \"a lot of liberty for safety\" (Truman Dickerson/Business Insider)",
+     "link": "https://www.techmeme.com/260823/p11#a260823p11",
+     "pubDate": "Sun, 23 Aug 2026 19:01:13 -0400",
+     "summary": "Truman Dickerson / Business Insider : Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade &ldquo;a lot of liberty for safety&rdquo; &nbsp; &mdash;&nbsp; OpenAI CEO Sam Altman says he worries that AI will one day be controlled by a ",
+     "source": "Techmeme",
+     "zh": "Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade \"a lot of liberty for safety\" (Truman Dickerson/Business Insider)"
+    },
+    {
+     "title": "分析师称 Epic 游戏商城改版也难撼动 Steam，Epic 晒数据予以反驳",
+     "link": "https://www.ithome.com/0/993/322.htm",
+     "pubDate": "Sun, 23 Aug 2026 23:00:31 GMT",
+     "summary": "IT之家 8 月 24 日消息，Epic Games 长期以来一直试图将 Epic 游戏商城打造成 Steam 的替代品，这也是其自 2018 年以来提供著名的每周免费游戏的原因。最近，Epic 承诺对游戏商城进行大规模改版，以吸引更多游戏发行商和玩家，带来新功能、更精致的用户界面、更好的游戏发现机制，甚至支持 Linux。在最近接受 PC Gamer 采访时，Newzoo 分析师 Emmanuel Rosier 认为，对于 Epic 来说，想通过重新设计来夺回足够的市场份额，可能为时已晚。 这位分析师称，玩家只是为了免费游戏才去 Epic，当他们想购买真正愿意花钱的游戏时，又会转身回到 St",
+     "source": "IT之家",
+     "zh": "分析师称 Epic 游戏商城改版也难撼动 Steam，Epic 晒数据予以反驳"
+    },
+    {
+     "title": "微软 Win11 文件资源管理器将新增“仍要预览”按钮，兼顾安全与下载文件预览体验",
+     "link": "https://www.ithome.com/0/993/321.htm",
+     "pubDate": "Sun, 23 Aug 2026 22:52:26 GMT",
+     "summary": "IT之家 8 月 24 日消息，Windows 11 的文件资源管理器正在恢复一项此前因安全问题被禁用的功能，新增了一个“仍要预览”（Preview anyway）按钮。该功能将在未来几周内开始推送。 据IT之家了解，2025 年 10 月初，用户发现文件资源管理器不再为从互联网下载的文件在预览窗格中显示预览，当时一些人以为这是异常行为或是一个 Bug。 微软后来确认，出于安全原因，其有意阻止了文件资源管理器的预览功能，这使得用户无法快速浏览 PDF 和其他文档。 对于不了解情况的用户，文件资源管理器有两个窗格。一个是“详细信息”窗格，显示所选文件的信息，例如文件大小、创建日期等。它还可以在不",
+     "source": "IT之家",
+     "zh": "微软 Win11 文件资源管理器将新增“仍要预览”按钮，兼顾安全与下载文件预览体验"
+    },
+    {
      "title": "古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色",
      "link": "https://www.ithome.com/0/993/320.htm",
      "pubDate": "Sun, 23 Aug 2026 22:40:45 GMT",
@@ -1842,30 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路"
     },
     {
-     "title": "揭秘苹果摄像头版 AirPods 为何泄露：可能是测试新功能时合并错误",
-     "link": "https://www.ithome.com/0/993/316.htm",
-     "pubDate": "Sun, 23 Aug 2026 15:22:40 GMT",
-     "summary": "IT之家 8 月 23 日消息，苹果在 8 月 17 日发布 macOS Tahoe 26.7 RC 时，意外泄露了摄像头版 AirPods 的演示视频。除了耳机惨遭曝光以外，这个系统还包含了 Home Hub 家庭中枢等大量未公布产品信息。 据彭博社报道，本次泄露并不是内鬼曝光或黑客入侵，仅仅只是一次人为失误。 众所周知，苹果内部的测试版操作系统与开发者直接获取的测试版有所不同。当苹果员工开发或测试 macOS / iOS 未来功能时，需要通过 Feature Flags（IT之家注：特性切换）开关来调整一切。当然系统在发布给公众时，未公开的 Feature Flags 设置会设置为关闭状态",
-     "source": "IT之家",
-     "zh": "揭秘苹果摄像头版 AirPods 为何泄露：可能是测试新功能时合并错误"
-    },
-    {
-     "title": "联影医疗、天津大学发布全球首个磁共振脑机接口全栈式解决方案 uMR 神观",
-     "link": "https://www.ithome.com/0/993/315.htm",
-     "pubDate": "Sun, 23 Aug 2026 15:18:31 GMT",
-     "summary": "IT之家 8 月 23 日消息，由天津大学、脑机交互与人机共融海河实验室、联影医疗共同主办的全国首届磁共振脑机接口大会今日在天津市举办。 上海联影医疗科技股份有限公司与天津大学共同发布了 全球首个磁共振脑机接口全栈式解决方案“uMR 神观” ，该方案是以联影 uMR 系列设备为硬件基座，面向脑机接口技术研发与临床转化打造的磁共振专属解决方案。 据介绍，该方案围绕脑机接口“读脑 — 写脑 — 验证”闭环中的核心痛点， 构建了从高时空分辨磁共振成像、磁共振硬件适配优化、磁兼容脑机接口适配工具箱，到磁共振引导神经调控新范式的完整技术体系 。 依托联影 uMR 机型 3.0T、5.0T、9.4T 跨场",
-     "source": "IT之家",
-     "zh": "联影医疗、天津大学发布全球首个磁共振脑机接口全栈式解决方案 uMR 神观"
-    },
-    {
-     "title": "前 R 星技术总监谈《GTA 6》画面泄露：实则“没什么大不了”",
-     "link": "https://www.ithome.com/0/993/314.htm",
-     "pubDate": "Sun, 23 Aug 2026 15:14:52 GMT",
-     "summary": "IT之家 8 月 23 日消息，Rockstar Games 资深开发者奥贝 · 维尔梅伊回应了近期接连出现的《GTA 6》游戏画面泄露，认为对 R 星来说，这些泄露其实“没什么大不了”。 近日，黑客组织 Cyberleek 不知如何获得了游戏资料，几乎每天都会放出新的游戏画面。事件发生后，R 星和 Take-Two 始终相当沉默，只有部分法院文件显示两家公司已经开始追查泄露者。彭博社记者杰森 · 施赖尔最近透露，开发人员因为持续泄露感到“ 沮丧和疲惫 ”。 曾任 R 星技术总监、并一直工作到《GTA 4》发售的奥贝 · 维尔梅伊在 X 平台发文呼吁玩家冷静。在他看来，R 星长期保持高度神秘，",
-     "source": "IT之家",
-     "zh": "前 R 星技术总监谈《GTA 6》画面泄露：实则“没什么大不了”"
-    },
-    {
      "title": "卡巴斯基发现第一种针对汽车的 Android 恶意程序",
      "link": "https://www.solidot.org/story?sid=85168",
      "pubDate": "Sun, 23 Aug 2026 23:02:01 +0800",
@@ -1960,14 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "豆包团队最快将于下周推出一款对标腾讯WorkBuddy的办公类产品",
      "source": "钛媒体",
      "zh": "豆包将推WorkBuddy类产品，飞书十年积累正在组件化"
-    },
-    {
-     "title": "The careers of Z.ai&apos;s Tang Jie and Moonshot AI&apos;s Yang Zhilin, once teacher and pupil at Tsinghua University, show that China&apos;s AI leap is no sudden development (Raffaele Huang/Wall Street Journal)",
-     "link": "https://www.techmeme.com/260823/p5#a260823p5",
-     "pubDate": "Sun, 23 Aug 2026 08:05:01 -0400",
-     "summary": "Raffaele Huang / Wall Street Journal : The careers of Z.ai's Tang Jie and Moonshot AI's Yang Zhilin, once teacher and pupil at Tsinghua University, show that China's AI leap is no sudden development &nbsp; &mdash;&nbsp; University lab nurtured the computer scientists who are using ingenuity and imit",
-     "source": "Techmeme",
-     "zh": "The careers of Z.ai&apos;s Tang Jie and Moonshot AI&apos;s Yang Zhilin, once teacher and pupil at Tsinghua University, show that China&apos;s AI leap is no sudden development (Raffaele Huang/Wall Street Journal)"
     },
     {
      "title": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了",
@@ -2242,6 +2234,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Egypt's CIB scores preliminary approval for new digital bank",
+     "link": "https://www.finextra.com/newsarticle/48284/egypts-cib-scores-preliminary-approval-for-new-digital-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 24 Aug 2026 00:01:00 GMT",
+     "summary": "Egypt's Commercial International Bank (CIB) has received preliminary regulatory approval to set up a digitally native offshoot.",
+     "source": "Finextra",
+     "zh": "Egypt's CIB scores preliminary approval for new digital bank"
+    },
+    {
+     "title": "UK fintech funding hits lowest level in a decade",
+     "link": "https://www.finextra.com/newsarticle/48285/uk-fintech-funding-hits-lowest-level-in-a-decade?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 24 Aug 2026 00:01:00 GMT",
+     "summary": "UK fintech funding dropped to its lowest level in a decade in the first half of 2026, with firms receiving just £1.8 billion in investment, according to the latest KPMG figures.",
+     "source": "Finextra",
+     "zh": "UK fintech funding hits lowest level in a decade"
+    },
+    {
+     "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
+     "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 23:03:00 GMT",
+     "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trade partners.",
+     "source": "MarketWatch",
+     "zh": "Stock futures flat as U.S. and Canada appear headed for trade war"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年8月24日",
+     "link": "https://wallstreetcn.com/articles/3780045",
+     "pubDate": "Mon, 24 Aug 2026 07:00:08 +0800",
+     "summary": "华见早安之声 市场概述 美PMI意外强劲 ， 美股反弹 、 纳斯达克100终结五连跌 ，标普和纳指四周内首次周跌，道指连跌两周；芯片指数回落，英伟达六连跌、全周累跌4.6%；获准在拉斯维加斯提供Robobtaxi服务后，特斯拉涨超5%； 公布个性化mRNA癌症疫苗重大突破当周 ， Moderna 股价 翻倍暴涨、 默沙东一周涨超10%， 力挺医疗板块全周累涨超4% ；加密货币概念股续涨，Robinhood收涨超10%。 美财政部“救市”效应昙花一现 ， 美债 价格 连日齐跌 ，两年期美债收益率创逾一周新高。 美元指数 盘中触及三个月低位， 美PMI后一度转涨 ； 离岸人民币盘中涨破6.72 、",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年8月24日"
+    },
+    {
+     "title": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead",
+     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+     "pubDate": "2026-08-23T22:55:04Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead"
+    },
+    {
+     "title": "Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside?",
+     "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-thermo-fisher-healthcare-225340177.html",
+     "pubDate": "2026-08-23T22:53:40Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside?"
+    },
+    {
+     "title": "Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery?",
+     "link": "https://finance.yahoo.com/healthcare/articles/abbott-vs-thermo-fisher-better-224317862.html",
+     "pubDate": "2026-08-23T22:43:17Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery?"
+    },
+    {
      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
      "link": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
      "pubDate": "Sun, 23 Aug 2026 22:39:41 GMT",
@@ -2250,44 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat"
     },
     {
-     "title": "Dow Jones Futures Fall With Tariffs In Focus; Nvidia, Warsh Ahead",
-     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-23T22:23:02Z",
+     "title": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?",
+     "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-thermo-fisher-223203633.html",
+     "pubDate": "2026-08-23T22:32:03Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "Dow Jones Futures Fall With Tariffs In Focus; Nvidia, Warsh Ahead"
-    },
-    {
-     "title": "Stock futures slip as U.S. and Canada appear headed for trade war",
-     "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 22:22:00 GMT",
-     "summary": "U.S. stock-index futures dipped on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trade partners.",
-     "source": "MarketWatch",
-     "zh": "Stock futures slip as U.S. and Canada appear headed for trade war"
-    },
-    {
-     "title": "Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?",
-     "link": "https://finance.yahoo.com/healthcare/articles/danaher-vs-intuitive-surgical-recovery-222135336.html",
-     "pubDate": "2026-08-23T22:21:35Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?"
-    },
-    {
-     "title": "Thermo Fisher vs. Intuitive Surgical: Which Premium Healthcare Stock Deserves its Valuation?",
-     "link": "https://finance.yahoo.com/healthcare/articles/thermo-fisher-vs-intuitive-surgical-221530352.html",
-     "pubDate": "2026-08-23T22:15:30Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Thermo Fisher vs. Intuitive Surgical: Which Premium Healthcare Stock Deserves its Valuation?"
-    },
-    {
-     "title": "Danaher vs. Medtronic: Which Healthcare Recovery Story Has More Upside?",
-     "link": "https://finance.yahoo.com/healthcare/articles/danaher-vs-medtronic-healthcare-recovery-221012046.html",
-     "pubDate": "2026-08-23T22:10:12Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Danaher vs. Medtronic: Which Healthcare Recovery Story Has More Upside?"
+     "zh": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?"
     },
     {
      "title": "8月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
@@ -2456,30 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "时隔七年，保险业迎来资产负债管理新规。 为有效防范系统性风险，完善审慎监管制度体系，提升保险业资产负债管理水平，8月21日，国家金融监督管理总局（以下简称“金融监管总局”）发布《保险公司资产负债管理办法》（以下简称《办法》）以及《关于实施〈保险公司资产负债管理办法〉有关事项的通知》（以下简称《实施通知》）。 国家金融监管总局表示，《办法》的实施，有助于引导保险公司树立稳健审慎的经营理念，...",
      "source": "经济观察网",
      "zh": "补齐制度短板、强化硬约束 保险业迎资产负债管理新规"
-    },
-    {
-     "title": "国家发展改革委“两天三会” 释放稳投资政策加力信号",
-     "link": "http://www.eeo.com.cn/2026/0824/1009013.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:04 +0800",
-     "summary": "■杜雨萌 近期，国家发展改革委在两天内接连召开三场重要会议，从“六张网”重大项目协调调度机制会，到民营企业座谈会，再到“两重”建设工作推进会，每一场会议均聚焦投资领域。 在笔者看来，这一系列部署并非零散安排，而是紧扣下半年经济工作要求，将基础设施的承载力、民间资本的活跃度与重大项目的牵引力放在同一张施工图里统筹推进，为下一阶段投资工作划出清晰路径：统筹“六张网”，重在形成合力、提升整...",
-     "source": "经济观察网",
-     "zh": "国家发展改革委“两天三会” 释放稳投资政策加力信号"
-    },
-    {
-     "title": "机器人缺数据，奥比中光当上了“卖铲人”",
-     "link": "https://wallstreetcn.com/articles/3780096",
-     "pubDate": "Sun, 23 Aug 2026 21:25:09 +0800",
-     "summary": "8月19日举行的2026世界机器人大会上，奥比中光首次集中展示无本体数据采集硬件矩阵，包括第一视角设备EGO、手持操作设备UMI、腕部近场设备WristCam以及同步中枢Hub。 对于一家过去主要给机器人卖 “眼睛”的公司而言，奥比中光正在把生意往机器人学会干活之前再推一步：卖数据采集的“铲子”。 这门生意背后是具身智能越来越明显的数据瓶颈。大模型可以从互联网获取文本和图像，但机器人要完成抓取、装配、整理等物理任务，需要动作轨迹、空间位置以及真实交互产生的多模态数据。 奥比中光切入的正是数采过程中所用的硬件设备。 此次奥比中光推出的 EGO负责第一视角，UMI记录手持操作，WristCam补充",
-     "source": "华尔街见闻",
-     "zh": "机器人缺数据，奥比中光当上了“卖铲人”"
-    },
-    {
-     "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
-     "link": "https://wallstreetcn.com/articles/3779970",
-     "pubDate": "Sun, 23 Aug 2026 21:16:39 +0800",
-     "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极",
-     "source": "华尔街见闻",
-     "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
     }
    ]
   },
