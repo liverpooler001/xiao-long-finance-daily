@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 07:43:55",
+ "generated_at": "2026/8/23 08:35:30",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+     "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+     "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
+     "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based ",
+     "source": "MarkTechPost",
+     "zh": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety"
+    },
     {
      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西8月21日报道，8月20日，2026世界机器人大会平行活动“仿生赋能·智创未来——仿生具身智能机器人技术突破与产业生态共建”举办。本次活动在长春市委、市政府支持下举办，由国际仿生工程学会、长春市贸促会、长春市工信局、吉林省仿生机器人制造业创新中心主办，长春国际商会、月泉仿生、吉林省仿生机器人创新中心承办，海内外院士专家、产业链企业及创投机构代表300余人参会。 会上，月泉仿生和吉林省仿生机器人创新中心联合带来了多项科创成果集中首发。英国曼彻斯特大学终身教授、月泉仿生创始人、吉林省仿生机器人创新中心执行委员会主任任雷教授现场宣讲仿生拉压体机器人理",
      "source": "智东西",
      "zh": "月泉仿生发布仿生拉压体灵巧手，满足多场景精细操控"
-    },
-    {
-     "title": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=1&sn=d5a0a68f04d7e09d9cabe5c4950db88e",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
-     "source": "新智元",
-     "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Red States Are Killin’ It With Their Solar Factories",
+     "link": "https://cleantechnica.com/2026/08/22/solar-factory-microgrids-ev-charging-startup-translucent-energy/",
+     "pubDate": "Sat, 22 Aug 2026 23:47:54 +0000",
+     "summary": "The solar-enabled microgrid specialist Translucent Energy has just added a new 1.3 gigawatt solar factory in South Carolina to its portfolio, with plans for further expansion already under way. The post Red States Are Killin’ It With Their Solar Factories appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "Red States Are Killin’ It With Their Solar Factories"
+    },
+    {
      "title": "Europe Dodges a Rhine Crisis for the Worst Possible Reason",
      "link": "https://oilprice.com/Energy/Energy-General/Europe-Dodges-a-Rhine-Crisis-for-the-Worst-Possible-Reason.html",
      "pubDate": "Sat, 22 Aug 2026 18:00:00 -0500",
@@ -930,22 +938,6 @@ window.INDUSTRY_DATA = {
      "zh": "IEA: Southeast Asia Needs Grid Investment to Nearly Quadruple by 2050"
     },
     {
-     "title": "CleanTechnica Evangelist Report Card",
-     "link": "https://cleantechnica.com/2026/08/22/cleantechnica-evangelist-report-card/",
-     "pubDate": "Sat, 22 Aug 2026 13:58:20 +0000",
-     "summary": "This is my 194th article for CleanTechnica. I think you might say that I am a CleanTechnica (e.g. clean energy) evangelist. I also have taken my electric cars to car shows and driven them in 4th of July parades for 10 years. I also promote EVs and green lifestyles whenever ... [continued] The post C",
-     "source": "CleanTechnica",
-     "zh": "CleanTechnica Evangelist Report Card"
-    },
-    {
-     "title": "AC-Coupled vs. DC-Coupled",
-     "link": "https://www.pv-magazine.com/2026/08/22/ac-coupled-vs-dc-coupled/",
-     "pubDate": "Sat, 22 Aug 2026 04:00:00 +0000",
-     "summary": "Growing applications for battery storage mean the optimal system design may not be the most obvious. Jakir Hossain and Mujtaba Abdelwahab of Storlytics Energy Storage present a simulation-based comparison of AC vs. DC coupling showing how realistic dispatch modeling rather than generic assumptions f",
-     "source": "pv magazine",
-     "zh": "AC-Coupled vs. DC-Coupled"
-    },
-    {
      "title": "The Race to Unlock the World’s Hidden Hydrogen Reserves",
      "link": "https://oilprice.com/Energy/Energy-General/The-Race-to-Unlock-the-Worlds-Hidden-Hydrogen-Reserves.html",
      "pubDate": "Fri, 21 Aug 2026 16:00:00 -0500",
@@ -1018,22 +1010,6 @@ window.INDUSTRY_DATA = {
      "zh": "United Solar’s goal to diversify polysilicon supply outside of China"
     },
     {
-     "title": "Austria announces energy storage offensive, shifting solar subsidy focus",
-     "link": "https://www.pv-magazine.com/2026/08/21/austria-announces-energy-storage-offensive-shifting-solar-subsidy-focus/",
-     "pubDate": "Fri, 21 Aug 2026 13:18:34 +0000",
-     "summary": "Austria plans to overhaul its solar subsidy framework from 2027, shifting support from standard PV systems toward battery storage, energy management systems and specialized solar applications. The government aims to accelerate storage deployment, with up to 8 GW of market-oriented capacity by 2030, ",
-     "source": "pv magazine",
-     "zh": "Austria announces energy storage offensive, shifting solar subsidy focus"
-    },
-    {
-     "title": "Utility-scale projects drive New Zealand’s solar rollout",
-     "link": "https://www.pv-magazine.com/2026/08/21/utility-scale-projects-drive-new-zealands-solar-rollout/",
-     "pubDate": "Fri, 21 Aug 2026 13:13:15 +0000",
-     "summary": "New Zealand enjoyed a record year for solar additions in 2025, buoyed by the commissioning of seven utility-scale plants. An additional 930 MW of solar is due to come online over the next three years. The post Utility-scale projects drive New Zealand’s solar rollout appeared first on pv magazine Glo",
-     "source": "pv magazine",
-     "zh": "Utility-scale projects drive New Zealand’s solar rollout"
-    },
-    {
      "title": "‘Company wasn’t ready in 2021’: ESS Inc CEO on pivoting away from iron flow batteries to sodium-ion",
      "link": "https://www.energy-storage.news/company-wasnt-ready-in-2021-ess-inc-ceo-on-pivoting-away-from-iron-flow-batteries-to-sodium-ion/",
      "pubDate": "Fri, 21 Aug 2026 13:08:38 +0000",
@@ -1042,36 +1018,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘Company wasn’t ready in 2021’: ESS Inc CEO on pivoting away from iron flow batteries to sodium-ion"
     },
     {
-     "title": "China’s Jiangsu province crosses 100 GW solar milestone",
-     "link": "https://www.pv-magazine.com/2026/08/21/chinas-jiangsu-province-crosses-100-gw-solar-milestone-as-distributed-pv-drives-growth/",
-     "pubDate": "Fri, 21 Aug 2026 12:40:00 +0000",
-     "summary": "Jiangsu Province in eastern China has surpassed 100 GW of installed solar PV capacity, becoming the country’s first provincial-level region to reach the milestone, with distributed solar accounting for nearly 70% of capacity. The province plans further rapid expansion through 2030 and 2035, while up",
-     "source": "pv magazine",
-     "zh": "China’s Jiangsu province crosses 100 GW solar milestone"
-    },
-    {
-     "title": "Ecoflow unveils 5 kWh residential battery line",
-     "link": "https://www.pv-magazine.com/2026/08/21/ecoflow-unveils-5-kwh-residential-battery-line/",
-     "pubDate": "Fri, 21 Aug 2026 12:37:25 +0000",
-     "summary": "EcoFlow starts the rollout of its new Stream series with the Stream 5000 launching in the UK. The post Ecoflow unveils 5 kWh residential battery line appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Ecoflow unveils 5 kWh residential battery line"
-    },
-    {
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
+     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
-    },
-    {
-     "title": "Chinese PV Industry Brief: polysilicon market shows tentative recovery as wafer prices surge",
-     "link": "https://www.pv-magazine.com/2026/08/21/chinese-pv-industry-brief-polysilicon-market-shows-tentative-recovery-as-wafer-prices-surge/",
-     "pubDate": "Fri, 21 Aug 2026 12:21:49 +0000",
-     "summary": "China’s polysilicon market showed early signs of stabilization, while wafer prices jumped sharply on stronger downstream demand and increased overseas purchasing. The post Chinese PV Industry Brief: polysilicon market shows tentative recovery as wafer prices surge appeared first on pv magazine Globa",
-     "source": "pv magazine",
-     "zh": "Chinese PV Industry Brief: polysilicon market shows tentative recovery as wafer prices surge"
     },
     {
      "title": "Daqo New Energy narrows Q2 losses, resumes sales below cost",
@@ -1082,12 +1034,60 @@ window.INDUSTRY_DATA = {
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
-     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
-     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
-     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
-     "source": "Utility Dive",
-     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
+     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
+     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
+     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
+     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
+     "source": "Energy Storage News",
+     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
+    },
+    {
+     "title": "India’s BESS supply chain suffers a ‘policy intent and operational capacity’ gap, with battery cell self-sufficiency a decade or more away",
+     "link": "https://www.energy-storage.news/indias-bess-supply-chain-suffers-a-policy-intent-and-operational-capacity-gap-with-battery-cell-self-sufficiency-a-decade-or-more-away/",
+     "pubDate": "Fri, 21 Aug 2026 09:36:58 +0000",
+     "summary": "India’s battery storage sector will remain far from self-sufficient in cell supply for at least a decade, Wood Mackenzie says.",
+     "source": "Energy Storage News",
+     "zh": "India’s BESS supply chain suffers a ‘policy intent and operational capacity’ gap, with battery cell self-sufficiency a decade or more away"
+    },
+    {
+     "title": "Solar and storage still dominate US power plant construction",
+     "link": "https://www.canarymedia.com/articles/clean-energy/solar-storage-dominate-us-power-construction",
+     "pubDate": "Fri, 21 Aug 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . It’s a tough time to build renewable energy in the U.S. In 2026 alone, the Trump administration has phased out tax credits , frozen clean-energy permitting , and issued tariffs certain to raise the cost of solar — while continuing to take la",
+     "source": "Canary Media",
+     "zh": "Solar and storage still dominate US power plant construction"
+    },
+    {
+     "title": "Australia’s Allegro Energy partners with Jena Batteries to scale microemulsion flow battery manufacturing",
+     "link": "https://www.energy-storage.news/australias-allegro-energy-partners-with-jena-batteries-to-scale-microemulsion-flow-battery-manufacturing/",
+     "pubDate": "Fri, 21 Aug 2026 03:26:34 +0000",
+     "summary": "Allegro Energy has entered a strategic partnership with Jena Batteries and its parent company Suqian Time Energy Technology.",
+     "source": "Energy Storage News",
+     "zh": "Australia’s Allegro Energy partners with Jena Batteries to scale microemulsion flow battery manufacturing"
+    },
+    {
+     "title": "Are conventional BESS degradation guarantees restricting asset value?",
+     "link": "https://www.energy-storage.news/are-conventional-bess-degradation-guarantees-restricting-asset-value/",
+     "pubDate": "Thu, 20 Aug 2026 22:16:04 +0000",
+     "summary": "Battery energy storage degradation guarantees need to evolve as the surrounding market does, writes Faisal Mohd at Envision Energy Australia.",
+     "source": "Energy Storage News",
+     "zh": "Are conventional BESS degradation guarantees restricting asset value?"
+    },
+    {
+     "title": "PJM wants data centers to bring their own power. Pennsylvania’s on it.",
+     "link": "https://www.canarymedia.com/articles/data-centers/pjm-data-centers-pennsylvania",
+     "pubDate": "Thu, 20 Aug 2026 17:00:00 -0400",
+     "summary": "Last month, grid operator PJM Interconnection unveiled a long-awaited proposal to prevent data centers from spiking power prices — but the plan largely relies on states to give it teeth . Pennsylvania, one of the biggest states in PJM’s 13-state territory, is taking up that challenge. This week, Pen",
+     "source": "Canary Media",
+     "zh": "PJM wants data centers to bring their own power. Pennsylvania’s on it."
+    },
+    {
+     "title": "How solar saved the grid during Europe’s heatwave",
+     "link": "https://www.renewableenergyworld.com/solar/utility-scale/how-solar-saved-the-grid-during-europes-heatwave/",
+     "pubDate": "Thu, 20 Aug 2026 19:08:12 +0000",
+     "summary": "Energy think tank Ember’s new report highlights the impact of extreme summer temperatures on the grid and the role record solar output played in maintaining grid stability.",
+     "source": "Renewable Energy World",
+     "zh": "How solar saved the grid during Europe’s heatwave"
     }
    ]
   },
@@ -1746,52 +1746,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "上海 TI15 总决赛今日开赛：Spirit、Yandex、VISION 争夺 DOTA2 最高荣耀，Sumail 宣布退役",
-     "link": "https://www.ithome.com/0/993/126.htm",
-     "pubDate": "Sat, 22 Aug 2026 23:36:19 GMT",
-     "summary": "IT之家 8 月 23 日消息，8 月 23 日是《DOTA2》 2026 年国际邀请赛（TI2026 / TI15）的决赛日，三支战队将为了 DOTA2 最高荣耀，在中国上海展开最后的争夺。 Team Liquid、Nigma Galaxy 和 BoomBoys 在 8 月 22 日的比赛中被淘汰，无缘冠军之神盾的争夺；Team Spirit、Team Yandex 和 TEAM VISION 进入决赛日，竞争 TI15 最后的总冠军。 8 月 22 日比赛结果： Team Spirit 2-0 Team Liquid BoomBoys 2-1 Nigma Galaxy TEAM VISIO",
+     "title": "中国 AG.AL 首夺得 2026EWC 电竞世俱杯俱乐部总冠军，力压 FALCONS",
+     "link": "https://www.ithome.com/0/993/134.htm",
+     "pubDate": "Sun, 23 Aug 2026 00:32:46 GMT",
+     "summary": "IT之家 8 月 23 日消息，今日，来自中国的 AG.AL 战队夺得 2026EWC 电竞世俱杯俱乐部总冠军，登顶世界之巅，将获得 700 万美元 （IT之家注：现汇率约合 4,716.5 万元人民币） 冠军奖金。 据悉，本届赛事 AG.AL 共参加 18 个 EWC 项目，全部成功晋级正赛，该晋级数量为全球俱乐部第 2 位。 AG.AL 参赛人员也更加国际化，例如最后在《赛道狂飙》夺冠的 GWEN 选手便来自海外。 主要项目中， AG.AL 在《赛道狂飙》《铁拳 8》等项目夺得冠军，《国际象棋》《王者荣耀》等项目夺得亚军，最终以 5300 的总积分力压 FALCONS 在法国巴黎夺冠。 本",
      "source": "IT之家",
-     "zh": "上海 TI15 总决赛今日开赛：Spirit、Yandex、VISION 争夺 DOTA2 最高荣耀，Sumail 宣布退役"
+     "zh": "中国 AG.AL 首夺得 2026EWC 电竞世俱杯俱乐部总冠军，力压 FALCONS"
     },
     {
-     "title": "特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi",
-     "link": "https://www.ithome.com/0/993/125.htm",
-     "pubDate": "Sat, 22 Aug 2026 23:26:07 GMT",
-     "summary": "IT之家 8 月 23 日消息，特斯拉的 Robotaxi 业务在内华达州刚刚迎来一次大规模扩张。 内华达州运输管理局（Nevada Transportation Authority）于当地时间周四批准了特斯拉的完整“自动驾驶汽车网络公司”运营许可证，为该公司未来 12 个月内在克拉克县部署最多 5000 辆无人驾驶汽车扫清了监管障碍。 这一决定是在一场长达 4 小时的例行会议上作出的。特斯拉投资者 Sawyer Merritt 全程观看了会议直播，并在 X 平台上报道了这一消息。他指出，这次批准取代了此前的临时许可。根据临时许可，特斯拉只能在拉斯维加斯大道的一小段区域内运营最多 10 辆 R",
+     "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8",
+     "link": "https://www.ithome.com/0/993/133.htm",
+     "pubDate": "Sun, 23 Aug 2026 00:15:10 GMT",
+     "summary": "IT之家 8 月 23 日消息，总部位于伦敦的 AI 实验室 Inherent 由前谷歌 DeepMind 员工创立。该公司表示，其 AI 智能体 Faraday 仅使用规模远小于 Anthropic 和 OpenAI 旗舰模型的模型，就在一项特定任务中取得了更好的表现。 在众多由前 Google DeepMind 员工创办的初创公司中，Inherent 此前获得的关注相对较少。不过，与那些资金更加充裕、却还没有拿出太多实际成果的竞争对手相比，这家总部位于伦敦的团队如今已经开始展示自己的研发成果。 这家英国初创公司仅在以 5,000 万美元 （IT之家注：现汇率约合 3.37 亿元人民币） 种",
      "source": "IT之家",
-     "zh": "特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi"
+     "zh": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT‑5.5 与 Claude Opus 4.8"
     },
     {
-     "title": "航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业",
-     "link": "https://www.ithome.com/0/993/124.htm",
-     "pubDate": "Sat, 22 Aug 2026 23:25:03 GMT",
-     "summary": "IT之家 8 月 23 日消息，据央视军事报道，在 2026 世界机器人大会上， 航天自研半人马重载智能机器人“小橙”首次公开亮相 。 据介绍，这款机器人把轮足底盘、人形双臂灵巧手合二为一，主要面向应急抢险及危险场景作业，还能搭载激光雷达与多组传感器， 时速近 20 公里 。 IT之家注意到，航天自研半人马重载智能机器人“小橙”还能够上楼，并支持跨楼层自主导航技术，可以在楼道里面自己循序往前走，执行危险场景寻找幸存者的任务。 值得一提的是， 这款机器人未来甚至有望奔赴太空开展作业 。",
+     "title": "消息称华为 Pura X Max 系列横阔折手机销量破 70 万台，标准版与典藏版差距明显缩小",
+     "link": "https://www.ithome.com/0/993/132.htm",
+     "pubDate": "Sun, 23 Aug 2026 00:07:42 GMT",
+     "summary": "IT之家 8 月 23 日消息，长期关注国内手机市场份额的博主 @RD观测 今日分享了华为折叠屏手机首月销量情况：截至 2026 W32（IT之家注：8 月 3 日-8 月 9 日）， 华为 Pura X Max 约 34.46 万台、Pura X Max 典藏版约 36.88 万台 。 从数据来看，华为 Pura X Max 系列横向阔折叠手机的总销量已突破 70 万台。值得一提的是，虽然定价更贵的典藏版卖得比普通版更好， 但是如今两者差距已有明显缩小，目前差距仅不足 3 万台 。 参考IT之家此前报道，行业首款横向阔折叠手机 —— 华为 Pura X Max 已于今年 4 月 25 日 1",
      "source": "IT之家",
-     "zh": "航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业"
+     "zh": "消息称华为 Pura X Max 系列横阔折手机销量破 70 万台，标准版与典藏版差距明显缩小"
     },
     {
-     "title": "凯迪拉克全新 XT5 PHEV 首秀成都车展：Momenta R7 世界模型，预计 9 月初上市",
-     "link": "https://www.ithome.com/0/993/123.htm",
-     "pubDate": "Sat, 22 Aug 2026 23:16:09 GMT",
-     "summary": "IT之家 8 月 23 日消息，凯迪拉克全新 XT5 PHEV 首秀 2026 成都车展，预计将于 9 月初正式上市。 IT之家注意到，新车将成为首款量产搭载 Momenta R7 世界模型的豪华混动 SUV，车身长宽高为 4888/1957/1685（1688）mm，轴距达到 2863mm。 全新 XT5 PHEV 采用搭载奥特能 5C 三元锂电池的双电机全路况插混系统，配备 1.5T 发动机（最大功率 115kW）及前后双电机（最大功率分别为 160kW 和 110kW）；采用全路况电动蜂鸟底盘。电池容量 35.5kWh， CLTC 纯电续航 215km ，综合油耗 6.05L/100km",
-     "source": "IT之家",
-     "zh": "凯迪拉克全新 XT5 PHEV 首秀成都车展：Momenta R7 世界模型，预计 9 月初上市"
+     "title": "Sources and documents detail how Tether&apos;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply (Reuters)",
+     "link": "https://www.techmeme.com/260822/p14#a260822p14",
+     "pubDate": "Sat, 22 Aug 2026 20:00:14 -0400",
+     "summary": "Reuters : Sources and documents detail how Tether's plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply &nbsp; &mdash;&nbsp; Uruguay seemed like the perfect place for cryptocurrency giant Tether to launch a bitcoin mining operation.",
+     "source": "Techmeme",
+     "zh": "Sources and documents detail how Tether&apos;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply (Reuters)"
     },
     {
-     "title": "马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上",
-     "link": "https://www.ithome.com/0/993/122.htm",
-     "pubDate": "Sat, 22 Aug 2026 23:13:14 GMT",
-     "summary": "IT之家 8 月 23 日消息，埃隆 · 马斯克近日给出了他对 SpaceX 星舰项目未来发展速度的一个大胆预测。在美国总统特朗普签署备忘录，推动美国每年实现 1000 次航天发射和再入任务的第二天，马斯克在 X 平台上表示，SpaceX 的目标是到 2030 年实现每天 30 次以上的星舰发射，折合每年超过 1 万次。 IT之家注意到，这一讨论始于推进系统初创公司 Mach 33 联合创始人亚伦 · 伯内特的一篇帖子。伯内特援引白宫科技顾问迈克尔 · 克拉齐奥斯的话称，新签署的美国《国家太空运输政策》提出的目标是实现“每年 1000 次发射和再入”。 伯内特指出，即使是美国联邦航空管理局（F",
+     "title": "哈佛商学院推出 699 美元创业训练营，讲师 AI 数字分身提供路演反馈",
+     "link": "https://www.ithome.com/0/993/131.htm",
+     "pubDate": "Sat, 22 Aug 2026 23:58:11 GMT",
+     "summary": "IT之家 8 月 23 日消息，随着哈佛商学院（HBS）寻求扩大自身影响力，其开始借助 AI 虚拟形象为学生提供个性化反馈。 这些 AI 虚拟形象由一家名为 HeyGen 的初创公司打造，目前已被纳入哈佛商学院为创业者推出的 HBS Foundry 训练营。这项课程为期 8 周，收费 699 美元 （IT之家注：现汇率约合 4,710 元人民币） 。 该项目每周都会安排教师进行直播授课，但在模拟路演和董事会会议等实践环节中，真正负责向学员提供反馈的却是这些 AI 虚拟形象。 《纽约时报》记者 Sarah Kessler 亲自体验了这一服务。她向一个由 AI 生成的 Flybridge Capi",
      "source": "IT之家",
-     "zh": "马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上"
+     "zh": "哈佛商学院推出 699 美元创业训练营，讲师 AI 数字分身提供路演反馈"
     },
     {
-     "title": "华为余承东视频意外泄露神秘新机，网友推测是 Mate XT2 非凡大师新款三折叠手机",
-     "link": "https://www.ithome.com/0/993/121.htm",
-     "pubDate": "Sat, 22 Aug 2026 23:11:56 GMT",
-     "summary": "IT之家 8 月 23 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东昨日发布了与沈腾、杨幂闲聊，并一同介绍鸿蒙智行享界 G9 的视频。 IT之家注意到，在视频结尾，杨幂提出与新车进行合影。而此时， 余承东掏出了一款采用了全新造型设计的神秘新机 。 由于余承东的这款新机佩戴了保护壳，因此无法准确看清具体细节，但有网友凭借机身厚度猜测是 华为 Mate XT2 非凡大师新款三折叠手机 。 博主 @数码闲聊站 此前发文透露，称华为 9 月会有两场发布会：上旬发布新款三折叠，下旬发年度旗舰 Mate 90 系列。该博主还透露， Mate XT 2 三折叠手机和 Mate X8",
+     "title": "小米汽车：澎程系列滑轨表面设计有橡胶皮质，能阻挡大部分异物掉入内部",
+     "link": "https://www.ithome.com/0/993/130.htm",
+     "pubDate": "Sat, 22 Aug 2026 23:57:17 GMT",
+     "summary": "IT之家 8 月 23 日消息，小米汽车官方昨晚发布答网友问（第 282 集），针对澎程的超长滑轨可靠性如何、米澎程 N70 Max 能不能成床等问题进行了集中解答。 IT之家附小米汽车本集答网友问重点内容如下： 小米澎程的超长滑轨，可靠性怎么样？砂石、宠物毛发会不会影响使用，好不好清理？能不能配脚垫？ 首先，座椅滑轨是所有乘用车滑动座椅的通用基础结构，无论轿车、SUV、MPV，也无论电动 / 手动调节，几乎都配有对应滑轨。小米澎程的长滑轨，拓展了滑动行程，并强化了材料结构强度和安全耐久测试标准。在损耗特性、养护逻辑上和常规滑轨没有区别，不会带来额外的使用负担。 在可靠性方面， 小米澎程全系座",
      "source": "IT之家",
-     "zh": "华为余承东视频意外泄露神秘新机，网友推测是 Mate XT2 非凡大师新款三折叠手机"
+     "zh": "小米汽车：澎程系列滑轨表面设计有橡胶皮质，能阻挡大部分异物掉入内部"
+    },
+    {
+     "title": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...",
+     "link": "https://www.ithome.com/0/993/129.htm",
+     "pubDate": "Sat, 22 Aug 2026 23:46:01 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 23 日星期日，今天的重要科技资讯有： 1. 特斯拉官网更新：监督版 FSD 支持地区不再包含中国 今年 5 月，特斯拉官方在 X 发文，当时提到监督版 FSD 支持的国家与地区中包含中国。>> 查看详情 2. DeepSeek 调整 API 周末计费：周六日全天统一按低谷价收费 DeepSeek 于 8 月 23 日起调整 API 计费规则，周末全天不再区分峰谷时段，统一按低谷价收费，简化计费逻辑，开发者任何时段调用都可享受低价。>> 查看详情 3. 中国铁路成都局回应“旅客买票占座放零食”：未检票上车旅客，视为放弃席位使用权，另 2 ",
+     "source": "IT之家",
+     "zh": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身..."
     },
     {
      "title": "月薪3500，想拿大结果",
@@ -1805,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "NanoGPT Speedrun Frontier",
      "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
      "pubDate": "Sat, 22 Aug 2026 22:14:27 +0000",
-     "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 29 # Comments: 3",
      "source": "Hacker News",
      "zh": "NanoGPT Speedrun Frontier"
     },
@@ -1837,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "English ↔ Claudish Translator",
      "link": "https://programasweights.com/claudish",
      "pubDate": "Sat, 22 Aug 2026 19:19:15 +0000",
-     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 39 # Comments: 22",
+     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 45 # Comments: 22",
      "source": "Hacker News",
      "zh": "English ↔ Claudish Translator"
     },
@@ -1845,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "NetBSD and my life (2005)",
      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
      "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
-     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 82 # Comments: 21",
+     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 85 # Comments: 22",
      "source": "Hacker News",
      "zh": "NetBSD and my life (2005)"
     },
@@ -1853,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
      "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
-     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 149 # Comments: 56",
+     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 153 # Comments: 56",
      "source": "Hacker News",
      "zh": "hdiutil is deprecated in macOS 27 Golden Gate"
     },
@@ -1885,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Why your local LLM feels dumber than it is",
      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
      "pubDate": "Sat, 22 Aug 2026 18:14:16 +0000",
-     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 139 # Comments: 37",
+     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 158 # Comments: 42",
      "source": "Hacker News",
      "zh": "Why your local LLM feels dumber than it is"
     },
@@ -1904,14 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Emmett Lindner / New York Times : Carrier Pidge hit 75K users and Roost 650K downloads, as slow messaging apps delivering texts at pigeon speeds attract users tired of constant notifications &nbsp; &mdash;&nbsp; Apps that let users send digital messages at ultraslow speeds have taken off, with users",
      "source": "Techmeme",
      "zh": "Carrier Pidge hit 75K users and Roost 650K downloads, as slow messaging apps delivering texts at pigeon speeds attract users tired of constant notifications (Emmett Lindner/New York Times)"
-    },
-    {
-     "title": "A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses (Bloomberg)",
-     "link": "https://www.techmeme.com/260822/p8#a260822p8",
-     "pubDate": "Sat, 22 Aug 2026 12:40:01 -0400",
-     "summary": "Bloomberg : A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses &nbsp; &mdash;&nbsp; A spate of compelling releases at budget prices have made China the frontrunner in the race for global adoption.",
-     "source": "Techmeme",
-     "zh": "A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses (Bloomberg)"
     },
     {
      "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
@@ -2242,60 +2242,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "北京未来三天有分散雷雨 最高温可达32至33℃",
-     "link": "http://finance.eastmoney.com/news/11790,202608233850237193.html",
-     "pubDate": "Sun, 23 Aug 2026 07:28:35 +0800",
-     "summary": "未来三天（8月23日至25日），北京有分散性雷阵雨出没，需注意防雷、避雨，同时气温较高，体感闷热，请做好防暑降温措施。 昨天，北京大部出现雷雨天气，监测显示，22日05时至20时，全市平均降水量7.7毫米，最大雨量为昌平区百合的127.5毫米，南郊观象台最高气温为30.7℃。 今天进入处暑节气，但北京气温仍然较高，并有雷雨出没。北京市气象台今晨6时发布天气预报，预计，今天白天多云转阴，有分散性雷阵雨，北转南风二三级，最高气温32℃；夜间阴有雷阵雨转多云，南转北风一二级，最低气温24℃。 明后天，北京雷雨频扰，气温起伏不大。预计，明天白天多云，山区有分散性雷阵雨，最高气温33℃；夜间多云转晴，山",
+     "title": "【环球财经】核污染水排海将满三年 日本渔业团体重申反对立场",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850239910.html",
+     "pubDate": "Sun, 23 Aug 2026 08:26:50 +0800",
+     "summary": "新华财经东京8月23日电（记者李诗萌蓝建中）据日本共同社报道，东京 电力 公司福岛第一核电站核污染水排海将于24日满三年，日本全国 渔业 协同组合联合会会长坂本雅信23日表示，对于未得到 渔业 从业者和国民理解的核污染水排海，该联合会反对立场从未改变。 坂本说，部分国家和地区仍对日本水产品实施进口限制，海参等水产品价格下跌，相关产业仍受到影响。“失去的市场不仅至今尚未完全恢复，能否恢复也令人担忧。” 坂本表示，目前政府对 渔业 从业者的支持远远不够，呼吁政府继续采取扩大水产品出口等措施，帮助渔业从业者减轻经营压力。 （文章来源：新华财经）",
      "source": "东方财富股票",
-     "zh": "北京未来三天有分散雷雨 最高温可达32至33℃"
+     "zh": "【环球财经】核污染水排海将满三年 日本渔业团体重申反对立场"
     },
     {
-     "title": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
-     "link": "https://finance.yahoo.com/energy/articles/ge-vernovas-backlog-bigger-countries-232500776.html",
-     "pubDate": "2026-08-22T23:25:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion."
+     "title": "新华财经早报：8月23日",
+     "link": "http://finance.eastmoney.com/news/1350,202608233850240362.html",
+     "pubDate": "Sun, 23 Aug 2026 08:21:30 +0800",
+     "summary": "·提上限、扩范围多家 银行 更新个人消费贷贴息细则 ·水利部和中国气象局8月22日18时联合发布红色山洪灾害气象预警 ·今年以来发行规模超2000亿元熊猫债券市场实现量质双突破 ·8月21日，财政部、中国人民 银行 、金融监管总局对外发布通知，明确进一步做好财政金融协同促内需政策有关工作。随后，中国 工商银行 、中国 农业银行 、 中国银行 、中国 建设银行 、 交通银行 、 招商银行 等多家 银行 发布公告，更新个人消费贷贴息细则。贴息上限从3000元提高到5000元，8月1日起按调整后的政策执行。信用卡分期大幅扩围，贴息比例为年化1个百分点。（新华社） ·8月22日，国家防办、应急管理部组",
+     "source": "东方财富股票",
+     "zh": "新华财经早报：8月23日"
     },
     {
-     "title": "匈牙利保克什核电站3号机组恢复发电",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850237096.html",
-     "pubDate": "Sun, 23 Aug 2026 07:19:05 +0800",
-     "summary": "匈牙利总理毛焦尔·彼得22日宣布，得益于紧急工程施工作业及多瑙河水位回升，该国唯一的核电站——保克什核电站3号机组已于当天恢复发电。 （文章来源：财联社）",
+     "title": "【环球财经】加拿大宣布对美等额反制关税将于9月8日生效",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850240167.html",
+     "pubDate": "Sun, 23 Aug 2026 08:21:12 +0800",
+     "summary": "新华财经渥太华8月22日电（记者林威）加拿大总理卡尼22日发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。 卡尼表示，反制关税将涵盖乳制品、 钢铁 、家电、纸浆与 造纸 以及 电子 产品等多个领域。 在谈及谈判为何在最后时刻中断时，卡尼说，虽然本周早些时候双方曾接近达成互利共赢的协议，但美方在最后一刻提出了不经济、不公平且极大损害加拿大利益的新条款，试图限制加拿大与其他国家达成新的贸易协议的能力以及加拿大对其语言、文化和主权的保护，而且所提出的 汽车 产业条款极不公平。 卡",
      "source": "东方财富股票",
-     "zh": "匈牙利保克什核电站3号机组恢复发电"
+     "zh": "【环球财经】加拿大宣布对美等额反制关税将于9月8日生效"
     },
     {
-     "title": "【早报】外资加速涌入中国高技术产业；美对部分加拿大商品加征50%关税",
-     "link": "http://finance.eastmoney.com/news/1350,202608233850236981.html",
-     "pubDate": "Sun, 23 Aug 2026 07:14:48 +0800",
-     "summary": "宏观新闻 1、中国商务部最新数据显示，今年1至7月，中国高技术产业吸引外资继续保持较快增长，占全国实际使用外资的比重较去年明显提升，引资结构进一步优化。今年1至7月，全国实际使用外资金额4383.3亿元人民币，新设立外商投资企业超3.7万家，同比增长4.4%。 2、7月以来，A股市场呈现震荡调整态势。在市场分歧加大、投资者情绪趋于谨慎的背景下，大规模增量资金正通过股票型ETF（交易型开放式指数基金）入场布局。截至8月21日，7月以来，股票型ETF资金净流入已达3676.05亿元。 行业新闻 1、22日从 工商银行 、 农业银行 、 中国银行 、 建设银行 、 交通银行 、 邮储银行 等六大 银",
+     "title": "半导体与AI算力成焦点！上周近200股迎机构调研 3股受追捧",
+     "link": "http://finance.eastmoney.com/news/1345,202608233850239398.html",
+     "pubDate": "Sun, 23 Aug 2026 08:20:56 +0800",
+     "summary": "上周（8月17日—21日）2026年半年报密集发布，A股共有194家上市公司接受机构投资者调研。 从赚钱效应来看，约三成被调研公司股价上涨，其中 鼎阳科技 涨超35.4%， 恒逸石化 涨近24%， 金禄电子 涨超22%， 尚太科技 、 瑞纳智能 、 华之杰 、 海油工程 等8家公司涨超10%。 精智达 ： 半导体 测试设备业务收入增长147.05% 精智达 （688627）上周接受197家机构投资者调研，机构重点关注该公司2026年上半年经营情况、产品业务最新进展、未来战略规划等方面。据 精智达 披露，报告期内，该公司 半导体 测试设备业务延续高速增长态势，营收同比增长147.05%。2026",
      "source": "东方财富股票",
-     "zh": "【早报】外资加速涌入中国高技术产业；美对部分加拿大商品加征50%关税"
+     "zh": "半导体与AI算力成焦点！上周近200股迎机构调研 3股受追捧"
     },
     {
-     "title": "香港特区政府在皇岗口岸举行压力测试",
-     "link": "http://finance.eastmoney.com/news/1350,202608233850236811.html",
-     "pubDate": "Sun, 23 Aug 2026 07:05:35 +0800",
-     "summary": "8月22日，香港特区政府在皇岗口岸港方口岸区举行大规模人流车流压力测试，首次与深圳相关单位合作开展联合演练。 演练首次对旅客通关“合作查验”自助通道进行实际测试。全面检验自助通道及相关系统的运行适配与人流管理能力。 测试还设置“人潮集中放量”环节，模拟假日高峰时段大批入境旅客同时涌入公共运输交汇处的情景，严格考验现场人流管理、防回堵机制及交通配套协调能力。与此同时，演练在“联合一站式”车道楼层进行近千次车流压力测试。（央视新闻） （文章来源：界面新闻）",
+     "title": "一张小纸片的出海记：中国卡牌抢滩全球百亿市场",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850239794.html",
+     "pubDate": "Sun, 23 Aug 2026 08:18:44 +0800",
+     "summary": "一张大小只有几厘米的“小纸片”，却能在全球收藏市场拍出上百万美元的价格。 8月21日，2026 MOJOFEST趣藏嘉年华在上海举行，《华夏时报》记者在现场了解到，2026年上半年卡牌市场热度持续攀升，在eBay平台，Michael Jordan球星卡拍出430万美元，世界杯期间球星卡成交量更是较年初暴涨780%。 全球收藏热的背后，中国卡牌企业正加速从“代工 印刷 ”走向“品牌出海”，在全球百亿市场中寻找新的增长空间。 “现在很多收藏卡都在往海外发行。”集换社创始人石灵向《华夏时报》记者表示，中国作为全球最重要的供给方，必然要去寻找需求方，而海外供给较弱，很多东西想买却买不到，所以出海产品会",
      "source": "东方财富股票",
-     "zh": "香港特区政府在皇岗口岸举行压力测试"
+     "zh": "一张小纸片的出海记：中国卡牌抢滩全球百亿市场"
     },
     {
-     "title": "加拿大宣布对美等额反制关税将于9月8日生效",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850236755.html",
-     "pubDate": "Sun, 23 Aug 2026 07:03:14 +0800",
-     "summary": "新华社渥太华8月22日电（记者林威）加拿大总理卡尼22日发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。 卡尼表示，反制关税将涵盖乳制品、 钢铁 、家电、纸浆与 造纸 以及 电子 产品等多个领域。 在谈及谈判为何在最后时刻中断时，卡尼说，虽然本周早些时候双方曾接近达成互利共赢的协议，但美方在最后一刻提出了不经济、不公平且极大损害加拿大利益的新条款，试图限制加拿大与其他国家达成新的贸易协议的能力以及加拿大对其语言、文化和主权的保护，而且所提出的 汽车 产业条款极不公平。 卡尼",
+     "title": "璞泰来被“拖后腿”，负极子公司28亿元营收仅赚2446万元，公司称已和客户协商调价",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850239888.html",
+     "pubDate": "Sun, 23 Aug 2026 08:16:54 +0800",
+     "summary": "业绩增长的同时，上海 璞泰来 新能源 科技集团股份有限公司（下称“ 璞泰来 ”，603659.SH）的盈利能力正面临压力。8月20日披露的半年报显示，公司上半年实现营业收入101.15亿元，同比增长42.7%；净利润14.52亿元，同比增长37.58%，净利润增速低于营收增速。 更值得关注的是， 璞泰来 上半年毛利率降至26.32%，同比下降约5.8个百分点。万得数据显示，其第二季度毛利率已降至23.71%。公司方面告诉《华夏时报》记者，第二季度，负极业务受原油和 航运 价格上涨、四川新工厂产能爬坡等因素影响，单位成本没有实现规模化最优，“随着四川工厂产能利用率提升，预计负极材料业务盈利能力将",
      "source": "东方财富股票",
-     "zh": "加拿大宣布对美等额反制关税将于9月8日生效"
+     "zh": "璞泰来被“拖后腿”，负极子公司28亿元营收仅赚2446万元，公司称已和客户协商调价"
     },
     {
-     "title": "中央气象台发布第18号、19号、20号台风最新路径预报",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850236490.html",
-     "pubDate": "Sun, 23 Aug 2026 07:01:16 +0800",
-     "summary": "据中央气象台周日6时预报，今年第19号台风“紫檀”（热带风暴级）的中心今天（23日）早晨5点钟位于广西北海市西偏南方向大约165公里的北部湾海面上，就是北纬20.7度、东经107.8度，中心附近最大风力有8级（18米/秒），中心最低气压为992百帕，七级风圈半径100-150公里。 预计，“紫檀”将先在北部湾海面回旋少动，23日傍晚起，将以每小时5-10公里的速度向东北转偏北方向移动，强度逐渐加强，最强可达强热带风暴级（10-11级，25-30米/秒），并逐渐向广西沿海至广东雷州半岛西侧一带沿海靠近。另外，今年第20号台风“简拉维”（热带风暴级）的中心今天（23日）早晨5点钟位于台湾省台北市东",
-     "source": "东方财富股票",
-     "zh": "中央气象台发布第18号、19号、20号台风最新路径预报"
+     "title": "95后西海固作家马骏：用文字撑起轮椅上的灵魂",
+     "link": "http://www.eeo.com.cn/2026/0823/1008059.shtml",
+     "pubDate": "Sun, 23 Aug 2026 07:39:12 +0800",
+     "summary": "盛夏的一个下午，宁夏回族自治区固原市西...",
+     "source": "经济观察网",
+     "zh": "95后西海固作家马骏：用文字撑起轮椅上的灵魂"
+    },
+    {
+     "title": "文质彬彬·每日好词语｜纯素",
+     "link": "http://www.eeo.com.cn/2026/0823/1008058.shtml",
+     "pubDate": "Sun, 23 Aug 2026 07:39:12 +0800",
+     "summary": "整理/秦珍子 制图/周子祺（实习生） 纯素 纯粹而素朴。指纯然素朴、不加人工雕饰的本色之美。“纯”即纯然、纯粹，不含任何杂质；“素”本指未经染色的生丝，引申指白色、本色、素朴、不加...",
+     "source": "经济观察网",
+     "zh": "文质彬彬·每日好词语｜纯素"
+    },
+    {
+     "title": "【香江观察】人工智能成香港经济新引擎",
+     "link": "http://www.eeo.com.cn/2026/0823/1008046.shtml",
+     "pubDate": "Sun, 23 Aug 2026 07:13:11 +0800",
+     "summary": "香港特区政府近日公布，本地生产总值第二季度同比增长4.3%，上半年同比增长5.1%，是近5年来最强劲的半年度表现。特区政府将全年实质本地生产总值增...",
+     "source": "经济观察网",
+     "zh": "【香江观察】人工智能成香港经济新引擎"
+    },
+    {
+     "title": "深色蛋糕真的不能买吗",
+     "link": "http://www.eeo.com.cn/2026/0823/1008045.shtml",
+     "pubDate": "Sun, 23 Aug 2026 07:13:10 +0800",
+     "summary": "更多报道请扫二维码 问：近期，不少短视频曝出蛋糕制作中大量添加色素的画面，“不建议大家买深色蛋糕”话题受到关注。深色蛋糕的颜色全靠人...",
+     "source": "经济观察网",
+     "zh": "深色蛋糕真的不能买吗"
     },
     {
      "title": "SA Asks: What are the most promising oncology companies right now?",
@@ -2370,28 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     },
     {
-     "title": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
-     "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html",
-     "pubDate": "2026-08-22T19:56:02Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis"
-    },
-    {
      "title": "SA Asks: How could Trump's new executive order impact vaccine makers?",
      "link": "https://seekingalpha.com/news/4636043-sa-asks-how-could-trumps-new-executive-order-impact-vaccine-makers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 22 Aug 2026 15:49:45 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: How could Trump's new executive order impact vaccine makers?"
-    },
-    {
-     "title": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-ai-growth-194107701.html",
-     "pubDate": "2026-08-22T19:41:07Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?"
     },
     {
      "title": "Key deals this week: Stripe, KKR, Virtu and more",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "蓝鲸新闻8月22日讯（记者 陆鹏鹏）“我买了Miu Miu的原版给大家开的，没有一个网红能做到如此牛的版本，除了没有LOGO外一模一样。” 在一条带货视频中，初代网红温婉举着一条连衣裙，对着镜头说出了上述这段话。下方购物车链接显示，这款商品已售出500余件。 蓝鲸新闻记者调查发现，因偷税漏税被处罚、因售卖“飞丝羽绒服”遭消费者打假之后，温婉并未隐退，而是通过一批矩阵账号，大量销售高仿奢侈品服装，相关服...",
      "source": "经济观察网",
      "zh": "偷税漏税被罚后，初代网红温婉 “复活”：制售Prada等高仿大牌服装，近百个号带货超百万元"
-    },
-    {
-     "title": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”",
-     "link": "http://www.eeo.com.cn/2026/0822/1007969.shtml",
-     "pubDate": "Sat, 22 Aug 2026 21:26:11 +0800",
-     "summary": "资料图 南方财经 21世纪经济报道记者 郑青亭 北京报道 美国国债市场近期持续承压之际，桥水基金创始人瑞·达利欧（Ray Dalio）再次发出警告：美国政府财政状况正在进入一个关键“转折点”（inflection point），如果不能及时改变当前的债务增长路径，美国债务危机可能在未来几年内加速显现。 8月21日，达利欧在个人网站发表题为《国家如何走向破产：当下变局背后的内在逻辑》（How Countries Go Br...",
-     "source": "经济观察网",
-     "zh": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”"
     }
    ]
   },
