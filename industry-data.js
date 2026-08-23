@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 03:44:30",
+ "generated_at": "2026/8/24 04:11:26",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+     "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+     "pubDate": "Sun, 23 Aug 2026 20:01:36 +0000",
+     "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+     "source": "TechCrunch AI",
+     "zh": "Who’s behind the new ‘stealth model’ Ox Alpha?"
+    },
     {
      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
@@ -160,14 +168,6 @@ window.INDUSTRY_DATA = {
      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
      "source": "TechCrunch AI",
      "zh": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research"
-    },
-    {
-     "title": "OpenAI says California should strengthen its AI safety bill",
-     "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-     "pubDate": "Sat, 22 Aug 2026 16:30:34 +0000",
-     "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-     "source": "TechCrunch AI",
-     "zh": "OpenAI says California should strengthen its AI safety bill"
     },
     {
      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
@@ -346,52 +346,12 @@ window.INDUSTRY_DATA = {
      "zh": "How TSMC Is Wiring the AI Era With Light"
     },
     {
-     "title": "Android XR advances as Jetpack XR SDK core libraries reach beta",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 14:39:56 +0000",
-     "summary": "Google is announcing that its Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries are officially in beta status. And Jetpack Compose is to follow soon, it says. Basically, […] The post Android XR advances as Jetpack XR SDK core libraries reach beta appeared first on Electronics Weekly",
-     "source": "Electronics Weekly",
-     "zh": "Android XR advances as Jetpack XR SDK core libraries reach beta"
-    },
-    {
-     "title": "Exotic Materials Adding Cost To Semis",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/exotic-materials-adding-cost-to-semis-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 13:30:13 +0000",
-     "summary": "19 years ago the chip industry was facing a similar problem to today – the need for, and rising cost of, exotic materials. ‘Semiconductor firms are facing critical pricing choices […] The post Exotic Materials Adding Cost To Semis appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Exotic Materials Adding Cost To Semis"
-    },
-    {
      "title": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/",
      "pubDate": "Fri, 21 Aug 2026 13:00:41 +0000",
      "summary": "Intel is considering a return to memory technology decades after abandoning mainstream DRAM and, more recently, selling its NAND business. Chief executive Lip-Bu Tan has argued that memory should no longer be viewed simply as a low-margin commodity. Artificial intelligence is turning bandwidth, late",
      "source": "SemiWiki",
      "zh": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics"
-    },
-    {
-     "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
-     "link": "https://www.electronicsweekly.com/news/saildrone-lockheed-martin-demonstrate-live-fire-from-usv-platform-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 10:30:33 +0000",
-     "summary": "Lockheed Martin is highlighting a successful collaboration with Saildrone, a specialist in maritime autonomous systems. USV Basically, an unmanned surface vehicle (USV) was equipped with lethal defence technology, the live-fire […] The post Saildrone, Lockheed Martin demonstrate live-fire from USV p",
-     "source": "Electronics Weekly",
-     "zh": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform"
-    },
-    {
-     "title": "JEDEC to host Automotive Electronics Forum",
-     "link": "https://www.electronicsweekly.com/news/business/jedec-to-host-automotive-electronics-forum-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 09:17:49 +0000",
-     "summary": "The JEDEC Solid State Technology Association has announced that it is hosting an Automotive Electronics Forum. The event will take place on 17 September 2026 in Santa Clara, California. The […] The post JEDEC to host Automotive Electronics Forum appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "JEDEC to host Automotive Electronics Forum"
-    },
-    {
-     "title": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 09:05:07 +0000",
-     "summary": "There's the next frontier of advanced optoelectronics, Samsung Foundry putting back its 1.4nm process to 2029, and Vishay sampling a short distance VCSEL-based proximity sensor... The post Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices"
     },
     {
      "title": "The Human Brain Versus AI: Similar Results, Very Different Machines",
@@ -408,14 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "New Micron lab; chip/AI price jump; multi-die monitoring; cryo links for quantum chips; interconnect RC bottleneck; 18A win; CPO roadmap; 2 new CEOs; humanoid readiness gap; Hot Interconnects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "White House looking for 1000 rocket launches a year",
-     "link": "https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 05:17:57 +0000",
-     "summary": "Yesterday US President Donald Trump signed a memo aimed at enabling 1,000 US rocket launches and re-entries a year – up from 178 launches in 2025. The memo requires agencies […] The post White House looking for 1000 rocket launches a year appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "White House looking for 1000 rocket launches a year"
     },
     {
      "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
@@ -496,6 +448,46 @@ window.INDUSTRY_DATA = {
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
+    },
+    {
+     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
+     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
+     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
+     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
+    },
+    {
+     "title": "HexSeed raises over £600,000 in early-stage funding",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/hexseed-190826.shtml",
+     "pubDate": "Wed, 19 Aug 2026 21:03:33 +0100",
+     "summary": "HexSeed Technology Ltd of Banchory, near Aberdeen, Scotland, UK has raised more than £600,000 in an early-stage funding round led by Carbon13, with participation from Net Zero Technology Centre and Vento Ventures. The cumulative investment unlocks a Partnership Grant from overnment agency Innovate U",
+     "source": "Semiconductor Today",
+     "zh": "HexSeed raises over £600,000 in early-stage funding"
+    },
+    {
+     "title": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/clas-sic-190826.shtml",
+     "pubDate": "Wed, 19 Aug 2026 20:50:08 +0100",
+     "summary": "Clas-SiC Wafer Fab Ltd of Lochgelly, Fife, Scotland — which was founded in 2017 and is the UK’s only commercial wafer fabrication facility dedicated to silicon carbide (SiC) — is one of the first recipients of Scottish Enterprise’s new Capital Grant, which has been designed to help drive levels of b",
+     "source": "Semiconductor Today",
+     "zh": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment"
+    },
+    {
+     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
+     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
+     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
+     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
+    },
+    {
+     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
+     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
+     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
+     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -1810,6 +1802,14 @@ window.INDUSTRY_DATA = {
      "zh": "Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&apos;s close (Reuters)"
     },
     {
+     "title": "机器人短跑超越人类，但刹住是问题",
+     "link": "https://www.solidot.org/story?sid=85169",
+     "pubDate": "Sun, 23 Aug 2026 23:48:05 +0800",
+     "summary": "为期五天的世界人形机器人运动会于周六在北京开幕。运动会共设 51 个项目，包括 30 项体育竞技和 21 项场景化竞赛。超过 40% 的项目要求机器人完全自主运行。在 8 月 22 日的首日赛事中，两台机器人跑出了比人类百米世界纪录(9.58秒)保持者博尔特(Usain Bolt)更快的成绩，相比去年百米短跑仍然耗时 20 秒以上的机器人，可谓进步巨大。另一台机器人则在 400 米短跑中实现了 39.7 秒的成绩，超越了南非运动员 Wayde van Niekerk 43.03 秒的世界纪录。不过，在冲过终点线后，这些机器人的制动能力依然存在很大缺陷。现场画面显示，机器人纷纷撞向十几米开外的巨",
+     "source": "Solidot",
+     "zh": "机器人短跑超越人类，但刹住是问题"
+    },
+    {
      "title": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路",
      "link": "https://www.ithome.com/0/993/317.htm",
      "pubDate": "Sun, 23 Aug 2026 15:24:10 GMT",
@@ -1976,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
      "source": "Ars Technica",
      "zh": "Volcanoes that made history"
-    },
-    {
-     "title": "Transistors Changed Everything. Here’s How They Work",
-     "link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
-     "pubDate": "Sun, 23 Aug 2026 11:00:00 +0000",
-     "summary": "How a tiny little electronic switch sparked the computer revolution.",
-     "source": "WIRED",
-     "zh": "Transistors Changed Everything. Here’s How They Work"
     }
    ]
   },
@@ -1993,6 +1985,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How to stop Siri from interrupting while you're using CarPlay",
+     "link": "https://www.engadget.com/2240187/apple-carplay-stop-siri-from-interrupting/",
+     "pubDate": "Sun, 23 Aug 2026 20:00:00 +0000",
+     "summary": "Don't let Siri become a hassle instead of an assistant; keep it quiet in the car to reduce distractions.",
+     "source": "Engadget",
+     "zh": "How to stop Siri from interrupting while you're using CarPlay"
+    },
     {
      "title": "Humanoid robots have beaten Usain Bolt's 100-meter dash record",
      "link": "https://www.engadget.com/2242295/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record/",
@@ -2040,14 +2040,6 @@ window.INDUSTRY_DATA = {
      "summary": "It feels rather inevitable that Google will give in to the whole “Ultra” smartwatch fad, and when something along the lines of a “Pixel Watch Ultra” does arrive, I really hope it pulls influence from Fitbit Air. This issue of 9to5Google Weekender is a part of our newsletter that highlights the bigge",
      "source": "9to5Google",
      "zh": "Google’s inevitable ‘Pixel Watch Ultra’ should copy the Fitbit Air"
-    },
-    {
-     "title": "Is a liquid-cooled PC worth it?",
-     "link": "https://www.engadget.com/2240150/is-liquid-cooled-pc-worth-it/",
-     "pubDate": "Sun, 23 Aug 2026 16:30:00 +0000",
-     "summary": "Air cooling is reliable, while liquid cooling is visually slick. Which one you should use depends on how heavy you game on your system.",
-     "source": "Engadget",
-     "zh": "Is a liquid-cooled PC worth it?"
     },
     {
      "title": "Report: Apple launching updated iMac with M6 chip and new colors later this year",
@@ -2242,6 +2234,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?",
+     "link": "https://finance.yahoo.com/healthcare/articles/zoetis-earnings-reveal-divided-business-194924344.html",
+     "pubDate": "2026-08-23T19:49:24Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?"
+    },
+    {
+     "title": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
+     "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
+     "pubDate": "2026-08-23T19:43:03Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?"
+    },
+    {
+     "title": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
+     "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html",
+     "pubDate": "2026-08-23T19:38:55Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?"
+    },
+    {
      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
      "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
      "pubDate": "Sun, 23 Aug 2026 19:30:00 GMT",
@@ -2394,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?"
     },
     {
-     "title": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
-     "link": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html",
-     "pubDate": "2026-08-23T17:00:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy"
-    },
-    {
      "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
      "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
      "pubDate": "Sun, 23 Aug 2026 16:45:00 GMT",
@@ -2464,22 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "■杜雨萌 近期，国家发展改革委在两天内接连召开三场重要会议，从“六张网”重大项目协调调度机制会，到民营企业座谈会，再到“两重”建设工作推进会，每一场会议均聚焦投资领域。 在笔者看来，这一系列部署并非零散安排，而是紧扣下半年经济工作要求，将基础设施的承载力、民间资本的活跃度与重大项目的牵引力放在同一张施工图里统筹推进，为下一阶段投资工作划出清晰路径：统筹“六张网”，重在形成合力、提升整...",
      "source": "经济观察网",
      "zh": "国家发展改革委“两天三会” 释放稳投资政策加力信号"
-    },
-    {
-     "title": "Top global stories this week: Alibaba, Unitree Robotics among notable names",
-     "link": "https://seekingalpha.com/news/4636060-top-global-stories-this-week-alibaba-unitree-robotics-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 12:11:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Top global stories this week: Alibaba, Unitree Robotics among notable names"
-    },
-    {
-     "title": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
-     "link": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
-     "pubDate": "2026-08-23T15:30:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them"
     }
    ]
   },
