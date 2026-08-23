@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 21:10:05",
+ "generated_at": "2026/8/23 21:53:39",
  "recent_days": 7,
  "industries": [
   {
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Tesla Semi Moves Into Europe & Gets Largest Order To Date",
+     "link": "https://cleantechnica.com/2026/08/23/tesla-semi-moves-into-europe-gets-largest-order-to-date/",
+     "pubDate": "Sun, 23 Aug 2026 13:42:13 +0000",
+     "summary": "The Tesla Semi has been a bit of a confusing model or project. The electric semi truck was unveiled nearly a decade ago with various specific specs and details that made it sound like it was almost ready to hit the road and reach mass sales. Countless pilot projects and ... [continued] The post Tesl",
+     "source": "CleanTechnica",
+     "zh": "Tesla Semi Moves Into Europe & Gets Largest Order To Date"
+    },
+    {
      "title": "A Hydrogen Generator Charged An Electric Ship. Why Was Hydrogen There?",
      "link": "https://cleantechnica.com/2026/08/23/hydrogen-ship-charging-tilbury-battery-test/",
      "pubDate": "Sun, 23 Aug 2026 06:35:44 +0000",
@@ -912,14 +920,6 @@ window.INDUSTRY_DATA = {
      "summary": "Donald Trump is accidentally overseeing a massive buildout of the country’s renewable energy capacity and infrastructure. Not only are investments in renewable technologies soaring to new highs, the national energy grid is rapidly transforming to accommodate an increasingly solar- and wind-powered e",
      "source": "OilPrice",
      "zh": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026"
-    },
-    {
-     "title": "The ICE Meltdown Continues — July’s China EV Sales Report (44% BEV Share)",
-     "link": "https://cleantechnica.com/2026/08/22/the-ice-meltdown-continues-julys-china-ev-sales-report-44-bev-share/",
-     "pubDate": "Sat, 22 Aug 2026 18:08:50 +0000",
-     "summary": "Petrol model sales crash 44% in July! High gas prices and a never-ending wave of new BEVs has allowed July to reach record EV market share, with plugins reaching a record 65%! However, while record market share was achieved in the past thanks to strong EV sales, this time, the ... [continued] The po",
-     "source": "CleanTechnica",
-     "zh": "The ICE Meltdown Continues — July’s China EV Sales Report (44% BEV Share)"
     },
     {
      "title": "Every Chokepoint That Isn't Hormuz",
@@ -1746,6 +1746,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "三星 Galaxy Store 应用商店付款功能将停止支持安卓 4.x 系统",
+     "link": "https://www.ithome.com/0/993/299.htm",
+     "pubDate": "Sun, 23 Aug 2026 13:44:57 GMT",
+     "summary": "IT之家 8 月 23 日消息，据科技媒体 SammyGuru 今天报道，三星近日宣布，Galaxy Store 应用商店的付款系统将从 8 月 25 日起， 不再支持安卓 4.x 或更旧版本的操作系统 。 IT之家从原报道了解到，8 月 25 日之后，使用安卓 4.x 或更旧系统的用户将无法通过 Samsung Checkout 付款系统，购买应用商店付费内容，也无法进行应用内购买。 三星建议用户在 8 月 25 日前将设备升级至 Android 5 或更高版本操作系统 ，以便继续使用自家应用商店的付款系统。 对于大多数 Galaxy 用户来说，这项变化应该不会有太大影响，毕竟 Androi",
+     "source": "IT之家",
+     "zh": "三星 Galaxy Store 应用商店付款功能将停止支持安卓 4.x 系统"
+    },
+    {
+     "title": "杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留",
+     "link": "https://www.ithome.com/0/993/298.htm",
+     "pubDate": "Sun, 23 Aug 2026 13:44:03 GMT",
+     "summary": "IT之家 8 月 23 日消息，据法治天地今日报道，今年 7 月 8 日，某互联网企业向上海黄浦警方报案，称某自媒体账号发布内容为“知名企业上市失败”的不实贴文，对公司声誉造成负面影响。 黄浦公安分局网安部门接报后迅速开展调查，锁定了该账号运营者莫某。经查，莫某在某证券投资平台运营一个投资类账号，他在网上看到相关公司诉讼纠纷的信息后，在并未核实真伪的情况下，抱着博眼球、吸引流量的心态，杜撰了“企业上市失败”的虚假内容并发布在平台上。 IT之家从报道获悉，由于莫某的账号名称带有“某某投资”等字样，看起来颇具“官方感”，贴文发布后迅速被多名网络大 V 和自媒体博主截图引用转发。许多不明真相的网友信",
+     "source": "IT之家",
+     "zh": "杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留"
+    },
+    {
+     "title": "荣耀晒“闪电”机器人最新战报：打破半马、峰值速度等 5 项人类世界纪录",
+     "link": "https://www.ithome.com/0/993/297.htm",
+     "pubDate": "Sun, 23 Aug 2026 13:32:27 GMT",
+     "summary": "IT之家 8 月 23 日消息，今天（23 日）晚间，荣耀通过官微宣布：旗下自研人形机器人“闪电”打破五项人类世界纪录。 半马成绩 50 分 26 秒，打破人类半马世界纪录。 1500 米成绩 2 分 30 秒，打破人类 1500 米世界纪录。 400 米成绩 39.45 秒，打破人类 400 米世界纪录。 100 米成绩 9.32 秒，打破人类百米世界纪录。 峰值速度 14.5 米 / 秒，超越人类巅峰速度。 延伸阅读 在 8 月 22 日开赛的第二届世界人形机器人运动会 400 米大型组田径项目中，“闪电”以 40.6 秒的成绩冲线，打破人类世界纪录。 “闪电”机器人 身高 169cm，有",
+     "source": "IT之家",
+     "zh": "荣耀晒“闪电”机器人最新战报：打破半马、峰值速度等 5 项人类世界纪录"
+    },
+    {
+     "title": "众擎 CEO 赵同阳：通用人形机器人单台成本已降至十万元以下",
+     "link": "https://www.ithome.com/0/993/296.htm",
+     "pubDate": "Sun, 23 Aug 2026 13:30:33 GMT",
+     "summary": "IT之家 8 月 23 日消息，据蓝鲸科技报道，众擎创始人兼 CEO 赵同阳在 2026 年世界机器人大会接受媒体采访时谈及了人形机器人成本相关话题。 赵同阳表示，通用人形机器人单台成本已降至十万元以下。 三年前，通用人形机器人单台成本超百万元， 如今已降至十万元以下 。 需要明确的是， 我们所指的是可落地作业的通用人形机器人，并非千元级玩具类产品 ，二者不具备可比性。 目前可落地工厂、家庭场景、可执行实际任务的通用人形机器人，成本已控制在十万元级别。受限于当前尚未形成规模化量产，后续成本仍有较大下降空间。 对于人形机器人供应链，赵同阳称目前国内人形机器人供应链体系已日趋完善，深度依托中国数十",
+     "source": "IT之家",
+     "zh": "众擎 CEO 赵同阳：通用人形机器人单台成本已降至十万元以下"
+    },
+    {
+     "title": "奇瑞捷途旅行者 7 & 旅行者 7C-DM 开启小订",
+     "link": "https://www.ithome.com/0/993/295.htm",
+     "pubDate": "Sun, 23 Aug 2026 13:25:21 GMT",
+     "summary": "IT之家 8 月 23 日消息，奇瑞捷途旅行者 7 &amp; 旅行者 7C-DM 汽车现已开启小订， 现在支付 777 元意向金可享受 6 折选购 5000 元高定车漆 、 免费赠送 5000 元高定新色内饰 、赠送价值 999 元智能车控手表等权益。 IT之家从工信部申报信息获悉，捷途旅行者 7 的长宽高是 4827/2006/1875mm，轴距 2800mm。外观方面，捷途旅行者 7 相比捷途旅行者有一些改动，前格栅处增加了贯穿饰条，同时 logo 移至前舱盖之上。 动力部分，捷途旅行者 7 搭载 1.5T 涡轮增压发动机与电机组成的混动系统，其中发动机最大功率 115kW。 尾部方面，",
+     "source": "IT之家",
+     "zh": "奇瑞捷途旅行者 7 & 旅行者 7C-DM 开启小订"
+    },
+    {
+     "title": "终于要对日本下狠手了",
+     "link": "https://www.huxiu.com/article/4885303.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 21:09:12 +0800",
+     "summary": "本文来自微信公众号： 智先生 ，作者：Isidore 一名国际法官，同时遭到美俄两大国反制，挺罕见的。 8月18日，美国终于对国际刑事法院院长赤根智子下狠手了。 制裁手段干脆利落：冻结在美全部资产，禁止入境，并且彻底切断与美国金融体系的任何往来。 怎么切断？直接将她塞进“特别指定国民清单”（SDN）。 进入了SDN清单，不论是跨国大行、地方信用社，还是街边电子结算机构，只要业务网络使用美元结算，就不敢为清单上的人提供任何转账服务，否则会面临美国司法部的天价罚单。 3年以前，赤根智子还是西方媒体盛赞的“无畏对抗莫斯科的法治女神”，如今是被华盛顿断了生路的“非法组织头目”。 有人疑惑，这个国际刑事",
+     "source": "虎嗅",
+     "zh": "终于要对日本下狠手了"
+    },
+    {
+     "title": "飞书连降2级背后，是字节看透了中国ToB的真相",
+     "link": "https://www.huxiu.com/article/4885302.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 21:08:20 +0800",
+     "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明，原文标题：《飞书连降 2 级背后，是字节看透了中国ToB的真相》 飞书正式被拆分，产品团队被整合进豆包，飞书负责人谢欣的级别从CEO-1变成了CEO-3，向自己曾经的-2下属汇报，这也意味着：飞书直接被降了2级，地位从战略组织降为了附属组织。 有人说，飞书被整合到豆包，是因为软件不再重要，AI才是未来。飞书不过是字节AI战略的牺牲品。 但我不这么看。 飞书本身也在做AI，它优秀的用户体验、忠实的客户群体，对于飞书AI都是非常宝贵的资源，也是大多数企业AI产品不具备的优势。所以我认为，飞书的AI大概率也能做起来，和字节“All in AI”的战",
+     "source": "虎嗅",
+     "zh": "飞书连降2级背后，是字节看透了中国ToB的真相"
+    },
+    {
+     "title": "Malware infects Android-based automotive head unit firmware",
+     "link": "https://securelist.com/android-head-unit-malware/121106/",
+     "pubDate": "Sun, 23 Aug 2026 13:05:38 +0000",
+     "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 43 # Comments: 7",
+     "source": "Hacker News",
+     "zh": "Malware infects Android-based automotive head unit firmware"
+    },
+    {
      "title": "安世中国 CEO 张秋明：过去 11 个月已交付超 400 亿颗芯片",
      "link": "https://www.ithome.com/0/993/294.htm",
      "pubDate": "Sun, 23 Aug 2026 13:02:18 GMT",
@@ -1760,46 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.",
      "source": "WIRED",
      "zh": "Asus ROG Swift RGB Stripe OLED Review: Clarity King"
-    },
-    {
-     "title": "第二届世界人形机器人运动会：智元精灵 G2 成功摘取“消防应急场景”“图书场景”两枚金牌",
-     "link": "https://www.ithome.com/0/993/292.htm",
-     "pubDate": "Sun, 23 Aug 2026 12:59:19 GMT",
-     "summary": "IT之家 8 月 23 日消息，今日，第二届世界人形机器人运动会正式开赛，智元核心产品精灵 G2、灵犀 X2、远征 A3 悉数参加。在已经完赛的“场景赛”部分项目中，智元精灵 G2 取得了两金三银两铜的好成绩。截至目前， 智元位于奖牌榜首位 。 IT之家注意到，本届运动会新增“场景赛”，将赛项延伸到真实环境，覆盖工业、酒店、家庭、物流等领域。其中，智元精灵 G2 成功摘取了 “消防应急场景”“图书场景” 两枚金牌。 消防应急场景 ：比赛还原真实火灾场景，参赛队伍需要完成危险品识别、异常阀门关断、灭火器抓取与灭火三大核心任务。灭火器重达 4.5-5 公斤，远超市面绝大多数人形机器人末端夹爪的负载",
-     "source": "IT之家",
-     "zh": "第二届世界人形机器人运动会：智元精灵 G2 成功摘取“消防应急场景”“图书场景”两枚金牌"
-    },
-    {
-     "title": "能像“骑马”一样操控，大咖机器人 DaxAI 展示骐骥系列四足机器马",
-     "link": "https://www.ithome.com/0/993/291.htm",
-     "pubDate": "Sun, 23 Aug 2026 12:54:06 GMT",
-     "summary": "IT之家 8 月 23 日消息，搭载机器骑手的四足机器人，成为 2026 北京世界机器人大会上的热门展品之一。 大咖机器人（DaxAI Robotics）在此次大会上展出了骐骥 X1，将四足机器人平台与鞍座、车把结合，让用户能够像骑马一样操控机器人。 骐骥 X1 可以理解为一台“可载人版”大型四足机器人。不同于采用车轮或履带的传统移动设备，它依靠四条带关节的机械腿行走，整体形态类似一匹机器马。骑手坐在顶部鞍座上，通过前方车把进行控制。 据IT之家了解，其采用纯四足仿生无车轮结构，整机重量 300kg，精准复刻原生骏马迈步步态，最高时速可达 7-10km/h。产品搭载 165V 高压动力电池组，",
-     "source": "IT之家",
-     "zh": "能像“骑马”一样操控，大咖机器人 DaxAI 展示骐骥系列四足机器马"
-    },
-    {
-     "title": "百度：没有增发配售计划",
-     "link": "https://www.ithome.com/0/993/289.htm",
-     "pubDate": "Sun, 23 Aug 2026 12:49:38 GMT",
-     "summary": "IT之家 8 月 23 日消息，据科创板日报消息，百度相关负责人回应称， 百度没有增发配售计划 ，现有资金及经营现金流足以支持既定业务发展。 截至二季度末，百度现金及投资总额达 2,831 亿元，经营现金流连续四个季度为正。与此同时，百度 AI 云基础设施收入同比增长 50%，GPU 云收入同比增长 283%， AI 业务收入占一般业务收入的 50% 。 据IT之家此前报道， 百度 2026 财年第二财季 （2026 年 4 月～2026 年 6 月）数据显示： 营业总收入：313 亿元，同比下降 4.4%，环比下降 2.49% 归母净利润：23.19 亿元，同比下降 68.33%，环比下降 ",
-     "source": "IT之家",
-     "zh": "百度：没有增发配售计划"
-    },
-    {
-     "title": "2027 北京亦庄人形机器人半程马拉松大赛开启全球邀请，赛事规格再升级",
-     "link": "https://www.ithome.com/0/993/288.htm",
-     "pubDate": "Sun, 23 Aug 2026 12:49:37 GMT",
-     "summary": "IT之家 8 月 23 日消息，北京亦庄今日宣布，2027 北京亦庄半程马拉松暨人形机器人半程马拉松正式开启全球邀请。 据官方介绍，本届赛事将搭建更广阔的竞技舞台，加码更丰厚的赛事激励，打造更出彩的赛事标杆，面向全球，邀约顶尖科研创新团队齐聚亦庄。 赛事规格再升级，邀约范围再拓宽 ，技术考核标准再拔高，展示舞台再扩容。 赛事时间： 2027 年 4 月 18 日 比赛地点： 北京经济技术开发区（北京亦庄） 赛事主题： 亦马当先 IT之家注意到，在今年 4 月进行的 2026 北京亦庄人形机器人半程马拉松中，齐天大圣队的 荣耀“闪电”机器人 凭借 50 分 26 秒（净用时）的成绩获得冠军。 2",
-     "source": "IT之家",
-     "zh": "2027 北京亦庄人形机器人半程马拉松大赛开启全球邀请，赛事规格再升级"
-    },
-    {
-     "title": "第二届世界人形机器人运动会 400 米小型组田径决赛：天工 Omni 以 45.66 秒夺冠",
-     "link": "https://www.ithome.com/0/993/286.htm",
-     "pubDate": "Sun, 23 Aug 2026 12:35:44 GMT",
-     "summary": "IT之家 8 月 23 日消息，第二届世界人形 机器人 运动会今日进行，在 400 米田径小型组决赛中，天工机器人再次夺冠，现场显示成绩为 45.66 秒。 据悉，在 400 米田径小型组赛上，天工队所派出的机器人型号为天工 Omni。 天工 Omni 身高 1.35m ，整机 39kg，具有一定负载能力，其面向狭窄空间、应急救援及家庭服务等未来场景。值得一提的是，其开放了二次开发体系，开放关节、传感器、系统、运控 API，以降低开发者底层研发门槛及成本，加速应用创新迭代。 IT之家注意到，在今日稍早进行的 400 米大型组决赛开赛，天工队天工 Ultra 以 38.15 秒的成绩夺得本届世界",
-     "source": "IT之家",
-     "zh": "第二届世界人形机器人运动会 400 米小型组田径决赛：天工 Omni 以 45.66 秒夺冠"
     },
     {
      "title": "豆包将推WorkBuddy类产品，飞书十年积累正在组件化",
@@ -1842,14 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "Tims中国：成不了星巴克，也学不会瑞幸"
     },
     {
-     "title": "迈威尔Marvell：“贴钱”结盟谷歌，能“撬动”博通墙角吗？",
-     "link": "https://www.huxiu.com/article/4885292.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 19:06:59 +0800",
-     "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《迈威尔 Marvell：“贴钱”结盟谷歌，能“撬动”博通墙角吗？》 迈威尔科技Marvell宣布首次向谷歌发行认股权证直接拉动Marvell10%+的股价涨幅，而与此同时博通的股价出现了明显的下挫，反映了市场对迈威尔抢夺谷歌TPU订单的可能性。 这里，海豚君和大家一起来梳理下两者的协议方案及影响： 一、Marvell与谷歌的协议方案 首先来看，Marvell本次与谷歌签的具体方案：商业协议签署在2026年7月29日，权证发行日是2026年8月18日，行权价定在206.58美元/股（8/18的收盘价为216美元，折价4%左右）。 本次授",
-     "source": "虎嗅",
-     "zh": "迈威尔Marvell：“贴钱”结盟谷歌，能“撬动”博通墙角吗？"
-    },
-    {
      "title": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了",
      "link": "https://www.solidot.org/story?sid=85166",
      "pubDate": "Sun, 23 Aug 2026 19:04:24 +0800",
@@ -1874,28 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "Volcanoes that made history"
     },
     {
-     "title": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险",
-     "link": "https://www.huxiu.com/article/4885285.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 19:00:21 +0800",
-     "summary": "本文来自微信公众号： 硅谷101 ，作者：硅谷101，题图来自：视觉中国 1.65万亿美元，用100美元纸币首尾相连，可以绕地球赤道约64圈。这个数字，是如今美国五大数据中心的发债总额。而如今，这些负债，似乎离奇地&ldquo;消失&rdquo;了。 它们藏到哪里去了呢？国际清算银行给这种做法起了个名字：Shadow Borrowing （影子借贷） 。如今，被称为hyperscaler的大型云巨头们，正在用这样的手法，藏起天价债务数字，目的是让自己有一张更干净的资产负债表。 这篇文章我们就来聊聊， AI数据中心背后的债务账。 我们仔细翻阅了大型数据中心的各类申报文件，找出了至少五种不同的藏债",
-     "source": "虎嗅",
-     "zh": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险"
-    },
-    {
      "title": "Transistors Changed Everything. Here’s How They Work",
      "link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
      "pubDate": "Sun, 23 Aug 2026 11:00:00 +0000",
      "summary": "How a tiny little electronic switch sparked the computer revolution.",
      "source": "WIRED",
      "zh": "Transistors Changed Everything. Here’s How They Work"
-    },
-    {
-     "title": "你骂你的，它火它的：一部“粉丝定制剧”的生存逻辑",
-     "link": "https://www.huxiu.com/article/4885286.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 19:00:00 +0800",
-     "summary": "本文来自微信公众号： 骨朵网络影视 ，作者：GuDuo骨朵编辑部 开播前全网预约量突破140万的《我们的少年时代2》，你看了吗？ 开播初期，在抖音剧集角色粉丝投票榜上，八位剧中主角一度集体冲到榜单前面，粉圈内戏称“八人屠榜”。 但抛开粉丝投出的榜单，这部剧在抖音路人盘的风评可谓是“零口碑，纯解压”。“抽象喜剧”、“尴尬中二”、“认人比看剧难”等标签成为网友的主流评价。 不少网友认为此剧为了平衡所有主角的群像设定，剧情推进乏力，人物塑造过于单薄，甚至还被网友称作“剧版牛来”。可见粉丝的热情撑起了开局，却没能把路人拉进来。 九年前，同样是养成系团体上星剧的《我们的少年时代》能够实现大众向的跨圈层传",
-     "source": "虎嗅",
-     "zh": "你骂你的，它火它的：一部“粉丝定制剧”的生存逻辑"
     },
     {
      "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
      "link": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
      "pubDate": "Sun, 23 Aug 2026 10:14:48 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 37 # Comments: 17",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 62 # Comments: 38",
      "source": "Hacker News",
      "zh": "Sydney Marathon medal mistakenly depicts Munich stadium"
     },
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Iranian hackers shut down UK power plant for 4 days",
      "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
      "pubDate": "Sun, 23 Aug 2026 10:03:01 +0000",
-     "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 13 # Comments: 2",
+     "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 30 # Comments: 9",
      "source": "Hacker News",
      "zh": "Iranian hackers shut down UK power plant for 4 days"
     },
@@ -1925,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
      "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
      "pubDate": "Sun, 23 Aug 2026 10:02:51 +0000",
-     "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 74 # Comments: 29",
+     "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 100 # Comments: 47",
      "source": "Hacker News",
      "zh": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "The Sloppification of Peptides",
      "link": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
      "pubDate": "Sun, 23 Aug 2026 09:32:54 +0000",
-     "summary": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 55 # Comments: 28",
+     "summary": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 64 # Comments: 47",
      "source": "Hacker News",
      "zh": "The Sloppification of Peptides"
     },
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
      "link": "https://skylens.yantraai.app/",
      "pubDate": "Sun, 23 Aug 2026 09:27:40 +0000",
-     "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 23 # Comments: 0",
+     "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 27 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive"
     },
@@ -1994,12 +1994,28 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "The reasons Siri may not work on CarPlay",
+     "link": "https://www.engadget.com/2240145/siri-with-carplay-reasons-not-work-fixes/",
+     "pubDate": "Sun, 23 Aug 2026 13:30:00 +0000",
+     "summary": "If you're struggling to get Siri to work with your car's CarPlay system, there are some things you can check.",
+     "source": "Engadget",
+     "zh": "The reasons Siri may not work on CarPlay"
+    },
+    {
      "title": "Huawei Pura X View previewed, more iPhone 18 Pro leaks, Week 34 in review",
      "link": "https://www.gsmarena.com/huawei_pura_x_view_previewed_more_iphone_18_pro_leaks_week_34_in_review-news-74283.php",
      "pubDate": "Sun, 23 Aug 2026 15:02:02 +0200",
      "summary": "Here’s a recap of this past week’s top stories. Huawei previewed its Pura X View featuring a 6.39-inch OLED and a wide 16:9.5 aspect ratio. This is a proper wide boy, with Huawei advertising its expanded horizontal real estate for more immersive reading, gaming and other content consumption. Huawei ",
      "source": "GSMArena",
      "zh": "Huawei Pura X View previewed, more iPhone 18 Pro leaks, Week 34 in review"
+    },
+    {
+     "title": "This affordable fix may be all you need to improve earbud sound quality",
+     "link": "https://www.engadget.com/2240144/earbuds-sound-quality-improve-with-affordable-fix/",
+     "pubDate": "Sun, 23 Aug 2026 13:00:00 +0000",
+     "summary": "You might not need to invest in a newer pair of earbuds to improve the sound quality. Here's how to upgrade your current pair for a better listening experience.",
+     "source": "Engadget",
+     "zh": "This affordable fix may be all you need to improve earbud sound quality"
     },
     {
      "title": "What to try when an Android app keeps crashing",
@@ -2146,22 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app"
     },
     {
-     "title": "OpenAI calls for California to strengthen its AI safety laws",
-     "link": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
-     "pubDate": "Sat, 22 Aug 2026 19:27:04 +0000",
-     "summary": "The AI leader said that the state's SB 53 framework should \"be amended to expand safeguards.\"",
-     "source": "Engadget",
-     "zh": "OpenAI calls for California to strengthen its AI safety laws"
-    },
-    {
-     "title": "Are digital cameras still worth buying in 2026?",
-     "link": "https://www.engadget.com/2240133/digital-cameras-still-worth-buying-2026/",
-     "pubDate": "Sat, 22 Aug 2026 18:30:00 +0000",
-     "summary": "Yes, so long as you're willing to put in the work (and money) for better photos.",
-     "source": "Engadget",
-     "zh": "Are digital cameras still worth buying in 2026?"
-    },
-    {
      "title": "vivo T5 5G teased with a 3D curved display ahead of launch",
      "link": "https://www.gsmarena.com/vivo_t5_5g_coming_soon-news-74295.php",
      "pubDate": "Sat, 22 Aug 2026 20:05:02 +0200",
@@ -2202,20 +2202,20 @@ window.INDUSTRY_DATA = {
      "zh": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it"
     },
     {
+     "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
+     "link": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
+     "pubDate": "Sat, 22 Aug 2026 13:00:00 +0000",
+     "summary": "Apple’s fall iPhone event is expected to look different this year. Rather than unveiling four closely related models, rumors point to a flagship-only September lineup consisting of three premium models: iPhone 18 Pro, iPhone 18 Pro Max, and Apple’s first foldable, widely expected to be called iPhone",
+     "source": "9to5Mac",
+     "zh": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]"
+    },
+    {
      "title": "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case",
      "link": "https://9to5google.com/2026/08/22/please-dont-buy-googles-wildly-overpriced-pixel-11-clear-case/",
      "pubDate": "Sat, 22 Aug 2026 13:00:00 +0000",
      "summary": "Buying a new smartphone usually means buying a new case alongside it, unless you’re one of those risk-fueled daredevils who opt to go caseless. And while there’s no shortage of third-party case options piling up at your local Best Buy or in Amazon warehouses, sometimes, going the first-party route j",
      "source": "9to5Google",
      "zh": "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case"
-    },
-    {
-     "title": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
-     "link": "https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/",
-     "pubDate": "Sat, 22 Aug 2026 12:17:11 +0000",
-     "summary": "Update 8/23: Amazon has now dropped price on the 4-pack of Apple’s AirTag 2 down even lower to a new $84 all-time low – $21 each. Alongside the final AirPods Max 2 at $120 off and the return of all-time low pricing on AirTag 2. Those discounts join a big-time $500 price drop on M5 Pro MacBook Pro, t",
-     "source": "9to5Mac",
-     "zh": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more"
     },
     {
      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
@@ -2242,20 +2242,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "泽连斯基：乌克兰尚不具备战时选举条件",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850390072.html",
+     "pubDate": "Sun, 23 Aug 2026 21:39:58 +0800",
+     "summary": "据乌克兰国际文传电讯社报道，乌克兰总统泽连斯基23日在会见媒体代表时说，乌克兰尚不具备在战时举行选举的条件，如果在当前情况下举行选举，乌克兰将面临国家分裂的巨大危险。 据媒体报道，此前被泽连斯基解职的乌前国防部长费奥多罗夫日前发表视频，呼吁乌克兰举行战时选举，并称乌正面临治理危机。泽连斯基当天回应说，在战事持续期间，各方一直在施压乌克兰举行战时选举，但选举的前提是伙伴国能够给乌克兰提供确保选举安全、合法举行的具体条件。前线乌军军人、因躲避战乱而身处海外的数百万乌公民等能安全参加选举，不受袭击威胁。 “在这样的前提下，可以讨论选举事宜，但迄今为止，没有伙伴国提出具体建议。”他说，“在当前战事期间",
+     "source": "东方财富股票",
+     "zh": "泽连斯基：乌克兰尚不具备战时选举条件"
+    },
+    {
+     "title": "新石器创始人首谈未来产品全景图：1000万辆无人车＋1亿个机器人；可灵AI2026年第二季度收入超8.5亿元｜一周未来商业",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850393163.html",
+     "pubDate": "Sun, 23 Aug 2026 21:38:14 +0800",
+     "summary": "｜2026年8月17日—8月23日｜ #电商 新零售 NO.1 锅圈 2026年上半年营收39.47亿元，同比增长21.8% 8月17日， 锅圈 发布2026年中期业绩。该公司上半年营收39.47亿元，同比增长21.8%；核心经营利润2.25亿元，同比增长18.3%。截至6月底，门店达12198家，较去年同期增加1798家；会员达8200万，同比增长63%；门店抖音GMV（商品交易总额）达9.1亿元，同比增长97.2%； 锅圈 农场GMV达2.4亿元，同比增长超过600%。 点评： 财报显示，锅圈门店扩张节奏稳健，线上板块也呈现增长态势。随着锅圈小炒、锅圈农场等新业态逐步落地，这家万店公司正试",
+     "source": "东方财富股票",
+     "zh": "新石器创始人首谈未来产品全景图：1000万辆无人车＋1亿个机器人；可灵AI2026年第二季度收入超8.5亿元｜一周未来商业"
+    },
+    {
+     "title": "东华能源上半年净利润同比增长224.38% 地缘扰动下经营彰显韧性",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850393478.html",
+     "pubDate": "Sun, 23 Aug 2026 21:38:00 +0800",
+     "summary": "8月23日晚间， 东华能源 （002221.SZ）发布2026年半年度报告。面对中东地缘冲突带来的原料保供与价格波动压力，公司半年度经营仍展现较强韧性，2026年上半年，公司实现营业收入124.24亿元，同比下降23.70%，但归母净利润为近5年来同期新高，达到2.15亿元，同比增长224.38%；基本每股收益0.1366元。报告期内，公司整体经营态势平稳向好，各生产基地立足自身区位与资源优势，深耕生产运营、提质增效、创新升级，持续夯实核心竞争力。 地缘扰动下，船—库—贸托底保供与销售应变 根据半年报，2026年上半年，面对复杂多变的外部环境，特别是中东地缘冲突的影响，公司利用船—库—贸一体化",
+     "source": "东方财富股票",
+     "zh": "东华能源上半年净利润同比增长224.38% 地缘扰动下经营彰显韧性"
+    },
+    {
+     "title": "鱼跃医疗：将借助Inogen渠道推进美国市场拓展，并强化双方供应链合作",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850384268.html",
+     "pubDate": "Sun, 23 Aug 2026 21:27:00 +0800",
+     "summary": "8月23日， 鱼跃医疗 披露的投资者关系管理信息显示，公司目前与Inogen的合作正在有序推进中，将借助Inogen渠道推进呼吸治疗产品在美国市场的拓展，并强化双方供应链合作，以实现降本增效、加强供应链安全和提升供应链韧性等目标。 针对上半年的全球化布局成果， 鱼跃医疗 表示已在多国完成子公司布局，并逐步配齐本地化营销、注册、用户服务、管理等团队。同时公司在呼吸治疗领域已完成团队主架构的搭建，可为未来一段时间的发展提供支持，且正在开展其他重要板块的架构布局，推动专业化销售。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "鱼跃医疗：将借助Inogen渠道推进美国市场拓展，并强化双方供应链合作"
+    },
+    {
+     "title": "Iran says it has discovered huge natural gas field",
+     "link": "https://seekingalpha.com/news/4636057-iran-says-has-discovered-huge-natural-gas-field?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 09:26:58 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Iran says it has discovered huge natural gas field"
+    },
+    {
+     "title": "机器人缺数据，奥比中光当上了“卖铲人”",
+     "link": "https://wallstreetcn.com/articles/3780096",
+     "pubDate": "Sun, 23 Aug 2026 21:25:09 +0800",
+     "summary": "8月19日举行的2026世界机器人大会上，奥比中光首次集中展示无本体数据采集硬件矩阵，包括第一视角设备EGO、手持操作设备UMI、腕部近场设备WristCam以及同步中枢Hub。 对于一家过去主要给机器人卖 “眼睛”的公司而言，奥比中光正在把生意往机器人学会干活之前再推一步：卖数据采集的“铲子”。 这门生意背后是具身智能越来越明显的数据瓶颈。大模型可以从互联网获取文本和图像，但机器人要完成抓取、装配、整理等物理任务，需要动作轨迹、空间位置以及真实交互产生的多模态数据。 奥比中光切入的正是数采过程中所用的硬件设备。 此次奥比中光推出的 EGO负责第一视角，UMI记录手持操作，WristCam补充",
+     "source": "华尔街见闻",
+     "zh": "机器人缺数据，奥比中光当上了“卖铲人”"
+    },
+    {
+     "title": "派林生物：上半年净利润同比下降64.25% 拟10派1.5元",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850388694.html",
+     "pubDate": "Sun, 23 Aug 2026 21:25:00 +0800",
+     "summary": "人民财讯8月23日电， 派林生物 (000403)8月23日披露半年报，2026年上半年，公司实现营业收入8.3亿元，同比下降15.88%；归属于上市公司股东的净利润8430.10万元，同比下降64.25%；基本每股收益0.09元。公司拟每10股派发现金红利1.5元(含税)。 血液制品 行业受集采扩围、 DRG/DIP 改革、医保控费、药品重点监控合理用药等因素影响，使得临床处方量减少，市场需求端景气度滑，致报告期公司 血液制品 业务毛利率同比下降。此外，受增值税征收模式变化的影响， 血液制品 从2026年1月1日起不再纳入3%增值税简易征收的范围（除纳入罕见病药品清单的血液制品），执行13%",
+     "source": "东方财富股票",
+     "zh": "派林生物：上半年净利润同比下降64.25% 拟10派1.5元"
+    },
+    {
+     "title": "中威电子：2026年半年度营业收入同比增长90.98%",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850393381.html",
+     "pubDate": "Sun, 23 Aug 2026 21:24:00 +0800",
+     "summary": "8月23日， 中威电子 发布2026年半年度报告摘要称，公司2026年半年度实现营业收入72，110，930.70元，同比增长90.98%；归属于上市公司股东的净利润为9，196，661.95元。 （文章来源：证券日报）",
+     "source": "东方财富股票",
+     "zh": "中威电子：2026年半年度营业收入同比增长90.98%"
+    },
+    {
+     "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
+     "link": "https://wallstreetcn.com/articles/3779970",
+     "pubDate": "Sun, 23 Aug 2026 21:16:39 +0800",
+     "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极",
+     "source": "华尔街见闻",
+     "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
+    },
+    {
+     "title": "泰康30年司庆人事变阵：陈东升专注战略 刘挺军出任CEO",
+     "link": "http://www.eeo.com.cn/2026/0823/1008953.shtml",
+     "pubDate": "Sun, 23 Aug 2026 21:10:10 +0800",
+     "summary": "2026年8月22日，泰康保险集团股份有限公司（下称“泰康保险集团”）迎来成立30周年。在公司庆典当天，一则人事变动消息引起了市场关注——该公司创始人陈东升将不再兼任集团首席执行官、继续担任集团董事长，现任总裁兼首席运营官刘挺军出任首席执行官一职。",
+     "source": "经济观察网",
+     "zh": "泰康30年司庆人事变阵：陈东升专注战略 刘挺军出任CEO"
+    },
+    {
+     "title": "Raytheon Navy air-to-air long-range missile undergoes testing",
+     "link": "https://seekingalpha.com/news/4636056-raytheon-navy-air-to-air-long-range-missile-undergoes-testing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 09:08:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Raytheon Navy air-to-air long-range missile undergoes testing"
+    },
+    {
      "title": "Notable healthcare headlines for the week: Moderna, Merck, and Twist Bioscience in focus",
      "link": "https://seekingalpha.com/news/4636014-notable-healthcare-headlines-for-the-week-moderna-merck-and-twist-bioscience-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 23 Aug 2026 09:05:17 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Notable healthcare headlines for the week: Moderna, Merck, and Twist Bioscience in focus"
-    },
-    {
-     "title": "泽连斯基：乌克兰不会寻求加入北约之外的替代方案",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850371792.html",
-     "pubDate": "Sun, 23 Aug 2026 21:00:31 +0800",
-     "summary": "乌克兰总统泽连斯基23日在会见媒体代表时说，为获得真正的安全保障，乌克兰不会寻求加入北约之外的替代方案。 泽连斯基说，如果乌克兰加入北约，将获得资金、武器合作等方面的一系列机会。他表示，今年乌方还需要欧盟提供300亿欧元（约合350.43亿美元）贷款用于弥补财政赤字，此外，乌克兰还面临270亿美元的国防预算赤字。“如果我们被纳入北约预算范围，我们会更加强大。” 泽连斯基还认为，通过外交途径结束乌克兰危机的时间窗口大概从今年底持续至明年夏天，因为此后美国总统选举的竞选活动将启动。 他表示，美国总统特使威特科夫和美国总统特朗普的女婿库什纳非常希望取得外交斡旋的胜利，但“对他们而言，很难让俄罗斯在乌",
-     "source": "东方财富股票",
-     "zh": "泽连斯基：乌克兰不会寻求加入北约之外的替代方案"
     },
     {
      "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
@@ -2266,28 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test"
     },
     {
-     "title": "1500米跑出2分30秒22！“闪电”机器人再打破人类世界纪录",
-     "link": "http://finance.eastmoney.com/news/1350,202608233850371554.html",
-     "pubDate": "Sun, 23 Aug 2026 20:58:15 +0800",
-     "summary": "第二届世界 机器人 运动会1500米决赛，荣耀 机器人 “闪电”录得净时成绩2分30秒22。《科创板日报》记者获悉，此次大赛，荣耀 机器人 闪电在100米、400米、1500米均打破人类世界纪录。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "1500米跑出2分30秒22！“闪电”机器人再打破人类世界纪录"
-    },
-    {
      "title": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”",
      "link": "https://wallstreetcn.com/articles/3780090",
      "pubDate": "Sun, 23 Aug 2026 20:57:19 +0800",
      "summary": "英伟达正在两条鲜少被市场充分定价的战线上悄然构筑护城河。 据汇丰银行8月20日发布的最新研报，汇丰分析师Frank Lee认为，在持续\"业绩超预期\"之外，推动英伟达股价重新定价的新催化剂，将来自两条此前被市场忽视的叙事线。 其一，大力押注开源小语言模型（SLM），有望将潜在客户群从少数超大规模云厂商扩展至数百万开发者和主权国家；其二，通过一系列多年期采购协议提前锁定供应链产能，在竞争对手愈发难以获得关键制造资源的背景下，这一优势将愈加凸显。 两条新叙事线的市场意义在于，它们共同指向同一个核心命题：英伟达的增长引擎，正在从依赖少数超大规模客户的单一结构，向更宽广、更具韧性的客户生态演进。 这一转",
      "source": "华尔街见闻",
      "zh": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”"
-    },
-    {
-     "title": "8月23日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202608233850371623.html",
-     "pubDate": "Sun, 23 Aug 2026 20:55:59 +0800",
-     "summary": "今日摘要 习近平总书记指出，红色资源是我们党艰辛而辉煌奋斗历程的见证，是最宝贵的精神财富，一定要用心用情用力保护好、管理好、运用好。各地牢记总书记嘱托，用好红色资源，赓续红色血脉，为奋进新征程注入精神力量。 “十五五”开局之年，被誉为“中华水塔”的青海不断筑牢绿色生态屏障，以更高标准打造生态文明高地。 多家商业 银行 发布优化后的消费贷贴息政策执行方案。 我国资源型城市持续推进矿山绿色转型发展。 第二届世界人形 机器人 运动会在北京开幕，展示中国 机器人 产业实力。 伊朗方面称，参与美国对伊朗“经济战”的国家将被视为敌人。 加拿大宣布对美国等额反制关税将正式生效执行。 内容速览 【新思想引领新",
-     "source": "东方财富股票",
-     "zh": "8月23日晚间央视新闻联播要闻集锦"
     },
     {
      "title": "三部门指导地方快速处置“白菜收购环节蘸取甲醛溶液”问题",
@@ -2304,22 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Alibaba seeks more than $10B in share sale to expand AI"
-    },
-    {
-     "title": "印度进口俄罗斯原油创新高",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850368592.html",
-     "pubDate": "Sun, 23 Aug 2026 20:38:17 +0800",
-     "summary": "受霍尔木兹海峡 航运 持续受阻影响，印度近期大幅增加进口俄罗斯原油，6月和7月进口量创下新高。 据英国《金融时报》23日援引船舶追踪机构克普勒公司首席分析师苏米特·里托利亚的话报道，印度6月和7月日均进口俄罗斯原油逾260万桶，较2月低点的约100万桶大幅增加，占该国日均原油进口总量的一半以上。 克普勒公司数据显示，印度原油日均进口总量已达500万桶，为伊朗战事爆发以来最高水平。 印度超过90%的原油和 天然气 依靠进口。印度总理莫迪本月在独立日演讲时说，能源安全是印度“当务之急”，必须“全力发展替代能源”。 印度政府智库“国家转型委员会”数据显示，在印度能源供应结构中， 煤炭 占近六成，石油",
-     "source": "东方财富股票",
-     "zh": "印度进口俄罗斯原油创新高"
-    },
-    {
-     "title": "8月23日晚间上市公司利好消息一览(附名单)",
-     "link": "http://finance.eastmoney.com/news/1353,202608233850367418.html",
-     "pubDate": "Sun, 23 Aug 2026 20:32:26 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布重要公告，以下为利好的消息汇总： 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，建设期一年",
-     "source": "东方财富股票",
-     "zh": "8月23日晚间上市公司利好消息一览(附名单)"
     },
     {
      "title": "Trump June stock disclosure: more than 1,000 trades, big in the VIG",
@@ -2344,22 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Earnings Week Ahead: NVDA, MRVL, ZM, XPEV, and more"
-    },
-    {
-     "title": "Trump accuses Canada of charging tariffs on farmers for years",
-     "link": "https://seekingalpha.com/news/4636054-trump-accuses-canada-charging-tariffs-farmers-for-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 08:06:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump accuses Canada of charging tariffs on farmers for years"
-    },
-    {
-     "title": "Trending stocks this week as markets pull back amid Treasury, Bitcoin moves",
-     "link": "https://seekingalpha.com/news/4635792-trending-stocks-this-week-as-markets-pull-back-amid-treasury-bitcoin-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 08:06:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trending stocks this week as markets pull back amid Treasury, Bitcoin moves"
     },
     {
      "title": "新世代BMW iX3定价击穿预期，宝马在华电动化进入“决战时刻”",
@@ -2410,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement."
     },
     {
-     "title": "8月23日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202608233850358355.html",
-     "pubDate": "Sun, 23 Aug 2026 19:32:16 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，",
-     "source": "东方财富资讯",
-     "zh": "8月23日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
      "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
      "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
      "pubDate": "Sun, 23 Aug 2026 11:29:05 GMT",
@@ -2450,36 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "韩杰案：一个孩子离世，一个医生入狱，韩杰是谁？"
     },
     {
-     "title": "韩杰案：没有尸检报告，能否认定医疗事故罪？",
-     "link": "http://www.eeo.com.cn/2026/0823/1008942.shtml",
-     "pubDate": "Sun, 23 Aug 2026 19:13:08 +0800",
-     "summary": "宋鹏 你从法律上来说，怎么看这个事儿？就是我还是没搞清楚他为什么要入刑。 程时春 据我所知，法院的所有判决，以及检察院、公安局办案所依据的，都是那一份（尸检）鉴定。 首先在民事案件中，通常做法是原告（也就是患者家属）拿出一份初步鉴定报告来起诉。至于为什么会有第二份报告，实际上是因为被告方或者法院不同意第一份鉴定报告，要求法院指定鉴定机构，所以第二份鉴定报告应该就是法院指定的...",
-     "source": "经济观察网",
-     "zh": "韩杰案：没有尸检报告，能否认定医疗事故罪？"
-    },
-    {
      "title": "Trump’s South Korea snub raises questions in the Asia-Pacific",
      "link": "https://www.ft.com/content/22530c4a-65b7-49f7-890d-1c8900f63853?syn-25a6b1a6=1",
      "pubDate": "Sun, 23 Aug 2026 11:00:07 GMT",
      "summary": "Scaling back military exercises has undermined faith in America’s reliability",
      "source": "Financial Times",
      "zh": "Trump’s South Korea snub raises questions in the Asia-Pacific"
-    },
-    {
-     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 11:00:00 GMT",
-     "summary": "“The cost is absolutely ridiculous.”",
-     "source": "MarketWatch",
-     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
-    },
-    {
-     "title": "英伟达财报“万众瞩目”：Rubin周期、循环融资与远期市场份额",
-     "link": "https://wallstreetcn.com/articles/3780083",
-     "pubDate": "Sun, 23 Aug 2026 18:56:46 +0800",
-     "summary": "英伟达下周将公布截至7月的季度财报。按照过往几个季度的节奏，市场对“业绩超预期、指引上调”已经并不陌生，真正决定股价弹性的是三个更长期的问题： Rubin能否顺利接棒Blackwell、AI需求是否仍显著大于供给，以及英伟达为锁定未来需求需要承担多大的融资和资产负债表责任。 从券商预期看，基本面仍然强劲。追风交易台消息，本周Jefferies发布前瞻报告，预计英伟达7月季度收入将达到950亿美元，高于市场一致预期的约919亿美元；10月季度收入指引有望达到1080亿美元，也高于市场预期的约1037亿美元。 摩根士丹利的报告则相对保守，预计7月季度收入约912亿美元、10月季度约1023亿美元，",
-     "source": "华尔街见闻",
-     "zh": "英伟达财报“万众瞩目”：Rubin周期、循环融资与远期市场份额"
     }
    ]
   },
