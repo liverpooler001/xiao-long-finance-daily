@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/25 04:57:19",
+ "generated_at": "2026/8/25 05:19:52",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Avestra: Agentic AI for SystemVerilog Assertion Generation",
+     "link": "https://semiwiki.com/eda/372299-avestra-agentic-ai-for-systemverilog-assertion-generation/",
+     "pubDate": "Mon, 24 Aug 2026 21:00:33 +0000",
+     "summary": "Modern ASIC, SoC, CPU, and GPU development depends on verification processes that detect subtle functional defects before tapeout. SystemVerilog Assertions (SVA) are particularly important because they encode temporal design intent: how signals, states, and transactions must behave across clock cycl",
+     "source": "SemiWiki",
+     "zh": "Avestra: Agentic AI for SystemVerilog Assertion Generation"
+    },
+    {
      "title": "Ground broken on Alcoa-Sojitz Gallium Recovery Project in Western Australia",
      "link": "https://semiconductor-today.com/news_items/2026/aug/alcoa-240826.shtml",
      "pubDate": "Mon, 24 Aug 2026 20:12:01 +0100",
@@ -455,14 +463,6 @@
      "summary": "Chips are getting bigger, more modular, and much more capable as new innovations mix with existing processes and long-researched projects go mainstream. The post Multi-Die Assemblies Dominate At 2nm And Below appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Multi-Die Assemblies Dominate At 2nm And Below"
-    },
-    {
-     "title": "What Hot Chips 2026 Tells Us About What Silicon Valley Is Actually Building",
-     "link": "https://semiwiki.com/events/372540-what-hot-chips-2026-tells-us-about-what-silicon-valley-is-actually-building/",
-     "pubDate": "Mon, 24 Aug 2026 01:00:43 +0000",
-     "summary": "Here’s what the presentations selected for the 2026 Hot Chips Conference tell us about what Silicon Valley companies are doing these days. The conference, running this week at Stanford’s Memorial Auditorium, doesn’t publish detailed abstracts ahead of time, but the program itself, just the lineup of",
-     "source": "SemiWiki",
-     "zh": "What Hot Chips 2026 Tells Us About What Silicon Valley Is Actually Building"
     },
     {
      "title": "China’s NAND Specialist YMTC Moves Closer to IPO",
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Europe’s Biogas Plants Could Become Fertilizer Factories",
+     "link": "https://oilprice.com/Alternative-Energy/Biofuels/Europes-Biogas-Plants-Could-Become-Fertilizer-Factories.html",
+     "pubDate": "Mon, 24 Aug 2026 16:00:00 -0500",
+     "summary": "The fertilizer crisis is usually framed as a natural gas problem. When gas prices rise, ammonia costs rise, fertilizer plants reduce production, and farmers become exposed to a global commodity chain they cannot control. That diagnosis is correct but incomplete. Across Europe, thousands of anaerobic",
+     "source": "OilPrice",
+     "zh": "Europe’s Biogas Plants Could Become Fertilizer Factories"
+    },
+    {
      "title": "Houthis Target Saudi Oil Tanker in Red Sea Missile and Drone Attack",
      "link": "https://oilprice.com/Geopolitics/Middle-East/Houthis-Target-Saudi-Oil-Tanker-in-Red-Sea-Missile-and-Drone-Attack.html",
      "pubDate": "Mon, 24 Aug 2026 15:00:00 -0500",
@@ -897,14 +905,6 @@
      "zh": "Coalition Urges EPA to Keep Public Participation Requirements for Air Permits"
     },
     {
-     "title": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically",
-     "link": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
-     "pubDate": "Mon, 24 Aug 2026 12:00:00 -0500",
-     "summary": "17 August marked the 240th anniversary of American folk hero Davy Crockett -- ‘King of the Wild Frontier’, as the old song goes. It also marked the official end of the 60-day period for negotiations to end the conflict between the U.S. and Iran. Whether U.S. President Donald Trump sees himself as Ki",
-     "source": "OilPrice",
-     "zh": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically"
-    },
-    {
      "title": "Gas Stations are Changing Globally. How Has It Changed in Your Town? (Part 3: Africa)",
      "link": "https://cleantechnica.com/2026/08/24/gas-stations-are-changing-globally-how-has-it-changed-in-your-town-part-3-africa/",
      "pubDate": "Mon, 24 Aug 2026 16:33:40 +0000",
@@ -932,7 +932,7 @@
      "title": "Commonwealth Fusion Systems aims to complete demonstration reactor with $1B funding round",
      "link": "https://www.utilitydive.com/news/what-a-billion-dollar-funding-means-for-commonwealth-fusion-systems-and-its/828515/",
      "pubDate": "Mon, 24 Aug 2026 11:40:24 -0400",
-     "summary": "CEO Bob Mumgaard said the reactor, SPARC, is now &ldquo;about 80% complete.&rdquo; Experts remain divided over how soon they believe fusion technology could be commercialized.",
+     "summary": "The latest cash infusion will allow the company to complete its demonstration reactor, SPARC, which CEO Bob Mumgaard said is now &ldquo;about 80% complete.&rdquo;",
      "source": "Utility Dive",
      "zh": "Commonwealth Fusion Systems aims to complete demonstration reactor with $1B funding round"
     },
@@ -1001,12 +1001,12 @@
      "zh": "Moldova simplifies rules governing solar, heat pumps, storage systems"
     },
     {
-     "title": "Microsoft, PowerHouse Hillwood dispute data center service agreements",
+     "title": "Microsoft, PowerHouse Hillwood in disputes over data center service agreements",
      "link": "https://www.utilitydive.com/news/microsoft-powerhouse-hillwood-data-center-service-ferc/828566/",
      "pubDate": "Mon, 24 Aug 2026 09:05:21 -0400",
-     "summary": "Data center agreements in Wisconsin fail to protect ratepayers, Microsoft says. Separately, PowerHouse Hillwood has accused Exelon&rsquo;s ComEd of using monopoly power to quash an agreement for an Illinois data center.",
+     "summary": "Data center agreements in Wisconsin fail to protect ratepayers, Microsoft says. Exelon&rsquo;s ComEd is using monopoly power to quash an agreement for an Illinois data center, per PowerHouse Hillwood.",
      "source": "Utility Dive",
-     "zh": "Microsoft, PowerHouse Hillwood dispute data center service agreements"
+     "zh": "Microsoft, PowerHouse Hillwood in disputes over data center service agreements"
     },
     {
      "title": "Scatec Q2 revenues reach US$245.3 million, operational solar PV capacity hits 4.5GW",
@@ -1297,6 +1297,14 @@
    "total": 6,
    "items": [
     {
+     "title": "Pluto losing its planet status may be the best thing that ever happened to solar system diversity",
+     "link": "https://www.space.com/astronomy/pluto/pluto-losing-its-planet-status-may-be-the-best-thing-that-ever-happened-to-solar-system-diversity",
+     "pubDate": "Mon, 24 Aug 2026 21:00:00 +0000",
+     "summary": "Unpopular opinion time, Pluto being reclassified as a dwarf planet was a great thing for our understanding of the solar system and for the former planet, too.",
+     "source": "Space.com",
+     "zh": "Pluto losing its planet status may be the best thing that ever happened to solar system diversity"
+    },
+    {
      "title": "Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites",
      "link": "https://www.nasaspaceflight.com/2026/08/launch-preview-082426/",
      "pubDate": "Mon, 24 Aug 2026 20:45:23 +0000",
@@ -1415,14 +1423,6 @@
      "summary": "PHOENIX, AZ — August 24, 2026 — Spirit Electronics, a value‑added distributor of high‑reliability electronics focused on performance‑driven program requirements, announced that space‑grade and high‑reliability components from Texas Instruments and […] The post Spirit Electronics Adds Texas Instrumen",
      "source": "SpaceNews",
      "zh": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026"
-    },
-    {
-     "title": "Is the Perseid meteor shower going to get even more spectacular? Jupiter could send more 'shooting stars' towards Earth in 2028",
-     "link": "https://www.space.com/stargazing/meteor-showers/is-the-perseid-meteor-shower-going-to-get-even-more-spectacular-jupiter-could-send-more-shooting-stars-towards-earth-in-2028",
-     "pubDate": "Mon, 24 Aug 2026 15:00:00 +0000",
-     "summary": "Jupiter's gravity could trigger an outburst of Perseid meteors as the 2028 shower hits its peak.",
-     "source": "Space.com",
-     "zh": "Is the Perseid meteor shower going to get even more spectacular? Jupiter could send more 'shooting stars' towards Earth in 2028"
     },
     {
      "title": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
@@ -1545,6 +1545,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+     "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+     "pubDate": "Mon, 24 Aug 2026 17:14:30 -0400",
+     "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
+     "source": "BleepingComputer",
+     "zh": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices"
+    },
+    {
+     "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+     "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+     "pubDate": "Mon, 24 Aug 2026 20:51:27 GMT",
+     "summary": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
+     "source": "Dark Reading",
+     "zh": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text"
+    },
+    {
      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
      "pubDate": "Mon, 24 Aug 2026 15:26:32 -0400",
@@ -1641,14 +1657,6 @@
      "zh": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts"
     },
     {
-     "title": "Microsoft: August updates break printing, PDF export in WPF apps",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
-     "pubDate": "Mon, 24 Aug 2026 08:40:21 -0400",
-     "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
-     "source": "BleepingComputer",
-     "zh": "Microsoft: August updates break printing, PDF export in WPF apps"
-    },
-    {
      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
      "pubDate": "Mon, 24 Aug 2026 18:05:36 +0530",
@@ -1727,14 +1735,6 @@
      "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
      "source": "Dark Reading",
      "zh": "OWASP Flags Top AI Skill Risks in New Security Blueprint"
-    },
-    {
-     "title": "Calling on Cyber Pros to Help Defend City Hall",
-     "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
-     "pubDate": "Fri, 21 Aug 2026 14:00:00 GMT",
-     "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
-     "source": "Dark Reading",
-     "zh": "Calling on Cyber Pros to Help Defend City Hall"
     }
    ]
   },
@@ -1744,6 +1744,38 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Source: robotics startup Generalist, which released its GEN-1 model to complete physical tasks in April, raised ~$200M led by 8VC, after raising $400M in June (Dan Primack/Axios)",
+     "link": "https://www.techmeme.com/260824/p34#a260824p34",
+     "pubDate": "Mon, 24 Aug 2026 17:15:01 -0400",
+     "summary": "Dan Primack / Axios : Source: robotics startup Generalist, which released its GEN-1 model to complete physical tasks in April, raised ~$200M led by 8VC, after raising $400M in June &nbsp; &mdash;&nbsp; Generalist has quietly raised around $200 million in new funding, just two months after the roboti",
+     "source": "Techmeme",
+     "zh": "Source: robotics startup Generalist, which released its GEN-1 model to complete physical tasks in April, raised ~$200M led by 8VC, after raising $400M in June (Dan Primack/Axios)"
+    },
+    {
+     "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
+     "link": "https://www.wired.com/review/bitdefender-vpn/",
+     "pubDate": "Mon, 24 Aug 2026 21:08:00 +0000",
+     "summary": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
+     "source": "WIRED",
+     "zh": "Bitdefender VPN Review: Fast and Affordable Privacy"
+    },
+    {
+     "title": "Canada-based logistics software company Descartes acquires Tai, a California-based transportation management system provider, for $100M in cash (Colin Campbell/Axios)",
+     "link": "https://www.techmeme.com/260824/p33#a260824p33",
+     "pubDate": "Mon, 24 Aug 2026 17:00:45 -0400",
+     "summary": "Colin Campbell / Axios : Canada-based logistics software company Descartes acquires Tai, a California-based transportation management system provider, for $100M in cash &nbsp; &mdash;&nbsp; Logistics software giant Descartes has acquired transportation management system provider Tai for $100 million",
+     "source": "Techmeme",
+     "zh": "Canada-based logistics software company Descartes acquires Tai, a California-based transportation management system provider, for $100M in cash (Colin Campbell/Axios)"
+    },
+    {
+     "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+     "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+     "pubDate": "Mon, 24 Aug 2026 20:56:32 +0000",
+     "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog .",
+     "source": "GitHub Blog",
+     "zh": "Your alt text passes automated checks. That doesn’t mean it’s any good."
+    },
     {
      "title": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
      "link": "https://www.wired.com/story/sous-vide-salmonella-eggs/",
@@ -1788,17 +1820,17 @@
      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
      "pubDate": "Mon, 24 Aug 2026 19:58:17 +0000",
-     "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident.",
+     "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
      "source": "TechCrunch",
      "zh": "Alabama launches investigation into OpenAI’s hack of Hugging Face"
     },
     {
-     "title": "Amazon hikes hardware prices by 60 percent, blaming memory shortage",
+     "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
      "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
      "pubDate": "Mon, 24 Aug 2026 19:54:50 +0000",
      "summary": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
      "source": "TechCrunch",
-     "zh": "Amazon hikes hardware prices by 60 percent, blaming memory shortage"
+     "zh": "Amazon hikes hardware prices by 60%, blaming memory shortage"
     },
     {
      "title": "AI for Science最难学会的，是换一个问题",
@@ -1828,7 +1860,7 @@
      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
      "link": "https://github.com/l3a0/claude-plugins",
      "pubDate": "Mon, 24 Aug 2026 19:32:18 +0000",
-     "summary": "Article URL: https://github.com/l3a0/claude-plugins Comments URL: https://news.ycombinator.com/item?id=49424758 Points: 30 # Comments: 5",
+     "summary": "Article URL: https://github.com/l3a0/claude-plugins Comments URL: https://news.ycombinator.com/item?id=49424758 Points: 35 # Comments: 5",
      "source": "Hacker News",
      "zh": "A Claude Code skill that recovers export-blocked Kindle highlights"
     },
@@ -1852,7 +1884,7 @@
      "title": "Oceans hit highest temperature on record",
      "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
      "pubDate": "Mon, 24 Aug 2026 19:19:08 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 171 # Comments: 62",
+     "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 195 # Comments: 77",
      "source": "Hacker News",
      "zh": "Oceans hit highest temperature on record"
     },
@@ -1860,7 +1892,7 @@
      "title": "LLMs could control their host machines by exploiting inference engines",
      "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
      "pubDate": "Mon, 24 Aug 2026 19:03:06 +0000",
-     "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 38 # Comments: 14",
+     "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 42 # Comments: 20",
      "source": "Hacker News",
      "zh": "LLMs could control their host machines by exploiting inference engines"
     },
@@ -1868,9 +1900,17 @@
      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
      "link": "https://textlog.cc/post/2059",
      "pubDate": "Mon, 24 Aug 2026 18:45:43 +0000",
-     "summary": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 25 # Comments: 8",
+     "summary": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 26 # Comments: 12",
      "source": "Hacker News",
      "zh": "Removed all counters, replies, following/ers, timestamps, from textlog"
+    },
+    {
+     "title": "Anger, Anxiety and Agency",
+     "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+     "pubDate": "Mon, 24 Aug 2026 18:37:24 +0000",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 54 # Comments: 61",
+     "source": "Hacker News",
+     "zh": "Anger, Anxiety and Agency"
     },
     {
      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
@@ -1887,14 +1927,6 @@
      "summary": "Raphael Boyd / The Guardian : UK PM backs Ofcom to take &ldquo;tough action&rdquo; under the OSA against social media sites failing to remove dangerous driving videos after a crash killed seven people &nbsp; &mdash;&nbsp; Downing Street condemns &lsquo;utterly disgraceful&rsquo; clips and says sites",
      "source": "Techmeme",
      "zh": "UK PM backs Ofcom to take \"tough action\" under the OSA against social media sites failing to remove dangerous driving videos after a crash killed seven people (Raphael Boyd/The Guardian)"
-    },
-    {
-     "title": "What Is a Syslog Server?",
-     "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-     "pubDate": "Mon, 24 Aug 2026 18:15:50 +0000",
-     "summary": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 27 # Comments: 14",
-     "source": "Hacker News",
-     "zh": "What Is a Syslog Server?"
     },
     {
      "title": "Alabama AG Steve Marshall launches an investigation into OpenAI&apos;s security procedures following the Hugging Face breach in July (Cassandre Coyer/Bloomberg Law)",
@@ -1945,44 +1977,12 @@
      "zh": "My Daily Driver Gaming Headset Is Super Cheap Right Now"
     },
     {
-     "title": "The UK becomes the first foreign nation to gain access to Ukrainian combat data used to train AI models to strike Russian targets, as part of an AI partnership (Financial Times)",
-     "link": "https://www.techmeme.com/260824/p28#a260824p28",
-     "pubDate": "Mon, 24 Aug 2026 13:40:05 -0400",
-     "summary": "Financial Times : The UK becomes the first foreign nation to gain access to Ukrainian combat data used to train AI models to strike Russian targets, as part of an AI partnership &nbsp; &mdash;&nbsp; Trove of combat imagery used to train AI models to identify and strike Russian targets&nbsp; &mdash;&",
-     "source": "Techmeme",
-     "zh": "The UK becomes the first foreign nation to gain access to Ukrainian combat data used to train AI models to strike Russian targets, as part of an AI partnership (Financial Times)"
-    },
-    {
-     "title": "The Trump administration proposes a $103,265 fee on H-1B applicants hired within the US after a court blocked a more limited fee on workers from outside the US (Andrew Kreighbaum/Bloomberg)",
-     "link": "https://www.techmeme.com/260824/p27#a260824p27",
-     "pubDate": "Mon, 24 Aug 2026 13:10:00 -0400",
-     "summary": "Andrew Kreighbaum / Bloomberg : The Trump administration proposes a $103,265 fee on H-1B applicants hired within the US after a court blocked a more limited fee on workers from outside the US &nbsp; &mdash;&nbsp; The Trump administration wants to add an expansive $100,000 fee on the H-1B program, ap",
-     "source": "Techmeme",
-     "zh": "The Trump administration proposes a $103,265 fee on H-1B applicants hired within the US after a court blocked a more limited fee on workers from outside the US (Andrew Kreighbaum/Bloomberg)"
-    },
-    {
      "title": "Buyer beware: Those mummified remains might carry toxic spores",
      "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
      "pubDate": "Mon, 24 Aug 2026 16:59:07 +0000",
      "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
      "source": "Ars Technica",
      "zh": "Buyer beware: Those mummified remains might carry toxic spores"
-    },
-    {
-     "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-     "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-     "pubDate": "Mon, 24 Aug 2026 16:41:45 +0000",
-     "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
-     "source": "Ars Technica",
-     "zh": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China"
-    },
-    {
-     "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
-     "link": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
-     "pubDate": "Mon, 24 Aug 2026 16:02:54 +0000",
-     "summary": "Formula 1 returned from its summer break with this weekend's Dutch Grand Prix.",
-     "source": "Ars Technica",
-     "zh": "F1 in the Netherlands: The driver you most want to beat is your teammate"
     }
    ]
   },
@@ -1992,6 +1992,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple reverses planned Hide My Email domain change after user pushback",
+     "link": "https://9to5mac.com/2026/08/24/apple-reverses-planned-hide-my-email-domain-change-after-user-pushback/",
+     "pubDate": "Mon, 24 Aug 2026 21:05:31 +0000",
+     "summary": "Apple today announced that it will no longer move iCloud+ Hide My Email addresses to a new domain, reversing course on a change announced just two months ago. Here are the details.",
+     "source": "9to5Mac",
+     "zh": "Apple reverses planned Hide My Email domain change after user pushback"
+    },
+    {
+     "title": "iPhone 18 series prices confirmed to go up due to rising memory chip cost",
+     "link": "https://www.gsmarena.com/iphone_18_series_prices_confirmed_to_go_up_due_to_rising_memory_chip_cost-news-74304.php",
+     "pubDate": "Mon, 24 Aug 2026 23:03:02 +0200",
+     "summary": "After introducing a notable price hike to its Mac and iPad lineup back in June due to an unbearable memory chip price increase, the word on the street is that this year's iPhones will follow suit. In fact, a report from earlier this month says all iPhones from the 18 series will cost $100 more than ",
+     "source": "GSMArena",
+     "zh": "iPhone 18 series prices confirmed to go up due to rising memory chip cost"
+    },
+    {
+     "title": "Gemini is working on a ton of useful UI changes: filters, notifications, and more",
+     "link": "https://www.androidauthority.com/google-gemini-ui-update-chat-filters-notifications-3702443/",
+     "pubDate": "Mon, 24 Aug 2026 20:58:35 +0000",
+     "summary": "Several practical changes could soon make their way out.",
+     "source": "Android Authority",
+     "zh": "Gemini is working on a ton of useful UI changes: filters, notifications, and more"
+    },
     {
      "title": "Spotify bug leaves Android Auto drivers staring at error message",
      "link": "https://www.androidauthority.com/android-auto-spotify-error-message-3702461/",
@@ -2081,14 +2105,6 @@
      "zh": "Here’s everything new Apple TV has coming in September"
     },
     {
-     "title": "iPhone Ultra is coming, but it might not have these key features",
-     "link": "https://9to5mac.com/2026/08/24/iphone-ultra-wont-have-these-five-features/",
-     "pubDate": "Mon, 24 Aug 2026 18:58:49 +0000",
-     "summary": "Apple’s first foldable iPhone will reportedly be announced in just over two weeks. Despite potentially being branded as the “ iPhone Ultra ” and priced at over $2,000, it will have several big limitations.",
-     "source": "9to5Mac",
-     "zh": "iPhone Ultra is coming, but it might not have these key features"
-    },
-    {
      "title": "The only GameCube that could play CDs and DVDs is rarely found below $1,000 today",
      "link": "https://www.engadget.com/2241156/only-gamecube-could-play-cds-dvds-rarely-found-below-1000-dollars-panasonic-q/",
      "pubDate": "Mon, 24 Aug 2026 18:30:00 +0000",
@@ -2103,14 +2119,6 @@
      "summary": "A leaked render of the 20th anniversary iPhone reveals a radical new redesign, with some familiar elements.",
      "source": "Android Authority",
      "zh": "Apple’s 20th anniversary iPhone could take some inspiration from Android phones"
-    },
-    {
-     "title": "ESPN’s streaming plans are getting more expensive: Here’s what you’ll pay",
-     "link": "https://www.androidauthority.com/espn-streaming-bundle-price-hikes-3702382/",
-     "pubDate": "Mon, 24 Aug 2026 18:09:02 +0000",
-     "summary": "Bundles including Disney Plus and Hulu are also affected.",
-     "source": "Android Authority",
-     "zh": "ESPN’s streaming plans are getting more expensive: Here’s what you’ll pay"
     },
     {
      "title": "CDPR is aiming to release The Witcher 4 in 2028",
@@ -2223,14 +2231,6 @@
      "summary": "The next foldable smartphone from Xiaomi is not going to be called Xiaomi Mix Fold 5, but Xiaomi 18 Fold. The company has officially confirmed this. The device is going to be unveiled in September. It will be the first to use Xiaomi's new Xring O3 chipset, the successor to the Xring O1 from last yea",
      "source": "GSMArena",
      "zh": "Xiaomi 18 Fold is officially coming in September with the monstrous Xring O3 chipset"
-    },
-    {
-     "title": "Lava Virat V1 Pro 5G launches with 120Hz screen, 6,000 mAh battery, low price",
-     "link": "https://www.gsmarena.com/lava_virat_v1_pro_5g_launches_with_120hz_screen_6000_mah_battery_low_price-news-74307.php",
-     "pubDate": "Mon, 24 Aug 2026 16:06:02 +0200",
-     "summary": "Lava has added a new device to its portfolio in India today, the Virat V1 Pro 5G. It comes with a 6.75-inch 720x1600 screen with a 120Hz refresh rate, a 50MP main camera, and a 6,000 mAh battery. Lava Virat V1 Pro 5G marketing images It's powered by the Unisoc T8200 SoC, paired with 6GB of RAM and 1",
-     "source": "GSMArena",
-     "zh": "Lava Virat V1 Pro 5G launches with 120Hz screen, 6,000 mAh battery, low price"
     }
    ]
   },
@@ -2240,6 +2240,62 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Golden Spike upsizes private placement to C$975,000",
+     "link": "https://seekingalpha.com/news/4636419-golden-spike-upsizes-private-placement-to-c-975000?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 24 Aug 2026 17:11:01 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Golden Spike upsizes private placement to C$975,000"
+    },
+    {
+     "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+     "link": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
+     "pubDate": "Mon, 24 Aug 2026 21:02:09 GMT",
+     "summary": "The unsigned order lifted an injunction covering 23 states and Washington, D.C.; the court’s three liberal justices dissented.",
+     "source": "CNBC",
+     "zh": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election"
+    },
+    {
+     "title": "U.S. corn futures hit three-year high as Pro Farmer Crop Tour points to lower U.S. output",
+     "link": "https://seekingalpha.com/news/4636410-us-corn-futures-hit-three-year-high-as-pro-farmer-crop-tour-points-to-lower-us-output?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 24 Aug 2026 16:59:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. corn futures hit three-year high as Pro Farmer Crop Tour points to lower U.S. output"
+    },
+    {
+     "title": "AeroVironment plans $100M California campus to expand defense production",
+     "link": "https://seekingalpha.com/news/4636416-aerovironment-plans-100m-california-campus-to-expand-defense-production?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 24 Aug 2026 16:59:20 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AeroVironment plans $100M California campus to expand defense production"
+    },
+    {
+     "title": "Here’s how overvalued the stock market really is",
+     "link": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
+     "pubDate": "Mon, 24 Aug 2026 20:54:00 GMT",
+     "summary": "Valuations today are so stretched that it may not take much more straw to break the camel’s back.",
+     "source": "MarketWatch",
+     "zh": "Here’s how overvalued the stock market really is"
+    },
+    {
+     "title": "Bitcoin has beaten stocks and gold over six months. Now it’s closing in on $80,000.",
+     "link": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
+     "pubDate": "Mon, 24 Aug 2026 20:53:00 GMT",
+     "summary": "Bitcoin was rising Monday near the $80,000 level that it last touched in May, after the cryptocurrency surged last week on the Treasury Department’s plans to buy back longer-dated Treasurys.",
+     "source": "MarketWatch",
+     "zh": "Bitcoin has beaten stocks and gold over six months. Now it’s closing in on $80,000."
+    },
+    {
+     "title": "Napco signals ~$103M recurring revenue run rate while raising quarterly dividend to $0.17",
+     "link": "https://seekingalpha.com/news/4636415-napco-signals-103m-recurring-revenue-run-rate-while-raising-quarterly-dividend-to-0_17?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 24 Aug 2026 16:52:27 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Napco signals ~$103M recurring revenue run rate while raising quarterly dividend to $0.17"
+    },
     {
      "title": "Regulator sends subpoenas to banks for details on Situational Awareness trades - report",
      "link": "https://seekingalpha.com/news/4636402-regulator-sends-subpoenas-to-banks-for-details-on-situational-awareness-trades---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2263,86 +2319,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Textron names Brian Rohloff to lead aviation business as Ron Draper retires"
-    },
-    {
-     "title": "Re/Max and Real Brokerage complete combination to form Real REMAX Group",
-     "link": "https://seekingalpha.com/news/4636408-remax-and-real-brokerage-complete-combination-to-form-real-remax-group?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 24 Aug 2026 16:48:27 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Re/Max and Real Brokerage complete combination to form Real REMAX Group"
-    },
-    {
-     "title": "Real REMAX Group authorizes up to $450M share repurchase program",
-     "link": "https://seekingalpha.com/news/4636412-real-remax-group-authorizes-up-to-450m-share-repurchase-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 24 Aug 2026 16:46:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Real REMAX Group authorizes up to $450M share repurchase program"
-    },
-    {
-     "title": "内塔尼亚胡声称伊朗曾企图暗杀其子",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851686630.html",
-     "pubDate": "Tue, 25 Aug 2026 04:45:23 +0800",
-     "summary": "以色列总理内塔尼亚胡24日接受以色列第14频道电视台采访时声称，伊朗曾“试图暗杀他的一个儿子”。 内塔尼亚胡没有提供更多细节。内塔尼亚胡有两个儿子，他在采访中没有透露哪一个成为所谓暗杀目标，亦未指明所谓暗杀企图的性质和时间。 《以色列时报》报道说，即使内塔尼亚胡在今年晚些时候举行的大选中落败，以国家安全总局（辛贝特）也会为内塔尼亚胡及其家庭成员提供至少5年的安全保护。 以色列第12频道电视台报道称，过去几个月来，有关伊朗企图暗杀内塔尼亚胡儿子的信息一直受到以军方的审查封禁。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "内塔尼亚胡声称伊朗曾企图暗杀其子"
-    },
-    {
-     "title": "巴基斯坦调解人员已离开德黑兰，携带着旨在化解美伊争端的善意，但相关成果仅停留在纸面层面",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851686517.html",
-     "pubDate": "Tue, 25 Aug 2026 04:44:30 +0800",
-     "summary": "巴基斯坦调解人员已离开德黑兰，携带着旨在化解美伊争端的善意，但相关成果仅停留在纸面层面。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "巴基斯坦调解人员已离开德黑兰，携带着旨在化解美伊争端的善意，但相关成果仅停留在纸面层面"
-    },
-    {
-     "title": "美国最高法院撤销了曾在23个州及华盛顿特区阻止特朗普限制邮寄选票令的司法裁决",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851686459.html",
-     "pubDate": "Tue, 25 Aug 2026 04:44:30 +0800",
-     "summary": "美国最高法院撤销了曾在23个州及华盛顿特区阻止特朗普限制邮寄选票令的司法裁决。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国最高法院撤销了曾在23个州及华盛顿特区阻止特朗普限制邮寄选票令的司法裁决"
-    },
-    {
-     "title": "Orangekloud to become VeVe in major digital collectibles deal; shares up",
-     "link": "https://seekingalpha.com/news/4636413-orangekloud-to-become-veve-in-major-digital-collectibles-deal-shares-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 24 Aug 2026 16:43:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Orangekloud to become VeVe in major digital collectibles deal; shares up"
-    },
-    {
-     "title": "Hormel Foods appoints Ash Bhumbla as CFO",
-     "link": "https://seekingalpha.com/news/4636409-hormel-foods-appoints-ash-bhumbla-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 24 Aug 2026 16:42:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hormel Foods appoints Ash Bhumbla as CFO"
-    },
-    {
-     "title": "美国据悉正准备取消多达20万份商务和旅游签证",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851686322.html",
-     "pubDate": "Tue, 25 Aug 2026 04:40:06 +0800",
-     "summary": "美国据悉正准备取消多达20万份商务和旅游签证。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国据悉正准备取消多达20万份商务和旅游签证"
-    },
-    {
-     "title": "美国正准备撤销多达20万份商务和旅游签证",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851686231.html",
-     "pubDate": "Tue, 25 Aug 2026 04:39:40 +0800",
-     "summary": "美国正准备撤销多达20万份商务和旅游签证。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国正准备撤销多达20万份商务和旅游签证"
-    },
-    {
-     "title": "美国国家飓风中心：夏威夷大岛部分地区可能发生突发性洪水",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851686086.html",
-     "pubDate": "Tue, 25 Aug 2026 04:32:17 +0800",
-     "summary": "美国国家飓风中心：夏威夷大岛部分地区可能发生突发性洪水。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国国家飓风中心：夏威夷大岛部分地区可能发生突发性洪水"
     },
     {
      "title": "Trump says US to increase tariffs on Canadian cars to 50%",
@@ -2393,14 +2369,6 @@
      "zh": "Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation"
     },
     {
-     "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-     "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-     "pubDate": "Mon, 24 Aug 2026 19:30:00 GMT",
-     "summary": "“We don’t know whether they have signed leases or are renting month to month.”",
-     "source": "MarketWatch",
-     "zh": "My father-in-law passed away, leaving a house with tenants. Do I evict them?"
-    },
-    {
      "title": "美财政部要动用近万亿国库账户？贝森特强调9月9日再次回购债券",
      "link": "https://wallstreetcn.com/articles/3780181",
      "pubDate": "Tue, 25 Aug 2026 03:11:20 +0800",
@@ -2415,14 +2383,6 @@
      "summary": "阿里巴巴高管以真金白银为公司AI战略背书。在宣布800亿港元新股配售计划后，集团主席蔡崇信与CEO吴泳铭于次日以个人名义合计增持约1.2亿港元阿里股票，向市场传递出对AI战略的明确信心信号。 据港交所最新信息，蔡崇信买入72万股阿里巴巴港股，均价约112港元，耗资约8000万港元；吴泳铭买入35万股，均价约111.6港元，耗资约4000万港元。两人合计增持107万股。受此利好推动，纽交所上市的阿里巴巴ADR（BABA）从盘初一度跌近2.5%的低位反弹，盘中曾几度转涨。 此次增持发生在阿里宣布800亿港元配售计划后的敏感时间窗口。该配售定价为每股112.70港元，共配售7.1亿股，所得款项将10",
      "source": "华尔街见闻",
      "zh": "阿里官宣800亿配售全押AI次日，蔡崇信、吴泳铭增持1.2亿港元“护盘”"
-    },
-    {
-     "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
-     "link": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
-     "pubDate": "Mon, 24 Aug 2026 19:03:00 GMT",
-     "summary": "That’s good for gold, stocks and long bonds. Eventually.",
-     "source": "MarketWatch",
-     "zh": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing"
     },
     {
      "title": "Pay.com.au brings Aussie rewards platform to the US",
@@ -2479,6 +2439,46 @@
      "summary": "Bessent’s moves on the yen and long-dated bonds do little to assuage markets long-term",
      "source": "Financial Times",
      "zh": "Treasury market interventions are only a band-aid"
+    },
+    {
+     "title": "年内公募基金高管变更263人次",
+     "link": "http://www.eeo.com.cn/2026/0825/1009728.shtml",
+     "pubDate": "Tue, 25 Aug 2026 00:52:08 +0800",
+     "summary": "呈现出“年初集中调整、年中结构优化”的阶段性特征 8月24日，东方基金发布公告称，经董事会审议通过，原董事何俊岩任董事长；总经理刘鸿鹏任副董事长，同时兼任财务负责人，不再代任公司董事长。此外，因工作调整，张科离任公司副总经理，郝丽琨离任公司财务负责人。 东方基金相关负责人对《证券日报》记者表示，本次高管变更，主要基于公司长期发展需要，是公司治理结构不断完善、人才梯队持续优化的正常安排。未...",
+     "source": "经济观察网",
+     "zh": "年内公募基金高管变更263人次"
+    },
+    {
+     "title": "央行今日开展5000亿元MLF操作",
+     "link": "http://www.eeo.com.cn/2026/0825/1009727.shtml",
+     "pubDate": "Tue, 25 Aug 2026 00:52:07 +0800",
+     "summary": "中国人民银行（以下简称“央行”）8月24日发布消息称，为保持银行体系流动性充裕，2026年8月25日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展5000亿元MLF（中期借贷便利）操作，期限为1年期。 东方金诚首席宏观分析师王青在接受《证券日报》记者采访时分析认为，8月份有6000亿元MLF到期，这意味着8月份MLF续做缩量1000亿元，为近四个月来首次缩量，上月为续做加量1000亿元。不过，考虑到8月份两个期限品...",
+     "source": "经济观察网",
+     "zh": "央行今日开展5000亿元MLF操作"
+    },
+    {
+     "title": "英伟达宣布Groq 3 LPX全面投产，Vera Rubin推理效率数倍提升，SpaceXAI加码智能体与太空AI",
+     "link": "https://wallstreetcn.com/articles/3780177",
+     "pubDate": "Tue, 25 Aug 2026 00:51:22 +0800",
+     "summary": "英伟达正在加速把AI基础设施的竞争，从传统的模型训练和推理性能，推进到围绕智能体AI（Agentic AI）的Token生成速度、能耗和成本展开的新阶段。 美东时间24日周一，英伟达宣布面向交互式AI推理的Groq 3 LPX正式全面投产。作为Vera Rubin平台的重要组成部分，Groq 3 LPX主打超低延迟Token生成，英伟达称，在Artificial Analysis测试中，搭载Gemma 4 31B模型、100,000 Token上下文时，Groq 3 LPX实现每秒3400个输出Token，为该模型创下最高纪录；针对智能体编程等低延迟工作负载，其响应速度最高达到最近竞争平台的4",
+     "source": "华尔街见闻",
+     "zh": "英伟达宣布Groq 3 LPX全面投产，Vera Rubin推理效率数倍提升，SpaceXAI加码智能体与太空AI"
+    },
+    {
+     "title": "拼多多电话会：持续加码供应链，自有品牌推进慢于预期，但“三年再造一个拼多多”目标不变",
+     "link": "https://wallstreetcn.com/articles/3780173",
+     "pubDate": "Tue, 25 Aug 2026 00:16:06 +0800",
+     "summary": "拼多多正在将更多资源投向供应链和自有品牌。 2026年第二季度业绩电话会上，管理层透露， “百亿生态”扶持计划已从前期的规模投入进入深化执行阶段，进一步向农业产区、产业集群和物流基础设施延伸；与此同时，自有品牌业务已全面展开，但推进速度慢于此前预期。 自有品牌是公司“三年内打造另一个PDD”战略的重要组成部分。管理层表示，自有品牌将优先聚焦平台和供应链具备差异化优势的核心品类，并与制造商围绕产品规划、研发、质量标准和市场测试展开长期合作。 不过，这项业务仍处于早期阶段，需要较长时间完成供应链协同和市场验证，公司也不会追求短期规模。 供应链投入则持续加码。目前，公司重点推进“新质供给”和“免费进",
+     "source": "华尔街见闻",
+     "zh": "拼多多电话会：持续加码供应链，自有品牌推进慢于预期，但“三年再造一个拼多多”目标不变"
+    },
+    {
+     "title": "从“功能外挂”到“第二大脑”，AI记忆成智能眼镜竞赛新赛点",
+     "link": "http://www.eeo.com.cn/2026/0824/1009721.shtml",
+     "pubDate": "Mon, 24 Aug 2026 23:52:11 +0800",
+     "summary": "21世纪经济报道记者骆轶琪 “百镜大战”发起以来一年有余，智能眼镜也在逐渐演化——试图成为用户的“第二大脑”。 近日，雷鸟创新和闪极科技先后发布AI眼镜，两家厂商都提到了“主动式AI”的功能。相比以往智能眼镜的AI功能多聚焦于翻译、导航、提词等更偏“外挂”的能力，主动式AI的出现更显示出，行业似乎正在从“谁能做出一副AI眼镜”，转向“谁能让一副AI眼镜值得日常佩戴”。 IDC中国分析师叶青清也...",
+     "source": "经济观察网",
+     "zh": "从“功能外挂”到“第二大脑”，AI记忆成智能眼镜竞赛新赛点"
     }
    ]
   },
