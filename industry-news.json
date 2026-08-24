@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/25 06:15:33",
+ "generated_at": "2026/8/25 06:52:31",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction",
+     "link": "https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/",
+     "pubDate": "Mon, 24 Aug 2026 22:21:22 +0000",
+     "summary": "Fastino released GLiNER2.5, replacing span enumeration with boundary prediction so entity width no longer costs compute. Three Apache 2.0 checkpoints ship at 74M, 194M, and 287M parameters, all CPU-runnable. The release adds joint entity-relation decoding, constrained classification, span attributes",
+     "source": "MarkTechPost",
+     "zh": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction"
+    },
     {
      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
@@ -239,14 +247,6 @@
      "summary": "arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's termin",
      "source": "arXiv cs.AI",
      "zh": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure"
-    },
-    {
-     "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
-     "link": "https://arxiv.org/abs/2608.20378",
-     "pubDate": "Mon, 24 Aug 2026 00:00:00 -0400",
-     "summary": "arXiv:2608.20378v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This st",
-     "source": "arXiv cs.AI",
-     "zh": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification"
     }
    ]
   },
@@ -305,14 +305,6 @@
      "zh": "NXP Expands Industrial Endpoint Access with MCU Topology Discovery"
     },
     {
-     "title": "Picture of the Day: Humanoid 3 – 0 Human",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/robot/picture-of-the-day-humanoid-4-0-human-2026-08/",
-     "pubDate": "Mon, 24 Aug 2026 15:53:01 +0000",
-     "summary": "Note must be taken of the historic World Humanoid Robot Games in the Beijing National Stadium. Specifically, the Tiangong Ultra robot surpassing the fastest human's time for a 100m sprint. The post Picture of the Day: Humanoid 3 – 0 Human appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Picture of the Day: Humanoid 3 – 0 Human"
-    },
-    {
      "title": "Synopsys Cloud at DAC 2026",
      "link": "https://semiwiki.com/eda/synopsys/372498-synopsys-cloud-at-dac-2026/",
      "pubDate": "Mon, 24 Aug 2026 15:00:23 +0000",
@@ -327,22 +319,6 @@
      "summary": "Environments rich in ionizing radiation create a particularly difficult functional challenge for electronic components. Spacecraft, nuclear reactors, particle accelerators, and hardened military equipment (to name a few examples) demand that their electrical systems operate correctly, even in the pr",
      "source": "EE Times",
      "zh": "Radiation Tolerance of Tantalum Polymer Capacitors"
-    },
-    {
-     "title": "Social Media’s Negative Effects On The Young",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/social-medias-negative-effects-on-the-young-2026-08/",
-     "pubDate": "Mon, 24 Aug 2026 13:30:21 +0000",
-     "summary": "After many legal losses in recent months, Meta is undergoing another trial of a lawsuit brought by the attorneys general of 29 states in 2023. The lawsuit alleges that Meta […] The post Social Media’s Negative Effects On The Young appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Social Media’s Negative Effects On The Young"
-    },
-    {
-     "title": "Infineon buys C2i Semiconductors",
-     "link": "https://www.electronicsweekly.com/news/business/infineon-buys-c2i-semiconductors-2026-08/",
-     "pubDate": "Mon, 24 Aug 2026 13:02:53 +0000",
-     "summary": "Infineon has bought C2i Semiconductors of Bangalore. C2i specialises in software-defined multiphase controllers and smart power stages for AI data center applications. “We founded C2i Semiconductors with the vision of […] The post Infineon buys C2i Semiconductors appeared first on Electronics Weekly",
-     "source": "Electronics Weekly",
-     "zh": "Infineon buys C2i Semiconductors"
     },
     {
      "title": "The Sky’s the Limit: SiFive’s BigSky Brings RISC-V to the Datacenter",
@@ -369,22 +345,6 @@
      "zh": "HP1800: The Magic of Single-Stage 48V to Ultra-Low Voltage"
     },
     {
-     "title": "Quintessent begins sampling single-chip DWDM comb laser",
-     "link": "https://www.electronicsweekly.com/news/products/quintessent-begins-sampling-single-chip-dwdm-comb-laser-2026-08/",
-     "pubDate": "Mon, 24 Aug 2026 12:42:32 +0000",
-     "summary": "Following a Series A investment round which raised $40m, optical interconnect startup, Quintessent, is sampling its single-chip quantum dot-based DWDM (dense wavelength division multiplexing) comb laser. Described as a new […] The post Quintessent begins sampling single-chip DWDM comb laser appeared",
-     "source": "Electronics Weekly",
-     "zh": "Quintessent begins sampling single-chip DWDM comb laser"
-    },
-    {
-     "title": "Welcome to the era of trustworthy AI for IC signoff and manufacturing",
-     "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/welcome-to-the-era-of-trustworthy-ai-for-ic-signoff-and-manufacturing-2026-08/",
-     "pubDate": "Mon, 24 Aug 2026 11:42:08 +0000",
-     "summary": "By combining deterministic engines with explainable AI, the industry can accelerate signoff, improve manufacturing outcomes and give engineering teams greater confidence in every decision from design through production. The post Welcome to the era of trustworthy AI for IC signoff and manufacturing a",
-     "source": "Electronics Weekly",
-     "zh": "Welcome to the era of trustworthy AI for IC signoff and manufacturing"
-    },
-    {
      "title": "Building Technology People Can Trust",
      "link": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
      "pubDate": "Mon, 24 Aug 2026 11:37:02 +0000",
@@ -407,14 +367,6 @@
      "summary": "YouTube is preparing offers of millions of dollars in funding and brand revenue sharing to keep major creators from taking simultaneous streaming deals with Netflix, according to Bloomberg . The move comes as the two platforms compete more directly for top talent and audience attention in the US and",
      "source": "DIGITIMES",
      "zh": "YouTube offers funding to keep creators from streaming with Netflix"
-    },
-    {
-     "title": "Iceye India forms in New Delhi",
-     "link": "https://www.electronicsweekly.com/news/business/iceye-india-forms-in-new-delhi-2026-08/",
-     "pubDate": "Mon, 24 Aug 2026 10:28:16 +0000",
-     "summary": "ICEYE, the Finnish specialist in SAR imagery (Synthetic Aperture Radar), is formally establishing an Indian entity with ICEYE India, working in New Delhi. The move extends the company’s presence into […] The post Iceye India forms in New Delhi appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Iceye India forms in New Delhi"
     },
     {
      "title": "Xiaomi taps TSMC to make chips for foldables, AI and autonomous driving",
@@ -495,6 +447,54 @@
      "summary": "Power gallium nitride (GaN) has spent the past several years proving itself in consumer fast chargers, but that phase is ending, according to Yole Group’s annual report ‘Power GaN 2026’. GaN is now entering a broader, multi-market adoption cycle where AI data centers, electric vehicles, industrial s",
      "source": "Semiconductor Today",
      "zh": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems"
+    },
+    {
+     "title": "Micross acquiring AEMtec, expanding reach into Europe",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/micross-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
+     "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
+     "source": "Semiconductor Today",
+     "zh": "Micross acquiring AEMtec, expanding reach into Europe"
+    },
+    {
+     "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/teksic-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 09:41:16 +0100",
+     "summary": "Silicon carbide wafer manufacturing technology firm TekSiC AB of Linköping, Sweden has announced progress in its development of semi-insulating silicon carbide (SI-SiC), which Europe currently lacks the domestic capability to manufacture commercially. The material underpins some of the most demandin",
+     "source": "Semiconductor Today",
+     "zh": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers"
+    },
+    {
+     "title": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing",
+     "link": "https://semiengineering.com/dont-scrap-it-save-it-feedforward-control-for-modern-semiconductor-manufacturing/",
+     "pubDate": "Thu, 20 Aug 2026 07:06:29 +0000",
+     "summary": "By measuring each wafer after lithography and adjusting the next etch step, fabs can pull more wafers back into spec. The post Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing"
+    },
+    {
+     "title": "From Research To Production: Collaboration Is Key For Semiconductor Innovation",
+     "link": "https://semiengineering.com/from-research-to-production-collaboration-is-key-for-semiconductor-innovation/",
+     "pubDate": "Thu, 20 Aug 2026 07:03:43 +0000",
+     "summary": "Semiconductor R&D depends on access to high-quality data, realistic process assumptions, and practical learning from silicon. The post From Research To Production: Collaboration Is Key For Semiconductor Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Research To Production: Collaboration Is Key For Semiconductor Innovation"
+    },
+    {
+     "title": "How Will The Custom HBM Business Work?",
+     "link": "https://semiengineering.com/how-will-the-custom-hbm-business-work/",
+     "pubDate": "Thu, 20 Aug 2026 07:02:29 +0000",
+     "summary": "There is no one-size-fits-all — yet. The post How Will The Custom HBM Business Work? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Will The Custom HBM Business Work?"
+    },
+    {
+     "title": "Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation",
+     "link": "https://semiengineering.com/reducing-scope-3-value-chain-emissions-for-customers-through-sustainability-and-innovation/",
+     "pubDate": "Thu, 20 Aug 2026 07:02:04 +0000",
+     "summary": "Reducing manufacturing-related emissions may support lowering the embedded carbon footprint of the chips customers use in their products. The post Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation"
     }
    ]
   },
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Skycharger solar + electric semi truck project gets green light in San Diego",
+     "link": "https://electrek.co/2026/08/24/skycharger-solar-electric-semi-truck-project-gets-green-light-in-san-diego/",
+     "pubDate": "Mon, 24 Aug 2026 22:21:19 +0000",
+     "summary": "The Port of San Diego has effectively green-lit the new Skycharger flagship solar + electric semi project on a 4.8 acre site near the National City Marine Terminal, promising to fleet electrification easier, more affordable, and more accessible to the area’s port and logistics fleets.",
+     "source": "Electrek",
+     "zh": "Skycharger solar + electric semi truck project gets green light in San Diego"
+    },
+    {
      "title": "Tesla ‘Robotaxi’ sold a 66-minute 2.3-mile ride and left a rider 3 miles from his destination",
      "link": "https://electrek.co/2026/08/24/tesla-robotaxi-failing-fans-texas/",
      "pubDate": "Mon, 24 Aug 2026 21:43:53 +0000",
@@ -735,14 +743,6 @@
      "summary": "Fuyao Glass, one of the world’s largest suppliers of automotive glass, has listed a new product for sale that it says can generate electricity from a car’s roof glass. But before you get too excited: this doesn’t mean solar-powered electric cars are right around the corner.",
      "source": "Electrek",
      "zh": "China is about to get solar cars, but they won’t work as well as you hope"
-    },
-    {
-     "title": "Heybike Titan moto-inspired full suspension e-bike launch, EcoFlow 572Wh RIVER 3 Plus power station bundle $319, Segway, more",
-     "link": "https://electrek.co/2026/08/24/heybike-titan-moto-inspired-full-suspension-e-bike-ecoflow-572wh-river-3-plus-power-station-segway-more/",
-     "pubDate": "Mon, 24 Aug 2026 18:00:00 +0000",
-     "summary": "Heybike is leading this week’s Green Deals kick-off with an early-bird launch deal on its newest Titan Moto-Inspired Full Suspension e-bike (with two battery configuration options) starting from $1,399 . Right behind that we spotted the expanded 572Wh EcoFlow RIVER 3 Plus Portable Power Station bund",
-     "source": "Electrek",
-     "zh": "Heybike Titan moto-inspired full suspension e-bike launch, EcoFlow 572Wh RIVER 3 Plus power station bundle $319, Segway, more"
     },
     {
      "title": "Wawa Branded EV Chargers Are Here Thanks To Electrify America",
@@ -848,6 +848,22 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Tesla ditches solar roof — and embraces regular solar panels",
+     "link": "https://www.canarymedia.com/articles/solar/tesla-pulls-plug-on-solar-roof-as-it-chases-wild-new-solar-dreams",
+     "pubDate": "Mon, 24 Aug 2026 18:30:00 -0400",
+     "summary": "A thousand solar roofs per week. That was the pace Elon Musk predicted Tesla would install its electricity-generating roof tiles in 2020, more than three years after he unveiled the product to great fanfare on the set of the TV show Desperate Housewives. That estimate fell flat. Tesla managed to ins",
+     "source": "Canary Media",
+     "zh": "Tesla ditches solar roof — and embraces regular solar panels"
+    },
+    {
+     "title": "Can BMW Regain Business in China with Electric SUV & Sedan?",
+     "link": "https://cleantechnica.com/2026/08/24/can-bmw-regain-business-in-china-with-electric-suv-sedan/",
+     "pubDate": "Mon, 24 Aug 2026 22:26:01 +0000",
+     "summary": "It’s been no secret — legacy automaker sales are getting absolutely drained in China. The shift to electric cars is more of a tsunami than a wave, and buyers are much more interested in and convinced by electric vehicles from Chinese producers than from legacy automakers. Since China was an ... [con",
+     "source": "CleanTechnica",
+     "zh": "Can BMW Regain Business in China with Electric SUV & Sedan?"
+    },
     {
      "title": "U.S. Leaves Europe Behind in Critical Minerals Race",
      "link": "https://oilprice.com/Energy/Energy-General/US-Leaves-Europe-Behind-in-Critical-Minerals-Race.html",
@@ -1071,22 +1087,6 @@
      "summary": "India added a record 3 GW of open-access solar capacity in the second quarter of 2026, taking cumulative installations to 36 GW. First-half additions reached nearly 6 GW, up 42% year on year, driven by strong C&I demand and regulatory deadlines. The post India adds 3 GW of open-access solar in Q2 ap",
      "source": "pv magazine",
      "zh": "India adds 3 GW of open-access solar in Q2"
-    },
-    {
-     "title": "The price of ‘all-of-the-above’ | Factor This Brief",
-     "link": "https://www.renewableenergyworld.com/energy-business/the-price-of-all-of-the-above-factor-this-brief/",
-     "pubDate": "Mon, 24 Aug 2026 10:00:00 +0000",
-     "summary": "Canada touts the \"largest clean energy investment in North American history,\" Sunrun and Voltus team up to provide household demand response for data centers, Dimension Energy secures $857 million of capital to accelerate the growth of its distributed solar platform, and LG Energy Solution spins up ",
-     "source": "Renewable Energy World",
-     "zh": "The price of ‘all-of-the-above’ | Factor This Brief"
-    },
-    {
-     "title": "What makes a customer portal work for employees? These 4 essentials.",
-     "link": "https://www.utilitydive.com/spons/what-makes-a-customer-portal-work-for-employees-these-4-essentials/828226/",
-     "pubDate": "Mon, 24 Aug 2026 05:00:00 -0400",
-     "summary": "Utility portals are framed as customer experience tools, but they also improve how frontline work is done.",
-     "source": "Utility Dive",
-     "zh": "What makes a customer portal work for employees? These 4 essentials."
     }
    ]
   },
@@ -1296,6 +1296,14 @@
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Robotics and the future of on-orbit labor",
+     "link": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/",
+     "pubDate": "Mon, 24 Aug 2026 22:26:02 +0000",
+     "summary": "In this episode, SpaceNews’ Mike Gruss interviews Icarus Robotics CEO and co-founder Ethan Barajas at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why astronauts have […] The post Robotics and the future of on-orbit labor appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "Robotics and the future of on-orbit labor"
+    },
     {
      "title": "Pluto losing its planet status may be the best thing that ever happened to solar system diversity",
      "link": "https://www.space.com/astronomy/pluto/pluto-losing-its-planet-status-may-be-the-best-thing-that-ever-happened-to-solar-system-diversity",
@@ -1521,14 +1529,6 @@
      "zh": "Op-ed: The Technologies That Could Define the Future of Space"
     },
     {
-     "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
-     "link": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
-     "pubDate": "Thu, 20 Aug 2026 22:51:53 +0000",
-     "summary": "SAN FRANCISCO – California startup Elve has qualified its 100-watt millimeter-wave Traveling Wave Tube Amplifier platform for spaceflight. With U.S. Space Force Small Business Innovation Research funding, Elve “didn’t just […] The post Elve qualifies millimeter-wave amplifiers for spaceflight appear",
-     "source": "SpaceNews",
-     "zh": "Elve qualifies millimeter-wave amplifiers for spaceflight"
-    },
-    {
      "title": "Muon Space Raises $250M Series C",
      "link": "https://payloadspace.com/muon-space-raises-250m-series-c/",
      "pubDate": "Thu, 20 Aug 2026 13:45:25 +0000",
@@ -1745,6 +1745,70 @@
    "total": 18,
    "items": [
     {
+     "title": "谷歌为 Pixel 11 系列手机测试 Gemini 驱动的“设备帮助”工具，可对话式排查手机故障",
+     "link": "https://www.ithome.com/0/993/772.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:49:18 GMT",
+     "summary": "IT之家 8 月 25 日消息，谷歌目前正在为 Pixel 11 系列测试一项由 Gemini 驱动的“设备帮助”（Device help）功能。用户可以直接与 Gemini 对话，咨询手机使用过程中遇到的各种问题，并获得故障排查和操作指导。 “设备帮助”位于 Gemini 的“加号”菜单中，在列表底部，“个人智能”（Personal Intelligence）选项的上方。 不过，目前这项功能似乎仍处于小范围测试阶段，尚未向所有用户大规模推送。当然，即使谷歌正式开始大规模推送新功能，往往也需要很长时间才能覆盖所有用户，因此此次测试也可能意味着正式推广已经开始。 据了解，该功能目前已经出现在 G",
+     "source": "IT之家",
+     "zh": "谷歌为 Pixel 11 系列手机测试 Gemini 驱动的“设备帮助”工具，可对话式排查手机故障"
+    },
+    {
+     "title": "GrapheneOS 官宣将于明年支持联想旗下摩托罗拉手机，优先适配传统直板旗舰机型",
+     "link": "https://www.ithome.com/0/993/771.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:48:28 GMT",
+     "summary": "IT之家 8 月 25 日消息，GrapheneOS 基金会宣布旗下“注重隐私的开源移动操作系统”GrapheneOS 将于明年支持联想旗下摩托罗拉智能手机，开发团队初期将优先支持摩托罗拉传统直板旗舰机型，随后再扩展至折叠屏设备。 与普通安卓系统相比，GrapheneOS 更强调硬件级安全机制。系统会移除内置追踪功能，并将 Google Play 服务限制在隔离的应用沙箱中，同时加入系统级隐私保护功能，让用户能够更加自主地控制个人数据。 GrapheneOS 基金会表示， 运行 GrapheneOS 的摩托罗拉设备将获得 7 年完整系统更新 。相比之下，2026 款 Motorola Razr",
+     "source": "IT之家",
+     "zh": "GrapheneOS 官宣将于明年支持联想旗下摩托罗拉手机，优先适配传统直板旗舰机型"
+    },
+    {
+     "title": "宏碁暗影骑士 · 龙 8 Pro 游戏本首销：9955HX3D + RTX5070 Ti，22999 元",
+     "link": "https://www.ithome.com/0/993/770.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:42:38 GMT",
+     "summary": "IT之家 8 月 25 日消息，宏碁 (Acer) 旗下上架暗影骑士 · 龙 8 Pro 游戏笔记本电脑将于今天 10 点开启首销，当前上架配置提供 32GB DDR5 SO-DIMM 内存和 1TB SSD 存储，标价 22999 元（可在此基础上享受国家补贴）。 京东 宏碁暗影骑士 · 龙 8 Pro 游戏本 22999 元 直达链接 暗影骑士 · 龙 8 Pro 也就是全球市场的 Nitro 16 (AN16-A91)，搭载 AMD 锐龙 9 9955HX3D 处理器和 NVIDIA GeForce RTX 5070 Ti 笔记本电脑 GPU。 宏碁暗影骑士 · 龙 8 Pro 属于 1",
+     "source": "IT之家",
+     "zh": "宏碁暗影骑士 · 龙 8 Pro 游戏本首销：9955HX3D + RTX5070 Ti，22999 元"
+    },
+    {
+     "title": "Epic 反对苹果申请封存诉讼材料：外部购买佣金核心数据应当公开",
+     "link": "https://www.ithome.com/0/993/769.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:41:58 GMT",
+     "summary": "IT之家 8 月 25 日消息，Epic 表示，苹果提出了过于宽泛的封存请求，试图对其认为与确定公司可向开发者收取“关联外购”费用至关重要的信息进行保密。 Epic 称苹果试图“向公众隐瞒信息” 几天前，苹果提交了其提案，概述了其认为应被允许就通过外部链接在 App Store 之外完成的购买收取多少佣金。 苹果的提案要求： 标准应用收取 15%，此类应用需缴纳 30% 的应用内购买（“IAP”）佣金； 视频合作伙伴计划（“VPP”）、新闻合作伙伴计划（“NPP”）、小程序合作伙伴计划（“MPP”）以及订阅续费收取 10%； 小型企业计划应用收取 5%。 IT之家注意到，除提案本身外，苹果还提",
+     "source": "IT之家",
+     "zh": "Epic 反对苹果申请封存诉讼材料：外部购买佣金核心数据应当公开"
+    },
+    {
+     "title": "铭凡 M2 Pro 迷你主机海外上市：搭酷睿 Ultra X7 358H、板载 32GB RAM，1439 美元",
+     "link": "https://www.ithome.com/0/993/768.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:40:50 GMT",
+     "summary": "IT之家 8 月 25 日消息，MINISFORUM 铭凡旗下英特尔酷睿 Ultra 处理器（第三代）\"Panther Lake\" 的迷你主机产品 M2 Pro 现已在海外上市，目前该机仅提供英特尔酷睿 Ultra X7 358H 一种配置可选，匹配 32GB RAM + 1TB SSD，在美国市场首发价 1,439 美元 （IT之家注：现汇率约合 9,683 元人民币） ，在欧洲市场首发价为 1,519 欧元 （现汇率约合 11,928 元人民币） 。 规格方面，该机整体尺寸为 195 × 195 × 47.5 毫米，重量为 1.39 千克，板载 32 GB LPDDR5X 7467 MT/",
+     "source": "IT之家",
+     "zh": "铭凡 M2 Pro 迷你主机海外上市：搭酷睿 Ultra X7 358H、板载 32GB RAM，1439 美元"
+    },
+    {
+     "title": "苹果为库克举办卸任聚会，约 200 人出席",
+     "link": "https://www.ithome.com/0/993/767.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:37:56 GMT",
+     "summary": "IT之家 8 月 25 日消息，科技媒体 MacRumors 昨日（8 月 24 日）发布博文，报道称苹果公司于 8 月 23 日在 Apple Park 园区内，为苹果现任首席执行官蒂姆 · 库克（Tim Cook）举办卸任聚会，约 200 人出席，OneRepublic 乐队现场表演。 报道称苹果公司于当地时间 8 月 23 日在 Apple Park 的 Caffé Macs 餐厅，为库克举办了告别聚会。活动距离库克出任苹果首席执行官 15 周年（2011 年 8 月 24 日）仅相隔 1 天，约 200 人参加聚会，OneRepublic 乐队现场表演。IT之家附上相关截图如下： 多名",
+     "source": "IT之家",
+     "zh": "苹果为库克举办卸任聚会，约 200 人出席"
+    },
+    {
+     "title": "Apple reverses its plan to move iCloud+ Hide My Email addresses to private.icloud.com after user backlash; the feature will continue using the icloud.com domain (Juli Clover/MacRumors)",
+     "link": "https://www.techmeme.com/260824/p36#a260824p36",
+     "pubDate": "Mon, 24 Aug 2026 18:35:00 -0400",
+     "summary": "Juli Clover / MacRumors : Apple reverses its plan to move iCloud+ Hide My Email addresses to private.icloud.com after user backlash; the feature will continue using the icloud.com domain &nbsp; &mdash;&nbsp; Apple today said it is reversing its decision and will not change the email domain used for ",
+     "source": "Techmeme",
+     "zh": "Apple reverses its plan to move iCloud+ Hide My Email addresses to private.icloud.com after user backlash; the feature will continue using the icloud.com domain (Juli Clover/MacRumors)"
+    },
+    {
+     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+     "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+     "pubDate": "Mon, 24 Aug 2026 22:13:40 +0000",
+     "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 42 # Comments: 12",
+     "source": "Hacker News",
+     "zh": "iCloud+ Hide My Email addresses will remain on icloud.com"
+    },
+    {
      "title": "吐槽校区在县城里的大学生，到底想要一所怎样的“大学”？",
      "link": "https://www.huxiu.com/article/4885668.html?f=rss",
      "pubDate": "Tue, 25 Aug 2026 06:08:27 +0800",
@@ -1780,7 +1844,7 @@
      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
      "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
      "pubDate": "Mon, 24 Aug 2026 21:03:06 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 54 # Comments: 28",
+     "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 73 # Comments: 53",
      "source": "Hacker News",
      "zh": "One corner of China’s internet is insisting that the Tang Dynasty never existed"
     },
@@ -1788,7 +1852,7 @@
      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
      "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
      "pubDate": "Mon, 24 Aug 2026 21:01:38 +0000",
-     "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 19 # Comments: 1",
+     "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 27 # Comments: 2",
      "source": "Hacker News",
      "zh": "Vintage Artificial Intelligence: Before It Got Awkward"
     },
@@ -1900,7 +1964,7 @@
      "title": "Oceans hit highest temperature on record",
      "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
      "pubDate": "Mon, 24 Aug 2026 19:19:08 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 273 # Comments: 142",
+     "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 309 # Comments: 182",
      "source": "Hacker News",
      "zh": "Oceans hit highest temperature on record"
     },
@@ -1908,7 +1972,7 @@
      "title": "LLMs could control their host machines by exploiting inference engines",
      "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
      "pubDate": "Mon, 24 Aug 2026 19:03:06 +0000",
-     "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 58 # Comments: 30",
+     "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 68 # Comments: 34",
      "source": "Hacker News",
      "zh": "LLMs could control their host machines by exploiting inference engines"
     },
@@ -1916,73 +1980,9 @@
      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
      "link": "https://textlog.cc/post/2059",
      "pubDate": "Mon, 24 Aug 2026 18:45:43 +0000",
-     "summary": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 31 # Comments: 18",
+     "summary": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 37 # Comments: 20",
      "source": "Hacker News",
      "zh": "Removed all counters, replies, following/ers, timestamps, from textlog"
-    },
-    {
-     "title": "Anger, Anxiety and Agency",
-     "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-     "pubDate": "Mon, 24 Aug 2026 18:37:24 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 66 # Comments: 75",
-     "source": "Hacker News",
-     "zh": "Anger, Anxiety and Agency"
-    },
-    {
-     "title": "The UK backs Ofcom to take \"tough action\" under the OSA against social media sites failing to remove dangerous driving videos, after a crash killed seven people (Raphael Boyd/The Guardian)",
-     "link": "https://www.techmeme.com/260824/p30#a260824p30",
-     "pubDate": "Mon, 24 Aug 2026 14:20:07 -0400",
-     "summary": "Raphael Boyd / The Guardian : The UK backs Ofcom to take &ldquo;tough action&rdquo; under the OSA against social media sites failing to remove dangerous driving videos, after a crash killed seven people &nbsp; &mdash;&nbsp; Downing Street condemns &lsquo;utterly disgraceful&rsquo; clips and says sit",
-     "source": "Techmeme",
-     "zh": "The UK backs Ofcom to take \"tough action\" under the OSA against social media sites failing to remove dangerous driving videos, after a crash killed seven people (Raphael Boyd/The Guardian)"
-    },
-    {
-     "title": "苹果 watchOS 27.0 开发者预览版 Beta 7 发布",
-     "link": "https://www.ithome.com/0/993/763.htm",
-     "pubDate": "Mon, 24 Aug 2026 17:53:16 GMT",
-     "summary": "【 点此直达升级教程 】 IT之家 8 月 25 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24R5358a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史",
-     "source": "IT之家",
-     "zh": "苹果 watchOS 27.0 开发者预览版 Beta 7 发布"
-    },
-    {
-     "title": "苹果 visionOS 27.0 开发者预览版 Beta 7 发布",
-     "link": "https://www.ithome.com/0/993/762.htm",
-     "pubDate": "Mon, 24 Aug 2026 17:53:15 GMT",
-     "summary": "IT之家 8 月 25 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24M5359a），本次更新距离上次发布 Beta/RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-08-18：visionOS 27.0 Beta 6 (24M5355a) 2026-08-11：visionOS 27.0 Beta 5 (24M",
-     "source": "IT之家",
-     "zh": "苹果 visionOS 27.0 开发者预览版 Beta 7 发布"
-    },
-    {
-     "title": "苹果 macOS 27.0 开发者预览版 Beta 7 发布",
-     "link": "https://www.ithome.com/0/993/761.htm",
-     "pubDate": "Mon, 24 Aug 2026 17:53:15 GMT",
-     "summary": "IT之家 8 月 25 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 7 更新（内部版本号：26A5421a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史固件下载大全： 《 苹果 iOS / iPad",
-     "source": "IT之家",
-     "zh": "苹果 macOS 27.0 开发者预览版 Beta 7 发布"
-    },
-    {
-     "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 7 发布",
-     "link": "https://www.ithome.com/0/993/760.htm",
-     "pubDate": "Mon, 24 Aug 2026 17:53:14 GMT",
-     "summary": "【 点此直达升级教程 】 IT之家 8 月 25 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24A5424a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS",
-     "source": "IT之家",
-     "zh": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 7 发布"
-    },
-    {
-     "title": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
-     "link": "https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/",
-     "pubDate": "Mon, 24 Aug 2026 17:46:18 +0000",
-     "summary": "I love this multi-device headset, and right now it’s cheaper than what I paid for it in March.",
-     "source": "WIRED",
-     "zh": "My Daily Driver Gaming Headset Is Super Cheap Right Now"
-    },
-    {
-     "title": "Buyer beware: Those mummified remains might carry toxic spores",
-     "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
-     "pubDate": "Mon, 24 Aug 2026 16:59:07 +0000",
-     "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
-     "source": "Ars Technica",
-     "zh": "Buyer beware: Those mummified remains might carry toxic spores"
     }
    ]
   },
@@ -1992,6 +1992,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more",
+     "link": "https://9to5mac.com/2026/08/24/new-public-betas-now-available-for-ios-27-ipados-27-macos-27-golden-gate-more/",
+     "pubDate": "Mon, 24 Aug 2026 22:45:50 +0000",
+     "summary": "Following the release of the seventh developer betas for iOS 27, iPadOS 27, macOS 27 Golden Gate, and Apple’s other upcoming software updates, the company is now rolling out the corresponding public betas. Here are the details.",
+     "source": "9to5Mac",
+     "zh": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more"
+    },
+    {
+     "title": "Gemini can now troubleshoot your Pixel 11 device",
+     "link": "https://www.gsmarena.com/gemini_can_now_troubleshoot_your_pixel_11_device-news-74313.php",
+     "pubDate": "Tue, 25 Aug 2026 00:31:02 +0200",
+     "summary": "Google is now testing a \"Device help\" tool for the Pixel 11 series that is powered by Gemini. It will let you have a conversation with Gemini about things you need to troubleshoot about your phone. You can find \"Device help\" in the \"plus\" menu in Gemini. It's at the bottom of the list just above Per",
+     "source": "GSMArena",
+     "zh": "Gemini can now troubleshoot your Pixel 11 device"
+    },
+    {
+     "title": "ChatGPT now lets users create custom iMessage and WhatsApp stickers",
+     "link": "https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/",
+     "pubDate": "Mon, 24 Aug 2026 22:15:15 +0000",
+     "summary": "Users can turn any photo into an iMessage or WhatsApp sticker, or use images as inspiration to create custom packs. Here are the details.",
+     "source": "9to5Mac",
+     "zh": "ChatGPT now lets users create custom iMessage and WhatsApp stickers"
+    },
     {
      "title": "Forget iPhones — this hack brings Quick Share to Kindles",
      "link": "https://www.androidauthority.com/quick-share-to-kindles-hack-3702476/",
@@ -2105,28 +2129,12 @@
      "zh": "Exynos 2700 beats the Snapdragon 8 Elite Gen 6 Pro in internal testing, insiders say"
     },
     {
-     "title": "iOS 27 adds three new iPhone features I’ve been really loving",
-     "link": "https://9to5mac.com/2026/08/24/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
-     "pubDate": "Mon, 24 Aug 2026 19:23:04 +0000",
-     "summary": "iOS 27 is packed with new features across Messages , Notes , Apple Wallet , CarPlay , and more. Here are three of my favorite new iOS 27 features so far.",
-     "source": "9to5Mac",
-     "zh": "iOS 27 adds three new iPhone features I’ve been really loving"
-    },
-    {
      "title": "The Galaxy S27 Ultra may debut with self-healing glass",
      "link": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-self-healing-glass-3702407/",
      "pubDate": "Mon, 24 Aug 2026 19:18:37 +0000",
      "summary": "Android Authority remembers the LG G Flex 2.",
      "source": "Android Authority",
      "zh": "The Galaxy S27 Ultra may debut with self-healing glass"
-    },
-    {
-     "title": "Here’s everything new Apple TV has coming in September",
-     "link": "https://9to5mac.com/2026/08/24/heres-everything-new-apple-tv-has-coming-in-september-2026/",
-     "pubDate": "Mon, 24 Aug 2026 19:12:48 +0000",
-     "summary": "Apple TV kicks off fall with several high-profile premieres in September, including a Ryan Reynolds film, the return of Slow Horses, a Matthew McConaughey comedy series, and more. Here’s what’s new on Apple TV this September.",
-     "source": "9to5Mac",
-     "zh": "Here’s everything new Apple TV has coming in September"
     },
     {
      "title": "The only GameCube that could play CDs and DVDs is rarely found below $1,000 today",
@@ -2223,14 +2231,6 @@
      "summary": "Waze’s live alerts that track police sightings, speed cameras, and more are coming to the Rivian R1 and R2.",
      "source": "9to5Google",
      "zh": "Waze alerts are coming to navigation in Rivian’s electric vehicles"
-    },
-    {
-     "title": "Xiaomi 18 Fold is officially coming in September with the monstrous Xring O3 chipset",
-     "link": "https://www.gsmarena.com/xiaomi_18_fold_is_officially_coming_in_september_with_the_monstrous_xring_o3_chipset-news-74306.php",
-     "pubDate": "Mon, 24 Aug 2026 17:11:02 +0200",
-     "summary": "The next foldable smartphone from Xiaomi is not going to be called Xiaomi Mix Fold 5, but Xiaomi 18 Fold. The company has officially confirmed this. The device is going to be unveiled in September. It will be the first to use Xiaomi's new Xring O3 chipset, the successor to the Xring O1 from last yea",
-     "source": "GSMArena",
-     "zh": "Xiaomi 18 Fold is officially coming in September with the monstrous Xring O3 chipset"
     }
    ]
   },
@@ -2241,36 +2241,28 @@
    "total": 13,
    "items": [
     {
+     "title": "Indiana governor calls for investigation of NIPSCO over slow storm response",
+     "link": "https://seekingalpha.com/news/4636422-indiana-governor-calls-for-investigation-of-nipsco-over-slow-storm-response?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 24 Aug 2026 18:17:28 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Indiana governor calls for investigation of NIPSCO over slow storm response"
+    },
+    {
      "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can&apos;t clear it",
      "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
-     "pubDate": "Mon, 24 Aug 2026 22:12:10 GMT",
+     "pubDate": "Mon, 24 Aug 2026 22:15:46 GMT",
      "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
      "source": "CNBC",
      "zh": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can&apos;t clear it"
     },
     {
-     "title": "奥地利两架小型飞机相撞致两人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851695346.html",
-     "pubDate": "Tue, 25 Aug 2026 06:07:05 +0800",
-     "summary": "奥地利东部下奥地利州24日上午发生两架小型飞机相撞事故，造成两名飞行员死亡。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "奥地利两架小型飞机相撞致两人死亡"
-    },
-    {
-     "title": "美联储9月维持利率不变的概率为58.6%",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851695150.html",
-     "pubDate": "Tue, 25 Aug 2026 06:06:11 +0800",
-     "summary": "据CME“美联储观察”：美联储到9月维持利率不变的概率为58.6%，累计加息25个基点的概率为41.4%。美联储到10月维持利率不变的概率为43.0%，累计加息25个基点的概率为46.0%，累计加息50个基点的概率为11.0%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储9月维持利率不变的概率为58.6%"
-    },
-    {
-     "title": "市场资讯：WikiHow起诉OpenAI，指控其人工智能训练侵犯版权",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851695051.html",
-     "pubDate": "Tue, 25 Aug 2026 06:06:10 +0800",
-     "summary": "市场资讯：WikiHow起诉OpenAI，指控其 人工智能 训练侵犯版权。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场资讯：WikiHow起诉OpenAI，指控其人工智能训练侵犯版权"
+     "title": "全球市场：美股三大指数涨跌不一 存储、光通信板块下挫 国际金价延续涨势",
+     "link": "http://stock.eastmoney.com/news/11784,202608253851688934.html",
+     "pubDate": "Tue, 25 Aug 2026 06:15:09 +0800",
+     "summary": "美股市场： 美股三大指数08月24日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨140.15点，收于53417.16点，涨幅为0.26%； 标准普尔 500种股票指数下跌21.51点，收于7652.86点，跌幅为0.28%； 纳斯达克 综合 指数下跌200.26点，收于25980.19点，跌幅为0.76%。 存储、光 通信 板块下挫， 闪迪 跌6.45%， 希捷科技 跌6.51%， 美光科技 跌5.83%， 西部数据 跌5.24%， SK海力士 跌4.92%；Applied Optoelectronics跌13.77%，Lumentum跌4.22%。 \"科技七巨头\"涨跌不一，英伟",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数涨跌不一 存储、光通信板块下挫 国际金价延续涨势"
     },
     {
      "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
@@ -2293,16 +2285,8 @@
      "link": "http://finance.eastmoney.com/news/11158,202608253851687223.html",
      "pubDate": "Tue, 25 Aug 2026 06:03:30 +0800",
      "summary": "8月25日(星期二)，今日报刊头条主要内容精华如下： 中国证券报 东方证券合并重组关键性进展 8月24日， 东方证券 召开2026年第二次临时股东会及2026年第一次A/H股类别股东会。同日晚间，公司发布股东会决议公告， 东方证券 合并重组交易方案等系列议案经股东大会审议，均获高票通过。 东方证券 本次股东大会备受市场关注，参会股东投票热情高涨。其中， 东方证券 2026年第二次临时股东会参会率达到66.43%，A股类别股东会参会率达到67.68%，H股类别股东会参会率达到55.53%。 国管公积金新政来了 职工符合申请住房公积金个人住房贷款（以下简称公积金贷款）缴存条件的，最高贷款额度分别为",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "8月25日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "8月24日（周一）热门美股、中概股收盘一览",
-     "link": "http://stock.eastmoney.com/news/11805,202608253851694937.html",
-     "pubDate": "Tue, 25 Aug 2026 06:03:13 +0800",
-     "summary": "一、周一热门美股收盘一览 英伟达 跌2.91% ， 美光科技 跌5.83% ， 闪迪 跌6.45% ， 特斯拉 跌3.83% ， 苹果 涨0.32% ， 谷歌-A 涨0.94% ， 英特尔 跌3.12% ， 微软 涨0.84% ， SpaceX 跌1.44% ， 超威半导体 跌3.49% 。 二、周一热门中概股收盘一览 台积电 跌2.11% ， 阿里巴巴 跌0.73% ， 拼多多 跌1.48% ， BTC Digital Ltd 涨52.63% ， 亚玛芬体育 跌4.26% ， 小鹏集团 跌8.53% ， 联华电子 涨3.87% ， 腾讯控股 (ADR)跌1.69% ， 日月光半导体 跌0.7",
-     "source": "东方财富股票",
-     "zh": "8月24日（周一）热门美股、中概股收盘一览"
     },
     {
      "title": "贝森特欲动TGA万亿买债，油价债息双降，AI硬件续崩英伟达七连跌，黄金美元比特币齐涨",
@@ -2353,6 +2337,14 @@
      "zh": "Trump says US to increase tariffs on Canadian cars to 50%"
     },
     {
+     "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+     "link": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
+     "pubDate": "Mon, 24 Aug 2026 21:38:59 GMT",
+     "summary": "The unsigned order lifted an injunction covering 23 states and Washington, D.C.; the court’s three liberal justices dissented.",
+     "source": "CNBC",
+     "zh": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election"
+    },
+    {
      "title": "Strattec Security Q4 2026 Earnings Preview",
      "link": "https://seekingalpha.com/news/4636367-strattec-security-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 24 Aug 2026 17:35:58 -0400",
@@ -2375,14 +2367,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "HEICO Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "JOYY Q2 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4636361-joyy-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 24 Aug 2026 17:35:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "JOYY Q2 2026 Earnings Preview"
     },
     {
      "title": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
@@ -2417,14 +2401,6 @@
      "zh": "小鹏机器人首轮融资9亿美元、估值63亿美元刷新纪录，二季度净亏损却同比扩大近1.8倍"
     },
     {
-     "title": "全球市场：美股三大指数涨跌不一 存储、光通信板块下挫 国际金价延续涨势",
-     "link": "http://stock.eastmoney.com/news/11784,202608253851688934.html",
-     "pubDate": "Tue, 25 Aug 2026 05:15:09 +0800",
-     "summary": "美股市场： 美股三大指数08月24日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨140.15点，收于53417.16点，涨幅为0.26%； 标准普尔 500种股票指数下跌21.51点，收于7652.86点，跌幅为0.28%； 纳斯达克 综合 指数下跌200.26点，收于25980.19点，跌幅为0.76%。 存储、光 通信 板块下挫， 闪迪 跌6.45%， 希捷科技 跌6.51%， 美光科技 跌5.83%， 西部数据 跌5.24%， SK海力士 跌4.92%；Applied Optoelectronics跌13.77%，Lumentum跌4.22%。 \"科技七巨头\"涨跌不一，英伟",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数涨跌不一 存储、光通信板块下挫 国际金价延续涨势"
-    },
-    {
      "title": "Here’s how overvalued the stock market really is",
      "link": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
      "pubDate": "Mon, 24 Aug 2026 20:54:00 GMT",
@@ -2457,12 +2433,28 @@
      "zh": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs"
     },
     {
+     "title": "特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措",
+     "link": "http://finance.eastmoney.com/news/1351,202608253851682252.html",
+     "pubDate": "Tue, 25 Aug 2026 03:16:45 +0800",
+     "summary": "美国财政部长贝森特当地时间周一表示，美国正在启动一项旨在孤立伊朗的新行动，并警告称，任何与伊朗开展商业往来的国家和企业，都将面临特朗普政府的严厉打击。 贝森特当天在美国财政部举行的新闻发布会上表示：“美国的立场不容任何含糊：任何形式的经济往来，只要涉及伊朗政权，相关责任方都将面临美国强大力量的全面制裁。” 贝森特表示，美国将对全球范围内60多个实体、个人及船只实施制裁。这些对象被指协助伊朗政府获取核技术和导弹技术、通过石油出口获取收入，以及开展网络行动。 贝森特指出，美国还将进一步扩大制裁范围，已针对伊朗政权用以支撑经济的五大领域——数字资产、技术、 黄金 、航空和 航运 ——发布相关制裁决定",
+     "source": "东方财富资讯",
+     "zh": "特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措"
+    },
+    {
      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
      "link": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
      "pubDate": "Mon, 24 Aug 2026 19:08:56 GMT",
      "summary": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027.",
      "source": "CNBC",
      "zh": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates"
+    },
+    {
+     "title": "博通信用成本飙升 华尔街警惕AI产业“幽灵杠杆”",
+     "link": "http://finance.eastmoney.com/news/1354,202608253851681623.html",
+     "pubDate": "Tue, 25 Aug 2026 02:53:21 +0800",
+     "summary": "最新消息显示，华尔街对“算力贷”相关风险的担忧，正指向定制芯片和先进网络芯片供应商 博通 。 据悉， 一只票面利率5.15%、2031年到期的 博通 债券，8月以来收益率已上升约14个基点 （注：这意味着债券价格下跌）。与此同时， 其5年期信用违约互换（CDS）价格同期上涨了28个基点 ，升幅甚至高于 甲骨文 和 SpaceX 。 上周， 博通 正与 黑石集团 和 阿波罗全球管理 等机构洽谈，计划通过债务融资筹集 超过600亿美元 的资金，用于为 人工智能 芯片项目提供资金支持。三家公司今年早些时候曾表示，计划在2028年前支持超过20吉瓦的AI算力部署，所需资金将达到数千亿美元。 美国银行 ",
+     "source": "东方财富资讯",
+     "zh": "博通信用成本飙升 华尔街警惕AI产业“幽灵杠杆”"
     },
     {
      "title": "Pay.com.au brings Aussie rewards platform to the US",
@@ -2479,6 +2471,14 @@
      "summary": "The Trump administration unveiled a plan to isolate Iran's economy by threatening to impose secondary sanctions on the Islamic Republic's \"enablers.\"",
      "source": "CNBC",
      "zh": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt"
+    },
+    {
+     "title": "市场需求逐步放量 液冷领域并购案频发",
+     "link": "http://finance.eastmoney.com/news/1354,202608253851679822.html",
+     "pubDate": "Tue, 25 Aug 2026 02:32:34 +0800",
+     "summary": "8月24日晚， 远东股份 公告称，拟以2.16亿元现金收购惠州市富的旺旺实业发展有限公司（简称“富的旺旺”）80%股权，后者刚与另一家A股公司“分手”。这是今年以来A股公司在液冷领域的最新并购案。 据统计，今年以来，已有20多家上市公司公告涉足液冷领域，既有产业协同式并购，也不乏“门外汉”的跨界并购。 据Markets and Markets预计，全球 数据中心 液冷市场规模有望在2025年至2032年实现超过30%的复合增长。上海证券报记者采访获悉，随着AI算力持续爆发、算力集群加速构建，液冷散热凭借高效、低耗、稳定的核心优势，受到各路资本追捧。 业内人士分析称，液冷赛道是企业切入AI蓝海市",
+     "source": "东方财富资讯",
+     "zh": "市场需求逐步放量 液冷领域并购案频发"
     }
    ]
   },
