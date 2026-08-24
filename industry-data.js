@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/25 05:52:56",
+ "generated_at": "2026/8/25 06:15:33",
  "recent_days": 7,
  "industries": [
   {
@@ -266,12 +266,28 @@ window.INDUSTRY_DATA = {
      "zh": "Avestra: Agentic AI for SystemVerilog Assertion Generation"
     },
     {
+     "title": "Ground broken on Alcoa-Sojitz Gallium Recovery Project in Western Australia",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/alcoa-240826.shtml",
+     "pubDate": "Mon, 24 Aug 2026 20:12:01 +0100",
+     "summary": "In what is described as a milestone for Australia’s international supply chain security, ground has been broken on the Alcoa-Sojitz Gallium Recovery Project in Western Australia...",
+     "source": "Semiconductor Today",
+     "zh": "Ground broken on Alcoa-Sojitz Gallium Recovery Project in Western Australia"
+    },
+    {
      "title": "RISC-V at Sixteen: From Modular ISA to Standardized Platforms at Hot Chips 2026",
      "link": "https://semiwiki.com/ip/sifive/372639-risc-v-at-sixteen-from-modular-isa-to-standardized-platforms-at-hot-chips-2026/",
      "pubDate": "Mon, 24 Aug 2026 19:00:01 +0000",
      "summary": "RISC-V has evolved from a Berkeley research architecture into a global instruction-set standard spanning embedded controllers, application processors, accelerators, and emerging servers. Its defining technical characteristic is not merely openness, but disciplined modularity. Four ratified base ISAs",
      "source": "SemiWiki",
      "zh": "RISC-V at Sixteen: From Modular ISA to Standardized Platforms at Hot Chips 2026"
+    },
+    {
+     "title": "Quintessent raises $40m in oversubscribed Series A funding round",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/quintessant-240826.shtml",
+     "pubDate": "Mon, 24 Aug 2026 19:46:35 +0100",
+     "summary": "Quintessent Inc of Santa Barbara, CA, USA — which specializes in heterogeneous integration of quantum dot lasers and silicon photonic integrated circuits (PICs) — has raised $40m in an oversubscribed Series A investment round led by Cycle Capital, along with new investors Goldman Sachs XIG-Industry ",
+     "source": "Semiconductor Today",
+     "zh": "Quintessent raises $40m in oversubscribed Series A funding round"
     },
     {
      "title": "Hot Chips: Evolving Memory Architectures for Artificial Intelligence",
@@ -466,36 +482,20 @@ window.INDUSTRY_DATA = {
      "zh": "芯片行业周回顾"
     },
     {
-     "title": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing",
-     "link": "https://semiengineering.com/dont-scrap-it-save-it-feedforward-control-for-modern-semiconductor-manufacturing/",
-     "pubDate": "Thu, 20 Aug 2026 07:06:29 +0000",
-     "summary": "By measuring each wafer after lithography and adjusting the next etch step, fabs can pull more wafers back into spec. The post Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing"
+     "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/epc-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 17:51:06 +0100",
+     "summary": "Efficient Power Conversion Corp (EPC) of El Segundo, CA, USA — which makes enhancement-mode gallium nitride on silicon (eGaN) power field-effect transistors (FETs) and integrated circuits for power management applications — has announced mass production of the EPC2370, an ultra-low on-resistance 18V",
+     "source": "Semiconductor Today",
+     "zh": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures"
     },
     {
-     "title": "From Research To Production: Collaboration Is Key For Semiconductor Innovation",
-     "link": "https://semiengineering.com/from-research-to-production-collaboration-is-key-for-semiconductor-innovation/",
-     "pubDate": "Thu, 20 Aug 2026 07:03:43 +0000",
-     "summary": "Semiconductor R&D depends on access to high-quality data, realistic process assumptions, and practical learning from silicon. The post From Research To Production: Collaboration Is Key For Semiconductor Innovation appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Research To Production: Collaboration Is Key For Semiconductor Innovation"
-    },
-    {
-     "title": "How Will The Custom HBM Business Work?",
-     "link": "https://semiengineering.com/how-will-the-custom-hbm-business-work/",
-     "pubDate": "Thu, 20 Aug 2026 07:02:29 +0000",
-     "summary": "There is no one-size-fits-all — yet. The post How Will The Custom HBM Business Work? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Will The Custom HBM Business Work?"
-    },
-    {
-     "title": "Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation",
-     "link": "https://semiengineering.com/reducing-scope-3-value-chain-emissions-for-customers-through-sustainability-and-innovation/",
-     "pubDate": "Thu, 20 Aug 2026 07:02:04 +0000",
-     "summary": "Reducing manufacturing-related emissions may support lowering the embedded carbon footprint of the chips customers use in their products. The post Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation"
+     "title": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/yole-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 14:12:54 +0100",
+     "summary": "Power gallium nitride (GaN) has spent the past several years proving itself in consumer fast chargers, but that phase is ending, according to Yole Group’s annual report ‘Power GaN 2026’. GaN is now entering a broader, multi-market adoption cycle where AI data centers, electric vehicles, industrial s",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems"
     }
    ]
   },
@@ -677,7 +677,7 @@ window.INDUSTRY_DATA = {
      "title": "The Mercedes CLA 350 4Matic Destroys EPA-Rated Range With Shocking Efficiency",
      "link": "https://insideevs.com/news/805935/mercedes-cla-350-range-test/",
      "pubDate": "Mon, 24 Aug 2026 21:35:05 +0000",
-     "summary": "With 4.44 miles-per-kWh, the electric CLA stunned in a recent 70 mph range test.",
+     "summary": "The new Mercedes EV went close to 400 miles in a recent 70 mph range test.",
      "source": "InsideEVs",
      "zh": "The Mercedes CLA 350 4Matic Destroys EPA-Rated Range With Shocking Efficiency"
     },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "U.S. Leaves Europe Behind in Critical Minerals Race",
+     "link": "https://oilprice.com/Energy/Energy-General/US-Leaves-Europe-Behind-in-Critical-Minerals-Race.html",
+     "pubDate": "Mon, 24 Aug 2026 17:00:00 -0500",
+     "summary": "The United States is forging ahead with its critical minerals ambitions, investing billions in securing non-Chinese supply, while in Europe, the central EU government “hesitate, over-administrate, talk and lose time.” The EU was already behind the U.S. on critical minerals. Now, it has fallen furthe",
+     "source": "OilPrice",
+     "zh": "U.S. Leaves Europe Behind in Critical Minerals Race"
+    },
+    {
      "title": "Europe’s Biogas Plants Could Become Fertilizer Factories",
      "link": "https://oilprice.com/Alternative-Energy/Biofuels/Europes-Biogas-Plants-Could-Become-Fertilizer-Factories.html",
      "pubDate": "Mon, 24 Aug 2026 16:00:00 -0500",
@@ -896,14 +904,6 @@ window.INDUSTRY_DATA = {
      "summary": "TotalEnergies will invest in two major oil pipelines designed to bypass the Strait of Hormuz, backing Abu Dhabi’s expansion of its Fujairah export route and a planned pipeline carrying Iraqi crude through Syria to the Mediterranean. CEO Patrick Pouyanné announced the commitments Monday at the ONS en",
      "source": "OilPrice",
      "zh": "TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz"
-    },
-    {
-     "title": "US Accuses More Than 40 Countries of Helping China Evade Tariffs",
-     "link": "https://oilprice.com/Geopolitics/Asia/US-Accuses-More-Than-40-Countries-of-Helping-China-Evade-Tariffs.html",
-     "pubDate": "Mon, 24 Aug 2026 13:00:00 -0500",
-     "summary": "The United States has fingered over 40 countries, including Azerbaijan, Georgia, Kazakhstan and Uzbekistan, as alleged accomplices in helping China engage in tariff evasion schemes designed to maintain the country’s US-bound exports, according to a Trump Administration white paper. Titled the Great ",
-     "source": "OilPrice",
-     "zh": "US Accuses More Than 40 Countries of Helping China Evade Tariffs"
     },
     {
      "title": "Coalition Urges EPA to Keep Public Participation Requirements for Air Permits",
@@ -1106,12 +1106,12 @@ window.INDUSTRY_DATA = {
      "zh": "PARP Inhibitor Combination Therapy Boosts Antitumor Activity in NSCLC Models"
     },
     {
-     "title": "Bausch + Lomb plans Ph3 trial for dry eye drop, despite missing mid-stage goal",
+     "title": "Bausch + Lomb plans Phase 3 trial for dry eye drop, despite missing mid-stage goal",
      "link": "https://endpoints.news/bausch-lomb-plans-ph-3-trial-for-dry-eye-drop-despite-missing-mid-stage-goal/",
      "pubDate": "Mon, 24 Aug 2026 20:00:33 +0000",
      "summary": "Bausch + Lomb’s dual-action drop for dry eye failed a Phase 2 study, the company exclusively told Endpoints News on Monday. But CEO Brent Saunders claims it was a \"better outcome than we had ever hoped ...",
      "source": "Endpoints News",
-     "zh": "Bausch + Lomb plans Ph3 trial for dry eye drop, despite missing mid-stage goal"
+     "zh": "Bausch + Lomb plans Phase 3 trial for dry eye drop, despite missing mid-stage goal"
     },
     {
      "title": "Small Molecules, Big Expectations: How CDMOs Are Helping Sponsors Navigate Complexity, Speed, Scale-Up, and Sustainability",
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+     "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+     "pubDate": "Mon, 24 Aug 2026 21:46:55 GMT",
+     "summary": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
+     "source": "Dark Reading",
+     "zh": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch"
+    },
+    {
      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
      "pubDate": "Mon, 24 Aug 2026 17:14:30 -0400",
@@ -1728,14 +1736,6 @@ window.INDUSTRY_DATA = {
      "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes.",
      "source": "Dark Reading",
      "zh": "How an Emerging Industrial Protocol Family Could Put OT at Risk"
-    },
-    {
-     "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
-     "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
-     "pubDate": "Fri, 21 Aug 2026 17:36:53 GMT",
-     "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
-     "source": "Dark Reading",
-     "zh": "OWASP Flags Top AI Skill Risks in New Security Blueprint"
     }
    ]
   },
@@ -1745,6 +1745,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "吐槽校区在县城里的大学生，到底想要一所怎样的“大学”？",
+     "link": "https://www.huxiu.com/article/4885668.html?f=rss",
+     "pubDate": "Tue, 25 Aug 2026 06:08:27 +0800",
+     "summary": "本文来自微信公众号： 高校历史现况研究 ，作者：高历研 开学季一到，社交平台上的“大学校区吐槽大赛”又准时开赛了。 高赞抱怨翻来覆去都是那几样： 校区建在县城郊外，出了校门就是农田，连杯连锁奶茶都喝不上，周末进城得晃一小时公交；校园小得离谱，从南门走到北门十分钟到头，规模还不如自己的高中，半点儿大学的氛围感都没有；宿舍更糟，六人间上下铺，没有独立卫浴，夏天没空调冬天没暖廊（拓展阅读：东北的大学安空调了，现在轮到南方的学校装暖气了），住得还不如高中舒坦。再加上校园开放后社会人员能随便进，连录取通知书都一年比一年朴素，没了拆礼盒的仪式感。 字里行间，都是同一种委屈：我考了这么高的分数，怎么就配了这",
+     "source": "虎嗅",
+     "zh": "吐槽校区在县城里的大学生，到底想要一所怎样的“大学”？"
+    },
     {
      "title": "Sources: smart ring maker Oura and some of its backers seek to raise up to $3B in a US IPO that could take place as soon as September and value it at over $16B (Bloomberg)",
      "link": "https://www.techmeme.com/260824/p35#a260824p35",
@@ -1773,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
      "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
      "pubDate": "Mon, 24 Aug 2026 21:03:06 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 29 # Comments: 12",
+     "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 54 # Comments: 28",
      "source": "Hacker News",
      "zh": "One corner of China’s internet is insisting that the Tang Dynasty never existed"
     },
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
      "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
      "pubDate": "Mon, 24 Aug 2026 21:01:38 +0000",
-     "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 10 # Comments: 1",
+     "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 19 # Comments: 1",
      "source": "Hacker News",
      "zh": "Vintage Artificial Intelligence: Before It Got Awkward"
     },
@@ -1893,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Oceans hit highest temperature on record",
      "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
      "pubDate": "Mon, 24 Aug 2026 19:19:08 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 241 # Comments: 111",
+     "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 273 # Comments: 142",
      "source": "Hacker News",
      "zh": "Oceans hit highest temperature on record"
     },
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "LLMs could control their host machines by exploiting inference engines",
      "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
      "pubDate": "Mon, 24 Aug 2026 19:03:06 +0000",
-     "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 53 # Comments: 24",
+     "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 58 # Comments: 30",
      "source": "Hacker News",
      "zh": "LLMs could control their host machines by exploiting inference engines"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
      "link": "https://textlog.cc/post/2059",
      "pubDate": "Mon, 24 Aug 2026 18:45:43 +0000",
-     "summary": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 28 # Comments: 16",
+     "summary": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 31 # Comments: 18",
      "source": "Hacker News",
      "zh": "Removed all counters, replies, following/ers, timestamps, from textlog"
     },
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Anger, Anxiety and Agency",
      "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
      "pubDate": "Mon, 24 Aug 2026 18:37:24 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 59 # Comments: 69",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 66 # Comments: 75",
      "source": "Hacker News",
      "zh": "Anger, Anxiety and Agency"
     },
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "苹果 watchOS 27.0 开发者预览版 Beta 7 发布",
      "link": "https://www.ithome.com/0/993/763.htm",
      "pubDate": "Mon, 24 Aug 2026 17:53:16 GMT",
-     "summary": "【 点此直达升级教程 】 IT之家 8 月 25 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24R5358a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史固件",
+     "summary": "【 点此直达升级教程 】 IT之家 8 月 25 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24R5358a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史",
      "source": "IT之家",
      "zh": "苹果 watchOS 27.0 开发者预览版 Beta 7 发布"
     },
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
      "source": "Ars Technica",
      "zh": "Buyer beware: Those mummified remains might carry toxic spores"
-    },
-    {
-     "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-     "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-     "pubDate": "Mon, 24 Aug 2026 16:41:45 +0000",
-     "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
-     "source": "Ars Technica",
-     "zh": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China"
     }
    ]
   },
@@ -2242,36 +2242,116 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can&apos;t clear it",
+     "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+     "pubDate": "Mon, 24 Aug 2026 22:12:10 GMT",
+     "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+     "source": "CNBC",
+     "zh": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can&apos;t clear it"
+    },
+    {
+     "title": "奥地利两架小型飞机相撞致两人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202608253851695346.html",
+     "pubDate": "Tue, 25 Aug 2026 06:07:05 +0800",
+     "summary": "奥地利东部下奥地利州24日上午发生两架小型飞机相撞事故，造成两名飞行员死亡。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "奥地利两架小型飞机相撞致两人死亡"
+    },
+    {
+     "title": "美联储9月维持利率不变的概率为58.6%",
+     "link": "http://finance.eastmoney.com/news/1351,202608253851695150.html",
+     "pubDate": "Tue, 25 Aug 2026 06:06:11 +0800",
+     "summary": "据CME“美联储观察”：美联储到9月维持利率不变的概率为58.6%，累计加息25个基点的概率为41.4%。美联储到10月维持利率不变的概率为43.0%，累计加息25个基点的概率为46.0%，累计加息50个基点的概率为11.0%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储9月维持利率不变的概率为58.6%"
+    },
+    {
+     "title": "市场资讯：WikiHow起诉OpenAI，指控其人工智能训练侵犯版权",
+     "link": "http://finance.eastmoney.com/news/1351,202608253851695051.html",
+     "pubDate": "Tue, 25 Aug 2026 06:06:10 +0800",
+     "summary": "市场资讯：WikiHow起诉OpenAI，指控其 人工智能 训练侵犯版权。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场资讯：WikiHow起诉OpenAI，指控其人工智能训练侵犯版权"
+    },
+    {
+     "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
+     "link": "https://wallstreetcn.com/articles/3780187",
+     "pubDate": "Tue, 25 Aug 2026 06:06:05 +0800",
+     "summary": "美国财政部可能动用规模接近1万亿美元的财政部一般账户（TGA）资金支持美债回购的消息传出后，华尔街机构并未因此明显看好长期美债。 德意志银行认为，如果财政部最终使用TGA为不断扩大的回购计划提供资金，对银行准备金和短期国债发行的影响可能“基本为零”；高盛和富国银行则进一步指出，回购本身很难扭转长期美债收益率上行趋势，除非美国政府同时解决不断扩大的财政赤字和通胀压力。 这意味着， 即便财政部拥有近万亿美元的现金“弹药”，市场真正关心的仍不是财政部能买多少债，而是回购能否改变推动长端收益率上行的基本面因素。 德银：TGA为回购提供资金，对准备金和短债供给可能“基本无影响” 美东时间24日周一，CN",
+     "source": "华尔街见闻",
+     "zh": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率"
+    },
+    {
+     "title": "印度史上最成功的\"侨民存钱计划\"，不到3个月筹到730亿美元",
+     "link": "https://wallstreetcn.com/articles/3780188",
+     "pubDate": "Tue, 25 Aug 2026 06:05:55 +0800",
+     "summary": "印度本轮外汇筹措行动在规模与速度上均刷新纪录，成为该国史上最大规模的外汇动员计划。 周一印度财政部发表声明称，印度储备银行（RBI） 今年6月推出的外汇互换工具截至8月21日已吸引730亿美元资金流入，远超该国2013年类似计划的募资规模。 该计划已提前完成目标，RBI随即提前关闭申请窗口。财政部表示，此次成果反映出海外侨民对将储蓄存入印度银行体系的高度信心。 本次计划的提前收官对印度外汇储备构成直接支撑，也向市场传递出积极信号，表明印度在吸引海外资金方面具备较强的市场号召力。 规模与速度双创纪录 据RBI披露，截至8月21日，本次外汇互换工具所吸引的730亿美元资金中，近654亿美元以非居民",
+     "source": "华尔街见闻",
+     "zh": "印度史上最成功的\"侨民存钱计划\"，不到3个月筹到730亿美元"
+    },
+    {
+     "title": "8月25日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/11158,202608253851687223.html",
+     "pubDate": "Tue, 25 Aug 2026 06:03:30 +0800",
+     "summary": "8月25日(星期二)，今日报刊头条主要内容精华如下： 中国证券报 东方证券合并重组关键性进展 8月24日， 东方证券 召开2026年第二次临时股东会及2026年第一次A/H股类别股东会。同日晚间，公司发布股东会决议公告， 东方证券 合并重组交易方案等系列议案经股东大会审议，均获高票通过。 东方证券 本次股东大会备受市场关注，参会股东投票热情高涨。其中， 东方证券 2026年第二次临时股东会参会率达到66.43%，A股类别股东会参会率达到67.68%，H股类别股东会参会率达到55.53%。 国管公积金新政来了 职工符合申请住房公积金个人住房贷款（以下简称公积金贷款）缴存条件的，最高贷款额度分别为",
+     "source": "东方财富股票",
+     "zh": "8月25日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
+     "title": "8月24日（周一）热门美股、中概股收盘一览",
+     "link": "http://stock.eastmoney.com/news/11805,202608253851694937.html",
+     "pubDate": "Tue, 25 Aug 2026 06:03:13 +0800",
+     "summary": "一、周一热门美股收盘一览 英伟达 跌2.91% ， 美光科技 跌5.83% ， 闪迪 跌6.45% ， 特斯拉 跌3.83% ， 苹果 涨0.32% ， 谷歌-A 涨0.94% ， 英特尔 跌3.12% ， 微软 涨0.84% ， SpaceX 跌1.44% ， 超威半导体 跌3.49% 。 二、周一热门中概股收盘一览 台积电 跌2.11% ， 阿里巴巴 跌0.73% ， 拼多多 跌1.48% ， BTC Digital Ltd 涨52.63% ， 亚玛芬体育 跌4.26% ， 小鹏集团 跌8.53% ， 联华电子 涨3.87% ， 腾讯控股 (ADR)跌1.69% ， 日月光半导体 跌0.7",
+     "source": "东方财富股票",
+     "zh": "8月24日（周一）热门美股、中概股收盘一览"
+    },
+    {
+     "title": "贝森特欲动TGA万亿买债，油价债息双降，AI硬件续崩英伟达七连跌，黄金美元比特币齐涨",
+     "link": "https://wallstreetcn.com/articles/3780114",
+     "pubDate": "Tue, 25 Aug 2026 06:02:59 +0800",
+     "summary": "贝森特周一两项举措压低了油价和长端利率。买债计划和伊朗二级制裁表态让10年期美债收益率回落到4.70%、布伦特原油跌2.35%至92.17美元/桶，缓和了通胀和财政溢价压力。 与此同时，资金从AI硬件板块撤出，涌入黄金和比特币等避险资产，现货黄金涨1.05%创近三个月新高、比特币盘中一度逼近8万美元。 美股内部明显分化。AI硬件股集体重挫拖累纳指领跌，英伟达连续第七个交易日下跌刷新2022年9月以来最长连跌纪录，存储和光通信成为重灾区。 道指则靠金融和必需消费防御股逆势两连涨，沃尔玛涨2.69%、摩根大通涨1.37%，大盘科技中Meta涨1.66%、亚马逊涨1.33%同样抗跌。 跨资产方面，债",
+     "source": "华尔街见闻",
+     "zh": "贝森特欲动TGA万亿买债，油价债息双降，AI硬件续崩英伟达七连跌，黄金美元比特币齐涨"
+    },
+    {
+     "title": "Here are the major earnings before the open Tuesday",
+     "link": "https://seekingalpha.com/news/4636092-here-are-the-major-earnings-before-the-open-tuesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 24 Aug 2026 18:00:33 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "以下是周二开盘前的主要财报"
+    },
+    {
+     "title": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
+     "link": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
+     "pubDate": "Mon, 24 Aug 2026 21:55:00 GMT",
+     "summary": "Aggregate spending has been strong, even if American shoppers are getting choosier about what they buy.",
+     "source": "MarketWatch",
+     "zh": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer"
+    },
+    {
+     "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+     "link": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+     "pubDate": "Mon, 24 Aug 2026 21:53:25 GMT",
+     "summary": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
+     "source": "CNBC",
+     "zh": "Main Street Sports sues Comcast, Charter for underpaid licensing fees"
+    },
+    {
+     "title": "Gold extends rally to three-month high as investors renew safe-haven trade",
+     "link": "https://seekingalpha.com/news/4636418-gold-extends-rally-to-three-month-high-as-investors-renew-safe-haven-trade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 24 Aug 2026 17:45:21 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gold extends rally to three-month high as investors renew safe-haven trade"
+    },
+    {
      "title": "Trump says US to increase tariffs on Canadian cars to 50%",
      "link": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1",
      "pubDate": "Mon, 24 Aug 2026 21:40:13 GMT",
      "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
      "source": "Financial Times",
      "zh": "Trump says US to increase tariffs on Canadian cars to 50%"
-    },
-    {
-     "title": "伊朗最高领袖顾问：回应美方威胁将比以往更加坚决",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851685849.html",
-     "pubDate": "Tue, 25 Aug 2026 05:39:09 +0800",
-     "summary": "伊朗最高领袖顾问穆赫贝尔24日晚在社交媒体平台表示，面对美方威胁，伊朗的回应将比以往更加坚决。 穆赫贝尔在其社交媒体账号上发文说，美国过去47年来采取包括制裁、战争以及企图分裂伊朗在内的敌对战略，均未取得预期效果。而如今要面对的，是伊朗内部的团结及在霍尔木兹海峡的威慑能力。他说，“这一战略失败是对美方继续作出错误判断的明确警告”，伊朗的回应将比以往更加坚决。 美国财政部长贝森特24日召开新闻发布会，公布针对伊朗的经济制裁措施，以进一步加大对伊朗的施压。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "伊朗最高领袖顾问：回应美方威胁将比以往更加坚决"
-    },
-    {
-     "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
-     "link": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
-     "pubDate": "Mon, 24 Aug 2026 21:38:59 GMT",
-     "summary": "The unsigned order lifted an injunction covering 23 states and Washington, D.C.; the court’s three liberal justices dissented.",
-     "source": "CNBC",
-     "zh": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election"
-    },
-    {
-     "title": "Mark Walter&apos;s TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
-     "link": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
-     "pubDate": "Mon, 24 Aug 2026 21:37:38 GMT",
-     "summary": "Federal authorities are investigating how two insurers that are part of Mark Walter's business empire classified more than $20 billion in loans to his companies.",
-     "source": "CNBC",
-     "zh": "Mark Walter&apos;s TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers"
     },
     {
      "title": "Strattec Security Q4 2026 Earnings Preview",
@@ -2306,76 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "JOYY Q2 2026 Earnings Preview"
     },
     {
-     "title": "Noah Holdings Q2 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4636368-noah-holdings-q2-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 24 Aug 2026 17:35:26 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Noah Holdings Q2 Earnings Preview"
-    },
-    {
-     "title": "nCino Q2 2027 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4636363-ncino-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 24 Aug 2026 17:35:20 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "nCino Q2 2027 Earnings Preview"
-    },
-    {
-     "title": "周二（8月25日）重点关注财经事件和经济数据",
-     "link": "http://finance.eastmoney.com/news/1346,202608253851693168.html",
-     "pubDate": "Tue, 25 Aug 2026 05:32:04 +0800",
-     "summary": "① 14:00 德国第二季度未季调GDP ② 16:00 德国8月IFO商业景气指数 ③ 20:15 美国至8月8日当周ADP就业人数周度变动 ④ 21:00 美国6月FHFA房价指数；美国6月S&P/CS20座大城市房价指数 ⑤ 22:00 美国7月新屋销售总数年化；美国8月谘商会消费者信心指数；美国8月里奇蒙德联储制造业指数 ⑥ 次日04:30 美国上周API原油库存 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "周二（8月25日）重点关注财经事件和经济数据"
-    },
-    {
-     "title": "夏粮收购进展整体顺利 累计收购小麦超9000万吨",
-     "link": "http://finance.eastmoney.com/news/1350,202608253851691044.html",
-     "pubDate": "Tue, 25 Aug 2026 05:31:13 +0800",
-     "summary": "本报北京8月24日讯（记者刘慧）国家粮食和物资储备局发布的最新数据显示，目前，我国夏粮旺季收购进入高峰，全国各类粮食经营主体累计收购小麦超9000万吨，南方早籼稻迎来集中上市。各地收购工作有序开展，收购进展整体顺利。 国家粮食和物资储备局有关负责人表示，今年夏粮收购工作坚持市场化收购与政策性收储统筹推进，牢牢守住农民“种粮卖得出”的底线，着力促进粮食价格保持在合理水平。充分发挥市场机制作用，各类主体积极入市收购，鼓励中央企业、骨干企业带头入市、始终在市，增强市场信心。各地加强粮食产销衔接和农企对接，引导种粮大户、家庭农场、农民合作社、经纪人等适时适价售粮。 （文章来源：经济日报）",
-     "source": "东方财富股票",
-     "zh": "夏粮收购进展整体顺利 累计收购小麦超9000万吨"
-    },
-    {
-     "title": "前7月我国吸收外资4383.3亿元",
-     "link": "http://finance.eastmoney.com/news/1350,202608253851690972.html",
-     "pubDate": "Tue, 25 Aug 2026 05:31:12 +0800",
-     "summary": "本报北京8月24日讯（记者冯其予）商务部发布的最新数据显示，今年1月至7月，全国新设立外商投资企业37711家，同比增长4.4%；实际使用外资金额4383.3亿元，同比下降6.2%。 从行业看，制造业实际使用外资1094.3亿元，服务业实际使用外资3199.5亿元。高技术产业实际使用外资1823.1亿元，同比增长32.7%，占全国实际使用外资的41.6%，较去年同期提升12.2个百分点。其中，研发与设计服务、科技成果转化服务、 电子 及 通信设备 制造业实际使用外资同比分别增长72.1%、62.2%、39.9%。 从来源地看，沙特阿拉伯、法国、韩国实际对华投资同比分别增长343.7%、36.1",
-     "source": "东方财富股票",
-     "zh": "前7月我国吸收外资4383.3亿元"
-    },
-    {
-     "title": "发展未来产业要有新打法",
-     "link": "http://finance.eastmoney.com/news/1348,202608253851692331.html",
-     "pubDate": "Tue, 25 Aug 2026 05:31:11 +0800",
-     "summary": "国家统计局的监测数据显示，2026年上半年，与 人工智能 相关的 集成电路制造 、智能车载设备制造等行业增加值均保持在30%以上的高速增长。以具身智能、6G等为代表的未来产业正成为投资增 长和 创新发展的重要引擎。 未来产业是构建现代化产业体系的关键，是培育和发展新质生产力的主阵地，发展态势喜人，形势也逼人。一方面，国际竞争从实验室技术比拼进入市场抢占阶段。例如，在 量子科技 领域，美国最新计划在2028年前建成首台用于科学研究的量子 计算机 ；在 脑机接口 领域，美国一款帮助患者恢复部分视力的视网膜芯片已获批在30个欧洲国家销售。另一方面，国内新旧动能转换亟待未来产业“挑大梁”。我国已进入高",
-     "source": "东方财富股票",
-     "zh": "发展未来产业要有新打法"
-    },
-    {
-     "title": "中国农业何以圈粉世界",
-     "link": "http://finance.eastmoney.com/news/1348,202608253851692230.html",
-     "pubDate": "Tue, 25 Aug 2026 05:31:11 +0800",
-     "summary": "品质过硬才能市场广阔。好的 农产品 ，不仅能畅销国内，也能远销海外。尽管出口和内销在技术标准、产品认证、流通渠道、消费习惯等方面存在很大差异，但推动优势 农产品 出口与做好 农产品 国内流通是相通的。 中国农业正丰富着全球消费者的餐桌。上半年，我国农产品出口529.7亿美元，同比增长7.4%。规模增长的同时，品类丰富度和市场覆盖面也在同步提升。这是农业对外开放的生动注脚，彰显了我国农业应对复杂国际环境的韧性与活力。 我国农产品出口额从2020年的760.3亿美元增至2025年的1041.6亿美元，增长37%。从品类看，蔬菜、水果、水产品、畜产品是传统出口优势产品。作为农产品出口的基本盘，近年来",
-     "source": "东方财富股票",
-     "zh": "中国农业何以圈粉世界"
-    },
-    {
      "title": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year",
      "link": "https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories",
      "pubDate": "Mon, 24 Aug 2026 21:26:00 GMT",
      "summary": "Elon Musk’s company now plans to launch orbital data centers by the end of next year.",
      "source": "MarketWatch",
      "zh": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year"
-    },
-    {
-     "title": "Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
-     "link": "https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html",
-     "pubDate": "Mon, 24 Aug 2026 21:25:32 GMT",
-     "summary": "Trump’s stock trading could face heightened congressional scrutiny if Democrats retake either chamber in the midterms.",
-     "source": "CNBC",
-     "zh": "Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say"
     },
     {
      "title": "城堡证券警告：美国财政部回购美债构成\"金融抑制\"，压力或转移至汇率与通胀",
@@ -2402,12 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "小鹏机器人首轮融资9亿美元、估值63亿美元刷新纪录，二季度净亏损却同比扩大近1.8倍"
     },
     {
-     "title": "全球市场：美股三大指数涨跌不一 存储、光通信板块下挫 国际金价延续上涨",
+     "title": "全球市场：美股三大指数涨跌不一 存储、光通信板块下挫 国际金价延续涨势",
      "link": "http://stock.eastmoney.com/news/11784,202608253851688934.html",
      "pubDate": "Tue, 25 Aug 2026 05:15:09 +0800",
      "summary": "美股市场： 美股三大指数08月24日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨140.15点，收于53417.16点，涨幅为0.26%； 标准普尔 500种股票指数下跌21.51点，收于7652.86点，跌幅为0.28%； 纳斯达克 综合 指数下跌200.26点，收于25980.19点，跌幅为0.76%。 存储、光 通信 板块下挫， 闪迪 跌6.45%， 希捷科技 跌6.51%， 美光科技 跌5.83%， 西部数据 跌5.24%， SK海力士 跌4.92%；Applied Optoelectronics跌13.77%，Lumentum跌4.22%。 \"科技七巨头\"涨跌不一，英伟",
      "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数涨跌不一 存储、光通信板块下挫 国际金价延续上涨"
+     "zh": "全球市场：美股三大指数涨跌不一 存储、光通信板块下挫 国际金价延续涨势"
     },
     {
      "title": "Here’s how overvalued the stock market really is",
@@ -2434,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "It’s time to bet big on Nvidia’s stock, says this analyst who thinks the market has it all wrong"
     },
     {
-     "title": "美债“抄底”窗口来了？PIMCO：长债收益率若继续走高，将提供增持机会",
-     "link": "https://wallstreetcn.com/articles/3780152",
-     "pubDate": "Tue, 25 Aug 2026 04:24:28 +0800",
-     "summary": "美债长端收益率持续走高之际，全球最大债券基金管理公司之一PIMCO反而看到了加仓机会。 8月24日，据彭博报道，PIMCO认为， 只要美国经济没有出现意外下行，长期美债的期限溢价仍将维持高位，收益率进一步上升将为长期投资者提供更好的买入点。 美国30年期国债收益率目前已升至近20年高位，长端持续承压也推动美债收益率曲线进一步陡峭化。 PIMCO表示， 更高的收益率不仅意味着更高的利息收入，也能带来沿收益率曲线滚动以及利差交易的机会。 这一判断正值美债市场剧烈波动之际。美国财政部长贝森特上周意外扩大长期国债回购计划，一度提振市场情绪，但收益率很快恢复上行。随着美国政府债务规模突破40万亿美元、财",
-     "source": "华尔街见闻",
-     "zh": "美债“抄底”窗口来了？PIMCO：长债收益率若继续走高，将提供增持机会"
-    },
-    {
      "title": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs",
      "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
      "pubDate": "Mon, 24 Aug 2026 20:22:00 GMT",
@@ -2450,28 +2458,12 @@ window.INDUSTRY_DATA = {
      "zh": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs"
     },
     {
-     "title": "Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
-     "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-     "pubDate": "Mon, 24 Aug 2026 19:40:00 GMT",
-     "summary": "What matters more for oil prices is how hard U.S. sanctions hit China, Iran’s biggest oil buyer, and whether Beijing pushes back.",
-     "source": "MarketWatch",
-     "zh": "Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation"
-    },
-    {
-     "title": "美财政部要动用近万亿国库账户？贝森特强调9月9日再次回购债券",
-     "link": "https://wallstreetcn.com/articles/3780181",
-     "pubDate": "Tue, 25 Aug 2026 03:11:20 +0800",
-     "summary": "美国财政部长贝森特当地时间周一表示，美国财政部将于9月9日实施下一次债券回购操作，并暗示后续仍将继续推进相关操作。 贝森特表示，将于9月9日实施下一次债券回购操作，让我们拭目以待。他同时称，财政部将继续执行常规国债标售计划，“因此下季度初你们还会听到我们的消息”。 贝森特上述表态之际，市场正在关注美国财政部是否会进一步扩大对长期美债市场的支持。 本周一稍早，美媒援引财政部高官的消息称，美财政部正在考虑动用规模接近1万亿美元的财政部一般账户（TGA）资金，为近期扩大的美债回购计划提供资金。不过，官员并未透露财政部最终会动用多少资金、何时开始使用。相关报道显示，TGA目前规模约为9500亿美元。 ",
-     "source": "华尔街见闻",
-     "zh": "美财政部要动用近万亿国库账户？贝森特强调9月9日再次回购债券"
-    },
-    {
-     "title": "阿里官宣800亿配售全押AI次日，蔡崇信、吴泳铭增持1.2亿港元“护盘”",
-     "link": "https://wallstreetcn.com/articles/3780179",
-     "pubDate": "Tue, 25 Aug 2026 03:11:08 +0800",
-     "summary": "阿里巴巴高管以真金白银为公司AI战略背书。在宣布800亿港元新股配售计划后，集团主席蔡崇信与CEO吴泳铭于次日以个人名义合计增持约1.2亿港元阿里股票，向市场传递出对AI战略的明确信心信号。 据港交所最新信息，蔡崇信买入72万股阿里巴巴港股，均价约112港元，耗资约8000万港元；吴泳铭买入35万股，均价约111.6港元，耗资约4000万港元。两人合计增持107万股。受此利好推动，纽交所上市的阿里巴巴ADR（BABA）从盘初一度跌近2.5%的低位反弹，盘中曾几度转涨。 此次增持发生在阿里宣布800亿港元配售计划后的敏感时间窗口。该配售定价为每股112.70港元，共配售7.1亿股，所得款项将10",
-     "source": "华尔街见闻",
-     "zh": "阿里官宣800亿配售全押AI次日，蔡崇信、吴泳铭增持1.2亿港元“护盘”"
+     "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+     "link": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+     "pubDate": "Mon, 24 Aug 2026 19:08:56 GMT",
+     "summary": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027.",
+     "source": "CNBC",
+     "zh": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates"
     },
     {
      "title": "Pay.com.au brings Aussie rewards platform to the US",
@@ -2480,6 +2472,14 @@ window.INDUSTRY_DATA = {
      "summary": "Australian payments and rewards platform pay.com.au has raised US$28 million in Series E funding to launch in the US.",
      "source": "Finextra",
      "zh": "Pay.com.au brings Aussie rewards platform to the US"
+    },
+    {
+     "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
+     "link": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
+     "pubDate": "Mon, 24 Aug 2026 18:32:36 GMT",
+     "summary": "The Trump administration unveiled a plan to isolate Iran's economy by threatening to impose secondary sanctions on the Islamic Republic's \"enablers.\"",
+     "source": "CNBC",
+     "zh": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt"
     }
    ]
   },
