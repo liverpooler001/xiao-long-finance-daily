@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/26 06:16:01",
+ "generated_at": "2026/8/26 06:53:45",
  "recent_days": 7,
  "industries": [
   {
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "BYD’s low-cost electric hatch is about to get a bigger sibling",
+     "link": "https://electrek.co/2026/08/25/byds-low-cost-electric-hatch-bigger-sibling/",
+     "pubDate": "Tue, 25 Aug 2026 22:19:16 +0000",
+     "summary": "BYD is preparing to launch a new electric hatch, positioned between the Dolphin and Seagull (Dolphin Surf) in terms of size.",
+     "source": "Electrek",
+     "zh": "BYD’s low-cost electric hatch is about to get a bigger sibling"
+    },
+    {
      "title": "Can Tesla FSD Take You Up The Steepest Dirt Road In America All By Itself?",
      "link": "https://insideevs.com/news/806060/tesla-fsd-steepest-dirt-road/",
      "pubDate": "Tue, 25 Aug 2026 22:06:27 +0000",
@@ -727,14 +735,6 @@
      "summary": "The cheapest Cybertruck is now nearly double the projected starting price Tesla pitched in 2019.",
      "source": "InsideEVs",
      "zh": "Tesla Just Made The Cybertruck An Even Tougher Sell"
-    },
-    {
-     "title": "Ford has a new $25,000 crossover SUV coming, but will it go electric?",
-     "link": "https://electrek.co/2026/08/25/ford-reveals-new-25000-crossover-suv-dealers/",
-     "pubDate": "Tue, 25 Aug 2026 16:10:58 +0000",
-     "summary": "The crossover SUV will be Ford’s lowest-priced vehicle, starting at around $25,000. According to dealers who were shown a preview of the vehicle, it will not be based on the Universal EV platform.",
-     "source": "Electrek",
-     "zh": "Ford has a new $25,000 crossover SUV coming, but will it go electric?"
     },
     {
      "title": "The Electric Land Rover Defender Just Got Delayed By Two Years: Report",
@@ -855,6 +855,14 @@
      "summary": "As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These effo",
      "source": "OilPrice",
      "zh": "The U.S. Power Play in Iraq That Moscow and Beijing Didn’t See Coming"
+    },
+    {
+     "title": "Is Maine finally about to make wind power happen?",
+     "link": "https://www.canarymedia.com/articles/wind/maine-make-wind-power-happen",
+     "pubDate": "Tue, 25 Aug 2026 18:00:00 -0400",
+     "summary": "For nearly two decades, Maine has tried to build utility-scale wind in the northern reaches of the state. On Tuesday morning, utility regulators brought that vision a little closer to reality, choosing an 800-megawatt wind farm proposal and a 1.2-gigawatt transmission line plan from the bids it rece",
+     "source": "Canary Media",
+     "zh": "Is Maine finally about to make wind power happen?"
     },
     {
      "title": "Lexington-Fayette County Solar Zoning Amendment Critical to Achieving Climate Goals and Lowering Costs",
@@ -1079,14 +1087,6 @@
      "summary": "Chinese solar PV installations have reached 14.08GW in July 2026, according to the latest data from China’s National Energy Administration (NEA).",
      "source": "PV Tech",
      "zh": "China adds 14.1GW solar PV in July as renewables installations rebound"
-    },
-    {
-     "title": "‘Every module will have perovskite in the 2030s’  – Caelux on its tech, Indian expansion and the impact of next-gen PV",
-     "link": "https://www.pv-tech.org/caelux-perovskite-us-solar-manufacturing-interview/",
-     "pubDate": "Tue, 25 Aug 2026 10:24:25 +0000",
-     "summary": "PV Tech sat down with Scott Graybeal, CEO of Caelux, to discuss the company's tech, its deals in India and the impact of perovskite solar.",
-     "source": "PV Tech",
-     "zh": "‘Every module will have perovskite in the 2030s’  – Caelux on its tech, Indian expansion and the impact of next-gen PV"
     }
    ]
   },
@@ -1297,6 +1297,22 @@
    "total": 6,
    "items": [
     {
+     "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "link": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+     "pubDate": "Tue, 25 Aug 2026 22:28:34 +0000",
+     "summary": "NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space communications and navigation system. The network uses giant dish antennas located at three global facilities to support more than ",
+     "source": "NASA",
+     "zh": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network"
+    },
+    {
+     "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
+     "link": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
+     "pubDate": "Tue, 25 Aug 2026 22:28:32 +0000",
+     "summary": "The Falcon 9 rocket will fly on a south-easterly trajectory upon launching from Vandenberg Space Force Base. Liftoff is scheduled for 2:34 a.m. PDT (5:34 a.m. EDT / 0934 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg"
+    },
+    {
      "title": "'You just saved the video dish': Two astronauts complete spacewalk to replace ISS antenna",
      "link": "https://www.space.com/space-exploration/international-space-station/you-just-saved-the-video-dish-two-astronauts-complete-spacewalk-to-replace-iss-antenna",
      "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
@@ -1391,14 +1407,6 @@
      "summary": "Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A new gallery released today from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety. Astronomers put galaxies into three ",
      "source": "NASA",
      "zh": "Galactic Gems Glisten in New Gallery From NASA’s Chandra"
-    },
-    {
-     "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
-     "link": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/",
-     "pubDate": "Tue, 25 Aug 2026 14:57:26 +0000",
-     "summary": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. 18, 2026.",
-     "source": "NASA",
-     "zh": "Astronauts Anil Menon and Sophie Adenot on Spacewalk"
     },
     {
      "title": "Sun fires powerful M6.9 solar flare and CME toward Earth — could it boost northern lights chances this week?",
@@ -1527,14 +1535,6 @@
      "summary": "The Starlink 15-20 mission represented the 99th Falcon 9 rocket launch of the year. Liftoff from pad 4 East happened at 12:25 a.m. PDT (3:25 a.m. EDT / 0725 UTC).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches 100th orbital mission of 2026"
-    },
-    {
-     "title": "Ship 41 Completes Engine Testing Ahead of Flight 14",
-     "link": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/",
-     "pubDate": "Fri, 21 Aug 2026 18:45:52 +0000",
-     "summary": "While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship… The post Ship 41 Completes Engine Testing Ahead of Flight 14 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Ship 41 Completes Engine Testing Ahead of Flight 14"
     }
    ]
   },
@@ -1745,6 +1745,70 @@
    "total": 18,
    "items": [
     {
+     "title": "古尔曼：苹果智能家居显示屏仍有望于今年推出",
+     "link": "https://www.ithome.com/0/994/292.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:48:18 GMT",
+     "summary": "IT之家 8 月 26 日消息，据彭博社记者马克・古尔曼（Mark Gurman）透露，苹果仍按计划将在今年年底前推出首款配备屏幕的智能家居设备。 古尔曼再次表示，这款设备将通过面部识别判断站在屏幕前的是谁，并为不同用户提供个性化内容。这一说法与本周早些时候在 macOS Tahoe 26.7 代码中发现的信息相吻合。相关代码显示，这款智能家居中枢将支持多个用户配置文件，并通过“环境感知”功能确认用户身份。 古尔曼还称，作为苹果重新发力智能家居市场计划的一部分，公司还在准备推出新款 Apple TV，以及升级版 HomePod mini。 关于苹果智能家居中枢的传闻已经流传多年。据悉，这款产品",
+     "source": "IT之家",
+     "zh": "古尔曼：苹果智能家居显示屏仍有望于今年推出"
+    },
+    {
+     "title": "Piston V 迷你主机开启众筹：自带 4 英寸圆形触控屏、AMD 锐龙 AI 9 365 处理器",
+     "link": "https://www.ithome.com/0/994/291.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:47:08 GMT",
+     "summary": "IT之家 8 月 26 日消息，制造商 Piston V 宣布推出一款同名 Piston V 迷你主机，该机现已在 Kickstarter 开启众筹并已众筹成功，该机自带一块圆形触控屏，匹配 16GB RAM 和 500GB M.2 SSD，超级早鸟价为 559 美元 （IT之家注：现汇率约合 3,767 元人民币） 。 Piston V 整体造型俏皮，采用银灰 + 橙色撞色设计，正面配备一块 4 英寸圆形 720x720 分辨率 IPS LCD 触控面板。 该机采用 AMD 锐龙 AI 9 365 处理器，匹配 16GB DDR5-5600 RAM 和 500GB M.2 SSD，I/O 方",
+     "source": "IT之家",
+     "zh": "Piston V 迷你主机开启众筹：自带 4 英寸圆形触控屏、AMD 锐龙 AI 9 365 处理器"
+    },
+    {
+     "title": "三星 Galaxy S27 Ultra 手机渲染图曝光：背面相机模组迎最大变化，保留 S Pen 插槽",
+     "link": "https://www.ithome.com/0/994/290.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:45:48 GMT",
+     "summary": "IT之家 8 月 26 日消息，科技媒体 Android Headline 昨日（8 月 25 日）发布博文， 分享了一组渲染图，展示了三星 Galaxy S27 Ultra 旗舰手机。 外观方面，三星 Galaxy S27 Ultra 大体延续 Galaxy S26 Ultra 的设计，最大变化是摄像头模组。渲染图显示三星将原本沿机身左侧纵向排列的镜头，改为位于机身顶部的“摄像头矩阵”。 该媒体认为，三星 Galaxy S27 Ultra 的全新后摄方案会让人联想到苹果 iPhone 17 Pro 和 iPhone 17 Pro Max，不过类似设计此前已经出现在 Galaxy S26 Ed",
+     "source": "IT之家",
+     "zh": "三星 Galaxy S27 Ultra 手机渲染图曝光：背面相机模组迎最大变化，保留 S Pen 插槽"
+    },
+    {
+     "title": "苹果地图广告正式在美国、加拿大上线，且无法关闭",
+     "link": "https://www.ithome.com/0/994/289.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:44:40 GMT",
+     "summary": "IT之家 8 月 26 日消息，苹果地图中的广告已经正式在美国和加拿大上线，这意味着 iPhone 和 iPad 用户在搜索地点以及查看“推荐地点”时，都可能看到广告内容。 苹果早在今年 3 月就宣布，计划在地图 App 中引入广告，并表示该功能将从夏末开始陆续推出。苹果近日向 9to5Mac 证实，过去几天里，部分用户已经开始看到地图广告，未来几周广告的投放范围还将进一步扩大。 用户在发起搜索时，“推荐地点”区域可能会显示广告。如果用户搜索的关键词被某家公司购买了广告位，那么相关广告也会出现在搜索结果中。广告将被置于搜索结果的顶部，每组搜索结果最多显示一条广告。 目前，苹果地图并没有提供关闭",
+     "source": "IT之家",
+     "zh": "苹果地图广告正式在美国、加拿大上线，且无法关闭"
+    },
+    {
+     "title": "历史无法预见AI的未来",
+     "link": "https://www.huxiu.com/article/4885981.html?f=rss",
+     "pubDate": "Wed, 26 Aug 2026 06:43:11 +0800",
+     "summary": "本文来自微信公众号： 青野有枯荣 ，作者：青野Tsingyeh 7月权益市场的大幅调整伴随着“AI泡沫”辩论的激化，至今市场仍围绕“反弹还是反转”博弈不休。这早已不是市场第一次质疑“泡沫”：抛开过去两年的诸多起伏，哪怕从去年11月算起，市场也已围绕宏观冲击、债务与现金流、AI下游应用、硬件涨价持续性等等方面做过辩论和博弈。不难看到：每一次质疑，都以明确的产业进展和市场新高收尾。需要承认，7月的回撤之深让人直觉上感到担忧：纵使承认AI仍然拥有广阔终局，是不是也要关心眼前的坎？“这次不一样”究竟是产业现实还是市场叙事？……我们也看到，不少自上而下的投资者和研究者，参考历史中诸多技术革命的场景，对A",
+     "source": "虎嗅",
+     "zh": "历史无法预见AI的未来"
+    },
+    {
+     "title": "八位堂推出“凝焰”XBOX 手柄 25 周年特别纪念款无线充电底座套装，国行定价 199 元",
+     "link": "https://www.ithome.com/0/994/288.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:39:12 GMT",
+     "summary": "IT之家 8 月 26 日消息，为庆祝微软 XBOX 诞生 25 周年，8BitDo（八位堂）现推出一款“凝焰”XBOX 手柄 25 周年特别纪念款无线充电底座套装， 国行定价为 199 元 。 京东 八位堂“凝焰”XBOX 手柄 25 周年特别纪念款 无线充电底座套装 199 元 直达链接 该产品兼容微软官方推出的 XBOX 25 周年特别纪念版手柄，内置被动风道散热系统，配套 1000mAh 半固态锂电池包（用于安装在官方手柄上），可提供 26 小时续航。 IT之家附产品参数：",
+     "source": "IT之家",
+     "zh": "八位堂推出“凝焰”XBOX 手柄 25 周年特别纪念款无线充电底座套装，国行定价 199 元"
+    },
+    {
+     "title": "Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)",
+     "link": "https://www.techmeme.com/260825/p44#a260825p44",
+     "pubDate": "Tue, 25 Aug 2026 18:20:01 -0400",
+     "summary": "Sarah Perez / TechCrunch : Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline &nbsp; &mdash;&nbsp; Nitter, an open source project that allowed people to read X posts without logging into or e",
+     "source": "Techmeme",
+     "zh": "Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)"
+    },
+    {
+     "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+     "link": "https://github.com/swimmingbrain/texbrain",
+     "pubDate": "Tue, 25 Aug 2026 22:08:50 +0000",
+     "summary": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work,",
+     "source": "Hacker News",
+     "zh": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM"
+    },
+    {
      "title": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance",
      "link": "https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/",
      "pubDate": "Tue, 25 Aug 2026 21:51:32 +0000",
@@ -1764,7 +1828,7 @@
      "title": "Python's pre-declared constants are kinda weird",
      "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
      "pubDate": "Tue, 25 Aug 2026 21:39:02 +0000",
-     "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 57 # Comments: 8",
      "source": "Hacker News",
      "zh": "Python's pre-declared constants are kinda weird"
     },
@@ -1783,6 +1847,14 @@
      "summary": "With school and sports starting again, these discounts on Instant Pots, cookware, and coffee gear arrive right on time.",
      "source": "WIRED",
      "zh": "The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)"
+    },
+    {
+     "title": "XCancel also down, at least for time being",
+     "link": "https://news.ycombinator.com/item?id=49440786",
+     "pubDate": "Tue, 25 Aug 2026 21:18:23 +0000",
+     "summary": "Message on xcancel website: \"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel. The service XCancel is stopped until further notice. We are seeking legal advice and won't share more details for now. Thank you for the trust you have pu",
+     "source": "Hacker News",
+     "zh": "XCancel also down, at least for time being"
     },
     {
      "title": "Zoom reports Q2 revenue up 4.9% YoY to $1.28B, vs. $1.27B est., enterprise revenue up 7.8% to $787.5M, and forecasts Q3 adjusted EPS below estimates (Brody Ford/Bloomberg)",
@@ -1812,7 +1884,7 @@
      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
      "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
      "pubDate": "Tue, 25 Aug 2026 20:49:03 +0000",
-     "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 16 # Comments: 7",
+     "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 30 # Comments: 17",
      "source": "Hacker News",
      "zh": "When str.lower() is a security vulnerability in Python – Seth Larson"
     },
@@ -1823,46 +1895,6 @@
      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
      "source": "TechCrunch",
      "zh": "X sends cease-and-desist to open source project Nitter over alleged scraping"
-    },
-    {
-     "title": "《最终幻想 7：启示录》游戏第二支预告公布，2027 年春季发售",
-     "link": "https://www.ithome.com/0/994/286.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:35:03 GMT",
-     "summary": "IT之家 8 月 26 日消息，史克威尔艾尼克斯今天在 2026 科隆游戏展放出《最终幻想 7：启示录》的第二支预告片。 本作将于 2027 年春季发售，登陆 PC、Switch 2、PS5 和 Xbox Series X|S 平台 。 IT之家了解到， 《最终幻想 7：启示录》是《最终幻想 7》重制三部曲的终章 。主角克劳德 · 史特莱夫将在游戏中乘坐飞空艇“海温德号”遨游天际，自由探索广袤的开放世界。 本次预告重点展示了克劳德与敌人“星球守护者”的战斗画面。红宝石、绿宝石和最终之剑都将在游戏中以全新造型登场，片中还出现了泰坦大先生的身影。",
-     "source": "IT之家",
-     "zh": "《最终幻想 7：启示录》游戏第二支预告公布，2027 年春季发售"
-    },
-    {
-     "title": "城市模拟游戏《乐高：天际线》亮相 2026 科隆游戏展",
-     "link": "https://www.ithome.com/0/994/285.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:25:41 GMT",
-     "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，城市模拟游戏《 乐高：天际线 》正式公布。 作为乐高和《都市：天际线》两大 IP 的联合作品，《乐高：天际线》将登陆 PC、Xbox Series X|S、PS5、Switch 2 平台。 在这款自由度拉满的城市建造游戏里，你的每个抉择都将唤醒一座充满生机的都市。你可以大兴土木，也可以静心雕琢细微之处。没有条条框框，只有无限的空间与唯一的规则：打造只属于你的城市。 IT之家附游戏宣传片截图如下：",
-     "source": "IT之家",
-     "zh": "城市模拟游戏《乐高：天际线》亮相 2026 科隆游戏展"
-    },
-    {
-     "title": "《过山车大亨》系列重启：雅达利公布全新作品，今年冬季开启抢先体验",
-     "link": "https://www.ithome.com/0/994/284.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:23:50 GMT",
-     "summary": "IT之家 8 月 26 日消息，雅达利今天在 2026 科隆游戏展公布《过山车大亨 Wonderworks》，意味着《过山车大亨》这款沉寂多年的模拟经营系列游戏终于迎来重启。 IT之家了解到，《过山车大亨》上一次推出新作还是 2016 年的《过山车大亨世界》，但这款游戏当时口碑不佳，如今雅达利选择再次启用这一经典 IP。 据介绍，《过山车大亨 Wonderworks》由 Springloaded 开发组制作， 画面风格较为卡通化 。玩家将在游戏中建造并经营自己的主题乐园，从管理财务到定制游乐设施，掌控乐园的方方面面。 同时，本作采用非常“真实”的物理引擎，游乐设施会突然发生夸张的故障，让公园游",
-     "source": "IT之家",
-     "zh": "《过山车大亨》系列重启：雅达利公布全新作品，今年冬季开启抢先体验"
-    },
-    {
-     "title": "国产抗日 FPS 游戏《抵抗者》2026 科隆游戏展最新实机演示公布",
-     "link": "https://www.ithome.com/0/994/283.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:15:56 GMT",
-     "summary": "IT之家 8 月 26 日消息，国产抗日 FPS 游戏《 抵抗者 》今日亮相 2026 科隆游戏展，公布了最新实机演示视频。 《抵抗者》由杭州浩汤科技开发、4Divinity 发行，是一款以 20 世纪 40 年代中国抗日战争为背景的第一人称射击游戏。IT之家此前报道，游戏官方此前已经在 7 月 30 日公布了最新实机演示，并在 ChinaJoy 上开放试玩。 这款游戏采用虚幻 5 引擎开发，在 FPS 玩法基础上融入谍战、潜入、解谜等元素。在叙事和玩法设计上，游戏采用类似《使命召唤》的战役关卡模式，全作规划四大章节，分别对应春、夏、秋、冬四个主题。玩家将扮演抗联战士、情报员等不同身份，前往包",
-     "source": "IT之家",
-     "zh": "国产抗日 FPS 游戏《抵抗者》2026 科隆游戏展最新实机演示公布"
-    },
-    {
-     "title": "《巫师 3：狂猎 — 重制版》官宣 9 月 29 日上线：所有玩家免费升级，两部资料片免费送",
-     "link": "https://www.ithome.com/0/994/282.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:05:04 GMT",
-     "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，CDPR 官宣《巫师 3：狂猎 — 重制版》游戏将于 9 月 29 日上线， 所有已拥有游戏的玩家均可免费升级 。 《巫师 3：狂猎 — 重制版》将带来一系列改进， 包括画面、玩法等多方面升级 。游戏将于 9 月 29 日上线，且所有已在 GOG、Steam、Epic Games Store、PlayStation 5 和 Xbox Series X|S 平台拥有本作的玩家均可免费升级至重制版。本作目前也已在 Battle.net 和 Nintendo Switch 2 平台开放预购。 IT之家从直播获悉，所有目前",
-     "source": "IT之家",
-     "zh": "《巫师 3：狂猎 — 重制版》官宣 9 月 29 日上线：所有玩家免费升级，两部资料片免费送"
     },
     {
      "title": "Skild AI unveils S1, a robotics foundation model that it says can learn tasks never seen during pretraining, using a single video demo, without fine-tuning (Skild AI)",
@@ -1876,9 +1908,17 @@
      "title": "C2PA Cameras Do Not Survive Contact with Reality",
      "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
      "pubDate": "Tue, 25 Aug 2026 19:38:24 +0000",
-     "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 28 # Comments: 7",
+     "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 48 # Comments: 13",
      "source": "Hacker News",
      "zh": "C2PA Cameras Do Not Survive Contact with Reality"
+    },
+    {
+     "title": "A brief history of federal lift ticket regulation",
+     "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+     "pubDate": "Tue, 25 Aug 2026 19:25:43 +0000",
+     "summary": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "A brief history of federal lift ticket regulation"
     },
     {
      "title": "Sources: Chris Malone, who joined OpenAI as head of data centers in March 2025, left the company last week amid a broader exodus (Anissa Gardizy/Wall Street Journal)",
@@ -1895,14 +1935,6 @@
      "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
      "source": "TechCrunch",
      "zh": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious"
-    },
-    {
-     "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-     "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-     "pubDate": "Tue, 25 Aug 2026 19:07:01 +0000",
-     "summary": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 148 # Comments: 98",
-     "source": "Hacker News",
-     "zh": "FDA authorizes first wearable device that monitors ketone and blood sugar levels"
     },
     {
      "title": "Preserving glow-in-the-dark art and fashion for future generations",
@@ -1951,38 +1983,6 @@
      "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!",
      "source": "TechCrunch",
      "zh": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit"
-    },
-    {
-     "title": "The US Just Recorded Its First 2 Measles Deaths This Year",
-     "link": "https://www.wired.com/story/us-recorded-first-measles-deaths-2026/",
-     "pubDate": "Tue, 25 Aug 2026 18:17:07 +0000",
-     "summary": "The fatalities come amid declining vaccination rates and calls from President Donald Trump to split up the MMR vaccine.",
-     "source": "WIRED",
-     "zh": "The US Just Recorded Its First 2 Measles Deaths This Year"
-    },
-    {
-     "title": "Dolly Parton has died",
-     "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-     "pubDate": "Tue, 25 Aug 2026 18:02:22 +0000",
-     "summary": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 957 # Comment",
-     "source": "Hacker News",
-     "zh": "Dolly Parton has died"
-    },
-    {
-     "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
-     "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
-     "pubDate": "Tue, 25 Aug 2026 18:01:30 +0000",
-     "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-     "source": "TechCrunch",
-     "zh": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass"
-    },
-    {
-     "title": "Firefox 157 will include JPEG XL by default on all platforms",
-     "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-     "pubDate": "Tue, 25 Aug 2026 17:55:23 +0000",
-     "summary": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 204 # Comments: 44",
-     "source": "Hacker News",
-     "zh": "Firefox 157 will include JPEG XL by default on all platforms"
     }
    ]
   },
@@ -1992,6 +1992,38 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar",
+     "link": "https://9to5mac.com/2026/08/25/notability-can-now-organize-meeting-recordings-transcriptions-and-notes-around-your-calendar/",
+     "pubDate": "Tue, 25 Aug 2026 22:49:13 +0000",
+     "summary": "Notability today announced a new desktop workflow that lets Mac users start recording sessions directly from their calendar events, with the resulting notes automatically organized around their schedule. Here are the details.",
+     "source": "9to5Mac",
+     "zh": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar"
+    },
+    {
+     "title": "9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled",
+     "link": "https://9to5mac.com/2026/08/25/daily-august-25-2026/",
+     "pubDate": "Tue, 25 Aug 2026 22:48:14 +0000",
+     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
+     "source": "9to5Mac",
+     "zh": "9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled"
+    },
+    {
+     "title": "Here are three sick Gibson guitar controllers made for Stage Tour's Dec. 10 release",
+     "link": "https://www.engadget.com/2244257/three-sick-gibson-guitar-controllers-made-for-stage-tour-december-10-release-date/",
+     "pubDate": "Tue, 25 Aug 2026 22:42:07 +0000",
+     "summary": "CRKD is mining nostalgia for its latest guitar trio.",
+     "source": "Engadget",
+     "zh": "Here are three sick Gibson guitar controllers made for Stage Tour's Dec. 10 release"
+    },
+    {
+     "title": "Lego Skylines is a cozy city builder from the studio that's repairing Cities: Skylines II",
+     "link": "https://www.engadget.com/2244251/lego-skylines-is-a-cozy-city-builder-from-the-studio-that-s-repairing-cities-skylines-ii/",
+     "pubDate": "Tue, 25 Aug 2026 22:30:31 +0000",
+     "summary": "Iceflake Studios is preparing a cozy new city builder centered on the famous bricks.",
+     "source": "Engadget",
+     "zh": "Lego Skylines is a cozy city builder from the studio that's repairing Cities: Skylines II"
+    },
     {
      "title": "Life360 adds new pet care tools to help keep your household in sync",
      "link": "https://www.androidauthority.com/life360-new-pet-care-features-3703038/",
@@ -2012,7 +2044,7 @@
      "title": "Here are all the Apple devices with full Wi-Fi 7 support",
      "link": "https://9to5mac.com/2026/08/25/here-are-all-the-apple-devices-with-full-wi-fi-7-support/",
      "pubDate": "Tue, 25 Aug 2026 21:45:10 +0000",
-     "summary": "Today, Apple updated the Mac mini and Mac Studio , bringing Wi-Fi 7 support to both product lines for the first time. Here’s the full list of Apple devices that support all Wi-Fi 7 features.",
+     "summary": "Today, Apple updated the Mac mini and Mac Studio , bringing Wi-Fi 7 support to both product lines for the first time. Here’s the full list of Apple devices that support all Wi-Fi 7 features .",
      "source": "9to5Mac",
      "zh": "Here are all the Apple devices with full Wi-Fi 7 support"
     },
@@ -2089,22 +2121,6 @@
      "zh": "iOS 27 release date: Here’s when the new iPhone update will launch"
     },
     {
-     "title": "BenQ's first dual-monitor desk lamp will give your screens a glow up",
-     "link": "https://www.engadget.com/2244137/benq-screenbar-max-first-dual-monitor-desk-lamp/",
-     "pubDate": "Tue, 25 Aug 2026 20:30:25 +0000",
-     "summary": "BenQ's first dual-monitor desk lamp is excellent, but it'll cost you.",
-     "source": "Engadget",
-     "zh": "BenQ's first dual-monitor desk lamp will give your screens a glow up"
-    },
-    {
-     "title": "SpaceX to use NVIDIA GPUs for its Starmind project — Here's what they'll face in space",
-     "link": "https://www.engadget.com/2243934/spacex-use-nvidia-gpu-for-starmind-project/",
-     "pubDate": "Tue, 25 Aug 2026 20:30:00 +0000",
-     "summary": "Elon Musk wants to harness solar energy for AI.",
-     "source": "Engadget",
-     "zh": "SpaceX to use NVIDIA GPUs for its Starmind project — Here's what they'll face in space"
-    },
-    {
      "title": "The Sideload 042: A genderless Pixel experience",
      "link": "https://9to5google.com/2026/08/25/the-sideload-042-a-genderless-pixel-experience/",
      "pubDate": "Tue, 25 Aug 2026 20:30:00 +0000",
@@ -2153,14 +2169,6 @@
      "zh": "Samsung's updated Smart Switch is easier to use and copies more data"
     },
     {
-     "title": "Three new Macs are launching this fall, here’s what’s coming",
-     "link": "https://9to5mac.com/2026/08/25/three-new-macs-are-launching-this-fall-heres-whats-coming/",
-     "pubDate": "Tue, 25 Aug 2026 19:54:57 +0000",
-     "summary": "Apple launched two new products today— Mac mini and Mac Studio —but three more Macs are rumored to arrive this fall. Here’s what’s coming.",
-     "source": "9to5Mac",
-     "zh": "Three new Macs are launching this fall, here’s what’s coming"
-    },
-    {
      "title": "Can’t wait for the Galaxy S26 FE? Check out these cases to tide you over",
      "link": "https://www.androidauthority.com/samsung-galaxy-s26-fe-cases-3702917/",
      "pubDate": "Tue, 25 Aug 2026 19:26:24 +0000",
@@ -2171,9 +2179,9 @@
     {
      "title": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
      "link": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
-     "pubDate": "Tue, 25 Aug 2026 18:48:18 +0000",
+     "pubDate": "Tue, 25 Aug 2026 18:45:00 +0000",
      "summary": "Pebblebee has launched “LÔC8,” a unique new Android Find Hub / Apple Find My tracker that’s designed to hide within your bike handles, golf clubs, and other places to help you keep tabs on your gear.",
-     "source": "9to5Mac",
+     "source": "9to5Google",
      "zh": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]"
     },
     {
@@ -2223,14 +2231,6 @@
      "summary": "Following a premature retailer listing in Europe earlier this month, the Redmi 17C 5G is now officially unveiled. As the name implies, this is the 5G counterpart to the Redmi 17C 4G and, as such, features a Dimensity 6300 chipset. It is paired with 4GB of LPDDR4X RAM and 64/128GB of UFS 2.2 storage.",
      "source": "GSMArena",
      "zh": "Redmi 17C 5G goes official with Dimensity 6300 SoC and 6,000mAh battery"
-    },
-    {
-     "title": "This $200, 99Wh V-mount battery is travel-ready",
-     "link": "https://www.dpreview.com/articles/this-200-99wh-v-mount-battery-is-travel-ready/",
-     "pubDate": "Tue, 25 Aug 2026 15:00:00 +0000",
-     "summary": "The NEEWER PS099U combines compact V-mount power, fast recharging, flexible wired and wireless outputs, smart monitoring and safety features in a travel-friendly design.",
-     "source": "DPReview",
-     "zh": "This $200, 99Wh V-mount battery is travel-ready"
     }
    ]
   },
@@ -2240,6 +2240,54 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Anthropic加速IPO筹备：提拔新总法律顾问，前任转任国际特别大使",
+     "link": "https://wallstreetcn.com/articles/3780293",
+     "pubDate": "Wed, 26 Aug 2026 06:50:58 +0800",
+     "summary": "Anthropic正在为今年晚些时候的上市计划积极备战，此次法律团队高层调整是其中关键一步。 据彭博报道， Anthropic已将助理总法律顾问Elena Leichty晋升为总法律顾问。前任总法律顾问、前美国驻澳大利亚大使Jeffrey Bleich则转任新设立的国际特别大使职务，聚焦全球政策与外交事务。 随着Leichty晋升，其原职位由多伦多的助理总法律顾问Rob Hester接任。 Hester于2024年加入Anthropic，此前在亚马逊任职近五年。 此次人事调整发生在Anthropic积极扩充高层政策团队的背景下。本月早些时候，公司刚刚宣布聘请前加州最高法院大法官Mariano-",
+     "source": "华尔街见闻",
+     "zh": "Anthropic加速IPO筹备：提拔新总法律顾问，前任转任国际特别大使"
+    },
+    {
+     "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+     "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+     "pubDate": "Tue, 25 Aug 2026 22:45:00 GMT",
+     "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+     "source": "MarketWatch",
+     "zh": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved."
+    },
+    {
+     "title": "新版公积金条例彰显“投资于人”理念",
+     "link": "http://www.eeo.com.cn/2026/0826/1011174.shtml",
+     "pubDate": "Wed, 26 Aug 2026 06:39:16 +0800",
+     "summary": "灵活就业群体的实际情况不同，地区发展水平也有差异。扩大住房公积金制度覆盖面要尊重灵活就业人员意愿，不搞强制和“一刀切”，灵活就业人员可自...",
+     "source": "经济观察网",
+     "zh": "新版公积金条例彰显“投资于人”理念"
+    },
+    {
+     "title": "美民主党议员敦促沃什维持FOMC每年8次会议：担忧削弱政策响应能力",
+     "link": "https://wallstreetcn.com/articles/3780289",
+     "pubDate": "Wed, 26 Aug 2026 06:17:34 +0800",
+     "summary": "一批民主党议员致信美联储主席凯文·沃什，对央行年度政策会议日程的拟议变更表示关切。 由参议员Ruben Gallego、Andy Kim、Chris Van Hollen、Angela Alsobrooks、Elizabeth Warren、Catherine Cortez Masto和Tina Smith联署的信函称： “我们担心，减少会议次数将削弱委员会应对快速变化经济形势的能力，也相当于单方面改变美联储与市场及美国公众沟通的方式。” 信中写道： “美联储的职责是实时紧跟经济动态，而非减少关注并寄希望于运气。如果美联储继续沿着这条日益缺乏透明度的道路前行，将使整体经济面临风险。” 美联储7",
+     "source": "华尔街见闻",
+     "zh": "美民主党议员敦促沃什维持FOMC每年8次会议：担忧削弱政策响应能力"
+    },
+    {
+     "title": "Par Pacific to sell Laramie Energy assets in $485M deal",
+     "link": "https://seekingalpha.com/news/4636826-par-pacific-to-sell-laramie-energy-assets-in-485m-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 18:16:52 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Par Pacific to sell Laramie Energy assets in $485M deal"
+    },
+    {
+     "title": "渝论场｜百日攻坚 看重庆如何淬炼基层避险转移实战能力",
+     "link": "http://www.eeo.com.cn/2026/0826/1011170.shtml",
+     "pubDate": "Wed, 26 Aug 2026 06:13:13 +0800",
+     "summary": "重庆城市风景。资...",
+     "source": "经济观察网",
+     "zh": "渝论场｜百日攻坚 看重庆如何淬炼基层避险转移实战能力"
+    },
     {
      "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
      "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
@@ -2255,54 +2303,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "U.S. crude stockpiles rose 4.2M barrels last week, API says"
-    },
-    {
-     "title": "路透调查：69%的经济学家认为7月份日本与美国的联合外汇干预“效果不佳”或“完全无效”",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853537085.html",
-     "pubDate": "Wed, 26 Aug 2026 06:04:46 +0800",
-     "summary": "路透调查：69%的经济学家认为7月份日本与美国的联合外汇干预“效果不佳”或“完全无效”。 89%的经济学家认为，日本首相高市早苗的财政政策对日元施加了下行压力。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "路透调查：69%的经济学家认为7月份日本与美国的联合外汇干预“效果不佳”或“完全无效”"
-    },
-    {
-     "title": "路透调查：超过半数的经济学家预计日本央行将在2027年第一季度将利率提高至至少1.50%",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853535729.html",
-     "pubDate": "Wed, 26 Aug 2026 06:04:45 +0800",
-     "summary": "路透调查：超过半数的经济学家预计日本央行将在2027年第一季度将利率提高至至少1.50%（上次调查为1.25%）。 57%的经济学家预计日本央行将在9月份将基准利率提高至1.25%（上次调查中仅有5%的经济学家持此观点）。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "路透调查：超过半数的经济学家预计日本央行将在2027年第一季度将利率提高至至少1.50%"
-    },
-    {
-     "title": "美联储9月维持利率不变的概率为60.4%",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853535587.html",
-     "pubDate": "Wed, 26 Aug 2026 06:04:44 +0800",
-     "summary": "据CME“美联储观察”：美联储到9月维持利率不变的概率为60.4%，累计加息25个基点的概率为39.6%。美联储到10月维持利率不变的概率为45.7%，累计加息25个基点的概率为44.7%，累计加息50个基点的概率为9.7%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储9月维持利率不变的概率为60.4%"
-    },
-    {
-     "title": "8月25日（周二）热门美股、中概股收盘一览",
-     "link": "http://stock.eastmoney.com/news/11805,202608263853535028.html",
-     "pubDate": "Wed, 26 Aug 2026 06:03:41 +0800",
-     "summary": "一、周二热门美股收盘一览 英伟达 涨2.19% ， 美光科技 涨2.48% ， 闪迪 跌0.83% ， 特斯拉 涨0.37% ， 微软 涨0.90% ， 超威半导体 涨4.91% ， 苹果 跌0.14% ， SpaceX 涨2.19% ， 英特尔 涨0.25% ， 谷歌-A 跌0.32% 。 二、周二热门中概股收盘一览 台积电 涨1.78% ， 阿里巴巴 涨0.82% ， 拼多多 涨0.78% ， 富途控股 涨8.48% ， 小i 机器人 涨186.28% ， 亚玛芬体育 涨1.12% ， BOSS直聘 涨5.51% ， 腾讯音乐 涨0.92% ， 联华电子 涨2.89% ， 日月光半导体 涨",
-     "source": "东方财富股票",
-     "zh": "8月25日（周二）热门美股、中概股收盘一览"
-    },
-    {
-     "title": "周二热门美股、中概股收盘一览",
-     "link": "http://stock.eastmoney.com/news/11806,202608263853534995.html",
-     "pubDate": "Wed, 26 Aug 2026 06:03:34 +0800",
-     "summary": "一、周二热门美股收盘一览 英伟达 涨2.19% ， 美光科技 涨2.48% ， 闪迪 跌0.83% ， 特斯拉 涨0.37% ， 微软 涨0.90% ， 超威半导体 涨4.91% ， 苹果 跌0.14% ， SpaceX 涨2.19% ， 英特尔 涨0.25% ， 谷歌-A 跌0.32% 。 二、周二热门中概股收盘一览 台积电 涨1.78% ， 阿里巴巴 涨0.82% ， 拼多多 涨0.78% ， 富途控股 涨8.48% ， 小i 机器人 涨186.28% ， 亚玛芬体育 涨1.12% ， BOSS直聘 涨5.51% ， 腾讯音乐 涨0.92% ， 联华电子 涨2.89% ， 日月光半导体 涨",
-     "source": "东方财富股票",
-     "zh": "周二热门美股、中概股收盘一览"
-    },
-    {
-     "title": "巴克莱警告AI基建扩张可能使相关交易面临政治风险",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853537684.html",
-     "pubDate": "Wed, 26 Aug 2026 06:03:04 +0800",
-     "summary": "巴克莱 策略团队表示，快速扩张的AI基础设施正在引发美国两党选民反弹，可能给当前热门的AI交易带来政治风险。 巴克莱 称，“ 数据中心 建设正在让AI从一个抽象的科技故事，变成一个具体的生活成本问题”。即使与AI接触有限的选民，也会受到更高电费、水资源压力以及社区工业设施建设的影响。EvercoreISI和BCA Research也警告，耗电型 数据中心 建设热潮正成为中期选举敏感议题，选民对不断上涨的电费越来越不满。 巴克莱 认为，无论中期选举结果如何，AI交易都缺乏新的上涨催化剂，并提醒投资者不要假设“快速 AI应用 增长与宽松政治环境能够长期共存”。该行旗下AI 数据中心 指数包含超过4",
-     "source": "东方财富股票",
-     "zh": "巴克莱警告AI基建扩张可能使相关交易面临政治风险"
     },
     {
      "title": "Here are the major earnings before the open Wednesday",
@@ -2345,14 +2345,6 @@
      "zh": "美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%"
     },
     {
-     "title": "Boeing wins additional $163M delivery order for B-52 radar modernization",
-     "link": "https://seekingalpha.com/news/4636821-boeing-wins-additional-163m-delivery-order-for-b-52-radar-modernization?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 17:39:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Boeing wins additional $163M delivery order for B-52 radar modernization"
-    },
-    {
      "title": "Trump administration pauses immigrant visa applications",
      "link": "https://www.ft.com/content/857fb8e1-eec6-443e-97e8-f6876302aabc?syn-25a6b1a6=1",
      "pubDate": "Tue, 25 Aug 2026 21:33:38 GMT",
@@ -2377,14 +2369,6 @@
      "zh": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits"
     },
     {
-     "title": "全球市场：美股三大指数收涨 光通信、存储板块走强 国际油价大跌",
-     "link": "http://stock.eastmoney.com/news/11784,202608263853529085.html",
-     "pubDate": "Wed, 26 Aug 2026 05:15:29 +0800",
-     "summary": "美股市场： 美股三大指数08月25日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨160.24点，收于53577.4点，涨幅为0.3%； 标准普尔 500种股票指数上涨24.42点，收于7677.28点，涨幅为0.32%； 纳斯达克 综合 指数上涨171.11点，收于26151.3点，涨幅为0.66%。 “科技七巨头”涨跌不一，英伟达涨2.19%，Meta涨1.97%，微软涨0.90%，特斯拉涨0.37%，苹果跌0.14%，谷歌跌0.36%，亚马逊跌0.39%。 光通信、存储板块走强，Lumentum涨6.67%，应用光电涨5.13%，希捷科技涨3.40%，西部数据涨3.53%，S",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数收涨 光通信、存储板块走强 国际油价大跌"
-    },
-    {
      "title": "Is the K-shaped economy ending? Finance pros weigh in",
      "link": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
      "pubDate": "Tue, 25 Aug 2026 21:05:27 GMT",
@@ -2399,14 +2383,6 @@
      "summary": "An ongoing shortage of compute could provide Meta with the opportunity to sell its capacity for a big premium.",
      "source": "MarketWatch",
      "zh": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card"
-    },
-    {
-     "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-     "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-     "pubDate": "Tue, 25 Aug 2026 21:00:00 GMT",
-     "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
-     "source": "MarketWatch",
-     "zh": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved."
     },
     {
      "title": "Callaway Golf’s apology for ad showing woman being shoved to the ground exposes a major industry blind spot",
@@ -2465,20 +2441,44 @@
      "zh": "美联储柯林斯：能否维持利率不变取决于通胀进展，若没有持续改善将考虑加息"
     },
     {
-     "title": "AI模型\"越狱\"事件频发，网络安全测试标准面临重构",
-     "link": "https://wallstreetcn.com/articles/3780286",
-     "pubDate": "Wed, 26 Aug 2026 04:17:31 +0800",
-     "summary": "人工智能领域正在经历一场关于安全测试方式的深刻反思。在多家顶级AI实验室的先进模型相继突破测试环境、侵入真实系统并造成实际损害后，业界对现行沙盒隔离机制的有效性产生了根本性质疑。 这场讨论的直接导火索，是OpenAI披露其部分最先进模型曾逃脱沙盒环境，自行访问互联网、入侵另一家公司服务器并窃取机密信息。 Anthropic和Meta旗下模型也分别卷入类似事件——测试环境的配置失误使这些模型意外获得了访问真实系统的权限。 这些事件表明，AI安全测试中的\"边界失控\"已不再是理论风险。 对市场而言， 这一系列事件正在推动AI安全合规成本上升，并可能加速行业测试标准的重新制定。 投资者在评估AI公司时",
-     "source": "华尔街见闻",
-     "zh": "AI模型\"越狱\"事件频发，网络安全测试标准面临重构"
+     "title": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
+     "link": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+     "pubDate": "Tue, 25 Aug 2026 19:00:07 GMT",
+     "summary": "Investors shrugged off the latest developments in the U.S.-Iran war.",
+     "source": "CNBC",
+     "zh": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war"
     },
     {
-     "title": "伦铜纽铜齐创历史新高！关税预期与库存“错配”持续发力",
-     "link": "https://wallstreetcn.com/articles/3780282",
-     "pubDate": "Wed, 26 Aug 2026 04:17:17 +0800",
-     "summary": "美东时间25日周二，纽约商品交易所（COMEX）期铜即月合约和伦敦金属交易所（LME）三个月期铜均创收盘最高纪录。 美国潜在铜关税引发的跨区域库存重新配置仍是外盘期铜连涨的重要动力，同时LME市场现货供应趋紧的信号再度强化，叠加电网、数据中心、国防和电气化等领域的需求支撑，继续推升市场对铜价的看涨预期。 与此同时，市场正在等待美国铜关税政策的进一步明朗化，以及美联储主席沃什本周五在杰克逊·霍尔央行年会上的讲话。前者关系到全球铜库存和贸易流向，后者则可能影响美元和金属等风险资产的定价。 伦铜、纽铜三连涨，近三个交易日累计涨超2% 本周二铜价延续强势，伦铜和纽铜均连续第三个交易日收涨。 COMEX",
-     "source": "华尔街见闻",
-     "zh": "伦铜纽铜齐创历史新高！关税预期与库存“错配”持续发力"
+     "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+     "pubDate": "Tue, 25 Aug 2026 18:00:00 GMT",
+     "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+     "source": "Federal Reserve",
+     "zh": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026"
+    },
+    {
+     "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
+     "link": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1",
+     "pubDate": "Tue, 25 Aug 2026 17:22:48 GMT",
+     "summary": "Hundreds of US goods will face increased levies from September 8",
+     "source": "Financial Times",
+     "zh": "Canada announces $20bn retaliatory tariffs as US trade war escalates"
+    },
+    {
+     "title": "Stanley Druckenmiller leads doubters who think Bessent&apos;s bond ploys will fail",
+     "link": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
+     "pubDate": "Tue, 25 Aug 2026 17:15:50 GMT",
+     "summary": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
+     "source": "CNBC",
+     "zh": "Stanley Druckenmiller leads doubters who think Bessent&apos;s bond ploys will fail"
+    },
+    {
+     "title": "期货市场资金总量达2.64万亿元 较去年底增长23%",
+     "link": "http://www.eeo.com.cn/2026/0826/1011125.shtml",
+     "pubDate": "Wed, 26 Aug 2026 00:52:14 +0800",
+     "summary": "8月24日，中国期货市场监控中心（以下简称“期货监控中心”）发布数据显示，截至今年7月底，期货市场资金总量达2.64万亿元，较2025年底增长23%；期货公司客户权益合计2.49万亿元，较2025年底增长24%。 安粮期货常务副总经理、董事会秘书余萍向《证券日报》记者表示，年内期货市场资金总量及客户权益持续增长，主要受中长期资金入市提速和衍生品工具日益丰富等因素影响。 格林大华期货副总经理、首席专家王骏告诉记...",
+     "source": "经济观察网",
+     "zh": "期货市场资金总量达2.64万亿元 较去年底增长23%"
     }
    ]
   },
