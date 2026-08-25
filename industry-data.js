@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/26 06:53:45",
+ "generated_at": "2026/8/26 07:17:36",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Synopsys Wins the Silicon Brain Drain",
+     "link": "https://semiwiki.com/eda/372693-synopsys-wins-the-silicon-brain-drain/",
+     "pubDate": "Tue, 25 Aug 2026 23:00:40 +0000",
+     "summary": "The reported move of Amit Gupta, Jeff Dyck, and Ryan Silk from Siemens EDA to Synopsys matters because this is more than a routine transfer of experienced executives and engineers. Together, the three represent a concentrated body of expertise in applying artificial intelligence to semiconductor des",
+     "source": "SemiWiki",
+     "zh": "Synopsys Wins the Silicon Brain Drain"
+    },
+    {
      "title": "Intel Wildcat Lake: Right-Sizing Silicon Without Sinking Performance",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372653-intel-wildcat-lake-right-sizing-silicon-without-sinking-performance/",
      "pubDate": "Tue, 25 Aug 2026 21:00:35 +0000",
@@ -456,14 +464,6 @@ window.INDUSTRY_DATA = {
      "summary": "In what is described as a milestone for Australia’s international supply chain security, ground has been broken on the Alcoa-Sojitz Gallium Recovery Project in Western Australia...",
      "source": "Semiconductor Today",
      "zh": "Ground broken on Alcoa-Sojitz Gallium Recovery Project in Western Australia"
-    },
-    {
-     "title": "RISC-V at Sixteen: From Modular ISA to Standardized Platforms at Hot Chips 2026",
-     "link": "https://semiwiki.com/ip/sifive/372639-risc-v-at-sixteen-from-modular-isa-to-standardized-platforms-at-hot-chips-2026/",
-     "pubDate": "Mon, 24 Aug 2026 19:00:01 +0000",
-     "summary": "RISC-V has evolved from a Berkeley research architecture into a global instruction-set standard spanning embedded controllers, application processors, accelerators, and emerging servers. Its defining technical characteristic is not merely openness, but disciplined modularity. Four ratified base ISAs",
-     "source": "SemiWiki",
-     "zh": "RISC-V at Sixteen: From Modular ISA to Standardized Platforms at Hot Chips 2026"
     },
     {
      "title": "Quintessent raises $40m in oversubscribed Series A funding round",
@@ -1746,36 +1746,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "古尔曼：苹果智能家居显示屏仍有望于今年推出",
-     "link": "https://www.ithome.com/0/994/292.htm",
-     "pubDate": "Tue, 25 Aug 2026 22:48:18 GMT",
-     "summary": "IT之家 8 月 26 日消息，据彭博社记者马克・古尔曼（Mark Gurman）透露，苹果仍按计划将在今年年底前推出首款配备屏幕的智能家居设备。 古尔曼再次表示，这款设备将通过面部识别判断站在屏幕前的是谁，并为不同用户提供个性化内容。这一说法与本周早些时候在 macOS Tahoe 26.7 代码中发现的信息相吻合。相关代码显示，这款智能家居中枢将支持多个用户配置文件，并通过“环境感知”功能确认用户身份。 古尔曼还称，作为苹果重新发力智能家居市场计划的一部分，公司还在准备推出新款 Apple TV，以及升级版 HomePod mini。 关于苹果智能家居中枢的传闻已经流传多年。据悉，这款产品",
+     "title": "安伯尼克 Anbernic RG 55G1 安卓掌机规格曝光：外形酷似任天堂 Switch Lite、搭骁龙 G1 Gen 2 处理器",
+     "link": "https://www.ithome.com/0/994/300.htm",
+     "pubDate": "Tue, 25 Aug 2026 23:09:47 GMT",
+     "summary": "IT之家 8 月 26 日消息，制造商安伯尼克 Anbernic 现已披露旗下全新安卓掌机 RG 55G1 规格信息，该机整体造型酷似任天堂 Switch Lite。 该机整体重量 339 克，提供蓝 / 灰 / 黑三种配色可选，匹配一块 5.5 英寸 1080P IPS LCD 面板，采用霍尔摇杆。 该机主要用于游玩安卓游戏和模拟器游戏，其搭载高通骁龙 G1 Gen 2 处理器，匹配 4/8GB RAM 和 64/128GB 存储空间，内置 6000mAh 电池（支持 18W 有线充电，至高提供 8 小时续航），搭载安卓 14 系统，支持 Wi-Fi 5 和蓝牙 5.0。",
      "source": "IT之家",
-     "zh": "古尔曼：苹果智能家居显示屏仍有望于今年推出"
+     "zh": "安伯尼克 Anbernic RG 55G1 安卓掌机规格曝光：外形酷似任天堂 Switch Lite、搭骁龙 G1 Gen 2 处理器"
     },
     {
-     "title": "Piston V 迷你主机开启众筹：自带 4 英寸圆形触控屏、AMD 锐龙 AI 9 365 处理器",
-     "link": "https://www.ithome.com/0/994/291.htm",
-     "pubDate": "Tue, 25 Aug 2026 22:47:08 GMT",
-     "summary": "IT之家 8 月 26 日消息，制造商 Piston V 宣布推出一款同名 Piston V 迷你主机，该机现已在 Kickstarter 开启众筹并已众筹成功，该机自带一块圆形触控屏，匹配 16GB RAM 和 500GB M.2 SSD，超级早鸟价为 559 美元 （IT之家注：现汇率约合 3,767 元人民币） 。 Piston V 整体造型俏皮，采用银灰 + 橙色撞色设计，正面配备一块 4 英寸圆形 720x720 分辨率 IPS LCD 触控面板。 该机采用 AMD 锐龙 AI 9 365 处理器，匹配 16GB DDR5-5600 RAM 和 500GB M.2 SSD，I/O 方",
+     "title": "双“绿”联手：雷蛇推出 3 款 XBOX 25 周年纪念版外设",
+     "link": "https://www.ithome.com/0/994/299.htm",
+     "pubDate": "Tue, 25 Aug 2026 23:09:37 GMT",
+     "summary": "IT之家 8 月 26 日消息，Razer（雷蛇）当地时间昨日宣布推出 Microsoft（微软）XBOX 25 周年纪念外设。 这一限量发售的产品组合由双方合作开发， 采用致敬初代 XBOX 的半透明绿色设计 ，全部拥有 \"XBOX 25\" 徽记，其中键盘配备四色方向键。 IT之家附上外设具体型号： 鼠标：雷蛇巴塞利斯蛇 V3 专业版 35K - XBOX 25 纪念版； 键盘：雷蛇黑寡妇蜘蛛 V4 75% 热插拔款 - XBOX 25 纪念版； 耳机：雷蛇战锤狂鲨 V3 X 极速版 for XBOX - XBOX 25 纪念版。",
      "source": "IT之家",
-     "zh": "Piston V 迷你主机开启众筹：自带 4 英寸圆形触控屏、AMD 锐龙 AI 9 365 处理器"
+     "zh": "双“绿”联手：雷蛇推出 3 款 XBOX 25 周年纪念版外设"
     },
     {
-     "title": "三星 Galaxy S27 Ultra 手机渲染图曝光：背面相机模组迎最大变化，保留 S Pen 插槽",
-     "link": "https://www.ithome.com/0/994/290.htm",
-     "pubDate": "Tue, 25 Aug 2026 22:45:48 GMT",
-     "summary": "IT之家 8 月 26 日消息，科技媒体 Android Headline 昨日（8 月 25 日）发布博文， 分享了一组渲染图，展示了三星 Galaxy S27 Ultra 旗舰手机。 外观方面，三星 Galaxy S27 Ultra 大体延续 Galaxy S26 Ultra 的设计，最大变化是摄像头模组。渲染图显示三星将原本沿机身左侧纵向排列的镜头，改为位于机身顶部的“摄像头矩阵”。 该媒体认为，三星 Galaxy S27 Ultra 的全新后摄方案会让人联想到苹果 iPhone 17 Pro 和 iPhone 17 Pro Max，不过类似设计此前已经出现在 Galaxy S26 Ed",
+     "title": "苹果 Apple TV+ 原创喜剧《兄弟》定档 9 月 23 日，马修 · 麦康纳和伍迪 · 哈里森联袂主演",
+     "link": "https://www.ithome.com/0/994/298.htm",
+     "pubDate": "Tue, 25 Aug 2026 23:07:03 GMT",
+     "summary": "IT之家 8 月 26 日消息，Apple TV+ 下个月将推出一部全新的原创喜剧《兄弟》（Brothers），由马修 · 麦康纳和伍迪 · 哈里森联袂主演。苹果日前公布了该剧的预告片。 马修 · 麦康纳和伍迪 · 哈里森将在《兄弟》中出演经过虚构化处理的“自己”。这部剧将于 9 月 23 日星期三首播，首日上线两集，之后每周更新一集，直至 11 月 4 日。 该剧的主创是李 · 艾森伯格，他曾是经典情景喜剧《办公室》的重要创作成员，在该剧第 2 季至第 6 季期间担任编剧和制片人。 按照苹果官方公布的剧情简介，《兄弟》讲述了马修 · 麦康纳和伍迪 · 哈里森饰演的虚构版自己。两人多年的友谊，",
      "source": "IT之家",
-     "zh": "三星 Galaxy S27 Ultra 手机渲染图曝光：背面相机模组迎最大变化，保留 S Pen 插槽"
+     "zh": "苹果 Apple TV+ 原创喜剧《兄弟》定档 9 月 23 日，马修 · 麦康纳和伍迪 · 哈里森联袂主演"
     },
     {
-     "title": "苹果地图广告正式在美国、加拿大上线，且无法关闭",
-     "link": "https://www.ithome.com/0/994/289.htm",
-     "pubDate": "Tue, 25 Aug 2026 22:44:40 GMT",
-     "summary": "IT之家 8 月 26 日消息，苹果地图中的广告已经正式在美国和加拿大上线，这意味着 iPhone 和 iPad 用户在搜索地点以及查看“推荐地点”时，都可能看到广告内容。 苹果早在今年 3 月就宣布，计划在地图 App 中引入广告，并表示该功能将从夏末开始陆续推出。苹果近日向 9to5Mac 证实，过去几天里，部分用户已经开始看到地图广告，未来几周广告的投放范围还将进一步扩大。 用户在发起搜索时，“推荐地点”区域可能会显示广告。如果用户搜索的关键词被某家公司购买了广告位，那么相关广告也会出现在搜索结果中。广告将被置于搜索结果的顶部，每组搜索结果最多显示一条广告。 目前，苹果地图并没有提供关闭",
+     "title": "苹果为美国加拿大上架上线 Apple Maps 地图广告促销折扣计划，至高可获 15% 折扣",
+     "link": "https://www.ithome.com/0/994/297.htm",
+     "pubDate": "Tue, 25 Aug 2026 23:03:07 GMT",
+     "summary": "IT之家 8 月 26 日消息，苹果现已披露美国加拿大地区 Apple Maps 地图应用广告促销计划，在 2026 年 10 月 11 日前使用信用卡购买广告的“符合条件商家”，可获得每月广告支出费用的 15% 折扣，每月最高抵扣 1,000 美元 （IT之家注：现汇率约合 6,739 元人民币） ，优惠最长持续 12 个月，账单抵扣将在次月计入，具体资格及活动条款以苹果公布的规则为准。。 企业需要先在 Apple Maps 中认领自己的经营地点，之后才能使用 Apple Business 创建地图广告。已经使用 Apple Ads 投放广告的企业和广告代理商，则可以继续通过现有的 Appl",
      "source": "IT之家",
-     "zh": "苹果地图广告正式在美国、加拿大上线，且无法关闭"
+     "zh": "苹果为美国加拿大上架上线 Apple Maps 地图广告促销折扣计划，至高可获 15% 折扣"
+    },
+    {
+     "title": "AI 竞赛升温：曝 OpenAI 已预训练 Bel 模型：超 10T 参数，冲击通用人工智能",
+     "link": "https://www.ithome.com/0/994/296.htm",
+     "pubDate": "Tue, 25 Aug 2026 23:00:23 GMT",
+     "summary": "IT之家 8 月 26 日消息，消息源 @synthwavedd 今天（8 月 26 日）在 X 平台发布推文，爆料称 OpenAI 已完成预训练下一代模型， 内部代号为 Bel，是 Doug 模型的直接继任者，总产数量超过 10T。 消息称 OpenAI 希望将 Bel 模型打造成为 GPT-6 之后的基座模型，甚至冲击通用人工智能（AGI）阈值模型。 通用人工智能（Artificial General Intelligence，简称 AGI）是一种假设的智能系统，能够像人一样学习、理解和执行人类能做的任何智力任务。与当前只能处理特定任务的狭义人工智能不同，AGI 具备跨领域的泛化能力、推理",
+     "source": "IT之家",
+     "zh": "AI 竞赛升温：曝 OpenAI 已预训练 Bel 模型：超 10T 参数，冲击通用人工智能"
+    },
+    {
+     "title": "Anthropic 更新 Claude 记忆机制，打通 Cowork 与聊天的记忆功能",
+     "link": "https://www.ithome.com/0/994/295.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:59:38 GMT",
+     "summary": "IT之家 8 月 26 日消息，Anthropic 宣布更新 Claude Cowork 与聊天功能之间的记忆机制。此次更新将两个系统的记忆功能打通，实现统一管理。 Anthropic 表示：“Cowork 现在拥有了记忆功能，而且与您在聊天中使用的是同一套记忆。这意味着您无需反复解释背景信息，Claude 也能更好地接续此前的工作。” Anthropic 进一步解释称，当 Cowork 在云端执行任务时，它可以访问 Claude 从用户聊天记录中记住的信息；反过来，Cowork 中产生的相关记忆也能够在聊天中使用。 Anthropic 同时强调，涉及敏感话题的记忆功能默认处于关闭状态，但用户",
+     "source": "IT之家",
+     "zh": "Anthropic 更新 Claude 记忆机制，打通 Cowork 与聊天的记忆功能"
     },
     {
      "title": "历史无法预见AI的未来",
@@ -1786,12 +1802,12 @@ window.INDUSTRY_DATA = {
      "zh": "历史无法预见AI的未来"
     },
     {
-     "title": "八位堂推出“凝焰”XBOX 手柄 25 周年特别纪念款无线充电底座套装，国行定价 199 元",
-     "link": "https://www.ithome.com/0/994/288.htm",
-     "pubDate": "Tue, 25 Aug 2026 22:39:12 GMT",
-     "summary": "IT之家 8 月 26 日消息，为庆祝微软 XBOX 诞生 25 周年，8BitDo（八位堂）现推出一款“凝焰”XBOX 手柄 25 周年特别纪念款无线充电底座套装， 国行定价为 199 元 。 京东 八位堂“凝焰”XBOX 手柄 25 周年特别纪念款 无线充电底座套装 199 元 直达链接 该产品兼容微软官方推出的 XBOX 25 周年特别纪念版手柄，内置被动风道散热系统，配套 1000mAh 半固态锂电池包（用于安装在官方手柄上），可提供 26 小时续航。 IT之家附产品参数：",
-     "source": "IT之家",
-     "zh": "八位堂推出“凝焰”XBOX 手柄 25 周年特别纪念款无线充电底座套装，国行定价 199 元"
+     "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+     "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+     "pubDate": "Tue, 25 Aug 2026 22:21:06 +0000",
+     "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+     "source": "Ars Technica",
+     "zh": "The world's busiest spaceport is about to get a lot quieter, at least for now"
     },
     {
      "title": "Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)",
@@ -1829,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Python's pre-declared constants are kinda weird",
      "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
      "pubDate": "Tue, 25 Aug 2026 21:39:02 +0000",
-     "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 57 # Comments: 8",
+     "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 67 # Comments: 18",
      "source": "Hacker News",
      "zh": "Python's pre-declared constants are kinda weird"
     },
@@ -1874,18 +1890,10 @@ window.INDUSTRY_DATA = {
      "zh": "World humanoid robot games show runners breaking records, bursting into flames"
     },
     {
-     "title": "法国光学巨头依视路陆逊梯卡大量增持尼康股份，逼近 20% 法律上限",
-     "link": "https://www.ithome.com/0/994/287.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:51:20 GMT",
-     "summary": "IT之家 8 月 26 日消息，消息源 Nikon Rumors 上周（8 月 23 日）发文称，法国光学巨头依视路陆逊梯卡正在迅速增持尼康股份，当前持股比例已接近 20%。部分人士认为，依视路这种行为是在为收购尼康铺平道路。 IT之家在此援引 Nikon Rumors，依视路陆逊梯卡从 2024 年开始持续增持尼康股份，2024 年 10 月披露持股比例达 5.1%。到 2025 年 10 月，该公司手持的尼康股份已经达到 10.75%-10.8%，成为尼康第一大股东。 随后依视路陆逊梯卡获得日本政府根据《外汇及对外贸易法》作出的批准，可将尼康持股比例进一步提升至最高 20%。 2026 年",
-     "source": "IT之家",
-     "zh": "法国光学巨头依视路陆逊梯卡大量增持尼康股份，逼近 20% 法律上限"
-    },
-    {
      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
      "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
      "pubDate": "Tue, 25 Aug 2026 20:49:03 +0000",
-     "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 30 # Comments: 17",
+     "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 33 # Comments: 17",
      "source": "Hacker News",
      "zh": "When str.lower() is a security vulnerability in Python – Seth Larson"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "C2PA Cameras Do Not Survive Contact with Reality",
      "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
      "pubDate": "Tue, 25 Aug 2026 19:38:24 +0000",
-     "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 48 # Comments: 13",
+     "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 51 # Comments: 14",
      "source": "Hacker News",
      "zh": "C2PA Cameras Do Not Survive Contact with Reality"
     },
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "A brief history of federal lift ticket regulation",
      "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
      "pubDate": "Tue, 25 Aug 2026 19:25:43 +0000",
-     "summary": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 11 # Comments: 0",
      "source": "Hacker News",
      "zh": "A brief history of federal lift ticket regulation"
     },
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
      "source": "TechCrunch",
      "zh": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana"
-    },
-    {
-     "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-     "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
-     "pubDate": "Tue, 25 Aug 2026 18:22:50 +0000",
-     "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!",
-     "source": "TechCrunch",
-     "zh": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit"
     }
    ]
   },
@@ -1993,6 +1993,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Adam Mosseri says it's 'news to me' that Instagram employees limited his exposure to teen safety data",
+     "link": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/",
+     "pubDate": "Tue, 25 Aug 2026 23:08:06 +0000",
+     "summary": "The head of Instagram is the first high-profile exec to testify in the latest social media addiction trial.",
+     "source": "Engadget",
+     "zh": "Adam Mosseri says it's 'news to me' that Instagram employees limited his exposure to teen safety data"
+    },
+    {
+     "title": "Take a look at the Samsung Galaxy S27 Ultra in some fresh high-quality CAD renders",
+     "link": "https://www.gsmarena.com/take_a_look_at_the_samsung_galaxy_s27_ultra_in_some_fresh_highquality_cad_renders-news-74333.php",
+     "pubDate": "Wed, 26 Aug 2026 01:02:02 +0200",
+     "summary": "Yesterday a rough CAD render of the upcoming Samsung Galaxy S27 Ultra leaked, and now we have a set of much more polished and higher-resolution renders of the device to look at. As is obvious from the very first look, Samsung is redesigning the camera island, opting for an Apple-like (or rather, Poc",
+     "source": "GSMArena",
+     "zh": "Take a look at the Samsung Galaxy S27 Ultra in some fresh high-quality CAD renders"
+    },
+    {
+     "title": "Wildlife Photographer of the Year offers a first look at its standout 2026 images",
+     "link": "https://www.dpreview.com/photography/wildlife-photographer-of-the-year-offers-a-first-look-at-its-standout-2026-images/",
+     "pubDate": "Tue, 25 Aug 2026 23:01:00 +0000",
+     "summary": "Before category winners are announced on October 13, the Natural History Museum is giving the public its first look at the competition's scope through 15 highly commended photographs drawn from a record-breaking submission pool.",
+     "source": "DPReview",
+     "zh": "Wildlife Photographer of the Year offers a first look at its standout 2026 images"
+    },
     {
      "title": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar",
      "link": "https://9to5mac.com/2026/08/25/notability-can-now-organize-meeting-recordings-transcriptions-and-notes-around-your-calendar/",
@@ -2080,14 +2104,6 @@ window.INDUSTRY_DATA = {
      "summary": "Meanwhile, paid accounts can configure prompts to trigger when things happen in Gmail, Slack or GitHub.",
      "source": "Engadget",
      "zh": "Free accounts can now access ChatGPT's upgraded task scheduling tool"
-    },
-    {
-     "title": "Check out this cool Cyberpunk 2077-edition Commodore 64",
-     "link": "https://www.engadget.com/2243450/commodore-64-cyberpunk-2077-commodore-77-edition/",
-     "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-     "summary": "The revived Commodore has teamed up with CD Projekt Red to create this 2K77-themed Commodore 77.",
-     "source": "Engadget",
-     "zh": "Check out this cool Cyberpunk 2077-edition Commodore 64"
     },
     {
      "title": "Anbernic spills the specs of its Nintendo Switch Lite look-alike",
@@ -2216,22 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple has updated its desktop Mac lineup with new range of processors for 2026. The Mac mini and the Mac Studio feature the latest generation of Apple's M-series chips, making them the most powerful computers in the company's lineup. The updated Mac mini now comes with the latest generation M6 chip.",
      "source": "GSMArena",
      "zh": "Apple introduces new Mac mini and Mac Studio with M6 and M5 chips"
-    },
-    {
-     "title": "Apple M6 and M5 Ultra chips announced",
-     "link": "https://www.gsmarena.com/apple_m6_and_m5_ultra_chips_announced-news-74332.php",
-     "pubDate": "Tue, 25 Aug 2026 18:09:02 +0200",
-     "summary": "Apple announced its latest M-series chips today with the Apple M6 and M5 Ultra. Both are aimed at professional users who want the best macOS performance in more demanding tasks like AI modeling, 3D rendering and complex video editing. Apple M6 The M6 is built on a 2nm process, which allowed Cupertin",
-     "source": "GSMArena",
-     "zh": "Apple M6 and M5 Ultra chips announced"
-    },
-    {
-     "title": "Redmi 17C 5G goes official with Dimensity 6300 SoC and 6,000mAh battery",
-     "link": "https://www.gsmarena.com/redmi_17c_5g_goes_official_with_dimensity_6300_soc_and_6000mah_battery_-news-74324.php",
-     "pubDate": "Tue, 25 Aug 2026 17:04:02 +0200",
-     "summary": "Following a premature retailer listing in Europe earlier this month, the Redmi 17C 5G is now officially unveiled. As the name implies, this is the 5G counterpart to the Redmi 17C 4G and, as such, features a Dimensity 6300 chipset. It is paired with 4GB of LPDDR4X RAM and 64/128GB of UFS 2.2 storage.",
-     "source": "GSMArena",
-     "zh": "Redmi 17C 5G goes official with Dimensity 6300 SoC and 6,000mAh battery"
     }
    ]
   },
@@ -2241,6 +2241,62 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Google Cloud launches AI platform for financial professionals",
+     "link": "https://www.finextra.com/newsarticle/48299/google-cloud-launches-ai-platform-for-financial-professionals?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 26 Aug 2026 00:01:00 GMT",
+     "summary": "Google Cloud has unveiled a purpose-built agentic AI offering engineered for financial professionals, with Deutsche Bank signed up as an early adopter.",
+     "source": "Finextra",
+     "zh": "Google Cloud launches AI platform for financial professionals"
+    },
+    {
+     "title": "Visa joins MAS-led project to pilot stablecoin settlement",
+     "link": "https://www.finextra.com/newsarticle/48300/visa-joins-mas-led-project-to-pilot-stablecoin-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 26 Aug 2026 00:01:00 GMT",
+     "summary": "Visa has joined a Monetary Authority of Singapore (MAS)-led project focused on connecting traditional payments and stablecoin networks.",
+     "source": "Finextra",
+     "zh": "Visa joins MAS-led project to pilot stablecoin settlement"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年8月26日",
+     "link": "https://wallstreetcn.com/articles/3780294",
+     "pubDate": "Wed, 26 Aug 2026 07:08:29 +0800",
+     "summary": "华见早安之声 要闻精选 1、美伊停火谈判传重大进展，双方据称就霍尔木兹自由通航达成共识，布油盘中一度跌逾6% 2、美国8月谘商会消费者信心指数降至89.4，为七个月低点 3、美联储柯林斯称若通胀未持续改善将考虑加息，AI基建推高核心商品通胀 4、加拿大宣布200亿美元对美报复性关税，钢铝关税翻倍至50%，特朗普威胁将安大略湖更名“美利坚湖” 5、Anthropic拟向投资者披露超30万亿美元市场潜力，IPO估值目标约2万亿美元 6、苹果时隔两年Mac mini上新，首发2纳米芯片M6，库克卸任前再掀新品攻势 7、伦铜纽铜齐创历史新高，关税预期与库存错配推动现货升水扩大 8、老铺黄金上半年营收同",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年8月26日"
+    },
+    {
+     "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+     "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+     "pubDate": "Tue, 25 Aug 2026 23:01:00 GMT",
+     "summary": "“The property is very old and requires significant ongoing maintenance.”",
+     "source": "MarketWatch",
+     "zh": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?"
+    },
+    {
+     "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
+     "link": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
+     "pubDate": "Tue, 25 Aug 2026 22:57:00 GMT",
+     "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed.",
+     "source": "MarketWatch",
+     "zh": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers"
+    },
+    {
+     "title": "美联储明年票委警告：美国债务膨胀或令投资者抛售美债",
+     "link": "https://wallstreetcn.com/articles/3780292",
+     "pubDate": "Wed, 26 Aug 2026 06:52:20 +0800",
+     "summary": "30年期美债收益率升至2008年金融危机前水平，货币政策空间被压缩。 美联储一位官员发出罕见警告：美国政府债务持续扩张，最终可能导致债券买家退场。这一表态在30年期美债收益率攀升至逾十七年高点的背景下，凸显出财政压力对货币政策与市场的深层冲击。 里士满联储主席Thomas Barkin（2027年FOMC票委）将当前债务水平描述为美联储必须应对的持续性\"逆风\"。美国国债规模目前已突破40万亿美元，30年期美债收益率受财政忧虑与通胀风险共同推动，升至2008年全球金融危机前从未见过的高点。 这一警告的影响不止于债市。随着长端收益率攀升，企业债与股票估值均面临重新定价压力，外国央行、养老基金等传统",
+     "source": "华尔街见闻",
+     "zh": "美联储明年票委警告：美国债务膨胀或令投资者抛售美债"
+    },
+    {
+     "title": "私募退出困局难解，结构化股权成“回血”新工具",
+     "link": "https://wallstreetcn.com/articles/3780291",
+     "pubDate": "Wed, 26 Aug 2026 06:51:33 +0800",
+     "summary": "私募股权行业正以一种新型融资工具应对长达数年的流动性危机。 在利率高企、资产出售受阻的背景下， 全球大型基金转向\"结构化股权\"交易，通过与Apollo Global Management、贝恩资本等私募资本巨头达成定制化融资协议，在无需出售资产的前提下向投资者返还现金。 这一趋势正从美欧向亚洲蔓延，并已成为行业应对退出僵局的核心手段之一。 目前，全球收购基金共持有约3.8万亿美元的未售出资产，平均持有期已延长至七年。这一局面令衡量基金回报能力的核心指标——已缴资本分配率（DPI）——去年跌至2000年以来的历史低位。麦肯锡合伙人Rahel Schneider将其称为行业的\"结构性问题\"。 结构",
+     "source": "华尔街见闻",
+     "zh": "私募退出困局难解，结构化股权成“回血”新工具"
+    },
     {
      "title": "Anthropic加速IPO筹备：提拔新总法律顾问，前任转任国际特别大使",
      "link": "https://wallstreetcn.com/articles/3780293",
@@ -2258,14 +2314,6 @@ window.INDUSTRY_DATA = {
      "zh": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved."
     },
     {
-     "title": "新版公积金条例彰显“投资于人”理念",
-     "link": "http://www.eeo.com.cn/2026/0826/1011174.shtml",
-     "pubDate": "Wed, 26 Aug 2026 06:39:16 +0800",
-     "summary": "灵活就业群体的实际情况不同，地区发展水平也有差异。扩大住房公积金制度覆盖面要尊重灵活就业人员意愿，不搞强制和“一刀切”，灵活就业人员可自...",
-     "source": "经济观察网",
-     "zh": "新版公积金条例彰显“投资于人”理念"
-    },
-    {
      "title": "美民主党议员敦促沃什维持FOMC每年8次会议：担忧削弱政策响应能力",
      "link": "https://wallstreetcn.com/articles/3780289",
      "pubDate": "Wed, 26 Aug 2026 06:17:34 +0800",
@@ -2280,14 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Par Pacific to sell Laramie Energy assets in $485M deal"
-    },
-    {
-     "title": "渝论场｜百日攻坚 看重庆如何淬炼基层避险转移实战能力",
-     "link": "http://www.eeo.com.cn/2026/0826/1011170.shtml",
-     "pubDate": "Wed, 26 Aug 2026 06:13:13 +0800",
-     "summary": "重庆城市风景。资...",
-     "source": "经济观察网",
-     "zh": "渝论场｜百日攻坚 看重庆如何淬炼基层避险转移实战能力"
     },
     {
      "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
@@ -2320,6 +2360,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Wilton Resources targets up to a C$625K raise in repriced financing"
+    },
+    {
+     "title": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html",
+     "pubDate": "2026-08-25T21:47:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Louis Navellier has blunt message on Nvidia’s reign before earnings"
     },
     {
      "title": "Gold back on path to $5,000/oz as U.S. debt fears rise, Natixis says",
@@ -2402,46 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs"
     },
     {
-     "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
-     "link": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
-     "pubDate": "Tue, 25 Aug 2026 20:56:00 GMT",
-     "summary": "Kodiak AI logged more than 40,000 paid driverless hours through the second quarter and is pushing to offer driverless highway operations by the end of 2026.",
-     "source": "MarketWatch",
-     "zh": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon"
-    },
-    {
-     "title": "SpaceX to build Musk’s vision for a spaceport that until now ‘only existed in science fiction’",
-     "link": "https://www.marketwatch.com/story/spacex-to-build-musks-vision-for-a-spaceport-that-until-now-only-existed-in-science-fiction-f8482712?mod=mw_rss_topstories",
-     "pubDate": "Tue, 25 Aug 2026 20:54:00 GMT",
-     "summary": "SpaceX says it will invest $100 billion to launch thousands of rockets from “Starbase, Louisiana,” with construction set to start in 2027.",
-     "source": "MarketWatch",
-     "zh": "SpaceX to build Musk’s vision for a spaceport that until now ‘only existed in science fiction’"
-    },
-    {
-     "title": "Anthropic拟向投资者披露超30万亿美元市场潜力，IPO估值目标约2万亿美元",
-     "link": "https://wallstreetcn.com/articles/3780285",
-     "pubDate": "Wed, 26 Aug 2026 04:44:13 +0800",
-     "summary": "Anthropic正就IPO筹备向投资者描绘一幅前所未有的市场愿景。 8月25日，据《华尔街日报》援引知情人士透露，这家Claude聊天机器人制造商拟告知投资者，其潜 在市场总规模（TAM）将超过30万亿美元，超越SpaceX此前创下的28.5万亿美元纪录。 Anthropic预计2028年收入将达约1900亿至2000亿美元，IPO估值目标约为2万亿美元，高于SpaceX上市时获得的1.77万亿美元估值。 该公司拟筹资规模最高可达1000亿美元。 预计公司将在未来数周内披露IPO财务文件， 最快或于9月或10月初完成上市。 与此同时，预测市场平台Polymarket数据显示，Anthropi",
-     "source": "华尔街见闻",
-     "zh": "Anthropic拟向投资者披露超30万亿美元市场潜力，IPO估值目标约2万亿美元"
-    },
-    {
-     "title": "SpaceX拟斥资1000亿美元在路易斯安那州建第三处星舰发射基地",
-     "link": "https://wallstreetcn.com/articles/3780287",
-     "pubDate": "Wed, 26 Aug 2026 04:44:06 +0800",
-     "summary": "SpaceX计划在美国路易斯安那州南部海岸斥资1000亿美元建设新发射基地，进一步扩展其星舰火箭的运营能力。 8月25日，据彭博报道，路易斯安那州州长Jeff Landry与SpaceX高管联合宣布这一计划，授权公司在沿海地区Pecan Island约12.5万英亩土地上建设该设施。 新基地将允许星舰向南越过墨西哥湾发射，并进入地球极轨道——这对SpaceX计划部署多达100万颗数据中心卫星的星座项目至关重要。 SpaceX首席执行官埃隆·马斯克此前曾设定雄心勃勃的目标，预计星舰在全面开发完成后将实现每日多次发射。拥有多处发射地点将赋予SpaceX更大灵活性以提升发射频次，尽管星舰今年迄今仅完",
-     "source": "华尔街见闻",
-     "zh": "SpaceX拟斥资1000亿美元在路易斯安那州建第三处星舰发射基地"
-    },
-    {
-     "title": "美联储柯林斯：能否维持利率不变取决于通胀进展，若没有持续改善将考虑加息",
-     "link": "https://wallstreetcn.com/articles/3780284",
-     "pubDate": "Wed, 26 Aug 2026 04:17:43 +0800",
-     "summary": "波士顿联储主席苏珊·柯林斯表示，她目前支持维持利率不变，但这一立场取决于通胀继续朝美联储2%的目标回落，并取得更多进展。 柯林斯周二在波士顿联储发表的一篇文章中写道： “维持当前联邦基金利率目标区间，需要继续看到通胀确实正在下降的证据。如果持续的通胀改善未能出现，我认为近期适当收紧政策将是合适的。” 美联储官员下一次会议定于9月15日至16日在华盛顿举行。 柯林斯表示，近期通胀数据反映出潜在价格压力有所减弱，这“令人略感鼓舞”，但她也指出，月度数据可能存在较大波动。“近期的改善能否持续，仍有待观察。” 美联储官员在7月会议上维持利率不变。不过，有3名政策制定者支持加息25个基点，反映出官员们对",
-     "source": "华尔街见闻",
-     "zh": "美联储柯林斯：能否维持利率不变取决于通胀进展，若没有持续改善将考虑加息"
-    },
-    {
      "title": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
      "link": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
      "pubDate": "Tue, 25 Aug 2026 19:00:07 GMT",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
      "source": "CNBC",
      "zh": "Stanley Druckenmiller leads doubters who think Bessent&apos;s bond ploys will fail"
-    },
-    {
-     "title": "期货市场资金总量达2.64万亿元 较去年底增长23%",
-     "link": "http://www.eeo.com.cn/2026/0826/1011125.shtml",
-     "pubDate": "Wed, 26 Aug 2026 00:52:14 +0800",
-     "summary": "8月24日，中国期货市场监控中心（以下简称“期货监控中心”）发布数据显示，截至今年7月底，期货市场资金总量达2.64万亿元，较2025年底增长23%；期货公司客户权益合计2.49万亿元，较2025年底增长24%。 安粮期货常务副总经理、董事会秘书余萍向《证券日报》记者表示，年内期货市场资金总量及客户权益持续增长，主要受中长期资金入市提速和衍生品工具日益丰富等因素影响。 格林大华期货副总经理、首席专家王骏告诉记...",
-     "source": "经济观察网",
-     "zh": "期货市场资金总量达2.64万亿元 较去年底增长23%"
     }
    ]
   },
@@ -2504,6 +2504,14 @@ window.INDUSTRY_DATA = {
      "summary": "Pennsylvania health officials have reported two recent deaths from measles, marking the United States' first deaths from the highly infectious disease in 2026.",
      "source": "Live Science",
      "zh": "2 people die of measles in Pennsylvania as vaccination rates drop across the nation"
+    },
+    {
+     "title": "Lab supply companies have been selling antibodies using manipulated images",
+     "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+     "pubDate": "Tue, 25 Aug 2026 16:16:57 +0000",
+     "summary": "Image changes that would get a paper retracted are widespread among suppliers.",
+     "source": "Ars Technica Science",
+     "zh": "Lab supply companies have been selling antibodies using manipulated images"
     },
     {
      "title": "A new cancer vaccine may keep melanoma from coming back",
@@ -2720,14 +2728,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
      "source": "Ars Technica Science",
      "zh": "Putting mice into hibernation causes a major loss of synapses"
-    },
-    {
-     "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-     "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-     "pubDate": "Fri, 21 Aug 2026 14:53:32 +0000",
-     "summary": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
-     "source": "Quanta Magazine",
-     "zh": "‘Huge Breakthrough’ in the Math of Imbalance"
     }
    ]
   }
