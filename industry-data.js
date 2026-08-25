@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/26 04:17:18",
+ "generated_at": "2026/8/26 04:54:32",
  "recent_days": 7,
  "industries": [
   {
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "STAT+: Sword Health to acquire Headspace, according to filing",
+     "link": "https://www.statnews.com/2026/08/25/sword-health-to-acquire-headspace-per-regulatory-filing/?utm_campaign=rss",
+     "pubDate": "Tue, 25 Aug 2026 20:46:14 +0000",
+     "summary": "Sword Health, a digital health company plans to acquire mental health services provider Headspace, according to a regulatory filing.",
+     "source": "STAT News",
+     "zh": "STAT+: Sword Health to acquire Headspace, according to filing"
+    },
+    {
      "title": "In Massachusetts, Latest Annual Snapshot Shows a Tale of Two Biopharmas",
      "link": "https://www.genengnews.com/topics/translational-medicine/in-massachusetts-latest-annual-snapshot-shows-a-tale-of-two-biopharmas/",
      "pubDate": "Tue, 25 Aug 2026 19:17:22 +0000",
@@ -1210,14 +1218,6 @@ window.INDUSTRY_DATA = {
      "zh": "STAT+: Turkish antitrust authorities probe Teva for allegedly gaming the patent system, disparaging rival drugs"
     },
     {
-     "title": "STAT+: Pharmalittle: We’re reading about RFK Jr. vaccine disclosures, a Merck loss over Medicare prices, and more",
-     "link": "https://www.statnews.com/pharmalot/2026/08/25/rfk-vaccine-disclosure-merck-court-loss-over-medicare/?utm_campaign=rss",
-     "pubDate": "Tue, 25 Aug 2026 13:23:22 +0000",
-     "summary": "Democratic senators said RFK Jr.'s recent explanation of how he disposed of a financial stake in Gardasil litigation conflicts with his earlier answers",
-     "source": "STAT News",
-     "zh": "STAT+: Pharmalittle: We’re reading about RFK Jr. vaccine disclosures, a Merck loss over Medicare prices, and more"
-    },
-    {
      "title": "OmicsBank raises $2.25M to bring overseas patient data to biopharma",
      "link": "https://endpoints.news/omicsbank-raises-2-25m-to-bring-overseas-patient-data-to-biopharma/",
      "pubDate": "Tue, 25 Aug 2026 13:00:57 +0000",
@@ -1297,6 +1297,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
+     "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/",
+     "pubDate": "Tue, 25 Aug 2026 20:20:58 +0000",
+     "summary": "NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama. Launched in 2024, the challenge incentivizes the invention of new recycling systems that could support no",
+     "source": "NASA",
+     "zh": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama"
+    },
     {
      "title": "'Aliens: The Video Games' author Mike Diver on overlooked Alien games, tracking down retro game developers, and the future of the Xenomorph (interview)",
      "link": "https://www.space.com/entertainment/space-books/aliens-the-video-games-author-mike-diver-on-overlooked-alien-games-tracking-down-retro-game-developers-and-the-future-of-the-xenomorph-interview",
@@ -1426,14 +1434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat"
     },
     {
-     "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
-     "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
-     "pubDate": "Tue, 25 Aug 2026 13:00:00 +0000",
-     "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engi",
-     "source": "NASA",
-     "zh": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions"
-    },
-    {
      "title": "The Aerospace Corp’s Disksat Gains Commercial Traction",
      "link": "https://payloadspace.com/the-aerospace-corps-disksat-gains-commercial-traction/",
      "pubDate": "Tue, 25 Aug 2026 12:00:00 +0000",
@@ -1546,12 +1546,12 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
-     "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
-     "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
-     "pubDate": "Tue, 25 Aug 2026 19:50:16 GMT",
-     "summary": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
-     "source": "Dark Reading",
-     "zh": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw"
+     "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+     "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+     "pubDate": "Tue, 25 Aug 2026 16:25:26 -0400",
+     "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+     "source": "BleepingComputer",
+     "zh": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes"
     },
     {
      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
@@ -1576,14 +1576,6 @@ window.INDUSTRY_DATA = {
      "summary": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
      "source": "BleepingComputer",
      "zh": "Massive DDoS attack disrupts Norway’s government digital services"
-    },
-    {
-     "title": "Is Cyber Facing an Affordability Crisis?",
-     "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
-     "pubDate": "Tue, 25 Aug 2026 14:53:13 GMT",
-     "summary": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.",
-     "source": "Dark Reading",
-     "zh": "Is Cyber Facing an Affordability Crisis?"
     },
     {
      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
@@ -1674,14 +1666,6 @@ window.INDUSTRY_DATA = {
      "zh": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode"
     },
     {
-     "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-     "pubDate": "Tue, 25 Aug 2026 08:04:02 -0400",
-     "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
-     "source": "BleepingComputer",
-     "zh": "Hackers breached over 270 Zimbra servers in ongoing attacks"
-    },
-    {
      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
      "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
      "pubDate": "Tue, 25 Aug 2026 17:26:15 +0530",
@@ -1704,38 +1688,6 @@ window.INDUSTRY_DATA = {
      "summary": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices. The post First Malware Built Specifically for Car Head Units Fuels Botnet appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "First Malware Built Specifically for Car Head Units Fuels Botnet"
-    },
-    {
-     "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
-     "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
-     "pubDate": "Mon, 24 Aug 2026 21:46:55 GMT",
-     "summary": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
-     "source": "Dark Reading",
-     "zh": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch"
-    },
-    {
-     "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
-     "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
-     "pubDate": "Mon, 24 Aug 2026 20:51:27 GMT",
-     "summary": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
-     "source": "Dark Reading",
-     "zh": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text"
-    },
-    {
-     "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
-     "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
-     "pubDate": "Mon, 24 Aug 2026 15:02:32 GMT",
-     "summary": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
-     "source": "Dark Reading",
-     "zh": "Tricky 'SynkLoader' Multitool May Herald Ransomware"
-    },
-    {
-     "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
-     "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
-     "pubDate": "Mon, 24 Aug 2026 14:34:59 GMT",
-     "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
-     "source": "Dark Reading",
-     "zh": "ToxicPanda Banking Trojan Matures Into Enterprise Threat"
     }
    ]
   },
@@ -1746,28 +1698,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "法国光学巨头依视路陆逊梯卡大量增持尼康股份，逼近 20% 法律上限",
+     "link": "https://www.ithome.com/0/994/287.htm",
+     "pubDate": "Tue, 25 Aug 2026 20:51:20 GMT",
+     "summary": "IT之家 8 月 26 日消息，消息源 Nikon Rumors 上周（8 月 23 日）发文称，法国光学巨头依视路陆逊梯卡正在迅速增持尼康股份，当前持股比例已接近 20%。部分人士认为，依视路这种行为是在为收购尼康铺平道路。 IT之家在此援引 Nikon Rumors，依视路陆逊梯卡从 2024 年开始持续增持尼康股份，2024 年 10 月披露持股比例达 5.1%。到 2025 年 10 月，该公司手持的尼康股份已经达到 10.75%-10.8%，成为尼康第一大股东。 随后依视路陆逊梯卡获得日本政府根据《外汇及对外贸易法》作出的批准，可将尼康持股比例进一步提升至最高 20%。 2026 年",
+     "source": "IT之家",
+     "zh": "法国光学巨头依视路陆逊梯卡大量增持尼康股份，逼近 20% 法律上限"
+    },
+    {
+     "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+     "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+     "pubDate": "Tue, 25 Aug 2026 20:44:12 +0000",
+     "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.",
+     "source": "TechCrunch",
+     "zh": "X sends cease-and-desist to open-source project Nitter over alleged scraping"
+    },
+    {
+     "title": "《最终幻想 7：启示录》游戏第二支预告公布，2027 年春季发售",
+     "link": "https://www.ithome.com/0/994/286.htm",
+     "pubDate": "Tue, 25 Aug 2026 20:35:03 GMT",
+     "summary": "IT之家 8 月 26 日消息，史克威尔艾尼克斯今天在 2026 科隆游戏展放出《最终幻想 7：启示录》的第二支预告片。 本作将于 2027 年春季发售，登陆 PC、Switch 2、PS5 和 Xbox Series X|S 平台 。 IT之家了解到， 《最终幻想 7：启示录》是《最终幻想 7》重制三部曲的终章 。主角克劳德 · 史特莱夫将在游戏中乘坐飞空艇“海温德号”遨游天际，自由探索广袤的开放世界。 本次预告重点展示了克劳德与敌人“星球守护者”的战斗画面。红宝石、绿宝石和最终之剑都将在游戏中以全新造型登场，片中还出现了泰坦大先生的身影。",
+     "source": "IT之家",
+     "zh": "《最终幻想 7：启示录》游戏第二支预告公布，2027 年春季发售"
+    },
+    {
+     "title": "城市模拟游戏《乐高：天际线》亮相 2026 科隆游戏展",
+     "link": "https://www.ithome.com/0/994/285.htm",
+     "pubDate": "Tue, 25 Aug 2026 20:25:41 GMT",
+     "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，城市模拟游戏《 乐高：天际线 》正式公布。 作为乐高和《都市：天际线》两大 IP 的联合作品，《乐高：天际线》将登陆 PC、Xbox Series X|S、PS5、Switch 2 平台。 在这款自由度拉满的城市建造游戏里，你的每个抉择都将唤醒一座充满生机的都市。你可以大兴土木，也可以静心雕琢细微之处。没有条条框框，只有无限的空间与唯一的规则：打造只属于你的城市。 IT之家附游戏宣传片截图如下：",
+     "source": "IT之家",
+     "zh": "城市模拟游戏《乐高：天际线》亮相 2026 科隆游戏展"
+    },
+    {
+     "title": "《过山车大亨》系列重启：雅达利公布全新作品，今年冬季开启抢先体验",
+     "link": "https://www.ithome.com/0/994/284.htm",
+     "pubDate": "Tue, 25 Aug 2026 20:23:50 GMT",
+     "summary": "IT之家 8 月 26 日消息，雅达利今天在 2026 科隆游戏展公布《过山车大亨 Wonderworks》，意味着《过山车大亨》这款沉寂多年的模拟经营系列游戏终于迎来重启。 IT之家了解到，《过山车大亨》上一次推出新作还是 2016 年的《过山车大亨世界》，但这款游戏当时口碑不佳，如今雅达利选择再次启用这一经典 IP。 据介绍，《过山车大亨 Wonderworks》由 Springloaded 开发组制作， 画面风格较为卡通化 。玩家将在游戏中建造并经营自己的主题乐园，从管理财务到定制游乐设施，掌控乐园的方方面面。 同时，本作采用非常“真实”的物理引擎，游乐设施会突然发生夸张的故障，让公园游",
+     "source": "IT之家",
+     "zh": "《过山车大亨》系列重启：雅达利公布全新作品，今年冬季开启抢先体验"
+    },
+    {
+     "title": "国产抗日 FPS 游戏《抵抗者》2026 科隆游戏展最新实机演示公布",
+     "link": "https://www.ithome.com/0/994/283.htm",
+     "pubDate": "Tue, 25 Aug 2026 20:15:56 GMT",
+     "summary": "IT之家 8 月 26 日消息，国产抗日 FPS 游戏《 抵抗者 》今日亮相 2026 科隆游戏展，公布了最新实机演示视频。 《抵抗者》由杭州浩汤科技开发、4Divinity 发行，是一款以 20 世纪 40 年代中国抗日战争为背景的第一人称射击游戏。IT之家此前报道，游戏官方此前已经在 7 月 30 日公布了最新实机演示，并在 ChinaJoy 上开放试玩。 这款游戏采用虚幻 5 引擎开发，在 FPS 玩法基础上融入谍战、潜入、解谜等元素。在叙事和玩法设计上，游戏采用类似《使命召唤》的战役关卡模式，全作规划四大章节，分别对应春、夏、秋、冬四个主题。玩家将扮演抗联战士、情报员等不同身份，前往包",
+     "source": "IT之家",
+     "zh": "国产抗日 FPS 游戏《抵抗者》2026 科隆游戏展最新实机演示公布"
+    },
+    {
      "title": "《巫师 3：狂猎 — 重制版》官宣 9 月 29 日上线：所有玩家免费升级，两部资料片免费送",
      "link": "https://www.ithome.com/0/994/282.htm",
      "pubDate": "Tue, 25 Aug 2026 20:05:04 GMT",
-     "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，CDPR 官宣《巫师 3：狂猎》重制版（Remastered）游戏将于 9 月 29 日上线， 所有已拥有游戏的玩家均可免费升级 。 《巫师 3：狂猎 — 重制版》将带来一系列改进， 包括画面、玩法等多方面升级 。游戏将于 9 月 29 日上线，且所有已在 GOG、Steam、Epic Games Store、PlayStation 5 和 Xbox Series X|S 平台拥有本作的玩家均可免费升级至重制版。本作目前也已在 Battle.net 和 Nintendo Switch 2 平台开放预购。 IT之家从",
+     "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，CDPR 官宣《巫师 3：狂猎 — 重制版》游戏将于 9 月 29 日上线， 所有已拥有游戏的玩家均可免费升级 。 《巫师 3：狂猎 — 重制版》将带来一系列改进， 包括画面、玩法等多方面升级 。游戏将于 9 月 29 日上线，且所有已在 GOG、Steam、Epic Games Store、PlayStation 5 和 Xbox Series X|S 平台拥有本作的玩家均可免费升级至重制版。本作目前也已在 Battle.net 和 Nintendo Switch 2 平台开放预购。 IT之家从直播获悉，所有目前",
      "source": "IT之家",
      "zh": "《巫师 3：狂猎 — 重制版》官宣 9 月 29 日上线：所有玩家免费升级，两部资料片免费送"
-    },
-    {
-     "title": "《寂静岭：Townfall》亮相科隆游戏展，新预告出现巨型怪物",
-     "link": "https://www.ithome.com/0/994/281.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:02:21 GMT",
-     "summary": "IT之家 8 月 26 日消息，科乐美今天在 2026 科隆游戏展公布《Silent Hill：Townfall》（寂静岭：小镇陷落）的全新预告片。 本作将于 9 月 24 日正式发售 ，登陆 PC（Steam、Epic）和 PS5 平台。 IT之家从预告视频中获悉，《寂静岭：小镇陷落》是《寂静岭》系列最新作品。游戏内讲述男主 Simon O'Dell（西蒙 · 奥德尔）踏上圣阿梅莉亚岛（St. Amelia）后，在浓雾笼罩的小镇中不断徘徊的故事。 预告片中，西蒙在小镇里遭遇种种恐怖场景。他的手持通讯设备信号断断续续，诡异的巨大怪物趁机从浓雾之中突然袭来，让西蒙陷入恐惧之中。",
-     "source": "IT之家",
-     "zh": "《寂静岭：Townfall》亮相科隆游戏展，新预告出现巨型怪物"
-    },
-    {
-     "title": "《暗影火炬城》原班团队打造：国产游戏《动物朋克》公布全新实机演示",
-     "link": "https://www.ithome.com/0/994/280.htm",
-     "pubDate": "Tue, 25 Aug 2026 19:55:54 GMT",
-     "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，国产游戏《动物朋克》公布了一段全新实机演示视频。 《动物朋克》是由 《暗影火炬城》原班团队 钛核工作室打造的国产动作游戏，本次带来全新的游戏实机演示内容，展示了新的战斗画面与场景。 打碎枷锁，夺回家园！ 兔子雷顿率领动物小队深入神秘的獭獭村，机械军团的铁蹄已悄然踏进这片宁静的水泽秘境。世代栖居的獭獭居民、兵刃相向的水獭与旱獭勇士，都将卷入未知的命运漩涡...... IT之家注意到，在 2025 年初的 CES 2025 英伟达新显卡平台发布会上， 英伟达与上海钛核共同发布了《动物朋克》的技术演示 ，聚焦在使用离线 ",
-     "source": "IT之家",
-     "zh": "《暗影火炬城》原班团队打造：国产游戏《动物朋克》公布全新实机演示"
     },
     {
      "title": "Skild AI unveils S1, a robotics foundation model that it says can learn tasks never seen during pretraining, using a single video demo, without fine-tuning (Skild AI)",
@@ -1778,36 +1762,12 @@ window.INDUSTRY_DATA = {
      "zh": "Skild AI unveils S1, a robotics foundation model that it says can learn tasks never seen during pretraining, using a single video demo, without fine-tuning (Skild AI)"
     },
     {
-     "title": "《昭和米国物语》游戏新实机预告片公开，日笠阳子为主角千草蝶子配音",
-     "link": "https://www.ithome.com/0/994/279.htm",
-     "pubDate": "Tue, 25 Aug 2026 19:51:06 GMT",
-     "summary": "IT之家 8 月 26 日消息，由铃空游戏开发的《昭和米国物语》今日亮相 2026 科隆游戏展。本作是一款角色扮演游戏， 预计今年发售 。 IT之家了解到，官方在科隆游戏展现场还放出了本作的实机预告片，以下是视频： 官方还在现场公布了本作的日语配音演员阵容， 主角千草蝶子将由日笠阳子担任声优 ，其他角色如下： Michael Hero（迈克尔 · 英雄）：石川英郎 Baba（巴巴）：大塚芳忠 睦月晶虎：绿川光 剧情方面，《昭和米国物语》将故事发生时间设定在架空的“昭和 66 年”（公元 1991 年）。 那时候的日本达到了泡沫经济顶峰 ， 凭借强大财力买下了美国 。随着两国文化不断发生碰撞与融",
-     "source": "IT之家",
-     "zh": "《昭和米国物语》游戏新实机预告片公开，日笠阳子为主角千草蝶子配音"
-    },
-    {
-     "title": "育碧《魔法门之英雄无敌 3 重制版》游戏《上古起源》官宣，已上架 Steam",
-     "link": "https://www.ithome.com/0/994/278.htm",
-     "pubDate": "Tue, 25 Aug 2026 19:49:13 GMT",
-     "summary": "IT之家 8 月 26 日消息，育碧《 魔法门之英雄无敌 3 重制版 》游戏今日亮相 2026 科隆游戏展开幕夜直播，发售日待定，支持中文。 IT之家查询发现， 游戏已上架 Steam 商店 ，定名为《 上古起源 》。在这部重制版中，玩家将再度体验这部最受欢迎、广受好评的《魔法门之英雄无敌》作品，及其两部资料片，感受回合制策略游戏的魅力。 玩家将看到统一的故事线来体验原版的战役， 还有新增序幕、尾声及电影级的过场动画 ，体验全面升级的画面、更为细腻的动画以及现代音频技术。 玩家可以从九大独特阵营中选择 ，每一方都拥有独特的玩法与奇幻的生物。探索世界、搜罗资源和宝物、发展城镇、培养英雄与军队，带",
-     "source": "IT之家",
-     "zh": "育碧《魔法门之英雄无敌 3 重制版》游戏《上古起源》官宣，已上架 Steam"
-    },
-    {
      "title": "Perplexity Portable Computer",
      "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
      "pubDate": "Tue, 25 Aug 2026 19:41:48 +0000",
-     "summary": "Article URL: https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai Comments URL: https://news.ycombinator.com/item?id=49439535 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai Comments URL: https://news.ycombinator.com/item?id=49439535 Points: 12 # Comments: 6",
      "source": "Hacker News",
      "zh": "Perplexity Portable Computer"
-    },
-    {
-     "title": "吃鸡 + Roguelite 多人游戏《PUBG: DED.NET》亮相 2026 科隆游戏展",
-     "link": "https://www.ithome.com/0/994/277.htm",
-     "pubDate": "Tue, 25 Aug 2026 19:39:03 GMT",
-     "summary": "IT之家 8 月 26 日消息，吃鸡 + Roguelite 多人游戏《 PUBG: DED.NET 》今日在 2026 科隆游戏展开幕夜直播中发布了一支预告片，展示了游戏的主要玩法，发售日期待定。 这是一款带有 Roguelite 元素的 多人 FPS 游戏 ，由《绝地求生》（PUBG）开发商 KRAFTON（株式会社魁匠团）打造。 IT之家注：Roguelite 是一种游戏设计模式，属于类 Rogue 游戏的一个分支。它起源于对传统 Roguelike 游戏的改良，在保留随机生成、永久死亡等核心特征的同时，通过引入局外成长等机制来降低游戏的惩罚和挫败感。",
-     "source": "IT之家",
-     "zh": "吃鸡 + Roguelite 多人游戏《PUBG: DED.NET》亮相 2026 科隆游戏展"
     },
     {
      "title": "Sources: Chris Malone, who joined OpenAI as head of data centers in March 2025, left the company last week amid a broader exodus (Anissa Gardizy/Wall Street Journal)",
@@ -1829,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
      "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
      "pubDate": "Tue, 25 Aug 2026 19:07:01 +0000",
-     "summary": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 37 # Comments: 7",
+     "summary": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 71 # Comments: 45",
      "source": "Hacker News",
      "zh": "FDA authorizes first wearable device that monitors ketone and blood sugar levels"
     },
@@ -1866,14 +1826,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google's anti-nausea Motion Assist dots finally rolling out on Android"
     },
     {
-     "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
-     "link": "https://pgbot.dev/",
-     "pubDate": "Tue, 25 Aug 2026 18:30:57 +0000",
-     "summary": "Article URL: https://pgbot.dev/ Comments URL: https://news.ycombinator.com/item?id=49438492 Points: 36 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents"
-    },
-    {
      "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
      "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
      "pubDate": "Tue, 25 Aug 2026 18:26:55 +0000",
@@ -1901,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Dolly Parton has died",
      "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
      "pubDate": "Tue, 25 Aug 2026 18:02:22 +0000",
-     "summary": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 600 # Comment",
+     "summary": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 769 # Comment",
      "source": "Hacker News",
      "zh": "Dolly Parton has died"
     },
@@ -1917,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Firefox 157 will include JPEG XL by default on all platforms",
      "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
      "pubDate": "Tue, 25 Aug 2026 17:55:23 +0000",
-     "summary": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 111 # Comments: 14",
+     "summary": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 151 # Comments: 20",
      "source": "Hacker News",
      "zh": "Firefox 157 will include JPEG XL by default on all platforms"
     },
@@ -1962,6 +1914,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport"
     },
     {
+     "title": "Run OpenBSD on DigitalOcean for $4/month",
+     "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+     "pubDate": "Tue, 25 Aug 2026 17:23:07 +0000",
+     "summary": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 76 # Comments: 30",
+     "source": "Hacker News",
+     "zh": "Run OpenBSD on DigitalOcean for $4/month"
+    },
+    {
      "title": "Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out (David Gewirtz/ZDNET)",
      "link": "https://www.techmeme.com/260825/p36#a260825p36",
      "pubDate": "Tue, 25 Aug 2026 13:10:01 -0400",
@@ -1976,14 +1936,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon&nbsp;Labs 如果把过去三十年的软件开发史压缩成一条清晰的线，它并不只是语言、工具和框架的更新史，更是一部\"程序员能力不断上移\"的历史。每一次工具变得更强，程序员就把一部分原本必须亲手完成的工作交出去，同时被推向一个更靠上的位置。理解这条线的走向，比记住其中任何一个技术名词都重要，因为它决定了一个开发者在下一个十年里究竟靠什么立身。 一、机器的严肃性：从Turbo C到IDE 最早那一代人学编程，往往从Turbo C、记事本、命令行和编译器报错开始。那时所谓\"会编程\"，很大程度上意味着你必须把语言装进脑子里：变量怎",
      "source": "虎嗅",
      "zh": "手艺还在，手工生产已不再是中心：程序员能力的三次上移"
-    },
-    {
-     "title": "当AI开始抽佣：下一代入口的商业模式困局",
-     "link": "https://www.huxiu.com/article/4885978.html?f=rss",
-     "pubDate": "Wed, 26 Aug 2026 00:22:14 +0800",
-     "summary": "本文来自微信公众号： 沈太阳商读笔记 ，作者：沈太阳 8月10日，两件事在同一天发生。阿里旗下千问App上线付费会员，最低19元/月；字节旗下豆包宣布，通过豆包入口跳转抖音来客成交的酒店订单，综合佣金费率从8%上调至约12%。 一个向C端收订阅费，一个向B端抽交易佣金。方向不同，但指向同一个事实：中国AI助手的免费试用期，结束了。 这件事值得聊的不是\"贵不贵\"。真正值得追问的是：为什么是现在？为什么是抽佣？以及——当一个AI同时掌握你的偏好、推荐权和交易通道，它给你的那个\"答案\"，还是同一个答案吗？ △图片来源：微信公号「沈太阳商读笔记」 01 为什么会员费救不了AI公司？ 先说一个很多人没注",
-     "source": "虎嗅",
-     "zh": "当AI开始抽佣：下一代入口的商业模式困局"
     }
    ]
   },
@@ -1993,6 +1945,54 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The Fitbit Air would be S-tier if anyone made a band half as decent as Whoop’s",
+     "link": "https://9to5google.com/2026/08/25/fitbit-air-would-be-s-tier-good-bands-existed/",
+     "pubDate": "Tue, 25 Aug 2026 20:50:00 +0000",
+     "summary": "The Fitbit Air is being touted as a fantastic fitness tracker, but I don’t think its worth has quite yet been proven. Google-made and third-party bands do not make for a comfortable experience, and competitive trackers blow it out of the water in terms of fit.",
+     "source": "9to5Google",
+     "zh": "The Fitbit Air would be S-tier if anyone made a band half as decent as Whoop’s"
+    },
+    {
+     "title": "iOS 27 release date: Here’s when the new iPhone update will launch",
+     "link": "https://9to5mac.com/2026/08/25/ios-27-release-date-when-next-major-iphone-update-is-coming/",
+     "pubDate": "Tue, 25 Aug 2026 20:45:15 +0000",
+     "summary": "The next major iPhone software version is iOS 27, and it’s launching very soon. Here’s when to expect the public release for iOS 27.",
+     "source": "9to5Mac",
+     "zh": "iOS 27 release date: Here’s when the new iPhone update will launch"
+    },
+    {
+     "title": "BenQ's first dual-monitor desk lamp will give your screens a glow up",
+     "link": "https://www.engadget.com/2244137/benq-screenbar-max-first-dual-monitor-desk-lamp/",
+     "pubDate": "Tue, 25 Aug 2026 20:30:25 +0000",
+     "summary": "BenQ's first dual-monitor desk lamp is excellent, but it'll cost you.",
+     "source": "Engadget",
+     "zh": "BenQ's first dual-monitor desk lamp will give your screens a glow up"
+    },
+    {
+     "title": "SpaceX to use NVIDIA GPUs for its Starmind project — Here's what they'll face in space",
+     "link": "https://www.engadget.com/2243934/spacex-use-nvidia-gpu-for-starmind-project/",
+     "pubDate": "Tue, 25 Aug 2026 20:30:00 +0000",
+     "summary": "Elon Musk wants to harness solar energy for AI.",
+     "source": "Engadget",
+     "zh": "SpaceX to use NVIDIA GPUs for its Starmind project — Here's what they'll face in space"
+    },
+    {
+     "title": "The Sideload 042: A genderless Pixel experience",
+     "link": "https://9to5google.com/2026/08/25/the-sideload-042-a-genderless-pixel-experience/",
+     "pubDate": "Tue, 25 Aug 2026 20:30:00 +0000",
+     "summary": "Welcome to episode 42 of The Sideload, a 9to5Google podcast. This week, Damien Wilde joins Will as they continue to break down what’s good — and not so good — about Google’s latest phones. Come for the Snapdragon-Tensor debate, stay for a sweaty analogy that compares the Pixel 11 series to various H",
+     "source": "9to5Google",
+     "zh": "The Sideload 042: A genderless Pixel experience"
+    },
+    {
+     "title": "Fan survey sends Google a pretty blunt message about the Pixel 12",
+     "link": "https://www.androidauthority.com/google-pixel-12-priorities-poll-results-3702883/",
+     "pubDate": "Tue, 25 Aug 2026 20:21:57 +0000",
+     "summary": "Our readers told us what the Pixel 12's focus should be, and it's not more AI.",
+     "source": "Android Authority",
+     "zh": "Fan survey sends Google a pretty blunt message about the Pixel 12"
+    },
     {
      "title": "WhatsApp announces three ways to make accounts more secure",
      "link": "https://9to5mac.com/2026/08/25/whatsapp-announces-three-ways-to-make-accounts-more-secure/",
@@ -2130,36 +2130,12 @@ window.INDUSTRY_DATA = {
      "zh": "Why movie tie-in games are rarely sold anymore"
     },
     {
-     "title": "Today’s Android app deals and freebies: NARUTO, Endling, Farm Invasion, Kingdomino, more",
-     "link": "https://9to5toys.com/2026/08/25/today-android-app-deals-free-naruto-endling/",
-     "pubDate": "Tue, 25 Aug 2026 17:29:29 +0000",
-     "summary": "Your afternoon lineup of the best Android game and app deals is now ready to roll, including titles like NARUTO: Ultimate Ninja STORM, Endling Extinction is Forever, Farm Invasion USA – Premium, Candleman, Last Day Survivors Zombie TDS, Kingdomino Deluxe, Minabo: A walk through life, and more. On yo",
-     "source": "9to5Google",
-     "zh": "Today’s Android app deals and freebies: NARUTO, Endling, Farm Invasion, Kingdomino, more"
-    },
-    {
-     "title": "Google Home bug reportedly breaks Keep’s shopping list integration",
-     "link": "https://9to5google.com/2026/08/25/google-home-keep-integration-broken-due-to-bug/",
-     "pubDate": "Tue, 25 Aug 2026 17:27:06 +0000",
-     "summary": "Users are finding that Google Home’s longstanding skill of adding items to shopping lists with voice commands has disintegrated, but it all seems to be part of a strange bug for a number of people.",
-     "source": "9to5Google",
-     "zh": "Google Home bug reportedly breaks Keep’s shopping list integration"
-    },
-    {
      "title": "Apple introduces new Mac mini and Mac Studio with M6 and M5 chips",
      "link": "https://www.gsmarena.com/apple_announces_new_mac_mini_and_mac_studio_with_m6_and_m5_chips-news-74335.php",
      "pubDate": "Tue, 25 Aug 2026 19:21:02 +0200",
      "summary": "Apple has updated its desktop Mac lineup with new range of processors for 2026. The Mac mini and the Mac Studio feature the latest generation of Apple's M-series chips, making them the most powerful computers in the company's lineup. The updated Mac mini now comes with the latest generation M6 chip.",
      "source": "GSMArena",
      "zh": "Apple introduces new Mac mini and Mac Studio with M6 and M5 chips"
-    },
-    {
-     "title": "Anthropic update unifies memory feature across Claude Cowork and chat",
-     "link": "https://9to5mac.com/2026/08/25/anthropic-update-unifies-memory-feature-across-claude-cowork-and-chat/",
-     "pubDate": "Tue, 25 Aug 2026 17:20:08 +0000",
-     "summary": "Anthropic has announced a new update to how memory works between Claude Cowork and chat. Today’s change unifies memory between the two systems.",
-     "source": "9to5Mac",
-     "zh": "Anthropic update unifies memory feature across Claude Cowork and chat"
     },
     {
      "title": "The Nokia 300 Charge doubles as a 10W powerbank",
@@ -2176,30 +2152,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic is giving users more control over what memories Claude saves.",
      "source": "Engadget",
      "zh": "Claude's memory now works across both chats and Cowork sessions"
-    },
-    {
-     "title": "Xbox has a bunch of translucent green accessories for the console's 25th birthday",
-     "link": "https://www.engadget.com/2243848/xbox-has-a-bunch-of-translucent-green-accessories-for-the-consoles-25th-birthday/",
-     "pubDate": "Tue, 25 Aug 2026 16:57:00 +0000",
-     "summary": "Xbox has a bunch of translucent green accessories for the console's 25th birthday.",
-     "source": "Engadget",
-     "zh": "Xbox has a bunch of translucent green accessories for the console's 25th birthday"
-    },
-    {
-     "title": "This highly rated 10-port Anker Nano Power Strip just got its first Amazon price cut",
-     "link": "https://www.androidauthority.com/anker-nano-power-strip-deal-3702865/",
-     "pubDate": "Tue, 25 Aug 2026 16:48:38 +0000",
-     "summary": "Anker’s clamp-on Nano Power Strip drops to $57.99, giving your desk 10 ports, 70W USB-C charging, and surge protection.",
-     "source": "Android Authority",
-     "zh": "This highly rated 10-port Anker Nano Power Strip just got its first Amazon price cut"
-    },
-    {
-     "title": "Apple decides undermining its own email privacy feature was a bad idea after all",
-     "link": "https://www.engadget.com/2243812/apple-decides-undermining-its-own-email-privacy-feature-was-a-bad-idea-after-all/",
-     "pubDate": "Tue, 25 Aug 2026 16:36:46 +0000",
-     "summary": "Apple decides undermining its own email privacy feature was a bad idea after all.",
-     "source": "Engadget",
-     "zh": "Apple decides undermining its own email privacy feature was a bad idea after all"
     },
     {
      "title": "Apple M6 and M5 Ultra chips announced",
@@ -2242,52 +2194,148 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "ZOOZ Strategy Ltd. GAAP EPS of -$4.93",
-     "link": "https://seekingalpha.com/news/4636781-zooz-strategy-ltd-gaap-eps-of-4_93?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 16:14:17 -0400",
+     "title": "SLB gains access to Venezuela oilfield data through contract - Reuters",
+     "link": "https://seekingalpha.com/news/4636799-slb-gains-access-to-venezuela-oilfield-data-through-contract---reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 16:49:23 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "ZOOZ Strategy Ltd. GAAP EPS of -$4.93"
+     "zh": "SLB gains access to Venezuela oilfield data through contract - Reuters"
     },
     {
-     "title": "3 things to look out for on Wednesday",
-     "link": "https://seekingalpha.com/news/4636757-3-things-to-look-out-for-on-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 16:14:09 -0400",
+     "title": "Strategic Student &amp; Senior Housing Trust, Inc. reports 1H results",
+     "link": "https://seekingalpha.com/news/4636806-strategic-student-and-senior-housing-trust-inc-reports-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 16:44:29 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "3 things to look out for on Wednesday"
+     "zh": "Strategic Student &amp; Senior Housing Trust, Inc. reports 1H results"
     },
     {
-     "title": "nCino GAAP EPS of $0.05 beats by $0.02, revenue of $161M beats by $1.82M",
-     "link": "https://seekingalpha.com/news/4636780-ncino-gaap-eps-of-0_05-beats-by-0_02-revenue-of-161m-beats-by-1_82m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 16:14:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "nCino GAAP EPS of $0.05 beats by $0.02, revenue of $161M beats by $1.82M"
+     "title": "Anthropic拟向投资者披露超30万亿美元市场潜力，IPO估值目标约2万亿美元",
+     "link": "https://wallstreetcn.com/articles/3780285",
+     "pubDate": "Wed, 26 Aug 2026 04:44:13 +0800",
+     "summary": "Anthropic正就IPO筹备向投资者描绘一幅前所未有的市场愿景。 8月25日，据《华尔街日报》援引知情人士透露，这家Claude聊天机器人制造商拟告知投资者，其潜 在市场总规模（TAM）将超过30万亿美元，超越SpaceX此前创下的28.5万亿美元纪录。 Anthropic预计2028年收入将达约1900亿至2000亿美元，IPO估值目标约为2万亿美元，高于SpaceX上市时获得的1.77万亿美元估值。 该公司拟筹资规模最高可达1000亿美元。 预计公司将在未来数周内披露IPO财务文件， 最快或于9月或10月初完成上市。 与此同时，预测市场平台Polymarket数据显示，Anthropi",
+     "source": "华尔街见闻",
+     "zh": "Anthropic拟向投资者披露超30万亿美元市场潜力，IPO估值目标约2万亿美元"
     },
     {
-     "title": "QumulusAI, Inc. GAAP EPS of -$0.72, revenue of $6.71M",
-     "link": "https://seekingalpha.com/news/4636778-qumulusai-inc-gaap-eps-of-0_72-revenue-of-6_71m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 16:13:07 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "QumulusAI, Inc. GAAP EPS of -$0.72, revenue of $6.71M"
+     "title": "机构：美国财政部或从TGA账户调拨1000亿美元用于债券回购",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853526516.html",
+     "pubDate": "Wed, 26 Aug 2026 04:44:12 +0800",
+     "summary": "SMBC日兴证券美国公司美国利率策略主管阿巴特（Joseph Abate）在一份报告中表示，财政部或可将其在美联储账户中的1000亿美元资金转向定期债务的购买，以替代任何潜在的三方回购投资。SMBC估计，财政部一般账户（TGA）中的平均超额现金约为1650亿美元，不过每日总额波动较大，盈余日的标准差约为960亿美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "机构：美国财政部或从TGA账户调拨1000亿美元用于债券回购"
     },
     {
-     "title": "SA analyst warns calm markets could give way to fall volatility",
-     "link": "https://seekingalpha.com/news/4636760-sa-analyst-warns-calm-markets-could-give-way-to-fall-volatility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 16:12:20 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA analyst warns calm markets could give way to fall volatility"
+     "title": "SpaceX拟斥资1000亿美元在路易斯安那州建第三处星舰发射基地",
+     "link": "https://wallstreetcn.com/articles/3780287",
+     "pubDate": "Wed, 26 Aug 2026 04:44:06 +0800",
+     "summary": "SpaceX计划在美国路易斯安那州南部海岸斥资1000亿美元建设新发射基地，进一步扩展其星舰火箭的运营能力。 8月25日，据彭博报道，路易斯安那州州长Jeff Landry与SpaceX高管联合宣布这一计划，授权公司在沿海地区Pecan Island约12.5万英亩土地上建设该设施。 新基地将允许星舰向南越过墨西哥湾发射，并进入地球极轨道——这对SpaceX计划部署多达100万颗数据中心卫星的星座项目至关重要。 SpaceX首席执行官埃隆·马斯克此前曾设定雄心勃勃的目标，预计星舰在全面开发完成后将实现每日多次发射。拥有多处发射地点将赋予SpaceX更大灵活性以提升发射频次，尽管星舰今年迄今仅完",
+     "source": "华尔街见闻",
+     "zh": "SpaceX拟斥资1000亿美元在路易斯安那州建第三处星舰发射基地"
     },
     {
-     "title": "Semtech perks up as Q2 results, guidance top estimates",
-     "link": "https://seekingalpha.com/news/4636657-semtech-perks-up-as-q2-results-guidance-top-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 16:11:57 -0400",
+     "title": "Dycom Industries Q2 2027 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4636804-dycom-industries-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 16:43:27 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Semtech perks up as Q2 results, guidance top estimates"
+     "zh": "Dycom Industries Q2 2027 Earnings Preview"
+    },
+    {
+     "title": "Li Auto Q2 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4636803-li-auto-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 16:43:02 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Li Auto Q2 2026 Earnings Preview"
+    },
+    {
+     "title": "Super Micro Computer climbs 9% on Cisco partnership",
+     "link": "https://seekingalpha.com/news/4636790-super-micro-computer-climbs-9-on-cisco-partnership?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 16:42:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Super Micro Computer climbs 9% on Cisco partnership"
+    },
+    {
+     "title": "Farmers National raises quarterly dividend by 5.6% to  $0.18/share",
+     "link": "https://seekingalpha.com/news/4636802-farmers-national-raises-quarterly-dividend-by-56-to-018share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 16:41:31 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Farmers National raises quarterly dividend by 5.6% to  $0.18/share"
+    },
+    {
+     "title": "伊朗外交部副部长加里巴巴迪：伊朗利用谈判与战争，对敌人施以沉重打击",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853526480.html",
+     "pubDate": "Wed, 26 Aug 2026 04:39:17 +0800",
+     "summary": "伊朗外交部副部长加里巴巴迪：伊朗利用谈判与战争，对敌人施以沉重打击。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "伊朗外交部副部长加里巴巴迪：伊朗利用谈判与战争，对敌人施以沉重打击"
+    },
+    {
+     "title": "房地美：7 月抵押贷款相关投资组合的未偿还本金总额增加约 12 亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853526234.html",
+     "pubDate": "Wed, 26 Aug 2026 04:37:48 +0800",
+     "summary": "房地美：7 月抵押贷款相关投资组合的未偿还本金总额增加约 12 亿美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "房地美：7 月抵押贷款相关投资组合的未偿还本金总额增加约 12 亿美元"
+    },
+    {
+     "title": "日本自民党提议进一步提高持有房产 5 年及以下的业主出售公寓时适用的资本利得税税率",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853526135.html",
+     "pubDate": "Wed, 26 Aug 2026 04:37:48 +0800",
+     "summary": "市场消息：日本自民党提议进一步提高持有房产 5 年及以下的业主出售公寓时适用的资本利得税税率。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "日本自民党提议进一步提高持有房产 5 年及以下的业主出售公寓时适用的资本利得税税率"
+    },
+    {
+     "title": "房地美：多户住宅抵押贷款逾期率从 6 月的 0.51% 上升至 7 月的 0.60%",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853526078.html",
+     "pubDate": "Wed, 26 Aug 2026 04:37:33 +0800",
+     "summary": "房地美：多户住宅抵押贷款逾期率从 6 月的 0.51% 上升至 7 月的 0.60%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "房地美：多户住宅抵押贷款逾期率从 6 月的 0.51% 上升至 7 月的 0.60%"
+    },
+    {
+     "title": "房地美：单户住宅抵押贷款逾期率由 6 月的 0.60% 降至 7 月的 0.59%",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853525654.html",
+     "pubDate": "Wed, 26 Aug 2026 04:35:23 +0800",
+     "summary": "房地美：单户住宅抵押贷款逾期率由 6 月的 0.60% 降至 7 月的 0.59%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "房地美：单户住宅抵押贷款逾期率由 6 月的 0.60% 降至 7 月的 0.59%"
+    },
+    {
+     "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+     "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+     "pubDate": "Tue, 25 Aug 2026 20:32:15 GMT",
+     "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
+     "source": "CNBC",
+     "zh": "SpaceX plans to build a $100 billion spaceport in Louisiana"
+    },
+    {
+     "title": "美联储柯林斯：能否维持利率不变取决于通胀进展，若没有持续改善将考虑加息",
+     "link": "https://wallstreetcn.com/articles/3780284",
+     "pubDate": "Wed, 26 Aug 2026 04:17:43 +0800",
+     "summary": "波士顿联储主席苏珊·柯林斯表示，她目前支持维持利率不变，但这一立场取决于通胀继续朝美联储2%的目标回落，并取得更多进展。 柯林斯周二在波士顿联储发表的一篇文章中写道： “维持当前联邦基金利率目标区间，需要继续看到通胀确实正在下降的证据。如果持续的通胀改善未能出现，我认为近期适当收紧政策将是合适的。” 美联储官员下一次会议定于9月15日至16日在华盛顿举行。 柯林斯表示，近期通胀数据反映出潜在价格压力有所减弱，这“令人略感鼓舞”，但她也指出，月度数据可能存在较大波动。“近期的改善能否持续，仍有待观察。” 美联储官员在7月会议上维持利率不变。不过，有3名政策制定者支持加息25个基点，反映出官员们对",
+     "source": "华尔街见闻",
+     "zh": "美联储柯林斯：能否维持利率不变取决于通胀进展，若没有持续改善将考虑加息"
+    },
+    {
+     "title": "AI模型\"越狱\"事件频发，网络安全测试标准面临重构",
+     "link": "https://wallstreetcn.com/articles/3780286",
+     "pubDate": "Wed, 26 Aug 2026 04:17:31 +0800",
+     "summary": "人工智能领域正在经历一场关于安全测试方式的深刻反思。在多家顶级AI实验室的先进模型相继突破测试环境、侵入真实系统并造成实际损害后，业界对现行沙盒隔离机制的有效性产生了根本性质疑。 这场讨论的直接导火索，是OpenAI披露其部分最先进模型曾逃脱沙盒环境，自行访问互联网、入侵另一家公司服务器并窃取机密信息。 Anthropic和Meta旗下模型也分别卷入类似事件——测试环境的配置失误使这些模型意外获得了访问真实系统的权限。 这些事件表明，AI安全测试中的\"边界失控\"已不再是理论风险。 对市场而言， 这一系列事件正在推动AI安全合规成本上升，并可能加速行业测试标准的重新制定。 投资者在评估AI公司时",
+     "source": "华尔街见闻",
+     "zh": "AI模型\"越狱\"事件频发，网络安全测试标准面临重构"
+    },
+    {
+     "title": "伦铜纽铜齐创历史新高！关税预期与库存“错配”持续发力",
+     "link": "https://wallstreetcn.com/articles/3780282",
+     "pubDate": "Wed, 26 Aug 2026 04:17:17 +0800",
+     "summary": "美东时间25日周二，纽约商品交易所（COMEX）期铜即月合约和伦敦金属交易所（LME）三个月期铜均创收盘最高纪录。 美国潜在铜关税引发的跨区域库存重新配置仍是外盘期铜连涨的重要动力，同时LME市场现货供应趋紧的信号再度强化，叠加电网、数据中心、国防和电气化等领域的需求支撑，继续推升市场对铜价的看涨预期。 与此同时，市场正在等待美国铜关税政策的进一步明朗化，以及美联储主席沃什本周五在杰克逊·霍尔央行年会上的讲话。前者关系到全球铜库存和贸易流向，后者则可能影响美元和金属等风险资产的定价。 伦铜、纽铜三连涨，近三个交易日累计涨超2% 本周二铜价延续强势，伦铜和纽铜均连续第三个交易日收涨。 COMEX",
+     "source": "华尔街见闻",
+     "zh": "伦铜纽铜齐创历史新高！关税预期与库存“错配”持续发力"
     },
     {
      "title": "Tax tips for TikTok stars, after judge says influencer can’t write off his Grammy tickets",
@@ -2298,6 +2346,14 @@ window.INDUSTRY_DATA = {
      "zh": "Tax tips for TikTok stars, after judge says influencer can’t write off his Grammy tickets"
     },
     {
+     "title": "Foot Locker owner plunges after warning nervous consumers are cutting spending",
+     "link": "https://www.ft.com/content/1b066355-4412-43bd-b832-74956d3c0a52?syn-25a6b1a6=1",
+     "pubDate": "Tue, 25 Aug 2026 20:08:52 GMT",
+     "summary": "Dick’s Sporting Goods shares slide after telling analysts that shoppers are cautious ‘due to the geopolitical environment’",
+     "source": "Financial Times",
+     "zh": "Foot Locker owner plunges after warning nervous consumers are cutting spending"
+    },
+    {
      "title": "Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls.",
      "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-the-quietest-nvidia-earnings-reaction-in-years-it-could-be-an-opportunity-for-ai-bulls-91955793?mod=mw_rss_topstories",
      "pubDate": "Tue, 25 Aug 2026 20:07:00 GMT",
@@ -2306,60 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls."
     },
     {
-     "title": "ZOOM第二财季营收12.8亿美元",
-     "link": "http://finance.eastmoney.com/news/1354,202608263853512025.html",
-     "pubDate": "Wed, 26 Aug 2026 04:06:54 +0800",
-     "summary": "ZOOM第二财季营收12.8亿美元，市场预估12.7亿美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "ZOOM第二财季营收12.8亿美元"
-    },
-    {
-     "title": "据报道美伊即将达成停火",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853509257.html",
-     "pubDate": "Wed, 26 Aug 2026 04:06:09 +0800",
-     "summary": "俄新社援引巴基斯坦与伊朗军方消息源报道，美国与伊朗据称已达成停火协议，预计未来数日将正式对外宣布。 这份网传协议包含霍尔木兹海峡航行自由，以及依据伊斯兰堡备忘录重启谈判。 美国与伊朗双方均尚未证实该协议；与此同时，阿曼与伊朗分别提出恢复海峡通航的临时机制。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "据报道美伊即将达成停火"
-    },
-    {
      "title": "Here&apos;s why markets are starting to care about the 2026 election 10 weeks out",
      "link": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
      "pubDate": "Tue, 25 Aug 2026 20:05:46 GMT",
      "summary": "Wall Street analysts are tuning in 10 weeks ahead of the Nov. 3 election with concerns about risks to investors depending on how the U.S. results turn out.",
      "source": "CNBC",
      "zh": "Here&apos;s why markets are starting to care about the 2026 election 10 weeks out"
-    },
-    {
-     "title": "【图解财报】财捷年报盈利45.66亿美元，同比增加18.01%",
-     "link": "http://stock.eastmoney.com/news/11837,202608263853508040.html",
-     "pubDate": "Wed, 26 Aug 2026 04:05:36 +0800",
-     "summary": "财捷 8月25日发布 年报 业绩，截至2026年7月31日的 12 个月内，该公司营业收入214.48亿美元，同比 增长13.90%； 公司权益持有人应占溢利（归母净利润）45.66亿美元， 同比增长18.01% 。 财捷 年报 分红方案为 不分配不转增， 上年同期为 10 派12美元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使",
-     "source": "东方财富股票",
-     "zh": "【图解财报】财捷年报盈利45.66亿美元，同比增加18.01%"
-    },
-    {
-     "title": "图解财报：财捷年报盈利45.66亿美元，同比增加18.01%",
-     "link": "http://stock.eastmoney.com/news/11836,202608263853507810.html",
-     "pubDate": "Wed, 26 Aug 2026 04:05:30 +0800",
-     "summary": "财捷 8月25日发布 年报 业绩，截至2026年7月31日的 12 个月内，该公司营业收入214.48亿美元，同比 增长13.90%； 公司权益持有人应占溢利（归母净利润）45.66亿美元， 同比增长18.01% 。 财捷 年报 分红方案为 不分配不转增， 上年同期为 10 派12美元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使",
-     "source": "东方财富股票",
-     "zh": "图解财报：财捷年报盈利45.66亿美元，同比增加18.01%"
-    },
-    {
-     "title": "财捷Intuit第四财季净营收43.5亿美元，分析师预期42.7亿美元",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853506430.html",
-     "pubDate": "Wed, 26 Aug 2026 04:04:00 +0800",
-     "summary": "财捷 Intuit第四财季净营收43.5亿美元，分析师预期42.7亿美元。预计2027财年营收232.8亿-235.1亿美元，分析师预期238.2亿美元。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "财捷Intuit第四财季净营收43.5亿美元，分析师预期42.7亿美元"
-    },
-    {
-     "title": "市场消息：日本原子能机构及其他机构已研发出可从水和石油中提取稀土元素的技术",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853506152.html",
-     "pubDate": "Wed, 26 Aug 2026 04:03:57 +0800",
-     "summary": "市场消息：日本原子能机构及其他机构已研发出可从水和石油中提取 稀土 元素的技术。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场消息：日本原子能机构及其他机构已研发出可从水和石油中提取稀土元素的技术"
     },
     {
      "title": "Bond rout ending? Massive bets on bond rally dominate options market",
@@ -2418,68 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission"
     },
     {
-     "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-     "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-     "pubDate": "Tue, 25 Aug 2026 18:48:33 GMT",
-     "summary": "SpaceX plans to establish its Starbase, LA, in Vermillion Parish, which will \"support thousands of launches annually.\"",
-     "source": "CNBC",
-     "zh": "SpaceX plans to build a $100 billion spaceport in Louisiana"
-    },
-    {
-     "title": "美国消费者信心降至七个月低点，对就业和经济前景更趋悲观",
-     "link": "https://wallstreetcn.com/articles/3780279",
-     "pubDate": "Wed, 26 Aug 2026 02:47:24 +0800",
-     "summary": "美国消费者信心在8月滑落至年内低位，对商业环境和劳动力市场的悲观预期成为主要拖累，凸显通胀压力与招聘放缓对家庭情绪的持续侵蚀。 周二公布的数据显示， 世界大型企业联合会（Conference Board）消费者信心指数在前月下修的基础上再降0.8点，至89.4，为今年1月以来最低水平。 反映未来六个月预期的分项指标同样跌至1月以来最低，尽管衡量当前状况的分项指标升至四个月高位，两者走势出现明显背离。 与此同时，密歇根大学8月消费者情绪指数三个月来首次下滑，消费者对商业环境恶化及通胀上升的担忧进一步加剧。上述数据叠加7月零售销售超过一年以来最大降幅，令市场对美国消费端韧性的信心趋于减弱。 周三，",
-     "source": "华尔街见闻",
-     "zh": "美国消费者信心降至七个月低点，对就业和经济前景更趋悲观"
-    },
-    {
-     "title": "美加口水战升级：特朗普威胁将安大略湖更名“美利坚湖”",
-     "link": "https://wallstreetcn.com/articles/3780278",
-     "pubDate": "Wed, 26 Aug 2026 02:47:16 +0800",
-     "summary": "美加贸易谈判破裂之际，两国之间的口水战再度升级，这一次，美国总统特朗普把矛头对准了一个极具象征意义的地理名称——安大略湖。 特朗普于美东时间25日周二在社交媒体发文称，美国正在“认真考虑”将安大略湖（Lake Ontario）更名为“美利坚湖”（Lake America），并称美国预计“不再与安大略省开展太多业务”。 就在特朗普抛出改名言论的同一天，加拿大宣布对约700种美国商品征收15%、25%和50%的反制关税，涉及约276亿加元（约200亿美元）商品，并将于9月8日生效，以回应美国此前针对规模相当的加拿大商品加征50%关税。 从关税、汽车和钢铁，到能源、文化政策，再到如今的地理名称，美加",
-     "source": "华尔街见闻",
-     "zh": "美加口水战升级：特朗普威胁将安大略湖更名“美利坚湖”"
-    },
-    {
      "title": "Is the K-shaped economy ending? Finance pros weigh in",
      "link": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
      "pubDate": "Tue, 25 Aug 2026 18:39:14 GMT",
      "summary": "The K-shaped economy may be changing. New data shows income and spending gaps are narrowing — but household finances tell a more complicated story.",
      "source": "CNBC",
      "zh": "Is the K-shaped economy ending? Finance pros weigh in"
-    },
-    {
-     "title": "中科曙光H1净利润增33%，Q2单季环比跃升226%|财报见闻",
-     "link": "https://wallstreetcn.com/articles/3780276",
-     "pubDate": "Wed, 26 Aug 2026 02:01:00 +0800",
-     "summary": "中科曙光2026年上半年业绩全面提速，营收与利润双双大幅增长，Q2单季利润释放尤为突出，折射出中国AI算力基础设施建设正从规模扩张迈向效能升级的深层转变。 2026年8月25中科曙光披露半年报， 上半年实现营收74.66亿元，同比增长27.62%；归母净利润9.71亿元，同比增长33.31%。 Q2单季净利润约7.44亿元，较Q1的2.28亿元环比增长约226%，呈现明显的利润释放加速。与此同时，扣非归母净利润同比增长48.45%，高于归母净利润增速，表明利润增长主要由经常性主业驱动，而非一次性收益。 上述业绩的背后， 是核心联营企业海光信息上半年净利润同比增长49.67%至17.98亿元，中",
-     "source": "华尔街见闻",
-     "zh": "中科曙光H1净利润增33%，Q2单季环比跃升226%|财报见闻"
-    },
-    {
-     "title": "英伟达瞄准入门级物理AI，Jetson Orin Nano 2推理性能翻倍、功耗降四成",
-     "link": "https://wallstreetcn.com/articles/3780277",
-     "pubDate": "Wed, 26 Aug 2026 02:00:54 +0800",
-     "summary": "英伟达正将人工智能（AI）的能力进一步从数据中心向机器人等现实世界设备延伸。 美东时间25日周二，英伟达宣布推出新一代入门级机器人计算平台Jetson Orin Nano 2，瞄准机器人、无人机等对成本、功耗和实时计算能力较为敏感的边缘AI应用。 英伟达称，在保持相同紧凑尺寸的情况下，Jetson Orin Nano 2的推理性能较上一代Jetson Orin Nano Super提升2倍；在15瓦功耗模式下，以低40%的功耗即可实现与上一代相同的性能。 从硬件来看，Jetson Orin Nano 2配备8核处理器、8GB内存，AI算力达到78万亿次运算/秒。英伟达表示，新平台通过升级张量核",
-     "source": "华尔街见闻",
-     "zh": "英伟达瞄准入门级物理AI，Jetson Orin Nano 2推理性能翻倍、功耗降四成"
-    },
-    {
-     "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-     "pubDate": "Tue, 25 Aug 2026 18:00:00 GMT",
-     "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-     "source": "Federal Reserve",
-     "zh": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026"
-    },
-    {
-     "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
-     "link": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1",
-     "pubDate": "Tue, 25 Aug 2026 17:22:48 GMT",
-     "summary": "Hundreds of US goods will face increased levies from September 8",
-     "source": "Financial Times",
-     "zh": "Canada announces $20bn retaliatory tariffs as US trade war escalates"
     }
    ]
   },
@@ -2489,6 +2441,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Cells use a little-known molecule to protect themselves from iron overload",
+     "link": "https://news.mit.edu/2026/cells-use-little-known-molecule-protect-themselves-iron-overload-0825",
+     "pubDate": "Tue, 25 Aug 2026 16:40:00 -0400",
+     "summary": "This discovery points toward new combination strategies against cancer, and may explain the iron buildup seen in disorders such as early-onset Parkinson’s disease.",
+     "source": "MIT News",
+     "zh": "Cells use a little-known molecule to protect themselves from iron overload"
+    },
     {
      "title": "2 people die of measles in Pennsylvania as vaccination rates drop across the nation",
      "link": "https://www.livescience.com/health/viruses-infections-disease/2-people-die-of-measles-in-pennsylvania-as-vaccination-rates-drop-across-the-nation",
@@ -2720,14 +2680,6 @@ window.INDUSTRY_DATA = {
      "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
      "source": "Ars Technica Science",
      "zh": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US"
-    },
-    {
-     "title": "The importance of indoor airflow patterns in spreading airborne disease",
-     "link": "https://news.mit.edu/2026/indoor-airflow-patterns-importance-spreading-airborne-disease-0821",
-     "pubDate": "Fri, 21 Aug 2026 12:00:00 -0400",
-     "summary": "Researchers explore how a key factor can mitigate or promote tuberculosis transmission.",
-     "source": "MIT News",
-     "zh": "The importance of indoor airflow patterns in spreading airborne disease"
     }
    ]
   }
