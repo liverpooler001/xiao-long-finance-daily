@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/26 05:52:35",
+ "generated_at": "2026/8/26 06:16:01",
  "recent_days": 7,
  "industries": [
   {
@@ -650,12 +650,20 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
-     "title": "Robot vacuum company cancels its rocket-powered electric car",
+     "title": "Can Tesla FSD Take You Up The Steepest Dirt Road In America All By Itself?",
+     "link": "https://insideevs.com/news/806060/tesla-fsd-steepest-dirt-road/",
+     "pubDate": "Tue, 25 Aug 2026 22:06:27 +0000",
+     "summary": "It turns out that FSD is surprisingly capable even when the pavement disappears.",
+     "source": "InsideEVs",
+     "zh": "Can Tesla FSD Take You Up The Steepest Dirt Road In America All By Itself?"
+    },
+    {
+     "title": "Robot vacuum company cancels its rocket-boosted electric hypercar",
      "link": "https://electrek.co/2026/08/25/robot-vacuum-company-cancels-its-rocket-powered-electric-car/",
      "pubDate": "Tue, 25 Aug 2026 21:47:25 +0000",
      "summary": "Dreame is no longer planning to build the electric hypercar it unveiled in April, which it had said would have solid rocket boosters to achieve 0-60mph in 0.9 seconds. It’s also shuttering the rest of its car-related ambitions.",
      "source": "Electrek",
-     "zh": "Robot vacuum company cancels its rocket-powered electric car"
+     "zh": "Robot vacuum company cancels its rocket-boosted electric hypercar"
     },
     {
      "title": "Future EVs could get more range from this tiny TI sensor",
@@ -818,14 +826,6 @@ window.INDUSTRY_DATA = {
      "zh": "India’s Airbound bags $37M to take on trucks with rocket-like drones"
     },
     {
-     "title": "Polestar Still Has No Idea Why The U.S. Kicked It Out",
-     "link": "https://insideevs.com/news/805940/polestar-no-idea-us-government-ban-ev/",
-     "pubDate": "Mon, 24 Aug 2026 21:35:13 +0000",
-     "summary": "The automaker was stripped off its authorization to sell cars in the U.S. model year 2027 onward.",
-     "source": "InsideEVs",
-     "zh": "Polestar Still Has No Idea Why The U.S. Kicked It Out"
-    },
-    {
      "title": "Brake problems in GM EVs draw greater federal scrutiny",
      "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
      "pubDate": "Mon, 24 Aug 2026 14:18:47 +0000",
@@ -850,10 +850,26 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "The U.S. Power Play in Iraq That Moscow and Beijing Didn’t See Coming",
+     "link": "https://oilprice.com/Energy/Energy-General/The-US-Power-Play-in-Iraq-That-Moscow-and-Beijing-Didnt-See-Coming.html",
+     "pubDate": "Tue, 25 Aug 2026 17:00:00 -0500",
+     "summary": "As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These effo",
+     "source": "OilPrice",
+     "zh": "The U.S. Power Play in Iraq That Moscow and Beijing Didn’t See Coming"
+    },
+    {
+     "title": "Lexington-Fayette County Solar Zoning Amendment Critical to Achieving Climate Goals and Lowering Costs",
+     "link": "https://cleantechnica.com/2026/08/25/lexington-fayette-county-solar-zoning-amendment-critical-to-achieving-climate-goals-and-lowering-costs/",
+     "pubDate": "Tue, 25 Aug 2026 21:55:49 +0000",
+     "summary": "Lexington, Kentucky — On Thursday, the Lexington-Fayette Urban County Council will hear a zoning ordinance text amendment (ZOTA) that would open up no greater than one percent of Fayette County, including agriculturally zoned land, for large-scale solar development. The ZOTA would require that any s",
+     "source": "CleanTechnica",
+     "zh": "Lexington-Fayette County Solar Zoning Amendment Critical to Achieving Climate Goals and Lowering Costs"
+    },
+    {
      "title": "Homes In London Are Cracking As The Clay They Are Built On Shrinks",
      "link": "https://cleantechnica.com/2026/08/25/homes-in-london-are-cracking-as-the-clay-they-are-built-on-shrinks/",
      "pubDate": "Tue, 25 Aug 2026 21:41:41 +0000",
-     "summary": "If you are a home owner, the last word you want to hear is “subsidence,” which is defined as the gradual caving in or sinking of an area of land. It means the foundation beneath your structure is no longer capable of handling its weight and is slowly settling. It is ... [continued] The post Homes In",
+     "summary": "If you are a homeowner, the last word you want to hear is “subsidence,” which is defined as the gradual caving in or sinking of an area of land. It means the foundation beneath your structure is no longer capable of handling its weight and is slowly settling. It is happening ... [continued] The post",
      "source": "CleanTechnica",
      "zh": "Homes In London Are Cracking As The Clay They Are Built On Shrinks"
     },
@@ -898,14 +914,6 @@ window.INDUSTRY_DATA = {
      "zh": "Norway’s Troll Gas Expansion Buys Europe Time—But Not New Supply"
     },
     {
-     "title": "UK Tax Rises Back on the Table as Burnham Faces Fiscal Crunch",
-     "link": "https://oilprice.com/Energy/Energy-General/UK-Tax-Rises-Back-on-the-Table-as-Burnham-Faces-Fiscal-Crunch.html",
-     "pubDate": "Tue, 25 Aug 2026 14:00:00 -0500",
-     "summary": "Andy Burnham has suggested tax rises could be on the cards in the looming Autumn Budget, warning he “won’t be unrealistic” over the state of the public purse. The Prime Minister quickly pledged to give people “breathing space” and ease the cost of living after taking the keys to No.10 last month. Bu",
-     "source": "OilPrice",
-     "zh": "UK Tax Rises Back on the Table as Burnham Faces Fiscal Crunch"
-    },
-    {
      "title": "Suzuki Unveils it BEV Kei Car for Release This Autumn",
      "link": "https://cleantechnica.com/2026/08/25/suzuki-unveils-it-bev-kei-car-for-release-this-autumn/",
      "pubDate": "Tue, 25 Aug 2026 15:45:06 +0000",
@@ -936,14 +944,6 @@ window.INDUSTRY_DATA = {
      "summary": "Global hydrogen demand exceeded 100 million tonnes in 2025, and almost all of it was still consumed where hydrogen has been used for decades: refining and industry. That is why kilograms and tonnes are not merely traditional units. They describe the market that exists. An ammonia plant buys a chemic",
      "source": "CleanTechnica",
      "zh": "Hydrogen Is Still A Tonnes Market, No Matter How Many MWh We Assign To It"
-    },
-    {
-     "title": "PacifiCorp to suspend California energy efficiency programs under proposed settlement",
-     "link": "https://www.utilitydive.com/news/pacificorp-suspend-california-energy-efficiency-programs/828721/",
-     "pubDate": "Tue, 25 Aug 2026 11:14:15 -0400",
-     "summary": "The programs have &ldquo;historically not provided cost-effectiveness benefits to ratepayers and, indeed, show a decline in performance in recent years,&rdquo; said the&nbsp;California Public Utilities Commission&rsquo;s&nbsp;Public Advocates Office.",
-     "source": "Utility Dive",
-     "zh": "PacifiCorp to suspend California energy efficiency programs under proposed settlement"
     },
     {
      "title": "Data centers can vanish from the grid in seconds; reliability rules need to catch up",
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Sword Health plans to buy Headspace, filing says",
+     "link": "https://endpoints.news/sword-health-plans-to-buy-headspace-filing-says/",
+     "pubDate": "Tue, 25 Aug 2026 22:03:01 +0000",
+     "summary": "Sword Health has proposed to buy mental health startup Headspace in a deal that would bring two digital health unicorns together, according to a Massachusetts state document. The acquisition would broaden the mental health services ...",
+     "source": "Endpoints News",
+     "zh": "Sword Health plans to buy Headspace, filing says"
+    },
+    {
      "title": "New Jazz cancer drug approval could drive blockbuster sales",
      "link": "https://www.biopharmadive.com/news/jazz-ziihera-fda-approve-gastroesophageal-adenocarcinoma/828747/",
      "pubDate": "Tue, 25 Aug 2026 17:21:00 -0400",
@@ -1240,14 +1248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Martha’s Vineyard Hospital launches a two-year study tracking up to 300 residents to understand who develops alpha-gal syndrome after lone star tick exposure and why. The post Pioneering Study of Alpha-Gal Syndrome Launched at Martha’s Vineyard Hospital appeared first on GEN - Genetic Engineering an",
      "source": "GEN",
      "zh": "Pioneering Study of Alpha-Gal Syndrome Launched at Martha’s Vineyard Hospital"
-    },
-    {
-     "title": "Bristol Myers ends deal with Cellares, cell therapy manufacturer to reorg",
-     "link": "https://endpoints.news/bristol-myers-ends-deal-with-cellares-cell-therapy-manufacturer-to-reorg/",
-     "pubDate": "Tue, 25 Aug 2026 12:00:45 +0000",
-     "summary": "After a “comprehensive evaluation,” Bristol Myers Squibb has pulled out of its partnership with Cellares and the cell therapy manufacturer will restructure as a result. Bristol Myers determined that the manufacturer’s Cell Shuttle system “could ...",
-     "source": "Endpoints News",
-     "zh": "Bristol Myers ends deal with Cellares, cell therapy manufacturer to reorg"
     },
     {
      "title": "Will a ‘reset’ reignite investment in women’s health startups?",
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "LACMA data breach last year exposed social security and medical data",
+     "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+     "pubDate": "Tue, 25 Aug 2026 17:58:14 -0400",
+     "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+     "source": "BleepingComputer",
+     "zh": "LACMA data breach last year exposed social security and medical data"
+    },
+    {
      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
      "pubDate": "Tue, 25 Aug 2026 17:39:01 -0400",
@@ -1640,14 +1648,6 @@ window.INDUSTRY_DATA = {
      "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate access. [...]",
      "source": "BleepingComputer",
      "zh": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk"
-    },
-    {
-     "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-     "pubDate": "Tue, 25 Aug 2026 09:51:58 -0400",
-     "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
-     "source": "BleepingComputer",
-     "zh": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows"
     },
     {
      "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
@@ -1746,12 +1746,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance",
+     "link": "https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/",
+     "pubDate": "Tue, 25 Aug 2026 21:51:32 +0000",
+     "summary": "Anthony Ralphs was frustrated by the San Diego City Council's support for Flock. He decided it would take something more than reasoned argument to get their attention.",
+     "source": "WIRED",
+     "zh": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance"
+    },
+    {
      "title": "Intuit reports Q4 revenue up 14% YoY to $4.35B, vs. $4.27B est., and forecasts FY 2027 revenue growth of 9% to 10%, below ~11% est.; INTU drops 8%+ after hours (Wall Street Journal)",
      "link": "https://www.techmeme.com/260825/p43#a260825p43",
      "pubDate": "Tue, 25 Aug 2026 17:45:01 -0400",
      "summary": "Wall Street Journal : Intuit reports Q4 revenue up 14% YoY to $4.35B, vs. $4.27B est., and forecasts FY 2027 revenue growth of 9% to 10%, below ~11% est.; INTU drops 8%+ after hours &nbsp; &mdash;&nbsp; The company expects revenue to increase 9% to 10% for fiscal 2027, down from 14% this year&nbsp; ",
      "source": "Techmeme",
      "zh": "Intuit reports Q4 revenue up 14% YoY to $4.35B, vs. $4.27B est., and forecasts FY 2027 revenue growth of 9% to 10%, below ~11% est.; INTU drops 8%+ after hours (Wall Street Journal)"
+    },
+    {
+     "title": "Python's pre-declared constants are kinda weird",
+     "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+     "pubDate": "Tue, 25 Aug 2026 21:39:02 +0000",
+     "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Python's pre-declared constants are kinda weird"
     },
     {
      "title": "How to evaluate LLMs before production",
@@ -1797,17 +1813,17 @@ window.INDUSTRY_DATA = {
      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
      "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
      "pubDate": "Tue, 25 Aug 2026 20:49:03 +0000",
-     "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 13 # Comments: 4",
+     "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 16 # Comments: 7",
      "source": "Hacker News",
      "zh": "When str.lower() is a security vulnerability in Python – Seth Larson"
     },
     {
-     "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+     "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
      "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
      "pubDate": "Tue, 25 Aug 2026 20:44:12 +0000",
-     "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.",
+     "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
      "source": "TechCrunch",
-     "zh": "X sends cease-and-desist to open-source project Nitter over alleged scraping"
+     "zh": "X sends cease-and-desist to open source project Nitter over alleged scraping"
     },
     {
      "title": "《最终幻想 7：启示录》游戏第二支预告公布，2027 年春季发售",
@@ -1861,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "C2PA Cameras Do Not Survive Contact with Reality",
      "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
      "pubDate": "Tue, 25 Aug 2026 19:38:24 +0000",
-     "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 20 # Comments: 5",
+     "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 28 # Comments: 7",
      "source": "Hacker News",
      "zh": "C2PA Cameras Do Not Survive Contact with Reality"
     },
@@ -1877,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
      "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
      "pubDate": "Tue, 25 Aug 2026 19:22:52 +0000",
-     "summary": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automatically trims selected video clips and removes pauses, pulling together the best moments into an initial c",
+     "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
      "source": "TechCrunch",
      "zh": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious"
     },
@@ -1885,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
      "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
      "pubDate": "Tue, 25 Aug 2026 19:07:01 +0000",
-     "summary": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 134 # Comments: 91",
+     "summary": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 148 # Comments: 98",
      "source": "Hacker News",
      "zh": "FDA authorizes first wearable device that monitors ketone and blood sugar levels"
     },
@@ -1949,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Dolly Parton has died",
      "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
      "pubDate": "Tue, 25 Aug 2026 18:02:22 +0000",
-     "summary": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 934 # Comment",
+     "summary": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 957 # Comment",
      "source": "Hacker News",
      "zh": "Dolly Parton has died"
     },
@@ -1965,25 +1981,9 @@ window.INDUSTRY_DATA = {
      "title": "Firefox 157 will include JPEG XL by default on all platforms",
      "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
      "pubDate": "Tue, 25 Aug 2026 17:55:23 +0000",
-     "summary": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 199 # Comments: 39",
+     "summary": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 204 # Comments: 44",
      "source": "Hacker News",
      "zh": "Firefox 157 will include JPEG XL by default on all platforms"
-    },
-    {
-     "title": "An ex-Meta staffer testified that less than 1% of teens used Instagram&apos;s opt-in \"Take a Break\" tool when it launched; the feature is now on by default for teens (Madlin Mekelburg/Bloomberg)",
-     "link": "https://www.techmeme.com/260825/p38#a260825p38",
-     "pubDate": "Tue, 25 Aug 2026 13:45:00 -0400",
-     "summary": "Madlin Mekelburg / Bloomberg : An ex-Meta staffer testified that less than 1% of teens used Instagram's opt-in &ldquo;Take a Break&rdquo; tool when it launched; the feature is now on by default for teens &nbsp; &mdash;&nbsp; A former data scientist at Meta Platforms Inc. testified that less than 1% ",
-     "source": "Techmeme",
-     "zh": "An ex-Meta staffer testified that less than 1% of teens used Instagram&apos;s opt-in \"Take a Break\" tool when it launched; the feature is now on by default for teens (Madlin Mekelburg/Bloomberg)"
-    },
-    {
-     "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
-     "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
-     "pubDate": "Tue, 25 Aug 2026 17:39:38 +0000",
-     "summary": "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\"",
-     "source": "Ars Technica",
-     "zh": "Two unvaccinated people die from measles in Pennsylvania, officials confirm"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Life360 adds new pet care tools to help keep your household in sync",
+     "link": "https://www.androidauthority.com/life360-new-pet-care-features-3703038/",
+     "pubDate": "Tue, 25 Aug 2026 21:56:51 +0000",
+     "summary": "The shared care logs might stop your dog scoring a second dinner.",
+     "source": "Android Authority",
+     "zh": "Life360 adds new pet care tools to help keep your household in sync"
+    },
     {
      "title": "Instagram adds feature that automatically trims clips for Reels",
      "link": "https://www.engadget.com/2244219/instagram-adds-feature-that-automatically-trims-clips-for-reels/",
@@ -2162,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "Can’t wait for the Galaxy S26 FE? Check out these cases to tide you over"
     },
     {
-     "title": "Google Home automations not working right lately? Blame your TV",
-     "link": "https://www.androidauthority.com/google-home-automations-tv-3702928/",
-     "pubDate": "Tue, 25 Aug 2026 19:23:37 +0000",
-     "summary": "Google Home automations aren't playing nicely with your TV, but Google is on the case.",
-     "source": "Android Authority",
-     "zh": "Google Home automations not working right lately? Blame your TV"
-    },
-    {
      "title": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
      "link": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
      "pubDate": "Tue, 25 Aug 2026 18:48:18 +0000",
@@ -2242,20 +2242,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+     "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+     "pubDate": "Tue, 25 Aug 2026 22:09:01 GMT",
+     "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
+     "source": "CNBC",
+     "zh": "SpaceX plans to build a $100 billion spaceport in Louisiana"
+    },
+    {
+     "title": "U.S. crude stockpiles rose 4.2M barrels last week, API says",
+     "link": "https://seekingalpha.com/news/4636825-u-s-crude-stockpiles-rose-4_2m-barrels-last-week-api-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 18:05:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. crude stockpiles rose 4.2M barrels last week, API says"
+    },
+    {
+     "title": "路透调查：69%的经济学家认为7月份日本与美国的联合外汇干预“效果不佳”或“完全无效”",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853537085.html",
+     "pubDate": "Wed, 26 Aug 2026 06:04:46 +0800",
+     "summary": "路透调查：69%的经济学家认为7月份日本与美国的联合外汇干预“效果不佳”或“完全无效”。 89%的经济学家认为，日本首相高市早苗的财政政策对日元施加了下行压力。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "路透调查：69%的经济学家认为7月份日本与美国的联合外汇干预“效果不佳”或“完全无效”"
+    },
+    {
+     "title": "路透调查：超过半数的经济学家预计日本央行将在2027年第一季度将利率提高至至少1.50%",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853535729.html",
+     "pubDate": "Wed, 26 Aug 2026 06:04:45 +0800",
+     "summary": "路透调查：超过半数的经济学家预计日本央行将在2027年第一季度将利率提高至至少1.50%（上次调查为1.25%）。 57%的经济学家预计日本央行将在9月份将基准利率提高至1.25%（上次调查中仅有5%的经济学家持此观点）。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "路透调查：超过半数的经济学家预计日本央行将在2027年第一季度将利率提高至至少1.50%"
+    },
+    {
+     "title": "美联储9月维持利率不变的概率为60.4%",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853535587.html",
+     "pubDate": "Wed, 26 Aug 2026 06:04:44 +0800",
+     "summary": "据CME“美联储观察”：美联储到9月维持利率不变的概率为60.4%，累计加息25个基点的概率为39.6%。美联储到10月维持利率不变的概率为45.7%，累计加息25个基点的概率为44.7%，累计加息50个基点的概率为9.7%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储9月维持利率不变的概率为60.4%"
+    },
+    {
+     "title": "8月25日（周二）热门美股、中概股收盘一览",
+     "link": "http://stock.eastmoney.com/news/11805,202608263853535028.html",
+     "pubDate": "Wed, 26 Aug 2026 06:03:41 +0800",
+     "summary": "一、周二热门美股收盘一览 英伟达 涨2.19% ， 美光科技 涨2.48% ， 闪迪 跌0.83% ， 特斯拉 涨0.37% ， 微软 涨0.90% ， 超威半导体 涨4.91% ， 苹果 跌0.14% ， SpaceX 涨2.19% ， 英特尔 涨0.25% ， 谷歌-A 跌0.32% 。 二、周二热门中概股收盘一览 台积电 涨1.78% ， 阿里巴巴 涨0.82% ， 拼多多 涨0.78% ， 富途控股 涨8.48% ， 小i 机器人 涨186.28% ， 亚玛芬体育 涨1.12% ， BOSS直聘 涨5.51% ， 腾讯音乐 涨0.92% ， 联华电子 涨2.89% ， 日月光半导体 涨",
+     "source": "东方财富股票",
+     "zh": "8月25日（周二）热门美股、中概股收盘一览"
+    },
+    {
+     "title": "周二热门美股、中概股收盘一览",
+     "link": "http://stock.eastmoney.com/news/11806,202608263853534995.html",
+     "pubDate": "Wed, 26 Aug 2026 06:03:34 +0800",
+     "summary": "一、周二热门美股收盘一览 英伟达 涨2.19% ， 美光科技 涨2.48% ， 闪迪 跌0.83% ， 特斯拉 涨0.37% ， 微软 涨0.90% ， 超威半导体 涨4.91% ， 苹果 跌0.14% ， SpaceX 涨2.19% ， 英特尔 涨0.25% ， 谷歌-A 跌0.32% 。 二、周二热门中概股收盘一览 台积电 涨1.78% ， 阿里巴巴 涨0.82% ， 拼多多 涨0.78% ， 富途控股 涨8.48% ， 小i 机器人 涨186.28% ， 亚玛芬体育 涨1.12% ， BOSS直聘 涨5.51% ， 腾讯音乐 涨0.92% ， 联华电子 涨2.89% ， 日月光半导体 涨",
+     "source": "东方财富股票",
+     "zh": "周二热门美股、中概股收盘一览"
+    },
+    {
+     "title": "巴克莱警告AI基建扩张可能使相关交易面临政治风险",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853537684.html",
+     "pubDate": "Wed, 26 Aug 2026 06:03:04 +0800",
+     "summary": "巴克莱 策略团队表示，快速扩张的AI基础设施正在引发美国两党选民反弹，可能给当前热门的AI交易带来政治风险。 巴克莱 称，“ 数据中心 建设正在让AI从一个抽象的科技故事，变成一个具体的生活成本问题”。即使与AI接触有限的选民，也会受到更高电费、水资源压力以及社区工业设施建设的影响。EvercoreISI和BCA Research也警告，耗电型 数据中心 建设热潮正成为中期选举敏感议题，选民对不断上涨的电费越来越不满。 巴克莱 认为，无论中期选举结果如何，AI交易都缺乏新的上涨催化剂，并提醒投资者不要假设“快速 AI应用 增长与宽松政治环境能够长期共存”。该行旗下AI 数据中心 指数包含超过4",
+     "source": "东方财富股票",
+     "zh": "巴克莱警告AI基建扩张可能使相关交易面临政治风险"
+    },
+    {
+     "title": "Here are the major earnings before the open Wednesday",
+     "link": "https://seekingalpha.com/news/4636614-here-are-the-major-earnings-before-the-open-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 18:00:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Here are the major earnings before the open Wednesday"
+    },
+    {
+     "title": "Wilton Resources targets up to a C$625K raise in repriced financing",
+     "link": "https://seekingalpha.com/news/4636823-wilton-resources-targets-up-to-a-c625k-raise-in-repriced-financing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 17:47:11 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wilton Resources targets up to a C$625K raise in repriced financing"
+    },
+    {
+     "title": "Gold back on path to $5,000/oz as U.S. debt fears rise, Natixis says",
+     "link": "https://seekingalpha.com/news/4636820-gold-back-on-path-to-5000oz-as-us-debt-fears-rise-natixis-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 17:45:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gold back on path to $5,000/oz as U.S. debt fears rise, Natixis says"
+    },
+    {
      "title": "Southern Cross Acquisition II prices $75 million IPO",
      "link": "https://seekingalpha.com/news/4636824-southern-cross-acquisition-ii-prices-75-million-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 25 Aug 2026 17:43:42 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Southern Cross Acquisition II prices $75 million IPO"
-    },
-    {
-     "title": "恒指期货夜盘收涨0.38%",
-     "link": "http://stock.eastmoney.com/news/1406,202608263853533496.html",
-     "pubDate": "Wed, 26 Aug 2026 05:43:00 +0800",
-     "summary": "8月26日，港股期指夜盘收盘，恒生指数 期货 涨0.38%，恒生科技指数 期货 涨0.76%。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "恒指期货夜盘收涨0.38%"
     },
     {
      "title": "美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%",
@@ -2274,84 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "Boeing wins additional $163M delivery order for B-52 radar modernization"
     },
     {
-     "title": "Everpure Q2 2027 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4636811-everpure-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 17:35:46 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Everpure Q2 2027 Earnings Preview"
-    },
-    {
-     "title": "Nutanix Q4 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4636682-nutanix-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 17:35:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nutanix Q4 2026 Earnings Preview"
-    },
-    {
-     "title": "Veeva Systems Q2 2027 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4636809-veeva-systems-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 17:35:34 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Veeva Systems Q2 2027 Earnings Preview"
-    },
-    {
-     "title": "Ooma Q2 2027 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4636713-ooma-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 17:35:25 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ooma Q2 2027 Earnings Preview"
-    },
-    {
-     "title": "“高中签率”龙头股，今日申购",
-     "link": "http://finance.eastmoney.com/news/1354,202608263853532798.html",
-     "pubDate": "Wed, 26 Aug 2026 05:34:56 +0800",
-     "summary": "今日有3只新股申购，分别为创业板的 洛轴股份 、沪市主板的 天博智能 以及北交所的 杰锋动力 。 洛轴股份 ：高端轴承领域龙头企业 洛轴股份 是高端轴承领域龙头企业。其发行价为15.88元/股，中一签（500股）需缴款7940元。洛轴股份申购代码为301699，网上发行申购上限为14500股，顶格申购需配深市市值14.5万元。 洛轴股份本次公开发行股票数量分别为1.24亿股，在今年以来的创业板新股中排名第1位。这意味着，其中签率可能会比较高。 发行公告显示，本次发行价格对应的发行人2025年扣非前后孰低归属于母公司股东的净利润摊薄后市盈率为22.67倍，低于同行业可比上市公司同期平均静态市盈率",
-     "source": "东方财富股票",
-     "zh": "“高中签率”龙头股，今日申购"
-    },
-    {
-     "title": "今日数据精选：“动物医学”被挤爆，真有那么好？纽约科技人才数量首超旧金山",
-     "link": "http://finance.eastmoney.com/news/1350,202608263853532820.html",
-     "pubDate": "Wed, 26 Aug 2026 05:34:03 +0800",
-     "summary": "【宏观经济及政策】 中国连续17年保持全球第二大进口市场 根据海关总署公布的数据，我国已连续17年成为全球第二大进口市场，年均增长5.1%，占全球进口份额从7.9%提升至10%左右。2026年1-7月中国进口呈现“总量大增、结构升级”的特点，我国进口的产品主要包括机电类产品、大宗商品以及 农产品 等。（央视新闻） 全国累计发电装机容量40.8亿千瓦，同比增长11.0% 国家能源局发布1-7月份全国 电力 统计数据。截至7月底，全国累计发电装机容量40.8亿千瓦，同比增长11.0%。其中， 太阳能 发电装机容量12.9亿千瓦，同比增长16.1%；风电装机容量6.9亿千瓦，同比增长19.5%。1-",
-     "source": "东方财富股票",
-     "zh": "今日数据精选：“动物医学”被挤爆，真有那么好？纽约科技人才数量首超旧金山"
-    },
-    {
      "title": "Trump administration pauses immigrant visa applications",
      "link": "https://www.ft.com/content/857fb8e1-eec6-443e-97e8-f6876302aabc?syn-25a6b1a6=1",
      "pubDate": "Tue, 25 Aug 2026 21:33:38 GMT",
      "summary": "US state department wants consular officers to screen out people likely to need public benefits",
      "source": "Financial Times",
      "zh": "Trump administration pauses immigrant visa applications"
-    },
-    {
-     "title": "美国国务卿鲁比奥据悉于近日告知多位外国对口官员，“目前”预计美国不会对伊朗发起新的打击，美国对伊朗从打击转向制裁",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853532562.html",
-     "pubDate": "Wed, 26 Aug 2026 05:33:23 +0800",
-     "summary": "美国国务卿鲁比奥据悉于近日告知多位外国对口官员，“目前”预计美国不会对伊朗发起新的打击，美国对伊朗从打击转向制裁。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国国务卿鲁比奥据悉于近日告知多位外国对口官员，“目前”预计美国不会对伊朗发起新的打击，美国对伊朗从打击转向制裁"
-    },
-    {
-     "title": "据Axios：美国国务卿鲁比奥近日向多位外国外交官员表示，“目前” 美国预计不会对伊朗发起新的打击",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853530526.html",
-     "pubDate": "Wed, 26 Aug 2026 05:32:48 +0800",
-     "summary": "据Axios：美国国务卿鲁比奥近日向多位外国外交官员表示，“目前” 美国预计不会对伊朗发起新的打击。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "据Axios：美国国务卿鲁比奥近日向多位外国外交官员表示，“目前” 美国预计不会对伊朗发起新的打击"
-    },
-    {
-     "title": "美国司法部表示，德勤同意支付 2150 万美元，了结被指控的就业歧视违法行为",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853530496.html",
-     "pubDate": "Wed, 26 Aug 2026 05:32:47 +0800",
-     "summary": "美国司法部表示，德勤同意支付 2150 万美元，了结被指控的就业歧视违法行为。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国司法部表示，德勤同意支付 2150 万美元，了结被指控的就业歧视违法行为"
     },
     {
      "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
@@ -2370,12 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits"
     },
     {
-     "title": "全球市场：美股三大指数收涨 光通信、半导体及存储板块走强 国际油价大跌",
+     "title": "全球市场：美股三大指数收涨 光通信、存储板块走强 国际油价大跌",
      "link": "http://stock.eastmoney.com/news/11784,202608263853529085.html",
      "pubDate": "Wed, 26 Aug 2026 05:15:29 +0800",
-     "summary": "美股市场： 美股三大指数08月25日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨160.24点，收于53577.4点，涨幅为0.3%； 标准普尔 500种股票指数上涨24.42点，收于7677.28点，涨幅为0.32%； 纳斯达克 综合 指数上涨171.11点，收于26151.3点，涨幅为0.66%。 “科技七巨头”涨跌不一，英伟达涨2.19%，Meta涨1.97%，微软涨0.90%，特斯拉涨0.37%，苹果跌0.14%，谷歌跌0.36%，亚马逊跌0.39%。 光通信、半导体及存储设备板块走强，Lumentum涨6.67%，应用光电涨5.13%，希捷科技涨3.40%，西部数据涨3",
+     "summary": "美股市场： 美股三大指数08月25日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨160.24点，收于53577.4点，涨幅为0.3%； 标准普尔 500种股票指数上涨24.42点，收于7677.28点，涨幅为0.32%； 纳斯达克 综合 指数上涨171.11点，收于26151.3点，涨幅为0.66%。 “科技七巨头”涨跌不一，英伟达涨2.19%，Meta涨1.97%，微软涨0.90%，特斯拉涨0.37%，苹果跌0.14%，谷歌跌0.36%，亚马逊跌0.39%。 光通信、存储板块走强，Lumentum涨6.67%，应用光电涨5.13%，希捷科技涨3.40%，西部数据涨3.53%，S",
      "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数收涨 光通信、半导体及存储板块走强 国际油价大跌"
+     "zh": "全球市场：美股三大指数收涨 光通信、存储板块走强 国际油价大跌"
     },
     {
      "title": "Is the K-shaped economy ending? Finance pros weigh in",
@@ -2448,14 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "SpaceX计划在美国路易斯安那州南部海岸斥资1000亿美元建设新发射基地，进一步扩展其星舰火箭的运营能力。 8月25日，据彭博报道，路易斯安那州州长Jeff Landry与SpaceX高管联合宣布这一计划，授权公司在沿海地区Pecan Island约12.5万英亩土地上建设该设施。 新基地将允许星舰向南越过墨西哥湾发射，并进入地球极轨道——这对SpaceX计划部署多达100万颗数据中心卫星的星座项目至关重要。 SpaceX首席执行官埃隆·马斯克此前曾设定雄心勃勃的目标，预计星舰在全面开发完成后将实现每日多次发射。拥有多处发射地点将赋予SpaceX更大灵活性以提升发射频次，尽管星舰今年迄今仅完",
      "source": "华尔街见闻",
      "zh": "SpaceX拟斥资1000亿美元在路易斯安那州建第三处星舰发射基地"
-    },
-    {
-     "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-     "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-     "pubDate": "Tue, 25 Aug 2026 20:32:15 GMT",
-     "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
-     "source": "CNBC",
-     "zh": "SpaceX plans to build a $100 billion spaceport in Louisiana"
     },
     {
      "title": "美联储柯林斯：能否维持利率不变取决于通胀进展，若没有持续改善将考虑加息",
