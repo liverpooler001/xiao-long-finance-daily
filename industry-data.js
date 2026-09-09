@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/9/10 03:23:21",
+ "generated_at": "2026/9/10 05:49:54",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,46 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Massachusetts hits data centers with new clean power rules",
+     "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+     "pubDate": "Wed, 09 Sep 2026 21:43:34 +0000",
+     "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+     "source": "TechCrunch AI",
+     "zh": "Massachusetts hits data centers with new clean power rules"
+    },
+    {
+     "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+     "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+     "pubDate": "Wed, 09 Sep 2026 20:24:48 +0000",
+     "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+     "source": "TechCrunch AI",
+     "zh": "Apple Watch’s new AI features are normalizing the idea that technology is always listening"
+    },
+    {
+     "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+     "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+     "pubDate": "Wed, 09 Sep 2026 20:03:43 +0000",
+     "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+     "source": "TechCrunch AI",
+     "zh": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch"
+    },
+    {
+     "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+     "link": "https://www.qbitai.com/2026/09/486450.html",
+     "pubDate": "Wed, 09 Sep 2026 19:24:22 +0000",
+     "summary": "一比根号二的小胖折叠",
+     "source": "量子位",
+     "zh": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计"
+    },
+    {
+     "title": "The hinge for Apple’s new foldable phone was built with AI",
+     "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+     "pubDate": "Wed, 09 Sep 2026 19:21:48 +0000",
+     "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+     "source": "TechCrunch AI",
+     "zh": "The hinge for Apple’s new foldable phone was built with AI"
+    },
     {
      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
@@ -26,14 +66,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple has a new way prove your iPhone photos aren’t AI slop"
     },
     {
-     "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-     "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-     "pubDate": "Wed, 09 Sep 2026 17:36:05 +0000",
-     "summary": "The company also argued that its on-device models offer consumers more privacy.",
-     "source": "TechCrunch AI",
-     "zh": "Apple CEO John Ternus says the best AI device is still the iPhone"
-    },
-    {
      "title": "Paul Christiano joins OpenAI Foundation Board",
      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
      "pubDate": "Wed, 09 Sep 2026 17:00:00 GMT",
@@ -42,36 +74,12 @@ window.INDUSTRY_DATA = {
      "zh": "Paul Christiano joins OpenAI Foundation Board"
     },
     {
-     "title": "Superintelligence is coming. Should we let it?",
-     "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-     "pubDate": "Wed, 09 Sep 2026 16:05:35 +0000",
-     "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these sy",
-     "source": "TechCrunch AI",
-     "zh": "Superintelligence is coming. Should we let it?"
-    },
-    {
-     "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-     "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-     "pubDate": "Wed, 09 Sep 2026 15:50:13 +0000",
-     "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these sy",
-     "source": "TechCrunch AI",
-     "zh": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’"
-    },
-    {
      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
      "pubDate": "Wed, 09 Sep 2026 15:36:24 GMT",
      "summary": "",
      "source": "Hugging Face",
      "zh": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license"
-    },
-    {
-     "title": "Viral AI assistant Instinct now has its own email address",
-     "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-     "pubDate": "Wed, 09 Sep 2026 15:13:12 +0000",
-     "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-     "source": "TechCrunch AI",
-     "zh": "Viral AI assistant Instinct now has its own email address"
     },
     {
      "title": "Build an AI Data Analyst That Thinks Like a Senior Analyst",
@@ -210,14 +218,6 @@ window.INDUSTRY_DATA = {
      "zh": "近10亿！四川智能眼镜创企拿下新融资，筹备上市"
     },
     {
-     "title": "宜宾，一场机器人“招聘会”的产业雄心",
-     "link": "https://www.qbitai.com/2026/09/486038.html",
-     "pubDate": "Wed, 09 Sep 2026 02:15:54 +0000",
-     "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
-     "source": "量子位",
-     "zh": "宜宾，一场机器人“招聘会”的产业雄心"
-    },
-    {
      "title": "134亿！三位华人创办的AI编程独角兽拿下新融资",
      "link": "https://zhidx.com/p/592179.html",
      "pubDate": "Wed, 09 Sep 2026 09:34:25 +0800",
@@ -257,6 +257,30 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Jalapeño Hot Chip, Cool Power Bill: OpenAI Turns Up the Heat on AI Inference",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/373394-jalapeno-hot-chip-cool-power-bill-openai-turns-up-the-heat-on-ai-inference/",
+     "pubDate": "Wed, 09 Sep 2026 21:00:07 +0000",
+     "summary": "OpenAI’s Jalapeño is a custom accelerator designed specifically for AI inference, particularly the low-latency, multi-chip workloads behind interactive and agentic systems. Its central idea is that useful performance cannot be reduced to peak floating-point operations or memory bandwidth. What matte",
+     "source": "SemiWiki",
+     "zh": "Jalapeño Hot Chip, Cool Power Bill: OpenAI Turns Up the Heat on AI Inference"
+    },
+    {
+     "title": "DB HiTek completes reliability qualification for 8-inch 1200V SiC MOSFET process",
+     "link": "https://www.semiconductor-today.com/news_items/2026/sep/dbhitek-090926.shtml",
+     "pubDate": "Wed, 9 Sep 2026 21:32:05 +0100",
+     "summary": "Pure-play 8-inch specialty foundry DB HiTek of Seoul, South Korea has completed reliability qualification for its 1200V silicon carbide (SiC) MOSFET process on 8-inch (200mm) wafers. This marks a step in its expansion into the 8-inch SiC foundry market. Building on completion of this qualification, ",
+     "source": "Semiconductor Today",
+     "zh": "DB HiTek completes reliability qualification for 8-inch 1200V SiC MOSFET process"
+    },
+    {
+     "title": "LEDs Push Wireless Power Further",
+     "link": "https://www.eetimes.com/leds-push-wireless-power-further/",
+     "pubDate": "Wed, 09 Sep 2026 20:00:00 +0000",
+     "summary": "An LED alternative to laser wireless power transfer from the Institute of Science Tokyo uses adaptive optics and AI beam steering to charge indoor IoT devices 5 meters away. The post LEDs Push Wireless Power Further appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "LEDs Push Wireless Power Further"
+    },
     {
      "title": "Ascent expands commercial and defense industry expertise",
      "link": "https://www.semiconductor-today.com/news_items/2026/sep/ascent-090926.shtml",
@@ -472,30 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "IVWorks Co Ltd of Daejeon, South Korea – which was founded in 2011 and manufactures 100–200mm gallium nitride (GaN) epitaxial wafers for RF & power electronics applications – is accelerating the shift from automated production that follows fixed procedures to an autonomous process in which AI judges",
      "source": "Semiconductor Today",
      "zh": "IVWorks strengthens GaN epi with AI-driven production system upgrade"
-    },
-    {
-     "title": "Strategy Paper Urges Canada to Add Semiconductors to AI Strategy",
-     "link": "https://www.eetimes.com/strategy-paper-urges-canada-to-add-semiconductors-to-ai-strategy/",
-     "pubDate": "Tue, 08 Sep 2026 19:00:00 +0000",
-     "summary": "Canada’s sovereign AI ambitions will fall short unless procurement, talent, funding, and existing semiconductor strengths are aligned behind domestic hardware capability. The post Strategy Paper Urges Canada to Add Semiconductors to AI Strategy appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Strategy Paper Urges Canada to Add Semiconductors to AI Strategy"
-    },
-    {
-     "title": "NVIDIA Vera: Rebuilding the CPU for Agentic AI",
-     "link": "https://semiwiki.com/events/372854-nvidia-vera-rebuilding-the-cpu-for-agentic-ai/",
-     "pubDate": "Tue, 08 Sep 2026 17:00:20 +0000",
-     "summary": "Source: Jonathon Evans and Polychronis Xekalakis, “NVIDIA Vera CPU,” Hot Chips 2026 . Performance figures are NVIDIA claims, and several results were based on preproduction or unofficial testing. NVIDIA’s Vera CPU is a server processor designed specifically for agentic AI, where language models repe",
-     "source": "SemiWiki",
-     "zh": "NVIDIA Vera: Rebuilding the CPU for Agentic AI"
-    },
-    {
-     "title": "The Pragmatic Path to Achieving CRA Compliance and Securing Your Access to the EU Market",
-     "link": "https://www.eetimes.com/the-pragmatic-path-to-achieving-cra-compliance-and-securing-your-access-to-the-eu-market/",
-     "pubDate": "Tue, 08 Sep 2026 14:39:23 +0000",
-     "summary": "As the EU Cyber Resilience Act (CRA) approaches, IoT manufacturers face stringent cybersecurity requirements across the entire product lifecycle. MediaTek, together with our strategic partners, invites you to this exclusive webinar to explore how the CRA reshapes the IoT landscape and gain actionabl",
-     "source": "EE Times",
-     "zh": "The Pragmatic Path to Achieving CRA Compliance and Securing Your Access to the EU Market"
     }
    ]
   },
@@ -505,6 +505,22 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "What bricklaying has taught Monumental about robots in construction",
+     "link": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/",
+     "pubDate": "Wed, 09 Sep 2026 21:08:06 +0000",
+     "summary": "The construction industry is rife with opportunity for robotics, but the technology hasn't broken in at scale yet. The post What bricklaying has taught Monumental about robots in construction appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "What bricklaying has taught Monumental about robots in construction"
+    },
+    {
+     "title": "Unitree shares down 53% from IPO debut",
+     "link": "https://www.therobotreport.com/unitree-shares-down-53-from-ipo-debut/",
+     "pubDate": "Wed, 09 Sep 2026 19:34:57 +0000",
+     "summary": "The market is pulling back on Unitree's $66 billion valuation from its debut on the Shanghai Stock Exchange just last month. The post Unitree shares down 53% from IPO debut appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Unitree shares down 53% from IPO debut"
+    },
     {
      "title": "AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness",
      "link": "https://www.therobotreport.com/agibot-share-plans-scale-humanoids-from-lab-to-real-world-at-robobusiness/",
@@ -544,22 +560,6 @@ window.INDUSTRY_DATA = {
      "summary": "The remarkable progress in AI has brought robotics closer to machines capable of determining what they should do. The next major advance may depend on whether their physical systems can execute those decisions efficiently, precisely and safely. The post AI can’t outrun a humanoid’s hardware appeared",
      "source": "The Robot Report",
      "zh": "AI can’t outrun a humanoid’s hardware"
-    },
-    {
-     "title": "Why vision AI is the safety backbone of the automated job site",
-     "link": "https://www.therobotreport.com/why-vision-ai-is-safety-backbone-of-automated-job-site/",
-     "pubDate": "Tue, 08 Sep 2026 16:05:04 +0000",
-     "summary": "Vision AI doesn't replace robots or human judgement; it provides the continuous perception that allows both to operate safely together. The post Why vision AI is the safety backbone of the automated job site appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Why vision AI is the safety backbone of the automated job site"
-    },
-    {
-     "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
-     "link": "https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness/",
-     "pubDate": "Mon, 07 Sep 2026 14:00:13 +0000",
-     "summary": "Rudy Cohen, the co-founder and CEO of Inbolt, will reframe where physical AI pays off at RoboBusiness this fall. The post Inbolt to discuss physical AI’s deployment problem at RoboBusiness appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness"
     },
     {
      "title": "This Robot Will Draw Your Blood Now",
@@ -626,6 +626,30 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Toyota is recalling 10,000 electric C-HR SUVs",
+     "link": "https://electrek.co/2026/09/09/toyota-recalling-10000-electric-c-hr-suvs/",
+     "pubDate": "Wed, 09 Sep 2026 21:06:35 +0000",
+     "summary": "Toyota is recalling around 10,000 electric C-HR vehicles. The recall stems from a software glitch that can cause the vehicle to suddenly lose power while driving. more…",
+     "source": "Electrek",
+     "zh": "Toyota is recalling 10,000 electric C-HR SUVs"
+    },
+    {
+     "title": "More And More Americans Are Interested In EVs: Study",
+     "link": "https://insideevs.com/news/807725/americans-want-more-evs/",
+     "pubDate": "Wed, 09 Sep 2026 20:23:53 +0000",
+     "summary": "While high gas prices have done their part, it's the expanding charging infrastructure that's mostly pushing Americans toward EVs.",
+     "source": "InsideEVs",
+     "zh": "More And More Americans Are Interested In EVs: Study"
+    },
+    {
+     "title": "The Genesis GV90 transforms into a private luxury theater with a pop-up 24.6″ display",
+     "link": "https://electrek.co/2026/09/09/genesis-gv90-luxury-theater-pop-up-24-6-screen/",
+     "pubDate": "Wed, 09 Sep 2026 20:10:26 +0000",
+     "summary": "The Genesis GV90 is more than an ultra-luxe people mover. With a pop-up OLED cinematic display that extends to 24.6″, the flagship SUV transforms into a personal luxury movie theater, complete with a 25-speaker Bang & Olufsen 3D Sound System. more…",
+     "source": "Electrek",
+     "zh": "The Genesis GV90 transforms into a private luxury theater with a pop-up 24.6″ display"
+    },
+    {
      "title": "Yozma electric mini dirt bikes exclusive $595 savings, EcoFlow flash 2x 3,072Wh DELTA 3 Ultra power stations $1,800 off, EGO, more",
      "link": "https://electrek.co/2026/09/09/yozma-electric-mini-dirt-bikes-exclusive-ecoflow-3072wh-delta-3-ultra-power-stations-ego-more/",
      "pubDate": "Wed, 09 Sep 2026 18:00:00 +0000",
@@ -674,14 +698,6 @@ window.INDUSTRY_DATA = {
      "zh": "EVgo is adding 400+ fast chargers where you grocery shop"
     },
     {
-     "title": "Kia’s electric van now comes in 10 top hats, including a 7-seater and an upscale Prime model",
-     "link": "https://electrek.co/2026/09/09/kias-electric-van-10-top-hats-7-seater/",
-     "pubDate": "Wed, 09 Sep 2026 16:07:48 +0000",
-     "summary": "Kia has expanded its PV5 electric van lineup to 10 body styles, including a new 7-seater and more. more…",
-     "source": "Electrek",
-     "zh": "Kia’s electric van now comes in 10 top hats, including a 7-seater and an upscale Prime model"
-    },
-    {
      "title": "Tesla May Offer You A Robotaxi Instead Of A Service Loaner",
      "link": "https://insideevs.com/news/807664/tesla-robotaxi-loaner-service-cybercab/",
      "pubDate": "Wed, 09 Sep 2026 15:29:05 +0000",
@@ -712,14 +728,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers tackled a durability problem in cheaper LMR batteries by changing how the cells are charged and discharged.",
      "source": "InsideEVs",
      "zh": "LG’s Experimental LMR Battery Retained 92% Capacity After 883 Cycles"
-    },
-    {
-     "title": "BYD cuts Denza Z9 GT EV prices with the new e3 Premium trim, starting at about $50,000",
-     "link": "https://electrek.co/2026/09/09/byd-cuts-denza-z9-gt-ev-prices-new-50000-premium-trim/",
-     "pubDate": "Wed, 09 Sep 2026 14:13:12 +0000",
-     "summary": "BYD launched the new Denza Z9 GT e3 Premium, a lower-priced version of its top-selling electric luxury GT, starting at about $50,000. more…",
-     "source": "Electrek",
-     "zh": "BYD cuts Denza Z9 GT EV prices with the new e3 Premium trim, starting at about $50,000"
     },
     {
      "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
@@ -760,14 +768,6 @@ window.INDUSTRY_DATA = {
      "summary": "Model Y deliveries in China totaled 29,260, down 25.76% year-on-year, with the decline deepening for a third consecutive month. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Tesla August China deliveries breakdown: Model Y falls 26%, extending decline to third month"
-    },
-    {
-     "title": "The Slate Truck’s Trailer Hitch Installation Is As Simple As It Gets",
-     "link": "https://insideevs.com/news/807633/slate-truck-trailer-hitch-installation/",
-     "pubDate": "Wed, 09 Sep 2026 09:18:25 +0000",
-     "summary": "The startup says that anyone can install the $99.99 receiver in as little as 30 minutes with simple tools.",
-     "source": "InsideEVs",
-     "zh": "The Slate Truck’s Trailer Hitch Installation Is As Simple As It Gets"
     },
     {
      "title": "Nio's William Li urges focus on core business for next 3 years, teases major new models for 2027",
@@ -826,6 +826,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "U.S. Crude Stocks Edge Lower as Oil Tops $100",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Stocks-Edge-Lower-as-Oil-Tops-100.html",
+     "pubDate": "Wed, 09 Sep 2026 16:02:17 -0500",
+     "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell 300,000 barrels in the week ending September 4. In the week prior, US crude oil inventories fell by 2.6 million barrels. Commercial crude oil inventories excluding the SPR have lost just over 48 mil",
+     "source": "OilPrice",
+     "zh": "U.S. Crude Stocks Edge Lower as Oil Tops $100"
+    },
+    {
+     "title": "Negative Power Prices Are Piling Up Across Europe",
+     "link": "https://oilprice.com/Energy/Energy-General/Negative-Power-Prices-Are-Piling-Up-Across-Europe.html",
+     "pubDate": "Wed, 09 Sep 2026 16:00:00 -0500",
+     "summary": "Europe desperately needs to ramp up its energy storage capacity if it wants to avoid another energy crisis. In the wake of Vladimir Putin's invasion of Ukraine back in 2022, the European Union made major strides in building up its own energy production capacities in an effort to wean itself off of R",
+     "source": "OilPrice",
+     "zh": "Negative Power Prices Are Piling Up Across Europe"
+    },
+    {
+     "title": "U.S. Administration Eyes Venezuela’s Critical Minerals",
+     "link": "https://oilprice.com/Energy/Energy-General/US-Administration-Eyes-Venezuelas-Critical-Minerals.html",
+     "pubDate": "Wed, 09 Sep 2026 15:00:00 -0500",
+     "summary": "After signing what President Donald Trump touted as “the biggest oil deal in world history” to take majority control of 65 billion barrels of proven crude oil reserves in Venezuela, the U.S. Administration is setting its sights on the South American country’s potentially vast gold and critical miner",
+     "source": "OilPrice",
+     "zh": "U.S. Administration Eyes Venezuela’s Critical Minerals"
+    },
+    {
      "title": "Britain Can Save £500 by Scrapping Net Zero, If It Ignores Most of the Bill",
      "link": "https://oilprice.com/Energy/Energy-General/Britain-Can-Save-500-by-Scrapping-Net-Zero-If-It-Ignores-Most-of-the-Bill.html",
      "pubDate": "Wed, 09 Sep 2026 14:00:00 -0500",
@@ -858,36 +882,12 @@ window.INDUSTRY_DATA = {
      "zh": "Suniva raises $835 million to drive 4.5 GW in new solar cell capacity"
     },
     {
-     "title": "Uganda Launches New Crude Grade as First Oil Exports Near",
-     "link": "https://oilprice.com/Energy/Crude-Oil/Uganda-Launches-New-Crude-Grade-as-First-Oil-Exports-Near.html",
-     "pubDate": "Wed, 09 Sep 2026 12:00:00 -0500",
-     "summary": "Uganda is approaching its entry into the oil export market, but getting its new Pearl Sweet grade to buyers will be harder than its low sulphur content might suggest. The country’s two projects are expected to produce 230,000 b/d at plateau, opening a yet untapped revenue stream for the landlocked e",
-     "source": "OilPrice",
-     "zh": "Uganda Launches New Crude Grade as First Oil Exports Near"
-    },
-    {
-     "title": "Google Bets €13 Billion on Finland to Power AI Boom With Nuclear Energy",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Google-Bets-13-Billion-on-Finland-to-Power-AI-Boom-With-Nuclear-Energy.html",
-     "pubDate": "Wed, 09 Sep 2026 11:30:00 -0500",
-     "summary": "Google will invest at least €13 billion ($15.1 billion) in Finnish AI infrastructure over 2027 and 2028 and has signed a 22-year power purchase agreement with Fortum for up to 50% of the output from the Loviisa nuclear plant, Google's first nuclear power contract outside the United States, the compa",
-     "source": "OilPrice",
-     "zh": "Google Bets €13 Billion on Finland to Power AI Boom With Nuclear Energy"
-    },
-    {
      "title": "Front-of-meter solar, storage could serve 32% of California’s 2032 peak load: study",
      "link": "https://www.utilitydive.com/news/front-of-meter-solar-storage-could-serve-32-of-californias-2032-peak-loa/829935/",
      "pubDate": "Wed, 09 Sep 2026 12:10:20 -0400",
      "summary": "An analysis commissioned by the Coalition for Community Solar Access found untapped opportunity for 3,100 distribution-connected projects in the state&rsquo;s three investor-owned utility territories.",
      "source": "Utility Dive",
      "zh": "Front-of-meter solar, storage could serve 32% of California’s 2032 peak load: study"
-    },
-    {
-     "title": "Bank of England Warns Iran War Could Push UK Inflation Above 4%",
-     "link": "https://oilprice.com/Energy/Energy-General/Bank-of-England-Warns-Iran-War-Could-Push-UK-Inflation-Above-4.html",
-     "pubDate": "Wed, 09 Sep 2026 11:00:00 -0500",
-     "summary": "Bank of England governor Andrew Bailey has warned inflationary pressures are still buffeting the UK economy and energy prices could rise further next year if the war in Iran continues. Speaking to MPs on Tuesday, the Bank chief said inflation risks were “to the upside” and energy prices “could be hi",
-     "source": "OilPrice",
-     "zh": "Bank of England Warns Iran War Could Push UK Inflation Above 4%"
     },
     {
      "title": "Denmark Can Produce 140% Of Its Electricity Demand From Wind Power…So What Happens To The Extra 40%?",
@@ -1074,6 +1074,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak",
+     "link": "https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/?utm_campaign=rss",
+     "pubDate": "Wed, 09 Sep 2026 21:44:07 +0000",
+     "summary": "The two measles-related deaths in Pennsylvania last month involved infants, and the virus itself caused one of the deaths, a Pennsylvania coroner confirmed Wednesday.",
+     "source": "STAT News",
+     "zh": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak"
+    },
+    {
+     "title": "Tyra disappoints investors with bladder cancer data",
+     "link": "https://www.biopharmadive.com/news/tyra-bladder-cancer-dabogratinib-study-results/829917/",
+     "pubDate": "Wed, 09 Sep 2026 15:46:00 -0400",
+     "summary": "Remission rates observed in a Phase 2 trial fell short of Wall Street's expectations, though some analysts believe the company should see better results in late-stage testing.",
+     "source": "BioPharma Dive",
+     "zh": "Tyra disappoints investors with bladder cancer data"
+    },
+    {
+     "title": "The Emerging Power of Mass Spectrometry in Oncology",
+     "link": "https://www.genengnews.com/topics/omics/the-emerging-power-of-mass-spectrometry-in-oncology/",
+     "pubDate": "Wed, 09 Sep 2026 19:40:08 +0000",
+     "summary": "Novel approaches are urgently needed to improve availability of diagnostic assays, and recent efforts have shifted toward uncovering the biological pathways and molecular profiles underlying disease onset, progression, and metastasis. The post The Emerging Power of Mass Spectrometry in Oncology appe",
+     "source": "GEN",
+     "zh": "The Emerging Power of Mass Spectrometry in Oncology"
+    },
+    {
      "title": "Gene Therapy Extends Lifespan and Reduces Symptoms in Sandhoff Disease Cat Model",
      "link": "https://www.genengnews.com/topics/translational-medicine/gene-therapy-extends-lifespan-and-reduces-symptoms-in-sandhoff-disease-cat-model/",
      "pubDate": "Wed, 09 Sep 2026 18:00:37 +0000",
@@ -1218,28 +1242,12 @@ window.INDUSTRY_DATA = {
      "zh": "NodThera, a decade-old NLRP3 player, plans Phase 3 and a rebrand"
     },
     {
-     "title": "STAT+: Leukemia drug data suggested a different way to treat diabetes. A new biotech will test that idea",
-     "link": "https://www.statnews.com/2026/09/09/kura-oncology-spins-off-diabetes-focused-caspian-therapeutics/?utm_campaign=rss",
-     "pubDate": "Wed, 09 Sep 2026 11:00:00 +0000",
-     "summary": "Caspian Therapeutics, is launching with $50 million in financing to develop menin inhibitors for diabetes and other cardiometabolic diseases.",
-     "source": "STAT News",
-     "zh": "STAT+: Leukemia drug data suggested a different way to treat diabetes. A new biotech will test that idea"
-    },
-    {
      "title": "A new immuno-oncology play raises $225M for a next-generation drug",
      "link": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
      "pubDate": "Wed, 09 Sep 2026 07:00:00 -0400",
      "summary": "Solstice Oncology is advancing a medicine from China&rsquo;s Harbour BioMed that it believes is able to address the weaknesses of drugs&nbsp;aimed at CTLA-4, a popular but tricky cancer immunotherapy target.",
      "source": "BioPharma Dive",
      "zh": "A new immuno-oncology play raises $225M for a next-generation drug"
-    },
-    {
-     "title": "Novartis Shares Slide After Neuromuscular Candidate Acquired with Avidity Fails Phase III Trial",
-     "link": "https://www.genengnews.com/topics/translational-medicine/novartis-shares-slide-after-neuromuscular-candidate-acquired-with-avidity-fails-phase-iii-trial/",
-     "pubDate": "Wed, 09 Sep 2026 01:03:35 +0000",
-     "summary": "Del-desiran failed the Phase III HARBOR trial (NCT06411288) by missing the study’s primary endpoint of statistically significant improvement vs. placebo in video Hand Opening Time (vHOT) through week 54. vHOT is a frequently used measure of hand myotonia, according to a 2024 study, and involves clin",
-     "source": "GEN",
-     "zh": "Novartis Shares Slide After Neuromuscular Candidate Acquired with Avidity Fails Phase III Trial"
     },
     {
      "title": "Six AI agents, one deskside system: A new model for clinical decision support",
@@ -1256,14 +1264,6 @@ window.INDUSTRY_DATA = {
      "summary": "One analyst views Roivant&rsquo;s pulmonary hypertension drug as a future $10 billion-plus seller. Elsewhere,&nbsp;AstraZeneca overcame a negative advisory committee vote and Pharvaris claimed success in a key study.",
      "source": "BioPharma Dive",
      "zh": "Roivant surges on ‘exceptional’ results; Bristol Myers touts first-of-its-kind CAR-T therapy"
-    },
-    {
-     "title": "Moonwalk reloads with $70M and new RNAi prospects for obesity",
-     "link": "https://www.biopharmadive.com/news/moonwalk-series-b-obesity-rna-interference/829784/",
-     "pubDate": "Tue, 08 Sep 2026 11:52:00 -0400",
-     "summary": "The California biotech plans to bring its first drug, enabled by licensing technology from a Chinese drugmaker, into clinical testing for obesity by the end of 2027.",
-     "source": "BioPharma Dive",
-     "zh": "Moonwalk reloads with $70M and new RNAi prospects for obesity"
     }
    ]
   },
@@ -1273,6 +1273,38 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "This 'impossible' black hole merger may be explained by a warp in spacetime",
+     "link": "https://www.space.com/astronomy/black-holes/this-impossible-black-hole-merger-may-be-explained-by-a-warp-in-spacetime",
+     "pubDate": "Wed, 09 Sep 2026 21:00:00 +0000",
+     "summary": "A \"forbidden\" merger between two black holes may not have been quite as impossible as previously thought. New research that suggests the black holes involved were smaller than first calculated.",
+     "source": "Space.com",
+     "zh": "This 'impossible' black hole merger may be explained by a warp in spacetime"
+    },
+    {
+     "title": "Flight 15 pairing undergo testing at Massey’s",
+     "link": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/",
+     "pubDate": "Wed, 09 Sep 2026 20:22:02 +0000",
+     "summary": "SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey’s for… The post Flight 15 pairing undergo testing at Massey’s appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Flight 15 pairing undergo testing at Massey’s"
+    },
+    {
+     "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
+     "link": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/",
+     "pubDate": "Wed, 09 Sep 2026 20:11:58 +0000",
+     "summary": "A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contra",
+     "source": "NASA",
+     "zh": "NASA Adds Relativity Space’s Terran R to Launch Services Contract"
+    },
+    {
+     "title": "International Space Station astronaut gives out of this world tribute to honor Star Trek’s 60th anniversary",
+     "link": "https://www.space.com/space-exploration/international-space-station-astronaut-gives-out-of-this-world-tribute-to-honor-star-treks-60th-anniversary",
+     "pubDate": "Wed, 09 Sep 2026 20:00:00 +0000",
+     "summary": "European Space Agency astronaut Sophie Adenot paid tribute to Star Trek’s real-world contributions to science and exploration by wearing Captain Pike’s Starfleet badge aboard the International Space Station on the show’s 60th anniversary.",
+     "source": "Space.com",
+     "zh": "International Space Station astronaut gives out of this world tribute to honor Star Trek’s 60th anniversary"
+    },
     {
      "title": "Astronomers discover two stars that joined together to form a binary system just 60 years ago",
      "link": "https://www.space.com/astronomy/stars/astronomers-discover-two-stars-that-joined-together-to-form-a-binary-system-just-60-years-ago",
@@ -1330,22 +1362,6 @@ window.INDUSTRY_DATA = {
      "zh": "US military practices orbital dogfighting in 1st-ever 'live fly' exercise in space"
     },
     {
-     "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
-     "link": "https://www.space.com/space-exploration/on-this-day-in-space-september-9-2026",
-     "pubDate": "Wed, 09 Sep 2026 14:00:00 +0000",
-     "summary": "On Sept. 9, 1982, the first private rocket, Conestoga 1, launched into space from a Texas cattle ranch. Here's why it mattered.",
-     "source": "Space.com",
-     "zh": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch"
-    },
-    {
-     "title": "Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026",
-     "link": "https://www.space.com/astronomy/earth/indonesian-volcanic-eruption-spotted-from-space-space-photo-of-the-day-for-sept-9-2026",
-     "pubDate": "Wed, 09 Sep 2026 14:00:00 +0000",
-     "summary": "Anak Krakatau erupted, and satellites were watching.",
-     "source": "Space.com",
-     "zh": "Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026"
-    },
-    {
      "title": "NASA Names Two Artemis II Astronauts to Emeritus Program",
      "link": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/",
      "pubDate": "Wed, 09 Sep 2026 13:24:37 +0000",
@@ -1392,14 +1408,6 @@ window.INDUSTRY_DATA = {
      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of",
      "source": "NASA",
      "zh": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars"
-    },
-    {
-     "title": "Anak Krakatau Rumbles Again",
-     "link": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/",
-     "pubDate": "Wed, 09 Sep 2026 04:01:00 +0000",
-     "summary": "A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality.",
-     "source": "NASA",
-     "zh": "Anak Krakatau Rumbles Again"
     },
     {
      "title": "The Exploration Company Raises $450M Series C",
@@ -1466,14 +1474,6 @@ window.INDUSTRY_DATA = {
      "zh": "Isar Aerospace launches Spectrum rocket after months of delays"
     },
     {
-     "title": "Blue Origin expands test and launch sites across the Cape",
-     "link": "https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/",
-     "pubDate": "Fri, 04 Sep 2026 20:37:43 +0000",
-     "summary": "Blue Origin is expanding its Kennedy Space Center and Cape Canaveral footprint on multiple fronts,… The post Blue Origin expands test and launch sites across the Cape appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Blue Origin expands test and launch sites across the Cape"
-    },
-    {
      "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
      "link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
      "pubDate": "Thu, 03 Sep 2026 13:00:00 +0000",
@@ -1489,6 +1489,54 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+     "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+     "pubDate": "Wed, 09 Sep 2026 17:40:44 -0400",
+     "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
+     "source": "BleepingComputer",
+     "zh": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks"
+    },
+    {
+     "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+     "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+     "pubDate": "Wed, 09 Sep 2026 17:30:36 -0400",
+     "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+     "source": "BleepingComputer",
+     "zh": "AdaptHealth confirms 4.1 million people exposed in July cyberattack"
+    },
+    {
+     "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
+     "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
+     "pubDate": "Wed, 09 Sep 2026 21:19:55 GMT",
+     "summary": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.",
+     "source": "Dark Reading",
+     "zh": "Mythos Vulnerability Firehose Hits a Human Bottleneck"
+    },
+    {
+     "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+     "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+     "pubDate": "Wed, 09 Sep 2026 17:02:14 -0400",
+     "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
+     "source": "BleepingComputer",
+     "zh": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking"
+    },
+    {
+     "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
+     "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
+     "pubDate": "Wed, 09 Sep 2026 19:47:50 GMT",
+     "summary": "US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs.",
+     "source": "Dark Reading",
+     "zh": "US Government Accuses Chinese AI Firms of Distilling Frontier Models"
+    },
+    {
+     "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+     "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+     "pubDate": "Wed, 09 Sep 2026 23:56:05 +0530",
+     "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Cente",
+     "source": "The Hacker News",
+     "zh": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto"
+    },
     {
      "title": "HelmGuard Raises $7.3 Million for Agentic GRC and Security",
      "link": "https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/",
@@ -1512,6 +1560,14 @@ window.INDUSTRY_DATA = {
      "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
      "source": "BleepingComputer",
      "zh": "US says Chinese firms extracted billions of tokens from frontier AI models"
+    },
+    {
+     "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+     "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+     "pubDate": "Wed, 09 Sep 2026 22:04:05 +0530",
+     "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned s",
+     "source": "The Hacker News",
+     "zh": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week"
     },
     {
      "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
@@ -1602,46 +1658,6 @@ window.INDUSTRY_DATA = {
      "zh": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets"
     },
     {
-     "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-     "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-     "pubDate": "Wed, 09 Sep 2026 06:11:29 -0400",
-     "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-     "source": "BleepingComputer",
-     "zh": "Over 36,000 exposed Plex servers vulnerable to recent flaws"
-    },
-    {
-     "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-     "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-     "pubDate": "Wed, 09 Sep 2026 15:02:26 +0530",
-     "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks. The activity has been described as occurring at",
-     "source": "The Hacker News",
-     "zh": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok"
-    },
-    {
-     "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-     "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-     "pubDate": "Wed, 09 Sep 2026 14:41:03 +0530",
-     "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's Ja",
-     "source": "The Hacker News",
-     "zh": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox"
-    },
-    {
-     "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-     "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-     "pubDate": "Wed, 09 Sep 2026 04:44:22 -0400",
-     "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
-     "source": "BleepingComputer",
-     "zh": "Man gets 15 years for extorting women with AI-generated porn videos"
-    },
-    {
-     "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-     "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-     "pubDate": "Wed, 09 Sep 2026 03:30:15 -0400",
-     "summary": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]",
-     "source": "BleepingComputer",
-     "zh": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access"
-    },
-    {
      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
      "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
      "pubDate": "Tue, 08 Sep 2026 21:44:22 +0000",
@@ -1672,22 +1688,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki, which the company did not disclose, was a “hack.\"",
      "source": "Dark Reading",
      "zh": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack"
-    },
-    {
-     "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
-     "link": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
-     "pubDate": "Tue, 08 Sep 2026 17:25:37 GMT",
-     "summary": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
-     "source": "Dark Reading",
-     "zh": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access"
-    },
-    {
-     "title": "Cybercriminals Hack Brazilian Government Servers to Host Phishing Sites",
-     "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-hack-brazilian-government-servers-host-phishing-sites",
-     "pubDate": "Tue, 08 Sep 2026 12:00:00 GMT",
-     "summary": "A Chinese-language group is compromising government and education sites to create a reverse-proxy network with gambling-themed sites.",
-     "source": "Dark Reading",
-     "zh": "Cybercriminals Hack Brazilian Government Servers to Host Phishing Sites"
     }
    ]
   },
@@ -1698,60 +1698,188 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "苹果 iOS / iPadOS 27、macOS 27、watchOS 27 和 visionOS 27 定档 9 月 15 日推出",
-     "link": "https://www.ithome.com/1/000/531.htm",
-     "pubDate": "Wed, 09 Sep 2026 19:17:51 GMT",
-     "summary": "IT之家 9 月 10 日消息，苹果官网显示，iOS / iPadOS 27、macOS 27、watchOS 27 和 visionOS 27 将于 9 月 15 日推出 。 据介绍，苹果全新一代 OS 设计一再演进。Liquid Glass 折射效果更均匀，对比度更出色，确保内容清晰易读。还新加了调节滑块，用户可随心调整 Liquid Glass 的外观效果。同时，iPhone 和 iPad App 拥有更快的启动速度，隔空投送传输表现更迅捷。 Apple Watch 拥有更多小组件，会适时现身智能叠放来帮忙。方便用户及时发送生日祝福，查看停车位置，赶在节假日前改掉睡眠闹钟，或是置顶交通卡",
-     "source": "IT之家",
-     "zh": "苹果 iOS / iPadOS 27、macOS 27、watchOS 27 和 visionOS 27 定档 9 月 15 日推出"
-    },
-    {
-     "title": "iPhone Duo supports Apple Pencil and comes with iOS redesigned for multitasking on different screen sizes/orientations, with auto-adjusting controls and apps (Terrence O&apos;Brien/The Verge)",
-     "link": "https://www.techmeme.com/260909/p39#a260909p39",
-     "pubDate": "Wed, 09 Sep 2026 15:16:01 -0400",
-     "summary": "Terrence O'Brien / The Verge : iPhone Duo supports Apple Pencil and comes with iOS redesigned for multitasking on different screen sizes/orientations, with auto-adjusting controls and apps &nbsp; &mdash;&nbsp; iPhone Duo is also the first iPhone to support Apple Pencil. &hellip; Obviously, part of t",
+     "title": "Source: Meta AI researcher Andrew Tulloch, who came over from Thinking Machine Lab as one of the highest paid employees last year, is leaving the company (Reed Albergotti/Semafor)",
+     "link": "https://www.techmeme.com/260909/p45#a260909p45",
+     "pubDate": "Wed, 09 Sep 2026 17:45:02 -0400",
+     "summary": "Reed Albergotti / Semafor : Source: Meta AI researcher Andrew Tulloch, who came over from Thinking Machine Lab as one of the highest paid employees last year, is leaving the company &nbsp; &mdash;&nbsp; Meta AI researcher Andrew Tulloch, who gained attention for being one of the highest paid employe",
      "source": "Techmeme",
-     "zh": "iPhone Duo supports Apple Pencil and comes with iOS redesigned for multitasking on different screen sizes/orientations, with auto-adjusting controls and apps (Terrence O&apos;Brien/The Verge)"
+     "zh": "Source: Meta AI researcher Andrew Tulloch, who came over from Thinking Machine Lab as one of the highest paid employees last year, is leaving the company (Reed Albergotti/Semafor)"
     },
     {
-     "title": "Apple Doesn’t Want You to Worry About the New Apple Watch's Listening Features",
+     "title": "苹果 iPhone 18 Pro / Max 升级摄影风格，带来全新质感和颗粒感控制选项",
+     "link": "https://www.ithome.com/1/000/548.htm",
+     "pubDate": "Wed, 09 Sep 2026 21:35:00 GMT",
+     "summary": "IT之家 9 月 10 日消息，根据苹果官方博文，iPhone 18 Pro 和 iPhone 18 Pro Max 升级摄影风格功能， 带来全新质感和颗粒感的控制选项 ，供用户进一步调整理想画面效果、提升对照片的创意掌控。 IT之家注：摄影风格（Photographic Styles）是苹果 iPhone 的智能色调预设，用来在按下快门前就决定照片的整体氛围，最早随 iPhone 13 系列推出，提供高对比、鲜艳、暖色、冷色等风格。 苹果公司在 iPhone 16 系列、iPhone 17 系列上引入新一代“摄影风格”，主要提供 Undertones（基调 / 肤色倾向）与 Moods（情绪",
+     "source": "IT之家",
+     "zh": "苹果 iPhone 18 Pro / Max 升级摄影风格，带来全新质感和颗粒感控制选项"
+    },
+    {
+     "title": "苹果 iPhone 18 Pro / Max 首用 6 叶片可变光圈结构，相机 App 引入 Pro 级控制",
+     "link": "https://www.ithome.com/1/000/547.htm",
+     "pubDate": "Wed, 09 Sep 2026 21:22:18 GMT",
+     "summary": "IT之家 9 月 10 日消息，苹果今天（9 月 10 日）更新官方文档，宣布在 iPhone 18 Pro 和 iPhone 18 Pro Max 两款旗舰中，引入 Pro 级相机控制体验， 让用户在原生相机应用中直接控制更多拍摄参数。 用户可手动设定光圈、快门速度和白平衡，也可借助实时直方图判断画面曝光。相机应用还能根据景深和环境光线自动调整光圈。 IT之家附上官方介绍如下： iPhone 18 Pro 和 iPhone 18 Pro Max 的相机 app 提供了 Pro 级控制选项，这是一项全新可自定义体验，供用户更轻松地调用常用设置，同时推出了新的手动控制选项。用户现可调整镜头光圈、",
+     "source": "IT之家",
+     "zh": "苹果 iPhone 18 Pro / Max 首用 6 叶片可变光圈结构，相机 App 引入 Pro 级控制"
+    },
+    {
+     "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+     "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+     "pubDate": "Wed, 09 Sep 2026 21:15:27 +0000",
+     "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
+     "source": "WIRED",
+     "zh": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads"
+    },
+    {
+     "title": "New opt-in Apple Watch Siri audio features can listen to and transcribe conversations all day; Apple says raw audio is inaccessible and deleted after processing (Lily Hay Newman/Wired)",
+     "link": "https://www.techmeme.com/260909/p44#a260909p44",
+     "pubDate": "Wed, 09 Sep 2026 17:15:01 -0400",
+     "summary": "Lily Hay Newman / Wired : New opt-in Apple Watch Siri audio features can listen to and transcribe conversations all day; Apple says raw audio is inaccessible and deleted after processing &nbsp; &mdash;&nbsp; The new Apple Watch includes several &ldquo;intelligent&rdquo; listening features that have ",
+     "source": "Techmeme",
+     "zh": "New opt-in Apple Watch Siri audio features can listen to and transcribe conversations all day; Apple says raw audio is inaccessible and deleted after processing (Lily Hay Newman/Wired)"
+    },
+    {
+     "title": "未适配应用也能运行：苹果首款折叠手机 iPhone Duo 提供 3 种兼容模式",
+     "link": "https://www.ithome.com/1/000/546.htm",
+     "pubDate": "Wed, 09 Sep 2026 21:10:58 GMT",
+     "summary": "IT之家 9 月 10 日消息，科技媒体 9to5Mac 今天（9 月 10 日）发布博文，报道称在面向开发者的技术讲解中， 苹果公司披露了其首款折叠手机 iPhone Duo 的应用兼容机制。 IT之家援引博文介绍，该兼容机制分别面向 iOS 26、iOS 27.0 和 iOS 27.1 三个版本提供 3 种模式，其中 iOS 27.1 预估 10 月发布，随着 iPhone Duo 上市推出。 面向 iOS 26 系统的应用采用默认兼容模式，系统将单一应用视图放入黑色背景包围的安全区域，从而保障在 iPhone Duo 上兼容运行旧应用。 面向 iOS 27 开发的应用仍会保留部分未使用空",
+     "source": "IT之家",
+     "zh": "未适配应用也能运行：苹果首款折叠手机 iPhone Duo 提供 3 种兼容模式"
+    },
+    {
+     "title": "证明照片不是 AI：苹果 iPhone 18 Pro 支持像素级标注真实图像数据，但又和国内无关",
+     "link": "https://www.ithome.com/1/000/544.htm",
+     "pubDate": "Wed, 09 Sep 2026 21:03:15 GMT",
+     "summary": "IT之家 9 月 10 日消息，在 AI 照片近乎以假乱真的年代，苹果为最新发布的 iPhone 18 Pro 系列手机带来一项标注真实照片功能。 苹果在今日的发布会上宣布推出“ Apple 参考图像 ”，iPhone 18 Pro 用户可通过该技术证明所拍照片的原真性。 苹果官方介绍称，Apple 参考图像尽可能从最安全的地方入手， 全新主摄会在像素层面安全地标注照片数据 ，专用云计算则会将这些已标注的数据转换为不可更改的图像，保存在照片 App 中供用户查看。 参考照片会与常规的可编辑照片并存，相当于是一个完全保持原本拍摄内容的存档图。 不过这一功能目前无法在中国市场使用 。在欧盟，App",
+     "source": "IT之家",
+     "zh": "证明照片不是 AI：苹果 iPhone 18 Pro 支持像素级标注真实图像数据，但又和国内无关"
+    },
+    {
+     "title": "A Year After Charlie Kirk's Death, Turning Point Plans to Spend Big on the Midterms",
+     "link": "https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/",
+     "pubDate": "Wed, 09 Sep 2026 21:00:00 +0000",
+     "summary": "Turning Point will spend tens of millions on ads and turnout, sources say, with a focus on New Hampshire, Arizona, and Nevada.",
+     "source": "WIRED",
+     "zh": "A Year After Charlie Kirk's Death, Turning Point Plans to Spend Big on the Midterms"
+    },
+    {
+     "title": "苹果 watchOS 27 升级健康体验：评估训练负荷、计算健康年龄等",
+     "link": "https://www.ithome.com/1/000/543.htm",
+     "pubDate": "Wed, 09 Sep 2026 20:58:48 GMT",
+     "summary": "IT之家 9 月 10 日消息，科技媒体 macobserver 今天（9 月 10 日）发布博文， 报道称在 Apple Watch Series 12 和 Apple Watch Ultra 4 两款智能手表上，苹果进一步升级了健康体验。 健康感测系统 在两款新智能手表上，苹果重点升级了“健康感测系统”，该系统配备新的光学与电极式心率传感器及更大的绿色 LED，可每 5 秒读取心率、每 5 分钟读取心率变异性，频率较此前提高 24 倍。 由于需要搭配新的传感器数据，因此 Apple Watch Series 12 和 Apple Watch Ultra 4 两款智能手表独享恢复期心率变异性",
+     "source": "IT之家",
+     "zh": "苹果 watchOS 27 升级健康体验：评估训练负荷、计算健康年龄等"
+    },
+    {
+     "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+     "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+     "pubDate": "Wed, 09 Sep 2026 20:58:09 +0000",
+     "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+     "source": "TechCrunch",
+     "zh": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago"
+    },
+    {
+     "title": "Amazon refused to give pregnant workers bathroom breaks",
+     "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+     "pubDate": "Wed, 09 Sep 2026 20:52:24 +0000",
+     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/ Comments URL: https://news.ycombinator.com/item?id=49634095 Points: 27 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Amazon refused to give pregnant workers bathroom breaks"
+    },
+    {
+     "title": "苹果 iPhone 18 Pro 系列手机配备 12GB 内存与上一代相同，起价上涨 1000 元",
+     "link": "https://www.ithome.com/1/000/542.htm",
+     "pubDate": "Wed, 09 Sep 2026 20:49:11 GMT",
+     "summary": "IT之家 9 月 10 日消息，苹果 iPhone 18 Pro 系列手机今日正式发布，官方没有提到新机的内存容量，不过据 MacRumors 今日报道，在最新版本的 Xcode 27 中，苹果已透露了这一信息。 iPhone 18 Pro： 12GB iPhone 18 Pro Max： 12GB Xcode 目前还不支持 iPhone Duo，但该设备搭载了与 iPhone 18 Pro 相同的 A20 Pro 芯片，预计也搭载 12GB 内存。 苹果上一代 iPhone 17 Pro 系列手机就搭载了 12GB 内存，新一代的内存容量保持不变。 iPhone 17：8GB iPhone ",
+     "source": "IT之家",
+     "zh": "苹果 iPhone 18 Pro 系列手机配备 12GB 内存与上一代相同，起价上涨 1000 元"
+    },
+    {
+     "title": "Tailwind Labs, the company behind Tailwind CSS, is joining Shopify; in January, it laid off three of four engineers, citing AI&apos;s impact on documentation traffic (Supreeth Koundinya/AIM)",
+     "link": "https://www.techmeme.com/260909/p43#a260909p43",
+     "pubDate": "Wed, 09 Sep 2026 16:20:01 -0400",
+     "summary": "Supreeth Koundinya / AIM : Tailwind Labs, the company behind Tailwind CSS, is joining Shopify; in January, it laid off three of four engineers, citing AI's impact on documentation traffic &nbsp; &mdash;&nbsp; Tailwind Labs, the company behind the Tailwind CSS web-development framework, is joining Sh",
+     "source": "Techmeme",
+     "zh": "Tailwind Labs, the company behind Tailwind CSS, is joining Shopify; in January, it laid off three of four engineers, citing AI&apos;s impact on documentation traffic (Supreeth Koundinya/AIM)"
+    },
+    {
+     "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+     "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+     "pubDate": "Wed, 09 Sep 2026 20:06:28 +0000",
+     "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+     "source": "Ars Technica",
+     "zh": "Six Chinese AI firms accused of aggressively copying US frontier models"
+    },
+    {
+     "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+     "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+     "pubDate": "Wed, 09 Sep 2026 19:56:18 +0000",
+     "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
+     "source": "TechCrunch",
+     "zh": "There are new shiny iPhones, so Apple is making you pay more for older models"
+    },
+    {
+     "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+     "link": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+     "pubDate": "Wed, 09 Sep 2026 19:42:00 +0000",
+     "summary": "Apple's first foldable can be yours next month.",
+     "source": "Ars Technica",
+     "zh": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo"
+    },
+    {
+     "title": "When it comes to Beatles references, scientists can't let it be",
+     "link": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
+     "pubDate": "Wed, 09 Sep 2026 19:31:55 +0000",
+     "summary": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
+     "source": "Ars Technica",
+     "zh": "When it comes to Beatles references, scientists can't let it be"
+    },
+    {
+     "title": "Apple raises iPhone prices by $100 on all of the older models it is offering, including the iPhone 16, the iPhone 17 lineup, as well as the iPhone Air (Cameron Faulkner/The Verge)",
+     "link": "https://www.techmeme.com/260909/p42#a260909p42",
+     "pubDate": "Wed, 09 Sep 2026 15:31:03 -0400",
+     "summary": "Cameron Faulkner / The Verge : Apple raises iPhone prices by $100 on all of the older models it is offering, including the iPhone 16, the iPhone 17 lineup, as well as the iPhone Air &nbsp; &mdash;&nbsp; The price increase impacts the iPhone 16, the full iPhone 17 lineup, as well as the iPhone Air.",
+     "source": "Techmeme",
+     "zh": "Apple raises iPhone prices by $100 on all of the older models it is offering, including the iPhone 16, the iPhone 17 lineup, as well as the iPhone Air (Cameron Faulkner/The Verge)"
+    },
+    {
+     "title": "Anthropic details four incidents where Claude gained unauthorized access to third-party systems, including a new Opus 4.6 case; METR will investigate them (Anthropic)",
+     "link": "https://www.techmeme.com/260909/p41#a260909p41",
+     "pubDate": "Wed, 09 Sep 2026 15:27:37 -0400",
+     "summary": "Anthropic : Anthropic details four incidents where Claude gained unauthorized access to third-party systems, including a new Opus 4.6 case; METR will investigate them &nbsp; &mdash;&nbsp; We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real t",
+     "source": "Techmeme",
+     "zh": "Anthropic details four incidents where Claude gained unauthorized access to third-party systems, including a new Opus 4.6 case; METR will investigate them (Anthropic)"
+    },
+    {
+     "title": "Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5",
+     "link": "https://www.wired.com/story/everything-apple-announced-september-2026/",
+     "pubDate": "Wed, 09 Sep 2026 19:21:18 +0000",
+     "summary": "The company’s September event introduced Apple’s first ever foldable iPhone, along with new iPhone 18 Pro models, updates to the Apple Watch, some AirPods, and more advances to Siri AI.",
+     "source": "WIRED",
+     "zh": "Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5"
+    },
+    {
+     "title": "Sources: Salesforce has been in talks to buy Listen Labs, an AI-powered customer research platform for $2B; Listen Labs was valued at $500M earlier this year (Business Insider)",
+     "link": "https://www.techmeme.com/260909/p40#a260909p40",
+     "pubDate": "Wed, 09 Sep 2026 15:20:02 -0400",
+     "summary": "Business Insider : Sources: Salesforce has been in talks to buy Listen Labs, an AI-powered customer research platform for $2B; Listen Labs was valued at $500M earlier this year &nbsp; &mdash;&nbsp; - Salesforce has been in talks to acquire AI startup Listen Labs for around $2 billion.&nbsp; &mdash; ",
+     "source": "Techmeme",
+     "zh": "Sources: Salesforce has been in talks to buy Listen Labs, an AI-powered customer research platform for $2B; Listen Labs was valued at $500M earlier this year (Business Insider)"
+    },
+    {
+     "title": "Apple Doesn’t Want You to Worry About the New Apple Watch’s Listening Features",
      "link": "https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/",
      "pubDate": "Wed, 09 Sep 2026 19:14:26 +0000",
      "summary": "The new Apple Watch includes several “intelligent” listening features that have privacy and security baked in. But the protections can’t change the facts of what the tools do.",
      "source": "WIRED",
-     "zh": "Apple Doesn’t Want You to Worry About the New Apple Watch's Listening Features"
+     "zh": "Apple Doesn’t Want You to Worry About the New Apple Watch’s Listening Features"
     },
     {
-     "title": "苹果 watchOS 27.0 RC 发布",
-     "link": "https://www.ithome.com/1/000/529.htm",
-     "pubDate": "Wed, 09 Sep 2026 19:11:13 GMT",
-     "summary": "【 点此直达升级教程 】 IT之家 9 月 10 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 RC 更新（内部版本号：24R363），本次更新距离上次发布 Beta / RC 间隔 9 天，正式版将于 9 月 15 日发布。 苹果 watchOS 27 主要聚焦升级 Siri AI、健康追踪、健身辅导与智能叠放（Smart Stack）。在 Siri AI 方面，底层由 Apple Intelligence 驱动，支持开放式问题与更自然的多轮对话。用户可直接在手腕上询问跑后恢复拉伸建议，也可连续追问相关内容。 Siri AI 还能调用备忘录等个人内容，帮助",
-     "source": "IT之家",
-     "zh": "苹果 watchOS 27.0 RC 发布"
-    },
-    {
-     "title": "苹果 macOS 27.0 RC 发布",
-     "link": "https://www.ithome.com/1/000/527.htm",
-     "pubDate": "Wed, 09 Sep 2026 19:11:13 GMT",
-     "summary": "IT之家 9 月 10 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 RC 更新（内部版本号：26A428），本次更新距离上次发布 Beta / RC 间隔 9 天，正式版将于 9 月 15 日发布。 苹果 macOS 27 更新重点聚焦智能辅助、系统体验与日常办公场景，目标是让 Mac 在沟通、创作和信息处理上更顺手。 办公生产力方面，用户只需输入一段事件描述，就能在日历中添加或编辑安排。比如把午餐会改成咖啡交流，日历会自动调整相关细节。 在 AI 方面，苹果重点推出了 Siri 独立 App，用户可以像使用聊天机器人一样和 Siri 交互。 消息和邮件还能基于对话上下文",
-     "source": "IT之家",
-     "zh": "苹果 macOS 27.0 RC 发布"
-    },
-    {
-     "title": "苹果 visionOS 27.0 RC 发布",
-     "link": "https://www.ithome.com/1/000/528.htm",
-     "pubDate": "Wed, 09 Sep 2026 19:11:13 GMT",
-     "summary": "IT之家 9 月 10 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 RC 更新（内部版本号：24M362），本次更新距离上次发布 Beta / RC 间隔 9 天，正式版将于 9 月 15 日上线。 苹果 visionOS 27 主要为海外机型引入了 Siri AI 功能，同步引入了全新视觉智能功能，可以看着场景询问 Siri。同时还支持将全景照片设置为个人环境。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 附 visionOS 27 发布历史： 2026-09-01：visionO",
-     "source": "IT之家",
-     "zh": "苹果 visionOS 27.0 RC 发布"
-    },
-    {
-     "title": "Apple Watch’s new feature listens to your chats and recaps them",
-     "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
-     "pubDate": "Wed, 09 Sep 2026 19:08:59 +0000",
-     "summary": "The Siri Recap feature is similar to other note-taking apps like Granola.",
-     "source": "TechCrunch",
-     "zh": "Apple Watch’s new feature listens to your chats and recaps them"
+     "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+     "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+     "pubDate": "Wed, 09 Sep 2026 19:09:20 +0000",
+     "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
+     "source": "Ars Technica",
+     "zh": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs"
     },
     {
      "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
@@ -1762,52 +1890,20 @@ window.INDUSTRY_DATA = {
      "zh": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos"
     },
     {
-     "title": "Apple says iOS 27, iPadOS 27, watchOS 27, and macOS 27 Golden Gate, all with Siri AI, will be released on September 14 (Igor Bonifacic/Engadget)",
-     "link": "https://www.techmeme.com/260909/p38#a260909p38",
-     "pubDate": "Wed, 09 Sep 2026 15:05:03 -0400",
-     "summary": "Igor Bonifacic / Engadget : Apple says iOS 27, iPadOS 27, watchOS 27, and macOS 27 Golden Gate, all with Siri AI, will be released on September 14 &nbsp; &mdash;&nbsp; It's almost time for Siri AI.&nbsp; &mdash;&nbsp; The next version of iOS will arrive on Monday, September 14, Apple announced today",
-     "source": "Techmeme",
-     "zh": "Apple says iOS 27, iPadOS 27, watchOS 27, and macOS 27 Golden Gate, all with Siri AI, will be released on September 14 (Igor Bonifacic/Engadget)"
+     "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+     "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
+     "pubDate": "Wed, 09 Sep 2026 18:58:24 +0000",
+     "summary": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
+     "source": "Ars Technica",
+     "zh": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode"
     },
     {
-     "title": "稳定版发布进入最后倒计时，苹果 iOS / iPadOS 27 RC 推送",
-     "link": "https://www.ithome.com/1/000/525.htm",
-     "pubDate": "Wed, 09 Sep 2026 19:03:46 GMT",
-     "summary": "IT之家 9 月 10 日消息， 苹果公司今日正式推送了 iOS / iPadOS 27 RC ，这意味着新系统的稳定版发布已进入最后倒计时。 照既有节奏，iOS 27 候选版（RC）今日发布后，正式版会随 iPhone 18 Pro 和 iPhone 18 Pro Max 上市一同发布，预估本次更新以修复 Bug，提高系统稳定性为主。 在界面上，苹果 iOS / iPadOS 27 进一步打磨液态玻璃（IT之家注：Liquid Glass）设计，主要优化对比度，确保内容清晰易读；以及新增调节滑块，让用户随心调整 Liquid Glass 的外观效果。 速度方面，苹果表示 iOS / iPad",
-     "source": "IT之家",
-     "zh": "稳定版发布进入最后倒计时，苹果 iOS / iPadOS 27 RC 推送"
-    },
-    {
-     "title": "Hands-on with the iPhone Duo: the folding mechanism is smooth, the crease is almost impossible to find with a finger, and the inner screen has a matte finish (The Verge)",
-     "link": "https://www.techmeme.com/260909/p37#a260909p37",
-     "pubDate": "Wed, 09 Sep 2026 14:55:11 -0400",
-     "summary": "The Verge : Hands-on with the iPhone Duo: the folding mechanism is smooth, the crease is almost impossible to find with a finger, and the inner screen has a matte finish &nbsp; &mdash;&nbsp; We've tried the first ever foldable iPhone at Apple's launch event. &hellip; The first foldable iPhone is fin",
-     "source": "Techmeme",
-     "zh": "Hands-on with the iPhone Duo: the folding mechanism is smooth, the crease is almost impossible to find with a finger, and the inner screen has a matte finish (The Verge)"
-    },
-    {
-     "title": "苹果官网下架 iPhone 17 Pro 系列手机，16、17e、17、Air 同步涨价最高 2300 元",
-     "link": "https://www.ithome.com/1/000/524.htm",
-     "pubDate": "Wed, 09 Sep 2026 18:55:08 GMT",
-     "summary": "IT之家 9 月 10 日消息，在苹果 iPhone 18 Pro 系列发布后，苹果官网按照常规下架了 iPhone 17 Pro 系列。 与此同时， iPhone Air、iPhone 17、iPhone 17e、iPhone 16 四款老机型迎来同步涨价，看来苹果也没能顶得住压力。 IT之家汇总四款手机各版本价格涨幅如下： iPhone Air 涨幅从 800 元到 2300 元不等 存储版本 原官方售价 当前官方售价 上涨金额 涨幅 256GB 7999 元 8799 元 800 元 约 10.0% 512GB 9999 元 10799 元 800 元 约 8.0% 1TB 11999 ",
-     "source": "IT之家",
-     "zh": "苹果官网下架 iPhone 17 Pro 系列手机，16、17e、17、Air 同步涨价最高 2300 元"
-    },
-    {
-     "title": "The iPhone Duo starts at $1,999 for 256GB, with a 2TB model costing $3,199, in star white and night sky colors; preorders start Oct. 16, and sales begin Oct. 23 (Dominic Preston/The Verge)",
-     "link": "https://www.techmeme.com/260909/p36#a260909p36",
-     "pubDate": "Wed, 09 Sep 2026 14:36:53 -0400",
-     "summary": "Dominic Preston / The Verge : The iPhone Duo starts at $1,999 for 256GB, with a 2TB model costing $3,199, in star white and night sky colors; preorders start Oct. 16, and sales begin Oct. 23 &nbsp; &mdash;&nbsp; Seven years after foldable phones arrived, Apple thinks the tech is ready for an iPhone.",
-     "source": "Techmeme",
-     "zh": "The iPhone Duo starts at $1,999 for 256GB, with a 2TB model costing $3,199, in star white and night sky colors; preorders start Oct. 16, and sales begin Oct. 23 (Dominic Preston/The Verge)"
-    },
-    {
-     "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-     "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-     "pubDate": "Wed, 09 Sep 2026 18:34:24 +0000",
-     "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
-     "source": "TechCrunch",
-     "zh": "Harvey hits $15.5B valuation, months after reaching $11B"
+     "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
+     "link": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
+     "pubDate": "Wed, 09 Sep 2026 18:47:07 +0000",
+     "summary": "New Apple Intelligence features, too.",
+     "source": "Ars Technica",
+     "zh": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System"
     },
     {
      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
@@ -1818,60 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again"
     },
     {
-     "title": "Apple Watch Ultra 4",
-     "link": "https://www.apple.com/apple-watch-ultra-4/",
-     "pubDate": "Wed, 09 Sep 2026 18:21:40 +0000",
-     "summary": "Article URL: https://www.apple.com/apple-watch-ultra-4/ Comments URL: https://news.ycombinator.com/item?id=49631121 Points: 45 # Comments: 38",
-     "source": "Hacker News",
-     "zh": "Apple Watch Ultra 4"
-    },
-    {
-     "title": "Apple announces its first foldable, the iPhone Duo, with a 5.4-inch outer display, a 7.6-inch inner display, A20 Pro with a new display engine, and Touch ID (Chance Miller/9to5Mac)",
-     "link": "https://www.techmeme.com/260909/p35#a260909p35",
-     "pubDate": "Wed, 09 Sep 2026 14:17:27 -0400",
-     "summary": "Chance Miller / 9to5Mac : Apple announces its first foldable, the iPhone Duo, with a 5.4-inch outer display, a 7.6-inch inner display, A20 Pro with a new display engine, and Touch ID &nbsp; &mdash;&nbsp; Apple has officially unveiled the highly anticipated foldable iPhone, and it's called iPhone Duo",
-     "source": "Techmeme",
-     "zh": "Apple announces its first foldable, the iPhone Duo, with a 5.4-inch outer display, a 7.6-inch inner display, A20 Pro with a new display engine, and Touch ID (Chance Miller/9to5Mac)"
-    },
-    {
-     "title": "Apple Unveils iPhone Duo",
-     "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-     "pubDate": "Wed, 09 Sep 2026 18:17:06 +0000",
-     "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630964 Points: 241 # Comments: 214",
-     "source": "Hacker News",
-     "zh": "Apple Unveils iPhone Duo"
-    },
-    {
      "title": "iPhone Duo",
      "link": "https://www.apple.com/iphone-duo/",
      "pubDate": "Wed, 09 Sep 2026 18:15:43 +0000",
-     "summary": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 279 # Comments: 388",
+     "summary": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 602 # Comments: 1289",
      "source": "Hacker News",
      "zh": "iPhone Duo"
-    },
-    {
-     "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-     "link": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
-     "pubDate": "Wed, 09 Sep 2026 18:08:46 +0000",
-     "summary": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
-     "source": "TechCrunch",
-     "zh": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day"
-    },
-    {
-     "title": "iPhone 18 Pro has a faster 48MP Fusion Main camera with variable aperture that lets in ~50% more light in low-light, along with enhanced camera app controls (Jeremy Gray/PetaPixel)",
-     "link": "https://www.techmeme.com/260909/p34#a260909p34",
-     "pubDate": "Wed, 09 Sep 2026 14:08:04 -0400",
-     "summary": "Jeremy Gray / PetaPixel : iPhone 18 Pro has a faster 48MP Fusion Main camera with variable aperture that lets in ~50% more light in low-light, along with enhanced camera app controls &nbsp; &mdash;&nbsp; Apple has unveiled the iPhone 18 Pro and iPhone 18 Pro Max, its latest flagship slab smartphones",
-     "source": "Techmeme",
-     "zh": "iPhone 18 Pro has a faster 48MP Fusion Main camera with variable aperture that lets in ~50% more light in low-light, along with enhanced camera app controls (Jeremy Gray/PetaPixel)"
-    },
-    {
-     "title": "Apple shows off AirPods 5 with improved active noise cancellation",
-     "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
-     "pubDate": "Wed, 09 Sep 2026 18:06:40 +0000",
-     "summary": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
-     "source": "TechCrunch",
-     "zh": "Apple shows off AirPods 5 with improved active noise cancellation"
     },
     {
      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
@@ -1882,60 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments"
     },
     {
-     "title": "Apple Debuts the iPhone Duo, Its First Folding iPhone",
-     "link": "https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
-     "pubDate": "Wed, 09 Sep 2026 17:57:45 +0000",
-     "summary": "The iPhone with a folding screen is the first radical redesign of Apple’s flagship handset in years. The iPhone Duo will cost $1,999 when it arrives in October.",
-     "source": "WIRED",
-     "zh": "Apple Debuts the iPhone Duo, Its First Folding iPhone"
-    },
-    {
-     "title": "Apple Watch Series 12",
-     "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-     "pubDate": "Wed, 09 Sep 2026 17:56:17 +0000",
-     "summary": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 95 # Comments: 84",
+     "title": "Apple Watch Ultra 4",
+     "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+     "pubDate": "Wed, 09 Sep 2026 17:56:57 +0000",
+     "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/ Comments URL: https://news.ycombinator.com/item?id=49630583 Points: 65 # Comments: 107",
      "source": "Hacker News",
-     "zh": "Apple Watch Series 12"
-    },
-    {
-     "title": "Apple Watch Series 12 and Apple Watch Ultra 4: Ceramic, Specs, Release Date",
-     "link": "https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/",
-     "pubDate": "Wed, 09 Sep 2026 17:43:38 +0000",
-     "summary": "Apple’s latest smartwatches—the Apple Watch Series 12 and Ultra 4—get a faster chip, expanded health tracking, and new Siri capabilities. Plus, the ceramic finish is back.",
-     "source": "WIRED",
-     "zh": "Apple Watch Series 12 and Apple Watch Ultra 4: Ceramic, Specs, Release Date"
-    },
-    {
-     "title": "Apple Introduces AirPods 5",
-     "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-     "pubDate": "Wed, 09 Sep 2026 17:39:24 +0000",
-     "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 145 # Comments: 121",
-     "source": "Hacker News",
-     "zh": "Apple Introduces AirPods 5"
-    },
-    {
-     "title": "屏幕使用时长导致学生阅读得分大幅下降",
-     "link": "https://www.solidot.org/story?sid=85333",
-     "pubDate": "Thu, 10 Sep 2026 01:13:04 +0800",
-     "summary": "青少年的阅读、数学和科学成绩降至 2000 年国际 PISA 测试启动以来的最低水平，15 岁学生的阅读能力相当于过去低一岁学生的水平。经合组织（OECD）将成绩下滑归因于屏幕使用时长增加、出于兴趣的阅读减少以及数字设备带来的干扰。OECD 还发现，经常将 AI 聊天机器人用于起草论文或总结文本等任务的学生，其科学成绩平均低了 20分，相当于一年的学习差距。PISA 阅读成绩指数于 2012 年达到 501 分的最高值，到去年降至了 466 分。OECD 秘书长 Mathias Cormann 表示：“在阅读上，屏幕使用时长的增加和兴趣阅读的减少，与成绩下滑有着密切联系。我们还观察到更多‘仓促",
-     "source": "Solidot",
-     "zh": "屏幕使用时长导致学生阅读得分大幅下降"
-    },
-    {
-     "title": "You Can Now Destroy Flock Cameras for Cash in GTA V",
-     "link": "https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/",
-     "pubDate": "Wed, 09 Sep 2026 16:30:00 +0000",
-     "summary": "A new GTA mod lets you smash and shoot Flock’s automatic license plate readers around the fictional Los Santos.",
-     "source": "WIRED",
-     "zh": "You Can Now Destroy Flock Cameras for Cash in GTA V"
-    },
-    {
-     "title": "Google 将“降级”欧洲搜索服务",
-     "link": "https://www.solidot.org/story?sid=85332",
-     "pubDate": "Thu, 10 Sep 2026 00:17:25 +0800",
-     "summary": "为遵守欧洲的数字市场法律《Digital Markets Act（DMA）》，Google 宣布将调整欧洲的搜索服务，提升 Expedia 和 Hotels.com 等竞争对手比价服务的权重，移除酒店、航空公司和餐厅搜索结果中的部分实时信息功能。Google 高级副总裁 Nick Fox 表示，“这些改变降低（degrade）了欧洲用户的体验——以牺牲本地企业为代价提升了在线中介平台的地位，移除了用户每天依赖的实用功能。”DMA 禁止科技巨头在排名中给予自家服务高于第三方服务的待遇。搜索排名仍然由 Google 的算法决定，这意味着搜索巨人在搜索结果的展示方式上仍掌握着很大程度的控制权。Goo",
-     "source": "Solidot",
-     "zh": "Google 将“降级”欧洲搜索服务"
+     "zh": "Apple Watch Ultra 4"
     }
    ]
   },
@@ -1946,20 +1946,220 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
-     "title": "macOS 27 Golden Gate: Here are Apple’s full release notes",
-     "link": "https://9to5mac.com/2026/09/09/macos-27-golden-gate-here-are-apples-full-release-notes/",
-     "pubDate": "Wed, 09 Sep 2026 19:18:54 +0000",
-     "summary": "Apple has announced that macOS 27 Golden Gate will ship to all users next Monday, September 14. Here are Apple’s official release notes for macOS 27. more…",
+     "title": "Hands-on with Siri Modular, watchOS 27’s new Apple Watch face",
+     "link": "https://9to5mac.com/2026/09/09/hands-on-with-siri-modular-watchos-27s-new-apple-watch-face/",
+     "pubDate": "Wed, 09 Sep 2026 21:40:39 +0000",
+     "summary": "watchOS 27 includes one new watch face: Siri Modular. The new face is available on both Apple Watch Series and Ultra models. However, the version on Ultra has a few more customization options. Check it out. more…",
      "source": "9to5Mac",
-     "zh": "macOS 27 Golden Gate: Here are Apple’s full release notes"
+     "zh": "Hands-on with Siri Modular, watchOS 27’s new Apple Watch face"
     },
     {
-     "title": "iPhone 18 Pro battery life compared to iPhone Duo and iPhone 17 Pro",
-     "link": "https://9to5mac.com/2026/09/09/iphone-18-pro-battery-life-compared-to-iphone-duo-and-iphone-17-pro/",
-     "pubDate": "Wed, 09 Sep 2026 19:10:57 +0000",
-     "summary": "Apple has just announced the new flagship iPhone lineup, featuring iPhone 18 Pro and iPhone Duo. One of the biggest improvements is battery life. In fact, Apple says this generation represents the biggest jump in battery life iPhone history ever. So let’s break down what’s changed … more…",
+     "title": "Motorola teases new compact foldable Razr",
+     "link": "https://www.engadget.com/2254380/motorola-teases-new-compact-foldable-razr/",
+     "pubDate": "Wed, 09 Sep 2026 21:40:03 +0000",
+     "summary": "Right on cue, Motorola has teased a wide new foldable to compete with the Galaxy Fold 8 and iPhone Duo.",
+     "source": "Engadget",
+     "zh": "Motorola teases new compact foldable Razr"
+    },
+    {
+     "title": "This is when Apple is releasing iOS 27",
+     "link": "https://www.gsmarena.com/this_is_when_apple_is_releasing_ios_27-news-74549.php",
+     "pubDate": "Wed, 09 Sep 2026 23:31:02 +0200",
+     "summary": "Today Apple unveiled the iPhone 18 Pro and iPhone 18 Pro Max. These devices will go on pre-order on September 12 and will be released on September 18. They will both be running iOS 27, which Apple announced back in June and has been working on ever since. Today Apple has also revealed when the stabl",
+     "source": "GSMArena",
+     "zh": "This is when Apple is releasing iOS 27"
+    },
+    {
+     "title": "Apple shares more details about Apple Intelligence usage limits and terms",
+     "link": "https://9to5mac.com/2026/09/09/apple-shares-more-details-about-apple-intelligence-usage-limits-and-terms/",
+     "pubDate": "Wed, 09 Sep 2026 21:27:07 +0000",
+     "summary": "Apple today published a new support article that provides more detail on Apple Intelligence usage terms, limits, and restrictions. Here’s what the company says. more…",
      "source": "9to5Mac",
-     "zh": "iPhone 18 Pro battery life compared to iPhone Duo and iPhone 17 Pro"
+     "zh": "Apple shares more details about Apple Intelligence usage limits and terms"
+    },
+    {
+     "title": "Google AI Mode can hold your hand through fantasy football season",
+     "link": "https://www.engadget.com/2254366/google-ai-mode-can-hold-your-hand-through-fantasy-football-season/",
+     "pubDate": "Wed, 09 Sep 2026 21:26:17 +0000",
+     "summary": "With football season just hours away, Google has turned its AI into a fantasy football coach.",
+     "source": "Engadget",
+     "zh": "Google AI Mode can hold your hand through fantasy football season"
+    },
+    {
+     "title": "Two phones, one number: Apple just beat Android to a very handy feature",
+     "link": "https://www.androidauthority.com/iphone-handoff-confirmed-3709577/",
+     "pubDate": "Wed, 09 Sep 2026 21:26:09 +0000",
+     "summary": "iPhone Handoff sounds great for dual-phone users, if your carrier supports it.",
+     "source": "Android Authority",
+     "zh": "Two phones, one number: Apple just beat Android to a very handy feature"
+    },
+    {
+     "title": "Google’s got a surprise new update hitting Pixel 11 phones",
+     "link": "https://www.androidauthority.com/september-pixel-11-update-3709570/",
+     "pubDate": "Wed, 09 Sep 2026 21:16:49 +0000",
+     "summary": "Sadly, it's not the one we've been waiting for.",
+     "source": "Android Authority",
+     "zh": "Google’s got a surprise new update hitting Pixel 11 phones"
+    },
+    {
+     "title": "Motorola shows off its new wide foldable in swipe at Apple",
+     "link": "https://www.androidauthority.com/wide-motorola-foldable-teaser-3709551/",
+     "pubDate": "Wed, 09 Sep 2026 21:03:58 +0000",
+     "summary": "The future is wide.",
+     "source": "Android Authority",
+     "zh": "Motorola shows off its new wide foldable in swipe at Apple"
+    },
+    {
+     "title": "iPhone 18 Pro Max vs iPhone 18 Pro: Two exclusive features",
+     "link": "https://9to5mac.com/2026/09/09/iphone-18-pro-max-vs-iphone-18-pro-two-exclusive-features/",
+     "pubDate": "Wed, 09 Sep 2026 21:02:24 +0000",
+     "summary": "Today Apple introduced iPhone 18 Pro and Pro Max, its latest flagship models. While each Pro model is largely identical, there are two exclusive new advantages—one for each model. more…",
+     "source": "9to5Mac",
+     "zh": "iPhone 18 Pro Max vs iPhone 18 Pro: Two exclusive features"
+    },
+    {
+     "title": "Download the new iPhone 18 Pro wallpapers here",
+     "link": "https://9to5mac.com/2026/09/09/download-the-new-iphone-18-pro-wallpapers-here/",
+     "pubDate": "Wed, 09 Sep 2026 21:01:33 +0000",
+     "summary": "If you like the new wallpapers Apple created for the iPhone 18 Pro and iPhone 18 Pro Max, you don’t need to buy a new iPhone to get them. You can download them right here. more…",
+     "source": "9to5Mac",
+     "zh": "Download the new iPhone 18 Pro wallpapers here"
+    },
+    {
+     "title": "Google upgrades all Gemini side panels in Workspace to have the same features",
+     "link": "https://9to5google.com/2026/09/09/gemini-workspace-side-panel-upgrade/",
+     "pubDate": "Wed, 09 Sep 2026 20:55:28 +0000",
+     "summary": "Gemini in Google Workspace can now “complete complex, cross-app tasks” from whatever app you’re working in. more…",
+     "source": "9to5Google",
+     "zh": "Google upgrades all Gemini side panels in Workspace to have the same features"
+    },
+    {
+     "title": "Motorola teases wide Razr Fold as its ‘next move’ in response to iPhone Duo debut",
+     "link": "https://9to5google.com/2026/09/09/motorola-responds-to-iphone-deuo-with-foldable-teaser/",
+     "pubDate": "Wed, 09 Sep 2026 20:51:33 +0000",
+     "summary": "Apple’s iPhone Duo announcement has triggered a couple of companies, and it’s apparently warranted at least one teaser for even more foldables. This one seems to be a wide version of the Motorola Razr Fold. more…",
+     "source": "9to5Google",
+     "zh": "Motorola teases wide Razr Fold as its ‘next move’ in response to iPhone Duo debut"
+    },
+    {
+     "title": "Blizzard employees have ratified their first union contracts",
+     "link": "https://www.engadget.com/2254332/blizzard-employees-have-ratified-their-first-union-contracts/",
+     "pubDate": "Wed, 09 Sep 2026 20:47:33 +0000",
+     "summary": "The Communications Workers of America represents about 1,900 workers at the game company.",
+     "source": "Engadget",
+     "zh": "Blizzard employees have ratified their first union contracts"
+    },
+    {
+     "title": "iPhone Duo: Here are all the little details you might have missed",
+     "link": "https://9to5mac.com/2026/09/09/iphone-duo-here-are-all-the-little-details-you-might-have-missed/",
+     "pubDate": "Wed, 09 Sep 2026 20:46:36 +0000",
+     "summary": "iPhone Duo is the name of Apple’s new foldable model , and it’s perhaps the most fascinating new model since the original iPhone. Here are all the little iPhone Duo details you might have missed. more…",
+     "source": "9to5Mac",
+     "zh": "iPhone Duo: Here are all the little details you might have missed"
+    },
+    {
+     "title": "iPhone Duo is thicker and heavier than basically every Android foldable",
+     "link": "https://9to5google.com/2026/09/09/iphone-duo-thicker-and-heavier-than-basically-every-android-foldable/",
+     "pubDate": "Wed, 09 Sep 2026 20:43:00 +0000",
+     "summary": "The days of foldables being an Android-only experience are over . The iPhone Duo is set to arrive next month for a relatively-competitive $2,000 price point, and it seems like Apple’s decision to sit back and observe since the launch of the original Galaxy Fold more or less paid off — that is, until",
+     "source": "9to5Google",
+     "zh": "iPhone Duo is thicker and heavier than basically every Android foldable"
+    },
+    {
+     "title": "Apple Watch Series 12 and Ultra 4 get S11 chip, microphones for Audio Intelligence",
+     "link": "https://www.gsmarena.com/apple_watch_series_12_and_ultra_4_get_s11_chip_measure_heart_rate_every_5_seconds-news-74548.php",
+     "pubDate": "Wed, 09 Sep 2026 22:38:02 +0200",
+     "summary": "Apple's new watches just arrived - meet the Series 12 and the Watch Ultra 4. All three (Series 12 comes in 42mm and 46mm) feature the new S11 chip, improved optical/electrical heart rate sensors, and an upgraded Health Sensing System. Apple boldly says that its new wearables have the most accurate h",
+     "source": "GSMArena",
+     "zh": "Apple Watch Series 12 and Ultra 4 get S11 chip, microphones for Audio Intelligence"
+    },
+    {
+     "title": "iPhone Duo vs Samsung Galaxy Z Fold 8: here's how they stack up",
+     "link": "https://www.engadget.com/2254316/iphone-duo-vs-samsung-galaxy-z-fold-8-comparison/",
+     "pubDate": "Wed, 09 Sep 2026 20:35:46 +0000",
+     "summary": "Apple's first foldable competes well with the Z Fold 8, at least in terms of specs.",
+     "source": "Engadget",
+     "zh": "iPhone Duo vs Samsung Galaxy Z Fold 8: here's how they stack up"
+    },
+    {
+     "title": "Apple Watch can now rewind your conversations, and that’s kinda creepy",
+     "link": "https://www.androidauthority.com/apple-watch-live-rewind-feature-3709558/",
+     "pubDate": "Wed, 09 Sep 2026 20:35:23 +0000",
+     "summary": "Smart glasses, meet your creepy new competition.",
+     "source": "Android Authority",
+     "zh": "Apple Watch can now rewind your conversations, and that’s kinda creepy"
+    },
+    {
+     "title": "Apple confirms Siri AI launches in English this month, will add five languages in October",
+     "link": "https://9to5mac.com/2026/09/09/apple-confirms-siri-ai-launches-in-english-this-month-will-add-five-languages-in-october/",
+     "pubDate": "Wed, 09 Sep 2026 20:33:42 +0000",
+     "summary": "During today’s “Surprise and Shine” event, Apple confirmed the rollout timeline for the new Siri AI, which will launch in English before expanding to five more languages in October. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple confirms Siri AI launches in English this month, will add five languages in October"
+    },
+    {
+     "title": "Why dual card slots exist, from an editor who just learned the hard way",
+     "link": "https://www.dpreview.com/learn/why-dual-card-slots-exist-from-an-editor-who-just-learned-the-hard-way/",
+     "pubDate": "Wed, 09 Sep 2026 20:25:20 +0000",
+     "summary": "I lost a full day's worth of photos to a corrupted card in a camera that had a second slot I never used. Most of the time, a single card is an acceptable risk—but not always.",
+     "source": "DPReview",
+     "zh": "Why dual card slots exist, from an editor who just learned the hard way"
+    },
+    {
+     "title": "Google just quietly erased the Pixel Tablet from its store",
+     "link": "https://www.androidauthority.com/google-pixel-tablet-store-removed-3709484/",
+     "pubDate": "Wed, 09 Sep 2026 20:15:56 +0000",
+     "summary": "Could this be the final nail in the Pixel Tablet's coffin?",
+     "source": "Android Authority",
+     "zh": "Google just quietly erased the Pixel Tablet from its store"
+    },
+    {
+     "title": "Samsung, take note: iPhone Duo supports stylus input better than any Galaxy Fold",
+     "link": "https://www.androidauthority.com/iphone-duo-apple-pencil-3709490/",
+     "pubDate": "Wed, 09 Sep 2026 19:54:58 +0000",
+     "summary": "Apple's late to the foldable fight, but it's coming out swinging.",
+     "source": "Android Authority",
+     "zh": "Samsung, take note: iPhone Duo supports stylus input better than any Galaxy Fold"
+    },
+    {
+     "title": "iPhone 18 Pro and Duo pricing overview",
+     "link": "https://www.gsmarena.com/iphone_18_pro_and_duo_pricing_overview-news-74546.php",
+     "pubDate": "Wed, 09 Sep 2026 21:49:02 +0200",
+     "summary": "Apple's iPhone 18 Pro and 18 Pro Max are now official and they are joined by the first foldable from the brand – the iPhone Duo. The 18 Pro and 18 Pro Max will launch for pre-order across the first wave of 65 countries, including the US, the UK, Germany, Australia, Canada, China, France, India, Sout",
+     "source": "GSMArena",
+     "zh": "iPhone 18 Pro and Duo pricing overview"
+    },
+    {
+     "title": "Pixel 11 gets early September update, not Android 17 QPR1 [U: OTA images]",
+     "link": "https://9to5google.com/2026/09/09/pixel-11-september-update-early/",
+     "pubDate": "Wed, 09 Sep 2026 19:43:00 +0000",
+     "summary": "We’re expecting the stable release of Android 17 QPR1 in September. Before that, Google is rolling out an out-of-cycle update to the Pixel 11 series with a September 2026 security patch. more…",
+     "source": "9to5Google",
+     "zh": "Pixel 11 gets early September update, not Android 17 QPR1 [U: OTA images]"
+    },
+    {
+     "title": "Samsung reacts to Apple’s foldable iPhone Duo; ‘reheating our leftovers’",
+     "link": "https://9to5google.com/2026/09/09/samsung-apple-iphone-duo-reaction/",
+     "pubDate": "Wed, 09 Sep 2026 19:30:00 +0000",
+     "summary": "Samsung is apparently of two minds when it comes to reacting to Apple’s first foldable device, with some interesting reactions to the iPhone Duo’s unveiling, calling the device “a Sims sequel” and “reheating our leftovers.” more…",
+     "source": "9to5Google",
+     "zh": "Samsung reacts to Apple’s foldable iPhone Duo; ‘reheating our leftovers’"
+    },
+    {
+     "title": "Apple increases older iPhone prices by $100",
+     "link": "https://www.engadget.com/2254228/apple-increases-older-iphone-prices-by-dollar100/",
+     "pubDate": "Wed, 09 Sep 2026 19:24:07 +0000",
+     "summary": "I am fine, I am fine, I am fine, I am fine, I just need...",
+     "source": "Engadget",
+     "zh": "Apple increases older iPhone prices by $100"
+    },
+    {
+     "title": "Apple's iPhone 18 Pro camera innovations went well beyond megapixels and AI",
+     "link": "https://www.engadget.com/2254210/apple-iphone-18-pro-camera-innovations-went-well-beyond-megapixels-and-ai/",
+     "pubDate": "Wed, 09 Sep 2026 19:14:22 +0000",
+     "summary": "While the iPhone Duo might make headlines, variable aperture and more control is more important to me than a foldable iPhone.",
+     "source": "Engadget",
+     "zh": "Apple's iPhone 18 Pro camera innovations went well beyond megapixels and AI"
     },
     {
      "title": "Apple’s iPhone Duo foldable has the same IP68 protection as Pixel Fold – temporary",
@@ -1968,14 +2168,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple did the thing. The first foldable iPhone has arrived with the new iPhone Duo delivering a pretty compelling package for interested foldable customers who don’t want to give up on iOS. It also addresses a durability gap that few others have managed with IP68 protection but, like Pixel 11 Pro Fo",
      "source": "9to5Google",
      "zh": "Apple’s iPhone Duo foldable has the same IP68 protection as Pixel Fold – temporary"
-    },
-    {
-     "title": "Here’s how iPhone Duo treats apps not optimized for the foldable display",
-     "link": "https://9to5mac.com/2026/09/09/heres-how-iphone-duo-treats-apps-not-optimized-for-the-foldable-display/",
-     "pubDate": "Wed, 09 Sep 2026 19:03:59 +0000",
-     "summary": "Apple has officially announced the iPhone Duo , its first foldable display device. Additionally, the company has detailed how third-party apps will work with the larger display. This includes three modes for apps that target iOS 26, iOS 27.0, and iOS 27.1. more…",
-     "source": "9to5Mac",
-     "zh": "Here’s how iPhone Duo treats apps not optimized for the foldable display"
     },
     {
      "title": "Apple AirPods 5 are better, but surprisingly also cheaper",
@@ -1992,198 +2184,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple has finally unveiled its first ever foldable smartphone, the iPhone Duo. As usually happens these days, the rumors and leaks were all spot on (well, except for the name). The iPhone Duo's screens have the same aspect ratio, and the foldable screen has an under-display selfie camera. The titani",
      "source": "GSMArena",
      "zh": "It's here: Apple iPhone Duo is the first iOS-powered foldable smartphone"
-    },
-    {
-     "title": "Apple rolls out fourth developer and public RCs for macOS Tahoe 26.7 and macOS Sequoia 15.8",
-     "link": "https://9to5mac.com/2026/09/09/apple-rolls-out-fourth-developer-and-public-rcs-for-macos-tahoe-26-7-and-macos-sequoia-15-8/",
-     "pubDate": "Wed, 09 Sep 2026 18:55:43 +0000",
-     "summary": "New Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8 are available to developers and users in the public beta program. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple rolls out fourth developer and public RCs for macOS Tahoe 26.7 and macOS Sequoia 15.8"
-    },
-    {
-     "title": "iOS 27: Here are Apple’s full release notes",
-     "link": "https://9to5mac.com/2026/09/09/ios-27-here-are-apples-full-release-notes/",
-     "pubDate": "Wed, 09 Sep 2026 18:51:15 +0000",
-     "summary": "Today Apple announced that iOS 27 will launch next Monday, September 14. Here are the full release notes for the major new iPhone update. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27: Here are Apple’s full release notes"
-    },
-    {
-     "title": "Apple confirms macOS 27 Golden Gate launch date: September 14",
-     "link": "https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/",
-     "pubDate": "Wed, 09 Sep 2026 18:47:23 +0000",
-     "summary": "Apple today confirmed that macOS 27 Golden Gate will launch on September 14, alongside iOS 27, iPadOS 27, and its other operating systems. Here’s the full list of compatible Macs. more…",
-     "source": "9to5Mac",
-     "zh": "Apple confirms macOS 27 Golden Gate launch date: September 14"
-    },
-    {
-     "title": "Mid-week Android app deals and freebies: Loads of Final Fantasy games, Secret of Mana, more",
-     "link": "https://9to5toys.com/2026/09/09/todays-highlight-google-play-deals-3/",
-     "pubDate": "Wed, 09 Sep 2026 18:37:06 +0000",
-     "summary": "The mid-week Google Play app and game deals are ready, and loaded with plenty of Square Enix classics. Highlights include CHRONO TRIGGER, Secret of Mana, Legend of Mana, Actraiser Renaissance, COLLECTION of SaGa FF LEGEND, FINAL FANTASY VII, Trials of Mana, Adventures of Mana, Romancing SaGa3, CHAOS",
-     "source": "9to5Google",
-     "zh": "Mid-week Android app deals and freebies: Loads of Final Fantasy games, Secret of Mana, more"
-    },
-    {
-     "title": "iPhone 18 Pro and Pro Max arrive with A20 Pro chip, smaller Dynamic Island and variable aperture main cams",
-     "link": "https://www.gsmarena.com/iphone_18_pro_and_pro_max_arrive_with_a20_pro_chip_smaller_dynamic_island_and_variable_aperture_main-news-74543.php",
-     "pubDate": "Wed, 09 Sep 2026 20:29:02 +0200",
-     "summary": "The iPhone 18 Pro and 18 Pro Max are here, and they may look a lot like their predecessors, but they also bring enough new additions under the hood. On the outside, we have three new colors and a smaller Dynamic Island, while the internals bring the A20 Pro chip, larger batteries and variable-apertu",
-     "source": "GSMArena",
-     "zh": "iPhone 18 Pro and Pro Max arrive with A20 Pro chip, smaller Dynamic Island and variable aperture main cams"
-    },
-    {
-     "title": "Apple finally reveals foldable iPhone Duo with Z Fold 8-like form factor",
-     "link": "https://www.androidauthority.com/iphone-duo-launch-3709342/",
-     "pubDate": "Wed, 09 Sep 2026 17:59:31 +0000",
-     "summary": "The iPhone Duo is here.",
-     "source": "Android Authority",
-     "zh": "Apple finally reveals foldable iPhone Duo with Z Fold 8-like form factor"
-    },
-    {
-     "title": "Apple’s folding phone is here and it’s called the iPhone Duo",
-     "link": "https://www.dpreview.com/news/apples-folding-phone-is-here-and-its-called-the-iphone-duo/",
-     "pubDate": "Wed, 09 Sep 2026 17:57:39 +0000",
-     "summary": "The company has gone for the \"passport\" style form factor.",
-     "source": "DPReview",
-     "zh": "Apple’s folding phone is here and it’s called the iPhone Duo"
-    },
-    {
-     "title": "Apple AirPods 5 go all-in on ANC",
-     "link": "https://www.androidauthority.com/airpods-5-launch-3709404/",
-     "pubDate": "Wed, 09 Sep 2026 17:41:18 +0000",
-     "summary": "Still no cameras, though.",
-     "source": "Android Authority",
-     "zh": "Apple AirPods 5 go all-in on ANC"
-    },
-    {
-     "title": "Samsung’s smart glasses sequel is starting to come into focus",
-     "link": "https://www.androidauthority.com/samsung-smart-glasses-color-display-ai-glasses-3709358/",
-     "pubDate": "Wed, 09 Sep 2026 17:36:00 +0000",
-     "summary": "Samsung hasn't released its first wave of smart glasses yet, but we're already hearing about a follow-up.",
-     "source": "Android Authority",
-     "zh": "Samsung’s smart glasses sequel is starting to come into focus"
-    },
-    {
-     "title": "iPhone 18 Pro series is here with a feature Android flagships abandoned years ago",
-     "link": "https://www.androidauthority.com/apple-iphone-18-pro-max-3709365/",
-     "pubDate": "Wed, 09 Sep 2026 17:33:35 +0000",
-     "summary": "Apple's new Pro iPhone adopts a mechanical variable aperture camera alongside the 2nm A20 chip.",
-     "source": "Android Authority",
-     "zh": "iPhone 18 Pro series is here with a feature Android flagships abandoned years ago"
-    },
-    {
-     "title": "The iPhone 18 Pro is here, complete with a variable aperture and manual camera controls",
-     "link": "https://www.dpreview.com/news/one-of-the-new-iphone-18-pros-includes-a-new-camera-trick-a-moving-aperture/",
-     "pubDate": "Wed, 09 Sep 2026 17:12:04 +0000",
-     "summary": "Apple has unveiled the iPhone 18 Pro and Pro Max at its annual fall event, both of which feature an adjustable aperture and more control over images and videos.",
-     "source": "DPReview",
-     "zh": "The iPhone 18 Pro is here, complete with a variable aperture and manual camera controls"
-    },
-    {
-     "title": "Samsung details the journey of making the Z Fold8 and Z Fold8 Ultra thinner and lighter",
-     "link": "https://www.gsmarena.com/samsung_details_the_journey_of_making_the_z_fold8_and_z_fold8_ultra_thinner_and_lighter-news-74535.php",
-     "pubDate": "Wed, 09 Sep 2026 19:00:02 +0200",
-     "summary": "The original Galaxy Fold weighed a hefty 276g – and that isn’t even the heaviest Fold. That honor goes to the Z Fold2, which tipped the scales at 282g. And yet Samsung’s latest book-style foldable is only 201g. Okay, to be fair, this refers to the Galaxy Z Fold8, which has a smaller form factor than",
-     "source": "GSMArena",
-     "zh": "Samsung details the journey of making the Z Fold8 and Z Fold8 Ultra thinner and lighter"
-    },
-    {
-     "title": "Google confirms Pixel 10 trade-in issues, fix pending",
-     "link": "https://www.androidauthority.com/pixel-10-trade-ins-fix-3709355/",
-     "pubDate": "Wed, 09 Sep 2026 16:55:53 +0000",
-     "summary": "Pixel 10 trade-in problems? Google's got a fix in the works.",
-     "source": "Android Authority",
-     "zh": "Google confirms Pixel 10 trade-in issues, fix pending"
-    },
-    {
-     "title": "Honor Magic 9 Pro Max looks like an iPhone with a giant camera; September launch date confirmed",
-     "link": "https://9to5google.com/2026/09/09/honor-magic-9-pro-max-design-teaser/",
-     "pubDate": "Wed, 09 Sep 2026 16:30:00 +0000",
-     "summary": "Honor has officially shown off its next flagship, the Honor Magic 9 Pro Max, which has a pretty familiar-looking design, a massive camera powered by ARRI, and a release date that’s mere weeks away. more…",
-     "source": "9to5Google",
-     "zh": "Honor Magic 9 Pro Max looks like an iPhone with a giant camera; September launch date confirmed"
-    },
-    {
-     "title": "Corsair Scimitar RGB Elite deal brings this 12-button MMO mouse down to just $49.99",
-     "link": "https://www.androidauthority.com/corsair-scimitar-rgb-elite-deal-3709351/",
-     "pubDate": "Wed, 09 Sep 2026 16:12:09 +0000",
-     "summary": "Save 44% on the gaming mouse in its best deal since Prime Day, and get 17 programmable buttons plus RGB lighting.",
-     "source": "Android Authority",
-     "zh": "Corsair Scimitar RGB Elite deal brings this 12-button MMO mouse down to just $49.99"
-    },
-    {
-     "title": "Apple's new CEO teases the iPhone 18 Pro Max's variable aperture camera",
-     "link": "https://www.gsmarena.com/apples_new_ceo_seems_to_be_teasing_the_iphone_18_pro_maxs_variable_aperture_camera-news-74541.php",
-     "pubDate": "Wed, 09 Sep 2026 18:04:02 +0200",
-     "summary": "Mere hours before Apple's grand iPhone unveiling event is set to start, Apple's new CEO, John Ternus, has posted a mysterious video on his official X account. The video is definitely a teaser for what's to come at the event later today. See it for yourself: pic.twitter.com/CLu9eRDP5b— John Ternus (@",
-     "source": "GSMArena",
-     "zh": "Apple's new CEO teases the iPhone 18 Pro Max's variable aperture camera"
-    },
-    {
-     "title": "Google Search kicks off the NFL season with Live Game Feeds and fantasy football advice",
-     "link": "https://9to5google.com/2026/09/09/google-search-kicks-off-the-nfl-season-with-live-game-feeds-and-fantasy-football-advice/",
-     "pubDate": "Wed, 09 Sep 2026 16:00:00 +0000",
-     "summary": "Tonight’s game between the New England Patriots and the Seattle Seahawks isn’t just a Super Bowl LX rematch — it’s also the official start of the 2026 NFL season. Google has invested pretty heavily in football over the past few years through YouTube TV , but today, it’s giving Search some big improv",
-     "source": "9to5Google",
-     "zh": "Google Search kicks off the NFL season with Live Game Feeds and fantasy football advice"
-    },
-    {
-     "title": "Deals: Galaxy Z Fold 8 up to $500+ off, Moto Tag 2 trackers from $17.50, new liquid-cooled Qi2.2 power bank, more",
-     "link": "https://9to5google.com/2026/09/09/deals-galaxy-fold-8-moto-tag-2-liquid-cooled-power-bank/",
-     "pubDate": "Wed, 09 Sep 2026 15:56:11 +0000",
-     "summary": "Today’s 9to5Toys Lunch Break is headlined by a chance to land up to a massive $500 or more off Galaxy Z Fold 8 alongside the return of all-time low pricing on the new Moto Tag 2 trackers at $17.50 each. Just be sure to scope out the now even lower launch deal on UGREEN’s liquid-cooled Qi2.2 MagFlow ",
-     "source": "9to5Google",
-     "zh": "Deals: Galaxy Z Fold 8 up to $500+ off, Moto Tag 2 trackers from $17.50, new liquid-cooled Qi2.2 power bank, more"
-    },
-    {
-     "title": "Google Messages rolls out Keep Notes integration on Android",
-     "link": "https://9to5google.com/2026/09/09/google-messages-keep-notes/",
-     "pubDate": "Wed, 09 Sep 2026 15:54:27 +0000",
-     "summary": "Following the September 2026 Android Drop announcement last week, Google Messages is widely rolling out its new Keep Notes integration. more…",
-     "source": "9to5Google",
-     "zh": "Google Messages rolls out Keep Notes integration on Android"
-    },
-    {
-     "title": "What do you do when your photography inspiration runs dry?",
-     "link": "https://www.dpreview.com/articles/what-do-you-do-when-youre-not-feeling-inspired-to-take-photos/",
-     "pubDate": "Wed, 09 Sep 2026 15:43:25 +0000",
-     "summary": "Creative droughts happen to every photographer, but inspiration can return with vigor when you stop forcing the next great image. Share the habits that help you start seeing photographically again.",
-     "source": "DPReview",
-     "zh": "What do you do when your photography inspiration runs dry?"
-    },
-    {
-     "title": "Honor Magic9 Pro Max visits Venice Film Festival, here it is in live photos",
-     "link": "https://www.gsmarena.com/honor_magic9_pro_max_visits_venice_film_festival_here_it_is_in_live_photos-news-74534.php",
-     "pubDate": "Wed, 09 Sep 2026 17:06:03 +0200",
-     "summary": "Honor is officially announcing the Magic9 series, including the Magic9 Pro Max, on September 28. Ahead of that, the company has showcased the Magic9 Pro Max at the 83rd Venice Film Festival. The device made its first public appearance over there, in a distinctive moss green finish. The phone has ARR",
-     "source": "GSMArena",
-     "zh": "Honor Magic9 Pro Max visits Venice Film Festival, here it is in live photos"
-    },
-    {
-     "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-     "link": "https://sspai.com/post/114366",
-     "pubDate": "Wed, 09 Sep 2026 17:30:00 +0800",
-     "summary": "为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？ 查看全文",
-     "source": "少数派",
-     "zh": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年"
-    },
-    {
-     "title": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线",
-     "link": "https://sspai.com/post/113842",
-     "pubDate": "Wed, 09 Sep 2026 15:03:35 +0800",
-     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-     "source": "少数派",
-     "zh": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线"
-    },
-    {
-     "title": "Ricoh ends Pentax K-mount production but still has DSLR plans",
-     "link": "https://www.dpreview.com/news/ricoh-ends-pentax-dslr-production-but-still-has-k-mount-plans/",
-     "pubDate": "Wed, 09 Sep 2026 06:42:07 +0000",
-     "summary": "Company says it will develop DSLRs based on \"an entirely new concept\"",
-     "source": "DPReview",
-     "zh": "Ricoh ends Pentax K-mount production but still has DSLR plans"
     }
    ]
   },
@@ -2194,244 +2194,244 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "What execs are talking about at Goldman Sachs&apos; Communacopia: AI, data centers, disruption",
-     "link": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
-     "pubDate": "Wed, 09 Sep 2026 19:14:49 GMT",
-     "summary": "CoreWeave CEO Mike Intrator spoke to CNBC at the Goldman Sachs' Communacopia + Technology Conference this week.",
+     "title": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google",
+     "link": "https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html",
+     "pubDate": "Wed, 09 Sep 2026 21:45:34 GMT",
+     "summary": "Amazon said Kevin Mandia, the founder and former CEO of cybersecurity company Mandiant, is joining its board of directors.",
      "source": "CNBC",
-     "zh": "What execs are talking about at Goldman Sachs&apos; Communacopia: AI, data centers, disruption"
+     "zh": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google"
     },
     {
-     "title": "What a historic summer box office reveals about massive shifts in the theatrical industry",
-     "link": "https://www.cnbc.com/2026/09/09/summer-box-theatrical-shifts.html",
-     "pubDate": "Wed, 09 Sep 2026 19:09:56 GMT",
-     "summary": "The domestic box office posted a record-breaking summer movie season, which was bolstered by an extra week of ticket sales and higher-priced premium screenings.",
+     "title": "American Tower prices $1.6B of senior notes",
+     "link": "https://seekingalpha.com/news/4641397-american-tower-prices-16b-of-senior-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 09 Sep 2026 17:40:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "American Tower prices $1.6B of senior notes"
+    },
+    {
+     "title": "美国能源部长赖特表示：霍尔木兹原油日流量略低于1100万桶",
+     "link": "http://finance.eastmoney.com/news/1351,202609103869702946.html",
+     "pubDate": "Thu, 10 Sep 2026 05:40:33 +0800",
+     "summary": "美国能源部长赖特表示，霍尔木兹原油日流量略低于1100万桶。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国能源部长赖特表示：霍尔木兹原油日流量略低于1100万桶"
+    },
+    {
+     "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
+     "link": "https://wallstreetcn.com/articles/3781389",
+     "pubDate": "Thu, 10 Sep 2026 05:40:16 +0800",
+     "summary": "通胀数据公布前夕，油价飙升与美国财政部国债回购规模低于预期的双重打压下，美股周三连续第三个交易日下跌，10年期美债收益率升至2023年11月以来最高水平。 布伦特原油突破每桶101美元，中东局势持续升温加剧了市场对能源供应中断的担忧，并进一步强化了美联储可能在本月加息的预期。货币市场目前为9月加息定价约60%的概率。 与此同时，财政部宣布将购买最多60亿美元较长期限国债，但该规模低于市场此前预期的80亿至100亿美元，公告发布后收益率随即跳升，加剧了股债双杀的局面。 当前市场高度聚焦于本周即将出台的关键通胀数据。美国劳工统计局将于周四公布8月生产者价格指数（PPI），周五发布消费者价格指数（C",
+     "source": "华尔街见闻",
+     "zh": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低"
+    },
+    {
+     "title": "Gold edges up as market digests weaker dollar, higher U.S. yields",
+     "link": "https://seekingalpha.com/news/4641387-gold-edges-up-as-market-digests-weaker-dollar-higher-us-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 09 Sep 2026 17:40:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gold edges up as market digests weaker dollar, higher U.S. yields"
+    },
+    {
+     "title": "Lockheed Martin lands $257M heavyweight torpedo contract modification",
+     "link": "https://seekingalpha.com/news/4641396-lockheed-martin-lands-257m-heavyweight-torpedo-contract-modification?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 09 Sep 2026 17:38:12 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lockheed Martin lands $257M heavyweight torpedo contract modification"
+    },
+    {
+     "title": "耶伦等近50名经济学家联署：特朗普援引“国际收支”条款征收全球关税越权",
+     "link": "https://wallstreetcn.com/articles/3781447",
+     "pubDate": "Thu, 10 Sep 2026 05:37:06 +0800",
+     "summary": "美国前财长耶伦与近50名经济学家联署提交法庭意见书，认定特朗普援引\"国际收支\"条款征收全球关税缺乏法律依据。 此案正值美国政府就今年关税政策的司法审查展开上诉，是对特朗普贸易权力边界的又一次正面挑战。 这批签署人横跨民主党与共和党两届政府前官员，他们在9月9日提交的法庭之友意见书中指出， 接受政府的法律解释将赋予总统过度广泛的权力。 他们矛头直指今年2月至7月间生效的10%全球临时关税，认为其援引依据根本不成立。 上述动向将进一步加大特朗普政府在联邦巡回上诉法院的应诉压力。美国国际贸易法院今年5月已裁定涉案关税违法，政府随即提起上诉，案件目前悬而未决。 案件起源：最高法院否决后的\"备用方案\" ",
+     "source": "华尔街见闻",
+     "zh": "耶伦等近50名经济学家联署：特朗普援引“国际收支”条款征收全球关税越权"
+    },
+    {
+     "title": "纽约尾盘 现货黄金涨1.02%",
+     "link": "http://finance.eastmoney.com/news/1351,202609103869702827.html",
+     "pubDate": "Thu, 10 Sep 2026 05:36:08 +0800",
+     "summary": "纽约尾盘，现货 黄金 涨1.02%，报4400.29美元/盎司。现货 白银 涨2.30%，报67.2718美元/盎司。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "纽约尾盘 现货黄金涨1.02%"
+    },
+    {
+     "title": "Zumiez Q2 2027 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4641225-zumiez-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 09 Sep 2026 17:35:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Zumiez Q2 2027 Earnings Preview"
+    },
+    {
+     "title": "Oracle to report Q1 as AI spending, cash burn take center stage",
+     "link": "https://seekingalpha.com/news/4641330-oracle-to-report-q1-as-ai-spending-cash-burn-take-center-stage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 09 Sep 2026 17:35:33 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Oracle to report Q1 as AI spending, cash burn take center stage"
+    },
+    {
+     "title": "Frequency Electronics Q1 2027 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4641222-frequency-electronics-q1-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 09 Sep 2026 17:35:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Frequency Electronics Q1 2027 Earnings Preview"
+    },
+    {
+     "title": "伊朗方面称格什姆岛传出爆炸声",
+     "link": "http://finance.eastmoney.com/news/1351,202609103869702319.html",
+     "pubDate": "Thu, 10 Sep 2026 05:31:06 +0800",
+     "summary": "伊朗方面当天凌晨称，该国格什姆岛传出巨大爆炸声。目前尚不清楚爆炸声是来自海上，还是岛内发生了爆炸事件。当地有关部门尚未就此事发表正式声明。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗方面称格什姆岛传出爆炸声"
+    },
+    {
+     "title": "美国铁塔公司：定价发行16亿美元2031年、2033年、2036年到期高级无抵押票据",
+     "link": "http://finance.eastmoney.com/news/1351,202609103869702223.html",
+     "pubDate": "Thu, 10 Sep 2026 05:30:19 +0800",
+     "summary": "美国铁塔公司：定价发行16亿美元2031年、2033年、2036年到期高级无抵押票据，发债所得资金将用于偿还6亿美元2026年期票据、偿还信贷额度，以及用作企业一般用途。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国铁塔公司：定价发行16亿美元2031年、2033年、2036年到期高级无抵押票据"
+    },
+    {
+     "title": "Fewer than half of vulnerable congressional candidates have speaking roles at GOP convention",
+     "link": "https://www.cnbc.com/2026/09/09/trump-gop-convention-dallas-speakers.html",
+     "pubDate": "Wed, 09 Sep 2026 21:28:23 GMT",
+     "summary": "Republicans hope to build momentum as they sag in the polls ahead of November's midterm election, but some vulnerable candidates skip the event.",
      "source": "CNBC",
-     "zh": "What a historic summer box office reveals about massive shifts in the theatrical industry"
+     "zh": "Fewer than half of vulnerable congressional candidates have speaking roles at GOP convention"
     },
     {
-     "title": "美股三大指数下跌 SK海力士、戴尔科技盘中创新高 布油期货突破100美元/桶",
-     "link": "http://finance.eastmoney.com/news/1345,202609093869558781.html",
-     "pubDate": "Thu, 10 Sep 2026 03:09:56 +0800",
-     "summary": "美东时间周三，美股三大指数集体下跌。截至发稿，道指跌0.63%，纳指跌0.57%，标普500指数跌0.37%。 SK海力士 、 戴尔科技 盘中创新高。截至发稿， SK海力士 涨6.86%， 戴尔科技 涨0.44%。 商品市场方面，国际油价持续走高。截至发稿，布伦特原油 期货 涨超3%，突破100美元/桶。布伦特原油 期货 和美国原油 期货 结算价收于5月22日以来的最高水平。 全球要闻 100亿？贝森特神秘“救市底牌”今晚揭晓 华尔街高度戒备！ 美国财长贝森特即将在华尔街交易员高度紧张之际，揭晓他最初准备在多大程度上通过扩大国债回购计划，来抑制不断攀升的美债收益率。预计美国财政部将于当地时间周",
+     "title": "美股ETF追踪 | 存储芯片飙涨 2倍做多海力士ETF涨超14%",
+     "link": "http://stock.eastmoney.com/news/1768,202609103869702722.html",
+     "pubDate": "Thu, 10 Sep 2026 05:27:46 +0800",
+     "summary": "周三美股三大指数集体收跌，道琼斯指数跌0.77%， 纳斯达克 综合 指数跌0.64%，标普500指数跌0.48%。大型科技股多数走低，其中Meta逆势大涨6.55%， 谷歌-A 跌2.28%、 亚马逊 跌1.78%、 英伟达 跌0.91%。盘面上， 存储芯片 股集体爆发， SK海力士 单日大涨逾7%，带动多只海力士2倍做多ETF涨超14%，成为当日最强ETF主线。 美股ETF升幅榜Top5 二倍做多NET(NETG.US) 升20.88%，成交额282.56万美元。 二倍做多MXL(MXLL.US) 升15.84%，成交额34.05万美元。 二倍做多海力士(SKHA.US) 升15.14%，成",
      "source": "东方财富股票",
-     "zh": "美股三大指数下跌 SK海力士、戴尔科技盘中创新高 布油期货突破100美元/桶"
+     "zh": "美股ETF追踪 | 存储芯片飙涨 2倍做多海力士ETF涨超14%"
     },
     {
-     "title": "苹果iPhone 18 Pro系列涨价：最高涨3500元，顶配售价突破2万元",
-     "link": "http://finance.eastmoney.com/news/1354,202609103869685631.html",
-     "pubDate": "Thu, 10 Sep 2026 03:09:15 +0800",
-     "summary": "9月10日凌晨1点， 苹果 举行秋季新品发布会，正式推出iPhone 18 Pro和iPhone 18 Pro Max。与上一代相比，新一代Pro系列价格明显上调，其中起售价大多上涨1000元，而大容量版本涨幅更高，最高上涨3500元，顶配iPhone 18 Pro Max起售价达到21499元。 具体来看，iPhone 18 Pro的256GB、512GB和1TB版本起售价分别为9999元、11999元和15499元，较上一代对应版本的8999元、10999元和12999元分别上涨1000元、1000元和2500元。此外，iPhone 18 Pro首次增加2TB版本，起售价达到20499元。",
+     "title": "美国铝业公司宣布债券发行定价",
+     "link": "http://finance.eastmoney.com/news/1351,202609103869701536.html",
+     "pubDate": "Thu, 10 Sep 2026 05:25:38 +0800",
+     "summary": "美国铝业 公司宣布债券发行定价，为收购South32 铝 土矿、氧化 铝 及 铝 资产提供现金对价融资。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "苹果iPhone 18 Pro系列涨价：最高涨3500元，顶配售价突破2万元"
+     "zh": "美国铝业公司宣布债券发行定价"
     },
     {
-     "title": "iPhone 18 Pro/17 Pro系列价格对比：国行涨价1000元起！",
-     "link": "http://finance.eastmoney.com/news/1351,202609103869685396.html",
-     "pubDate": "Thu, 10 Sep 2026 03:08:24 +0800",
-     "summary": "苹果 2026秋季发布会落下帷幕，iPhone 18 Pro、iPhone 18 Pro Max国行售价正式公布，两款机型依旧256GB起步。 对比上代iPhone 17 Pro系列，各存储档位均出现不同程度涨价，顶配版本涨幅进一步扩大。 iPhone 18 Pro国行起售价9999元，iPhone 18 Pro Max起售价10999元。 上代iPhone 17 Pro 256GB首发价8999元，iPhone 17 Pro Max 256GB首发价9999元，入门存储直接上涨1000元。 大容量版本涨价幅度更高，1TB、2TB版本差价明显高于基础档位。 iPhone 18 Pro iPho",
-     "source": "东方财富股票",
-     "zh": "iPhone 18 Pro/17 Pro系列价格对比：国行涨价1000元起！"
+     "title": "苹果折叠屏iPhone亮相，分析师看好潜力但警示利润率风险",
+     "link": "https://wallstreetcn.com/articles/3781445",
+     "pubDate": "Thu, 10 Sep 2026 05:25:32 +0800",
+     "summary": "苹果公司发布折叠屏iPhone，分析师普遍对其市场前景持乐观态度，但利润率压力成为主要隐忧。 华尔街见闻提及 ，美东时间9月9日周三，苹果发布了首款折叠屏iPhone，命名为\"Duo\"，售价1999美元。 受高端产品线成本及利润担忧影响，消息公布后，苹果股价周三收盘小幅下跌0.28%。 多家机构指出，苹果此次定价策略——iPhone 17及Air系列维持原价，Pro及Pro Max系列涨价幅度低于预期，可能对整体利润率构成压力。Jefferies认为，苹果此举意在以牺牲利润率换取销量提升。 折叠屏首作获好评，首年销量预期上调 彭博智库对Duo的产品设计给出较高评价，称其\"是苹果智能手机多年来设",
+     "source": "华尔街见闻",
+     "zh": "苹果折叠屏iPhone亮相，分析师看好潜力但警示利润率风险"
     },
     {
-     "title": "人工智能公司Anthropic：已确认一起发生于2026年1月的第四起安全事件 涉及Claude Opus 4.6的早期版本",
-     "link": "http://finance.eastmoney.com/news/1354,202609103869685237.html",
-     "pubDate": "Thu, 10 Sep 2026 03:05:52 +0800",
-     "summary": "人工智能 公司Anthropic，已确认一起发生于2026年1月的第四起安全事件，涉及Claude Opus 4.6的早期版本；四起事件均发生在由同一家评估合作伙伴构建的 网络安全 评估过程中。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "人工智能公司Anthropic：已确认一起发生于2026年1月的第四起安全事件 涉及Claude Opus 4.6的早期版本"
+     "title": "The bull market’s biggest enemy right now could be Bessent’s interventions",
+     "link": "https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories",
+     "pubDate": "Wed, 09 Sep 2026 21:17:00 GMT",
+     "summary": "A stronger yen and higher Treasury yields could become a toxic combination for the bull market in stocks.",
+     "source": "MarketWatch",
+     "zh": "The bull market’s biggest enemy right now could be Bessent’s interventions"
     },
     {
-     "title": "布伦特原油期货和美国原油期货结算价收于5月22日以来的最高水平",
-     "link": "http://finance.eastmoney.com/news/1351,202609103869685122.html",
-     "pubDate": "Thu, 10 Sep 2026 03:03:16 +0800",
-     "summary": "布伦特原油 期货 和美国原油 期货 结算价收于5月22日以来的最高水平。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "布伦特原油期货和美国原油期货结算价收于5月22日以来的最高水平"
+     "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+     "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+     "pubDate": "Wed, 09 Sep 2026 21:16:00 GMT",
+     "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
+     "source": "MarketWatch",
+     "zh": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?"
     },
     {
-     "title": "iPhone 18 Pro系列正式发布！苹果2026秋季发布会价格汇总：6款新品 从999元到26499元",
-     "link": "http://finance.eastmoney.com/news/1351,202609103869684545.html",
-     "pubDate": "Thu, 10 Sep 2026 03:01:43 +0800",
-     "summary": "今天凌晨， 苹果 举行2026年秋季新品发布会， 正式发布iPhone 18 Pro、iPhone 18 Pro Max、首款折叠屏iPhone Duo、AirPods 5、Apple Watch Series 12以及Apple Watch Ultra 4等新品。 其中，本次发布会新品最低售价999元，最高则达到26499元，价差超过25倍。 下面一起来看看各款新品的国行价格。 iPhone 18 Pro 256GB：9999元 512GB：11999元 1TB：15499元 2TB：20499元 iPhone 18 Pro Max 256GB：10999元 512GB：12999元 1TB",
-     "source": "东方财富股票",
-     "zh": "iPhone 18 Pro系列正式发布！苹果2026秋季发布会价格汇总：6款新品 从999元到26499元"
+     "title": "Bessent’s political turn in GOP speech tests his bond-market credibility",
+     "link": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
+     "pubDate": "Wed, 09 Sep 2026 21:00:18 GMT",
+     "summary": "Treasury Secretary Scott Bessent's planned Republican convention speech in Dallas is raising questions about how politics could affect market confidence in him.",
+     "source": "CNBC",
+     "zh": "Bessent’s political turn in GOP speech tests his bond-market credibility"
+    },
+    {
+     "title": "伦敦铜、纽约铜双创历史新高！关税预期与供应短缺驱动涨势",
+     "link": "https://wallstreetcn.com/articles/3781441",
+     "pubDate": "Thu, 10 Sep 2026 04:57:03 +0800",
+     "summary": "铜价在伦敦和纽约市场同步刷新历史纪录，成为当前大宗商品市场最受关注的焦点。 关税预期引发的金属流向持续压缩美国以外市场的实物供应，叠加长期供需失衡，共同推动这轮涨势。与此同时，中东局势升温带来的通胀隐忧，为铜价前景增添了变数。 伦敦金属交易所三个月期铜基准合约最高触及每吨14858.50美元，超越前一交易日创下的14779.00美元峰值，已连续三个交易日刷新历史高位。 纽约商品交易所铜期货亦同步攀升至每磅6.894美元的历史新高。 此轮涨势的直接触发因素在于，市场对特朗普政府对精炼铜进口加征关税的持续预期，导致大量金属被运往美国，令伦敦市场实物供应明显趋紧。 需要注意的是，美国对伊朗油轮发动袭",
+     "source": "华尔街见闻",
+     "zh": "伦敦铜、纽约铜双创历史新高！关税预期与供应短缺驱动涨势"
+    },
+    {
+     "title": "OpenAI与Anthropic游说标普争取BBB-评级：逼近万亿估值撞上持续亏损的信用门槛",
+     "link": "https://wallstreetcn.com/articles/3781438",
+     "pubDate": "Thu, 10 Sep 2026 04:56:48 +0800",
+     "summary": "以OpenAI、Anthropic为代表的前沿AI实验室正寻求与甲骨文（Oracle）同等的投资级信用评级，这一诉求正在考验评级机构能否为截然不同的商业模式建立一套一致的评估标准。 9月9日，据英国《金融时报》援引知情人士透露， 这些即将上市的AI实验室的银行顾问已开始游说标普、穆迪等主要信用评级机构，希望为其客户争取投资级评分。具体而言，是甲骨文当前所处的标普BBB-评级。 投资级评级对AI实验室意义重大： 一旦获得，这些公司将能够向保险公司、银行等受限于保守投资策略的资产管理机构出售债券，大幅拓宽融资渠道。 然而，这两类企业的财务画像存在根本差异。 AI实验室拥有接近万亿美元的私募市场估值",
+     "source": "华尔街见闻",
+     "zh": "OpenAI与Anthropic游说标普争取BBB-评级：逼近万亿估值撞上持续亏损的信用门槛"
+    },
+    {
+     "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+     "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+     "pubDate": "Wed, 09 Sep 2026 20:36:00 GMT",
+     "summary": "A prolonged oil shock could keep consumer prices elevated and complicate the path for central banks already navigating a difficult policy environment.",
+     "source": "MarketWatch",
+     "zh": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates"
+    },
+    {
+     "title": "You should always have energy stocks in your 401(k). Yes, even when oil is at $100.",
+     "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
+     "pubDate": "Wed, 09 Sep 2026 20:27:00 GMT",
+     "summary": "Energy and resource stocks have zigged while the market has zagged.",
+     "source": "MarketWatch",
+     "zh": "You should always have energy stocks in your 401(k). Yes, even when oil is at $100."
+    },
+    {
+     "title": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
+     "link": "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
+     "pubDate": "Wed, 09 Sep 2026 20:16:44 GMT",
+     "summary": "Trump disclosed more than 21,000 trades in 2025, while the House-passed restrictions Republicans are promoting apply only to Congress.",
+     "source": "CNBC",
+     "zh": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades"
     },
     {
      "title": "Trump says oil and gas prices won&apos;t fall until &apos;right after&apos; midterm election",
      "link": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
-     "pubDate": "Wed, 09 Sep 2026 18:58:08 GMT",
+     "pubDate": "Wed, 09 Sep 2026 19:52:11 GMT",
      "summary": "President Donald Trump said energy prices that have been elevated due to the Iran war will not come down until after the midterm elections.",
      "source": "CNBC",
      "zh": "Trump says oil and gas prices won&apos;t fall until &apos;right after&apos; midterm election"
     },
     {
-     "title": "Bond sell-off, stock boom: Why rebalancing is a good strategy right now",
-     "link": "https://www.cnbc.com/2026/09/09/bond-selloff-stock-boom-rebalancing.html",
-     "pubDate": "Wed, 09 Sep 2026 18:55:18 GMT",
-     "summary": "With stocks near all-time highs and bonds selling off, it's likely a good time for investors to consider rebalancing to their target risk, advisors said.",
-     "source": "CNBC",
-     "zh": "Bond sell-off, stock boom: Why rebalancing is a good strategy right now"
-    },
-    {
-     "title": "Lithium Americas jumps as J.P. Morgan upgrades on improved long-term lithium outlook",
-     "link": "https://seekingalpha.com/news/4641327-lithium-americas-jumps-as-j-p-morgan-upgrades-on-improved-long-term-lithium-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 09 Sep 2026 14:55:11 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lithium Americas jumps as J.P. Morgan upgrades on improved long-term lithium outlook"
-    },
-    {
-     "title": "Apple Watch Series 12 jogs memory with 'Live Rewind' and 'Audio Intelligence'",
-     "link": "https://seekingalpha.com/news/4641318-apple-watch-series-12-jogs-memory-with-live-rewind-and-audio-intelligence?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 09 Sep 2026 14:45:40 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple Watch Series 12 jogs memory with 'Live Rewind' and 'Audio Intelligence'"
-    },
-    {
-     "title": "SA Asks: How important is the foldable iPhone to Apple?",
-     "link": "https://seekingalpha.com/news/4641324-sa-asks-how-important-is-the-foldable-iphone-to-apple?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 09 Sep 2026 14:45:36 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: How important is the foldable iPhone to Apple?"
-    },
-    {
-     "title": "Foldable iPhone will cost $1,999 as Apple raises smartphone prices",
+     "title": "Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices",
      "link": "https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546?syn-25a6b1a6=1",
-     "pubDate": "Wed, 09 Sep 2026 18:39:55 GMT",
+     "pubDate": "Wed, 09 Sep 2026 19:46:14 GMT",
      "summary": "Pro and Max models will be $100 more expensive than last year’s versions as the company faces supply chain pressures",
      "source": "Financial Times",
-     "zh": "Foldable iPhone will cost $1,999 as Apple raises smartphone prices"
+     "zh": "Foldable iPhone Duo will cost $1,999 as Apple raises smartphone prices"
     },
     {
-     "title": "Hyatt and Delta Air Lines to launch dual loyalty program",
-     "link": "https://seekingalpha.com/news/4641314-hyatt-and-delta-air-lines-to-launch-dual-loyalty-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 09 Sep 2026 14:39:40 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hyatt and Delta Air Lines to launch dual loyalty program"
+     "title": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump’s new ban.",
+     "link": "https://www.marketwatch.com/story/canadian-whisky-on-the-rocks-crown-royal-is-set-to-avoid-trumps-new-ban-2953bea3?mod=mw_rss_topstories",
+     "pubDate": "Wed, 09 Sep 2026 19:40:00 GMT",
+     "summary": "Canada’s top liquor brand looks on track for a reprieve because it’s bottled in the U.S. for American customers.",
+     "source": "MarketWatch",
+     "zh": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump’s new ban."
     },
     {
-     "title": "Next leg of AI trade hinges on monetization pace - HSBC",
-     "link": "https://seekingalpha.com/news/4641323-next-leg-of-ai-trade-hinges-on-monetization-pace-hsbc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 09 Sep 2026 14:39:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Next leg of AI trade hinges on monetization pace - HSBC"
-    },
-    {
-     "title": "Verizon declares $0.7075 dividend",
-     "link": "https://seekingalpha.com/news/4641326-verizon-declares-0_7075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 09 Sep 2026 14:38:49 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Verizon declares $0.7075 dividend"
-    },
-    {
-     "title": "EIA大幅上调油价预期：2026年布油均价料达91美元，供应中断超预期",
-     "link": "https://wallstreetcn.com/articles/3781436",
-     "pubDate": "Thu, 10 Sep 2026 02:27:59 +0800",
-     "summary": "美国能源信息署（EIA）9月9日发布最新《短期能源展望》（STEO），大幅上调未来两年布伦特原油价格预测。 EIA预计，2026年布伦特原油现货均价为91美元/桶，2027年为74美元/桶，较此前预测分别上调4美元与5美元。与此同时，EIA预计今年下半年布伦特均价约为90美元/桶，较8月预测高出8美元。 此次调整的核心原因是中东石油供应中断持续时间长于此前预期。 EIA预计，受霍尔木兹海峡和曼德海峡运输受限影响，中东部分石油产能将在未来数月继续处于停产状态。 8月中东石油减产规模平均达到670万桶/日，高于7月的500万桶/日；EIA预计第四季度平均停产规模仍将达到约570万桶/日。 与此同时",
+     "title": "欧股创两个月最大跌幅！油价破百拉响通胀警报，市场押注欧英央行四次加息",
+     "link": "https://wallstreetcn.com/articles/3781439",
+     "pubDate": "Thu, 10 Sep 2026 03:38:45 +0800",
+     "summary": "布伦特原油自7月以来首次突破每桶100美元，欧洲股市遭遇重创，通胀预期急剧升温，交易员随即加码押注欧洲央行与英国央行大幅加息。 斯托克欧洲600指数周三收跌1.41%，报640.4点，创7月以来最大单日跌幅。 欧元区蓝筹股指数欧元区STOXX 50同步下挫1.58%，报6311.56点。 美伊冲突再度升级推动油价走高，加剧了市场对持续通胀的担忧，欧洲股市自8月创下历史新高后的震荡格局由此进一步恶化。 利率市场反应更为剧烈。掉期定价显示， 交易员目前预计欧洲央行和英国央行在2027年底前将各加息约90个基点，意味着两家央行均需实施三次25个基点的加息，且均有约六成概率再追加第四次。 两年期德国国",
      "source": "华尔街见闻",
-     "zh": "EIA大幅上调油价预期：2026年布油均价料达91美元，供应中断超预期"
+     "zh": "欧股创两个月最大跌幅！油价破百拉响通胀警报，市场押注欧英央行四次加息"
     },
     {
-     "title": "美国30年期抵押贷款利率升至6.85%，创逾一年新高",
-     "link": "https://wallstreetcn.com/articles/3781434",
-     "pubDate": "Thu, 10 Sep 2026 02:27:43 +0800",
-     "summary": "伊朗战争推升能源价格与通胀预期，美国房贷成本持续攀升，抑制贷款需求。 据美国抵押贷款银行家协会（MBA）周三公布的数据，截至9月4日当周，30年期固定抵押贷款合同利率上升6个基点至6.85%，为逾一年以来最高水平。自伊朗战争于2月底爆发以来，该利率已累计上行约75个基点，能源价格走高带动的通胀压力是主要推手。 贷款需求因此承压。MBA再融资指数降至2025年5月以来最低，抵押贷款申请量持续萎缩，购房需求亦趋于疲软。 周五即将公布的美国消费者价格数据预计显示，8月整体通胀率同比上升3.4%，能源成本上涨是主要贡献因素。美联储官员正密切跟踪通胀走势，以评估下一步利率政策方向。 利率持续走高，源于美",
-     "source": "华尔街见闻",
-     "zh": "美国30年期抵押贷款利率升至6.85%，创逾一年新高"
-    },
-    {
-     "title": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
-     "link": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
-     "pubDate": "Wed, 09 Sep 2026 18:22:29 GMT",
-     "summary": "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
-     "source": "Financial Times",
-     "zh": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors"
-    },
-    {
-     "title": "8月PPI同比涨幅扩大至3.8%，后续走势如何？",
-     "link": "http://www.eeo.com.cn/2026/0910/1030132.shtml",
-     "pubDate": "Thu, 10 Sep 2026 02:13:11 +0800",
-     "summary": "每经记者｜张宏每经编辑｜杨翼 9月9日，国家统计局公布的8月份物价数据显示，居民消费价格指数（CPI）及工业生产者出厂价格指数（PPI）均温和回升。 8月，CPI环比由上月下降0.1%转为上涨0.4%，同比涨幅回升至0.8%；扣除食品和能源价格的核心CPI同比涨幅回升至1.0%。8月，PPI环比由上月下降0.7%转为上涨0.4%，同比涨幅扩大至3.8%。 值得注意的是，8月，平板电...",
-     "source": "经济观察网",
-     "zh": "8月PPI同比涨幅扩大至3.8%，后续走势如何？"
-    },
-    {
-     "title": "PayPal helps developers build application-specific PYUSD-backed stablecoins",
-     "link": "https://www.finextra.com/newsarticle/48375/paypal-helps-developers-build-application-specific-pyusd-backed-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Wed, 09 Sep 2026 18:07:00 GMT",
-     "summary": "PayPal is working with crypto specialists MoonPay and M0 on an infrastructure platform that lets developers create application-specific stablecoins backed by PYUSD.",
-     "source": "Finextra",
-     "zh": "PayPal helps developers build application-specific PYUSD-backed stablecoins"
-    },
-    {
-     "title": "US spy chief prepares for greater role in Russia-Ukraine talks",
-     "link": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1",
-     "pubDate": "Wed, 09 Sep 2026 18:05:21 GMT",
-     "summary": "CIA director John Ratcliffe will be involved in shuttle diplomacy between Moscow and Kyiv",
-     "source": "Financial Times",
-     "zh": "US spy chief prepares for greater role in Russia-Ukraine talks"
-    },
-    {
-     "title": "Experts weigh in as researcher says AI has more than 10% chance of &apos;killing all humans&apos;",
-     "link": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-     "pubDate": "Wed, 09 Sep 2026 17:43:45 GMT",
-     "summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\"",
-     "source": "CNBC",
-     "zh": "Experts weigh in as researcher says AI has more than 10% chance of &apos;killing all humans&apos;"
-    },
-    {
-     "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
-     "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
-     "pubDate": "Wed, 09 Sep 2026 17:30:00 GMT",
-     "summary": "Generation Z and young millennials are navigating major shifts in the economy that have made it harder to build wealth the way Americans did in the past.",
+     "title": "Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’",
+     "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
+     "pubDate": "Wed, 09 Sep 2026 19:27:00 GMT",
+     "summary": "The Treasury Department said it would buy back $6 billion in U.S. government debt, exceeding the amount previously announced in its effort to contain bond yields.",
      "source": "MarketWatch",
-     "zh": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened."
-    },
-    {
-     "title": "I have two sons. Should I allow one son to build a $400,000 house on my land?",
-     "link": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
-     "pubDate": "Wed, 09 Sep 2026 17:30:00 GMT",
-     "summary": "“The cost of building the house is expected to be about 30% of the property’s current value.”",
-     "source": "MarketWatch",
-     "zh": "I have two sons. Should I allow one son to build a $400,000 house on my land?"
-    },
-    {
-     "title": "These are the 10 biggest retirement fears — and what you can do about them",
-     "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
-     "pubDate": "Wed, 09 Sep 2026 16:38:00 GMT",
-     "summary": "No amount of wealth can erase retirement worries.",
-     "source": "MarketWatch",
-     "zh": "These are the 10 biggest retirement fears — and what you can do about them"
-    },
-    {
-     "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
-     "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
-     "pubDate": "Wed, 09 Sep 2026 16:19:00 GMT",
-     "summary": "Energy and resource stocks have zigged while the market has zagged.",
-     "source": "MarketWatch",
-     "zh": "Oil at $100? Why you should always have energy stocks in your 401(k)."
-    },
-    {
-     "title": "Fed rate hike hinges on two key inflation reports in the next two days",
-     "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
-     "pubDate": "Wed, 09 Sep 2026 16:18:00 GMT",
-     "summary": "Consumer and wholesale prices are rising again. Just how bad does it have to get for the Fed to act?",
-     "source": "MarketWatch",
-     "zh": "Fed rate hike hinges on two key inflation reports in the next two days"
-    },
-    {
-     "title": "Investors worried about rising bond yields are keeping a close eye on this corner of the market",
-     "link": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
-     "pubDate": "Wed, 09 Sep 2026 16:09:00 GMT",
-     "summary": "U.S. small-cap stocks have hit a pivotal point, trading below a key level as interest rates in the bond market climb ahead of the Federal Reserve’s highly anticipated policy meeting next week.",
-     "source": "MarketWatch",
-     "zh": "Investors worried about rising bond yields are keeping a close eye on this corner of the market"
+     "zh": "Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’"
     }
    ]
   },
@@ -2441,6 +2441,38 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Injectable nanodevices could provide effective treatment for drug-resistant glioblastoma",
+     "link": "https://news.mit.edu/2026/injectable-nanodevices-could-provide-effective-treatment-drug-resistant-glioblastoma-0909",
+     "pubDate": "Wed, 09 Sep 2026 16:00:00 -0400",
+     "summary": "MIT researchers show implanted nanoantennas can be activated wirelessly to kill brain cancer cells without damage to healthy tissue.",
+     "source": "MIT News",
+     "zh": "Injectable nanodevices could provide effective treatment for drug-resistant glioblastoma"
+    },
+    {
+     "title": "Watch the first-ever footage of a rare deep-sea squid in the northeastern Pacific",
+     "link": "https://www.livescience.com/animals/squids/watch-the-first-ever-footage-of-a-rare-deep-sea-squid-in-the-northeastern-pacific",
+     "pubDate": "Wed, 09 Sep 2026 19:58:56 +0000",
+     "summary": "A rare sighting of a bigfin squid near an underwater mountain off California is the first confirmed live observation of the bizarre animal in the northeastern Pacific, researchers say.",
+     "source": "Live Science",
+     "zh": "Watch the first-ever footage of a rare deep-sea squid in the northeastern Pacific"
+    },
+    {
+     "title": "AI may have solved one of math’s biggest puzzles, raising controversy",
+     "link": "https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai",
+     "pubDate": "Wed, 09 Sep 2026 19:55:57 +0000",
+     "summary": "For decades, researchers wondered if the Navier-Stokes equations, which describe fluid flow, break down. OpenAI put thousands of agents on the question.",
+     "source": "Science News",
+     "zh": "AI may have solved one of math’s biggest puzzles, raising controversy"
+    },
+    {
+     "title": "'Why would you ruin your career?': OpenAI claims to have cracked one of math's greatest unsolved problems, but mathematicians allege it played dirty",
+     "link": "https://www.livescience.com/physics-mathematics/mathematics/why-would-you-ruin-your-career-openai-claims-to-have-cracked-one-of-maths-greatest-unsolved-problems-but-mathematicians-allege-it-played-dirty",
+     "pubDate": "Wed, 09 Sep 2026 19:25:51 +0000",
+     "summary": "A breakthrough on the Navier-Stokes equations could be worth a $1 million prize, but a mathematician has serious questions about how OpenAI got there so fast.",
+     "source": "Live Science",
+     "zh": "'Why would you ruin your career?': OpenAI claims to have cracked one of math's greatest unsolved problems, but mathematicians allege it played dirty"
+    },
     {
      "title": "Record-breaking rain in California was caused by abnormally high temperatures on the other side of the world, study finds",
      "link": "https://www.livescience.com/planet-earth/weather/record-breaking-rain-in-california-was-caused-by-abnormally-high-temperatures-on-the-other-side-of-the-world-study-finds",
@@ -2482,20 +2514,20 @@ window.INDUSTRY_DATA = {
      "zh": "The shingles vaccine may protect the heart"
     },
     {
+     "title": "Google's AI genome system evaluates every possible one-base change",
+     "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+     "pubDate": "Wed, 09 Sep 2026 16:34:18 +0000",
+     "summary": "Most one-base changes to the human genome do nothing, but a few are significant.",
+     "source": "Ars Technica Science",
+     "zh": "Google's AI genome system evaluates every possible one-base change"
+    },
+    {
      "title": "Do you think Al could ever become self-aware?",
      "link": "https://www.livescience.com/technology/artificial-intelligence/do-you-think-al-could-ever-become-self-aware",
      "pubDate": "Wed, 09 Sep 2026 15:28:32 +0000",
      "summary": "A new study looks at \"consciousness steering\" in AI, but could this technology actually achieve this level of self-awareness in the first place?",
      "source": "Live Science",
      "zh": "Do you think Al could ever become self-aware?"
-    },
-    {
-     "title": "Enigmatic Denisovans lived by cave in what is now China for 100,000 years, rare fossils and handcrafted tools reveal",
-     "link": "https://www.livescience.com/archaeology/human-evolution/enigmatic-denisovans-lived-by-cave-in-what-is-now-china-for-100-000-years-rare-fossils-and-handcrafted-tools-reveal",
-     "pubDate": "Wed, 09 Sep 2026 15:00:00 +0000",
-     "summary": "Anthropologists have discovered the first-ever Denisovan arm bone in a cave in southwest China, which also held thousands of prehistoric animal bones and stone tools.",
-     "source": "Live Science",
-     "zh": "Enigmatic Denisovans lived by cave in what is now China for 100,000 years, rare fossils and handcrafted tools reveal"
     },
     {
      "title": "An electrochemical approach turns ammonia into pure hydrogen",
@@ -2522,12 +2554,12 @@ window.INDUSTRY_DATA = {
      "zh": "What Is Math’s Mysterious Langlands Program Really About?"
     },
     {
-     "title": "The moon may have formed in just 5 hours, new simulations suggest",
-     "link": "https://www.livescience.com/space/the-moon/the-moon-may-have-formed-in-just-5-hours-new-simulations-suggest",
-     "pubDate": "Wed, 09 Sep 2026 14:08:25 +0000",
-     "summary": "Novel simulations, which reassessed the ancient collision between Earth and the protoplanet Theia, suggest that the moon could have emerged from the aftermath of this impact much more quickly than scientists previously thought.",
-     "source": "Live Science",
-     "zh": "The moon may have formed in just 5 hours, new simulations suggest"
+     "title": "NOAA is putting commercial fishing ahead of conservation",
+     "link": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
+     "pubDate": "Wed, 09 Sep 2026 13:58:44 +0000",
+     "summary": "Critics say the new agenda could weaken science-based rules and marine protections.",
+     "source": "Ars Technica Science",
+     "zh": "NOAA is putting commercial fishing ahead of conservation"
     },
     {
      "title": "Scientists find a bone-building switch that could fight osteoporosis",
@@ -2642,44 +2674,12 @@ window.INDUSTRY_DATA = {
      "zh": "Study predicts large disparities in access to food, water, and energy in 2050"
     },
     {
-     "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-     "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-     "pubDate": "Sun, 06 Sep 2026 11:55:26 +0000",
-     "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
-     "source": "Ars Technica Science",
-     "zh": "German company becomes first in Europe to launch fully commercial orbital rocket"
-    },
-    {
-     "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
-     "link": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-     "pubDate": "Sun, 06 Sep 2026 10:00:35 +0000",
-     "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
-     "source": "Ars Technica Science",
-     "zh": "Farmed salmon may not be as nutritious as it once was, new research suggests"
-    },
-    {
      "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
      "link": "https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904",
      "pubDate": "Fri, 04 Sep 2026 12:25:00 -0400",
      "summary": "The work is part of a multiyear effort to develop a distributed sensor network for relaying data collected from this critical region.",
      "source": "MIT News",
      "zh": "Researchers tune into Arctic under-ice sounds and test through-ice communication"
-    },
-    {
-     "title": "Was the ‘American cheetah’ a cheetah at all?",
-     "link": "https://www.sciencenews.org/article/american-cheetah-puma-ancient-dna-diet",
-     "pubDate": "Fri, 04 Sep 2026 15:00:00 +0000",
-     "summary": "Ancient DNA confirms Miracinonyx trumani was more closely related to modern pumas than cheetahs and had a more varied diet than previously thought.",
-     "source": "Science News",
-     "zh": "Was the ‘American cheetah’ a cheetah at all?"
-    },
-    {
-     "title": "New method allows scientists to follow gene activity over time in the same cells",
-     "link": "https://news.mit.edu/2026/new-method-allows-following-gene-activity-over-time-same-cells-0904",
-     "pubDate": "Fri, 04 Sep 2026 00:00:00 -0400",
-     "summary": "In the new method, cells package and export their RNA, enabling researchers to sequence and analyze the RNA without killing the cells.",
-     "source": "MIT News",
-     "zh": "New method allows scientists to follow gene activity over time in the same cells"
     }
    ]
   }
