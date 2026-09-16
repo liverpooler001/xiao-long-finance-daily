@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-09-16T05:24:18.598Z",
+  "generatedAt": "2026-09-16T10:06:06.189Z",
   "count": 40,
   "items": [
+    {
+      "title": "This BlackRock strategist opposes a Fed hike. Here are the funds she recommends.",
+      "link": "https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories",
+      "pubDate": "Wed, 16 Sep 2026 09:34:00 GMT",
+      "content": "Gargi Pal Chaudhuri, of BlackRock, recommends investors stay invested in the artificial-intelligence sector but broaden into themes like quality and healthcare.",
+      "source": "FED",
+      "category": "美联储"
+    },
+    {
+      "title": "‘I am drowning in debt’: I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "pubDate": "Wed, 16 Sep 2026 09:15:00 GMT",
+      "content": "“I racked up this debt to cover my living expenses for two years without an income stream.”",
+      "source": "US",
+      "category": "全球综合"
+    },
+    {
+      "title": "What history says about longer-term bond yields after the first Fed hike",
+      "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
+      "pubDate": "Wed, 16 Sep 2026 09:11:00 GMT",
+      "content": "If the Federal Reserve hikes interest rates in an effort to slow down the rapid rise in longer-term yields, history shows it probably won’t be a success.",
+      "source": "FED",
+      "category": "美联储"
+    },
+    {
+      "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
+      "link": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
+      "pubDate": "Wed, 16 Sep 2026 08:26:00 GMT",
+      "content": "A product conference at software giant Salesforce turned into the battleground on the new debate on whether there should be a slowdown in artificial intelligence.",
+      "source": "US",
+      "category": "全球综合"
+    },
     {
       "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
       "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
@@ -47,38 +79,6 @@
       "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
       "pubDate": "Tue, 15 Sep 2026 21:15:00 GMT",
       "content": "Customers are signing multiyear deals for chips and more: “That’s not what the front end of a downturn looks like.”",
-      "source": "US",
-      "category": "半导体"
-    },
-    {
-      "title": "Inflation killed the penny. Now it’s coming for your dollar.",
-      "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
-      "pubDate": "Tue, 15 Sep 2026 21:00:00 GMT",
-      "content": "Congress congratulated itself for solving the penny problem, but what about the source of the problem — inflation?",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
-      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-      "pubDate": "Tue, 15 Sep 2026 20:47:00 GMT",
-      "content": "There may be better savings yields, but beware rising credit-card rates",
-      "source": "FED",
-      "category": "美联储"
-    },
-    {
-      "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
-      "link": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
-      "pubDate": "Tue, 15 Sep 2026 20:36:00 GMT",
-      "content": "With diesel prices hitting a record $6.27 a gallon, Washington is talking about a maneuver that could ultimately make matters worse.",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
-      "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
-      "pubDate": "Tue, 15 Sep 2026 20:31:00 GMT",
-      "content": "Chip stocks linked to OpenAI rebounded a bit on Tuesday, but Oracle shares extended their losses.",
       "source": "US",
       "category": "半导体"
     },
