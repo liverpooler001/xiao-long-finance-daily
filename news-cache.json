@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-09-19T06:46:48.702Z",
+  "generatedAt": "2026-09-19T11:40:33.157Z",
   "count": 40,
   "items": [
+    {
+      "title": "Stocks face a growing list of threats — so why are investors staying so calm?",
+      "link": "https://www.marketwatch.com/story/stocks-face-a-growing-list-of-threats-so-why-are-investors-staying-so-calm-a6acd7e5?mod=mw_rss_topstories",
+      "pubDate": "Sat, 19 Sep 2026 11:30:00 GMT",
+      "content": "Investors are well aware of the risks, but they have simply decided none are significant enough to force them out of the market.",
+      "source": "US",
+      "category": "美股市场"
+    },
+    {
+      "title": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
+      "link": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories",
+      "pubDate": "Sat, 19 Sep 2026 11:00:00 GMT",
+      "content": "Tech giants are attempting to unite on AI safety, but they’re clashing over how an actual slowdown would work",
+      "source": "US",
+      "category": "全球综合"
+    },
     {
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
@@ -63,22 +79,6 @@
       "link": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
       "pubDate": "Fri, 18 Sep 2026 20:15:00 GMT",
       "content": "As AI hysteria reaches a fever pitch, it’s time to look at the evidence.",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "pubDate": "Fri, 18 Sep 2026 20:01:00 GMT",
-      "content": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
-      "source": "FED",
-      "category": "美联储"
-    },
-    {
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "pubDate": "Fri, 18 Sep 2026 19:30:00 GMT",
-      "content": "“I racked up this debt to cover my living expenses for two years without an income stream.”",
       "source": "US",
       "category": "全球综合"
     },
