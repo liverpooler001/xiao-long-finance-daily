@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/19 01:48:29",
+ "generated_at": "2026/10/19 03:48:06",
  "recent_days": 7,
  "industries": [
   {
@@ -9,10 +9,18 @@
    "total": 16,
    "items": [
     {
+     "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+     "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+     "pubDate": "Sun, 18 Oct 2026 18:20:28 +0000",
+     "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyF",
+     "source": "MarkTechPost",
+     "zh": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web"
+    },
+    {
      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
      "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
-     "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to ",
+     "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
      "source": "TechCrunch AI",
      "zh": "Disney agrees to hire the majority of Character.AI’s workforce"
     },
@@ -159,14 +167,6 @@
      "summary": "DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement",
      "source": "MarkTechPost",
      "zh": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API"
-    },
-    {
-     "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
-     "link": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
-     "pubDate": "Sat, 17 Oct 2026 07:26:39 +0000",
-     "summary": "TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS’s Strand",
-     "source": "MarkTechPost",
-     "zh": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026"
     },
     {
      "title": "李飞飞看了要点赞：15分钟，一台相机，把真实世界搬进了AI",
@@ -660,7 +660,7 @@
      "title": "PGE gets it: electric semi trucks provide HEAVY DUTY backup for the grid [video]",
      "link": "https://electrek.co/2026/10/18/pge-gets-it-electric-semi-trucks-provide-heavy-duty-backup-for-the-grid-video/",
      "pubDate": "Sun, 18 Oct 2026 15:17:46 +0000",
-     "summary": "Oregon utility Pacific General Electric (“PGE”) is highlighting the environmental, health, and grid benefits to electrifying medium- and heavy-duty commercial trucks, calling the battery-backed big rigs “batteries on wheels.” more…",
+     "summary": "Oregon utility Portland General Electric (“PGE”) is highlighting the environmental, health, and grid benefits to electrifying medium- and heavy-duty commercial trucks, calling the battery-backed big rigs “batteries on wheels.” more…",
      "source": "Electrek",
      "zh": "PGE gets it: electric semi trucks provide HEAVY DUTY backup for the grid [video]"
     },
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
+     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Nuclear-Power-Shortcut-That-Could-Add-Gigawatts-to-the-US-Grid.html",
+     "pubDate": "Sun, 18 Oct 2026 14:00:00 -0500",
+     "summary": "The process of increasing the maximum power level at which a commercial nuclear power plant may operate is called a power uprate. Several nuclear plants are now considering applying for permission to uprate operations to produce more power in the mid-term to bridge the gap while more nuclear capacit",
+     "source": "OilPrice",
+     "zh": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid"
+    },
+    {
      "title": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
      "link": "https://oilprice.com/Geopolitics/Middle-East/Iran-Faces-Rising-Threat-From-Within-as-Baluch-Insurgency-Escalates.html",
      "pubDate": "Sun, 18 Oct 2026 12:00:00 -0500",
@@ -935,14 +943,6 @@
      "summary": "The artificial intelligence boom is placing a dangerous strain on the world’s water and energy resources. As hyperscalers build up resource-hungry data centers at a breakneck pace, demand projections for these finite resources are skyrocketing faster than policymakers can keep pace. But a new study ",
      "source": "OilPrice",
      "zh": "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers"
-    },
-    {
-     "title": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
-     "link": "https://oilprice.com/Energy/Energy-General/Europe-Braces-for-a-Winter-Energy-Crisis-as-Gas-Reserves-Run-Low.html",
-     "pubDate": "Sat, 17 Oct 2026 12:00:00 -0500",
-     "summary": "After months of elevated energy prices, Europe can expect fuel costs to continue rising through the winter months as demand grows. Ongoing energy trade constraints and threats to energy infrastructure across the Middle East are expected to limit global energy supplies and continue to drive up prices",
-     "source": "OilPrice",
-     "zh": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low"
     },
     {
      "title": "Qcells to introduce U.S. domestic frames for residential solar panel lineup",
@@ -1097,6 +1097,22 @@
    "total": 7,
    "items": [
     {
+     "title": "StockWatch: Liquidia Rebounds After Settling Legal Wrangle with United Therapeutics",
+     "link": "https://www.genengnews.com/topics/drug-discovery/stockwatch-liquidia-rebounds-after-settling-legal-wrangle-with-united-therapeutics/",
+     "pubDate": "Sun, 18 Oct 2026 18:33:31 +0000",
+     "summary": "Two weeks after its stock lost more than half its value following a setback in a seven-year legal wrangle, Liquidia shares finally began bouncing back thanks to a settlement with United Therapeutics that drew mixed conclusions from four analysts about which company won out long-term. The post StockW",
+     "source": "GEN",
+     "zh": "StockWatch: Liquidia Rebounds After Settling Legal Wrangle with United Therapeutics"
+    },
+    {
+     "title": "Diasome’s HDV-Insulin for T1D Finalizing Phase III Plans After Promising Data",
+     "link": "https://www.genengnews.com/topics/translational-medicine/diasomes-hdv-insulin-for-t1d-finalizing-phase-iii-plans-after-promising-data/",
+     "pubDate": "Sun, 18 Oct 2026 17:47:57 +0000",
+     "summary": "HDV is intended to address the difficulty of insulin, GLP-1, or other molecules traveling to the liver when injected subcutaneously, due to the large number of receptors in peripheral tissue such as fat cells and muscle cells. The post Diasome’s HDV-Insulin for T1D Finalizing Phase III Plans After P",
+     "source": "GEN",
+     "zh": "Diasome’s HDV-Insulin for T1D Finalizing Phase III Plans After Promising Data"
+    },
+    {
      "title": "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more",
      "link": "https://endpoints.news/a-search-for-the-statin-of-alzheimers-arrowhead-injectable-lowers-tau-and-more/",
      "pubDate": "Sat, 17 Oct 2026 10:00:16 +0000",
@@ -1143,14 +1159,6 @@
      "summary": "A study in human breast organoids has found that exposure to some common endocrine-disrupting chemicals may lead to molecular changes in breast tissue that could influence susceptibility to breast cancer later in life. The post Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breas",
      "source": "GEN",
      "zh": "Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breast Development"
-    },
-    {
-     "title": "ASHG 2026 Awards Honor Achievements in Research, Education, and More",
-     "link": "https://www.genengnews.com/topics/omics/ashg-2026-awards-honor-achievements-in-research-education-and-more/",
-     "pubDate": "Fri, 16 Oct 2026 16:27:48 +0000",
-     "summary": "ASHG will honor seven recipients with its 2026 Professional Awards, recognizing outstanding contributions to human genetics and genomics research, education, mentorship, and public service at ceremonies this week. The post ASHG 2026 Awards Honor Achievements in Research, Education, and More appeared",
-     "source": "GEN",
-     "zh": "ASHG 2026 Awards Honor Achievements in Research, Education, and More"
     },
     {
      "title": "Iambic CEO on taking an AI drug company public",
@@ -1265,14 +1273,6 @@
      "zh": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy"
     },
     {
-     "title": "Proteomics Reveals Ovarian Remodeling Decades After Menopause",
-     "link": "https://www.genengnews.com/topics/omics/proteomics-reveals-ovarian-remodeling-decades-after-menopause/",
-     "pubDate": "Thu, 15 Oct 2026 22:16:35 +0000",
-     "summary": "5,812 protein groups were quantified in postmenopausal ovaries, uncovering molecular shifts associated with inflammation, immunity, and extracellular matrix remodeling. The post Proteomics Reveals Ovarian Remodeling Decades After Menopause appeared first on GEN - Genetic Engineering and Biotechnolog",
-     "source": "GEN",
-     "zh": "Proteomics Reveals Ovarian Remodeling Decades After Menopause"
-    },
-    {
      "title": "Belgian startup revives Galapagos CAR-T research",
      "link": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
      "pubDate": "Thu, 15 Oct 2026 11:55:00 -0400",
@@ -1296,6 +1296,14 @@
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Returning samples from a Mars moon: Inside the science of Japan's bold MMX mission",
+     "link": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission",
+     "pubDate": "Sun, 18 Oct 2026 19:20:03 +0000",
+     "summary": "Japan's mission to Mars' moons could answer a decades old question dividing the origins of Phobos and Deimos between two conflicting theories, and make history as the first spacecraft to return to Earth from orbit of the Red Planet.",
+     "source": "Space.com",
+     "zh": "Returning samples from a Mars moon: Inside the science of Japan's bold MMX mission"
+    },
     {
      "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
      "link": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
@@ -1359,14 +1367,6 @@
      "summary": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
      "source": "NASA",
      "zh": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars"
-    },
-    {
-     "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
-     "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
-     "pubDate": "Sat, 17 Oct 2026 14:49:01 +0000",
-     "summary": "On Oct. 17, 2016, the Antares rocket now built by Northrop Grumman Space Systems returned to flight to come back from a catastrophic explosion. Here's why it mattered.",
-     "source": "Space.com",
-     "zh": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion"
     },
     {
      "title": "APOD: 2026 October 17 – 3D 67P",
@@ -1761,20 +1761,28 @@
    "total": 18,
    "items": [
     {
-     "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
-     "link": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
-     "pubDate": "Sun, 18 Oct 2026 17:27:30 +0000",
-     "summary": "Article URL: https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/ Comments URL: https://news.ycombinator.com/item?id=50143218 Points: 13 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled"
+     "title": "Anthropic says it&apos;s committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)",
+     "link": "https://www.techmeme.com/261018/p10#a261018p10",
+     "pubDate": "Sun, 18 Oct 2026 15:10:00 -0400",
+     "summary": "Anthropic : Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise &nbsp; &mdash;&nbsp; Today, we're committing a portion of Anthropic's shares to the Anthropic Public Benefit Fund, a new entity ",
+     "source": "Techmeme",
+     "zh": "Anthropic says it&apos;s committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)"
     },
     {
-     "title": "Someone Behind the Software",
-     "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-     "pubDate": "Sun, 18 Oct 2026 16:32:00 +0000",
-     "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 32 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "Someone Behind the Software"
+     "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+     "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+     "pubDate": "Sun, 18 Oct 2026 19:03:38 +0000",
+     "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+     "source": "TechCrunch",
+     "zh": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’"
+    },
+    {
+     "title": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&apos;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
+     "link": "https://www.techmeme.com/261018/p9#a261018p9",
+     "pubDate": "Sun, 18 Oct 2026 14:10:01 -0400",
+     "summary": "Kyu-Seok Shim / Reuters : Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC &nbsp; &mdash;&nbsp; Samsung Electronics (005930.KS) will use TSMC's (2330.TW) 3-nanometre process to produce base ",
+     "source": "Techmeme",
+     "zh": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&apos;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)"
     },
     {
      "title": "Anthropic gives outside AI watchdog “employee-like” access",
@@ -1791,14 +1799,6 @@
      "summary": "本文来自微信公众号： 乐鉴笔记 ，作者：乐鉴 你窝在沙发里，打开手机找部片子看。首页推了几十个分类，每个分类下面十几部推荐。你划了二十分钟，越划越焦虑——不是没有想看的，是每部看起来都还行，但没有一部让你觉得\"就是它了\"。 最后你关掉APP，刷了半小时短视频。 同样的逻辑，换一个场景。周五晚上，你打开电脑准备规划周末。想学的那门课收藏夹里躺了三周，朋友推荐的书第一章还没翻完，跑步计划从上周就该启动了，那个项目方案拖了快一个月。你看着这些待办，觉得每一个都重要，每一个都不想放弃。于是你开始排优先级——排了半小时，发现它们好像都差不多重要。 你试着先做一个。刚打开课程视频，脑子里就冒出一个声音：这",
      "source": "虎嗅",
      "zh": "保留所有可能性，是行动力最贵的死法"
-    },
-    {
-     "title": "The Intel 8087 chip: floating-point addition and subtraction",
-     "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-     "pubDate": "Sun, 18 Oct 2026 16:20:27 +0000",
-     "summary": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 27 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "The Intel 8087 chip: floating-point addition and subtraction"
     },
     {
      "title": "向西跋涉：中国汽车的欧洲十六年",
@@ -1849,14 +1849,6 @@
      "zh": "Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales (Mark Gurman/Bloomberg)"
     },
     {
-     "title": "macOS 15.8.2 Breaks OpenGL",
-     "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
-     "pubDate": "Sun, 18 Oct 2026 15:26:06 +0000",
-     "summary": "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 174 # Comments: 136",
-     "source": "Hacker News",
-     "zh": "macOS 15.8.2 Breaks OpenGL"
-    },
-    {
      "title": "两部门：鼓励利用电影院空闲时段开展重大体育赛事直播",
      "link": "https://www.ithome.com/1/014/616.htm",
      "pubDate": "Sun, 18 Oct 2026 15:25:31 GMT",
@@ -1895,22 +1887,6 @@
      "summary": "IT之家 10 月 18 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中透露，苹果明知 iPhone Duo 折叠屏手机面临严重的供应短缺， 却仍然决定本周五开启预购 ，而不是等到备货更加充足时再启动预购。 古尔曼表示： 我就直说了： 苹果这次犯了一个重大错误 。他们明明知道供应严重受限，却坚持按计划推出 iPhone Duo。比起满足市场需求，苹果更希望在第一财季初期让这款设备上市。 这将让许多希望首批购买的用户感到失望 。 IT之家注意到，古尔曼还透露，苹果最初仅计划在美国和中国推出 iPhone Duo，然后再扩展至其他国家或地区。但最终，苹果选择在全球 70 多",
      "source": "IT之家",
      "zh": "古尔曼：苹果明知 iPhone Duo 折叠屏手机供应不足，却坚持周五启动预售"
-    },
-    {
-     "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-     "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-     "pubDate": "Sun, 18 Oct 2026 15:00:40 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 76 # Comments: 91",
-     "source": "Hacker News",
-     "zh": "Will it be a golden age or a dark age for mathematics (and science)?"
-    },
-    {
-     "title": "Websites are closing their doors to AI agents",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-     "pubDate": "Sun, 18 Oct 2026 14:58:10 +0000",
-     "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 109 # Comments: 88",
-     "source": "Hacker News",
-     "zh": "Websites are closing their doors to AI agents"
     },
     {
      "title": "三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片",
@@ -1999,6 +1975,30 @@
      "summary": "Giovanni Colantonio / Polygon : An interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more &nbsp; &mdash;&nbsp; Back when Apple Arcade launched in 2019, there was a resounding belief among gamers that ",
      "source": "Techmeme",
      "zh": "An interview with Apple&apos;s new VP of the App Store, Carson Oliver, on Apple&apos;s gaming vision, Apple Arcade, providing tools for indie game developers, and more (Giovanni Colantonio/Polygon)"
+    },
+    {
+     "title": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
+     "link": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
+     "pubDate": "Sun, 18 Oct 2026 11:01:00 +0000",
+     "summary": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
+     "source": "WIRED",
+     "zh": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)"
+    },
+    {
+     "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+     "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+     "pubDate": "Sun, 18 Oct 2026 10:30:00 +0000",
+     "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+     "source": "WIRED",
+     "zh": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty"
+    },
+    {
+     "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+     "link": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+     "pubDate": "Sun, 18 Oct 2026 10:30:00 +0000",
+     "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+     "source": "WIRED",
+     "zh": "Data Centers Have a New PR Plan: Your Kid’s Field Trip"
     }
    ]
   },
@@ -2008,6 +2008,46 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "What is the star button for on your Roku remote?",
+     "link": "https://www.engadget.com/2286582/roku-remote-star-button-what-for/",
+     "pubDate": "Sun, 18 Oct 2026 18:45:00 +0000",
+     "summary": "While the Roku remote doesn't have confusing colors or weird symbols, the star button can confuse some folks at first.",
+     "source": "Engadget",
+     "zh": "What is the star button for on your Roku remote?"
+    },
+    {
+     "title": "Here's how the Slate truck gets software updates without built-in infotainment",
+     "link": "https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates/",
+     "pubDate": "Sun, 18 Oct 2026 18:30:00 +0000",
+     "summary": "Basically, it's on you.",
+     "source": "Engadget",
+     "zh": "Here's how the Slate truck gets software updates without built-in infotainment"
+    },
+    {
+     "title": "OnePlus 16 is official with 9,000mAh battery, Week 42 in review",
+     "link": "https://www.gsmarena.com/oneplus_16_is_official_with_9000mah_battery_week_42_in_review-news-75092.php",
+     "pubDate": "Sun, 18 Oct 2026 20:09:02 +0200",
+     "summary": "The OnePlus 16 is official, with a mammoth 9,000mAh battery. The power plant supports 100W wired and 50W wireless charging. Elsewhere on the phone, there's the latest Snapdragon 8 Elite Extreme Gen 6 (still can't cope with this name), a 6.78-inch LTPO OLED display that can go up to 185Hz in select g",
+     "source": "GSMArena",
+     "zh": "OnePlus 16 is official with 9,000mAh battery, Week 42 in review"
+    },
+    {
+     "title": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+     "link": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
+     "pubDate": "Sun, 18 Oct 2026 18:00:00 +0000",
+     "summary": "Apple's iPhone Duo likely forecasts a shift in the market toward foldables becoming more common. But it took a while to get here.",
+     "source": "Engadget",
+     "zh": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved"
+    },
+    {
+     "title": "Apple Watch Series 12 is excellent, but I find myself missing this one software feature",
+     "link": "https://9to5mac.com/2026/10/18/apple-redesigned-health-app-one-suggestion-series-12/",
+     "pubDate": "Sun, 18 Oct 2026 17:56:43 +0000",
+     "summary": "Apple Watch Series 12 has been a marvel of an upgrade, at least for me. I’ve written about it WHOOP. That said, in my past month testing it, there’s one WHOOP feature I’ve found myself missing. more…",
+     "source": "9to5Mac",
+     "zh": "Apple Watch Series 12 is excellent, but I find myself missing this one software feature"
+    },
     {
      "title": "Should you limit your FPS in games? Here's when it makes sense",
      "link": "https://www.engadget.com/2286478/limit-frames-per-second-gaming-when-makes-sense/",
@@ -2033,36 +2073,12 @@
      "zh": "How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8"
     },
     {
-     "title": "Flat Ethernet cables probably aren't the answer to your home networking problem",
-     "link": "https://www.engadget.com/2286349/flat-ethernet-cable-not-answer-home-networking-issues/",
-     "pubDate": "Sun, 18 Oct 2026 15:45:00 +0000",
-     "summary": "For the most reliable performance, round Ethernet cables are generally superior.",
-     "source": "Engadget",
-     "zh": "Flat Ethernet cables probably aren't the answer to your home networking problem"
-    },
-    {
-     "title": "The reason why your drive shows less storage than you paid for",
-     "link": "https://www.engadget.com/2286322/why-new-drive-shows-less-storage/",
-     "pubDate": "Sun, 18 Oct 2026 15:15:00 +0000",
-     "summary": "Despite showing the storage amount on the box or the spec sheet, your new device might not actually hold as much as it states. Here are the reasons why.",
-     "source": "Engadget",
-     "zh": "The reason why your drive shows less storage than you paid for"
-    },
-    {
      "title": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect",
      "link": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/",
      "pubDate": "Sun, 18 Oct 2026 14:48:53 +0000",
      "summary": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be releasing its first touchscreen MacBook as early as November 6th, after announcing it as early as October 27th . more…",
      "source": "9to5Mac",
      "zh": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect"
-    },
-    {
-     "title": "iOS 27's new CarPlay features are great, but only these iPhones can actually use them",
-     "link": "https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones/",
-     "pubDate": "Sun, 18 Oct 2026 14:45:00 +0000",
-     "summary": "With the release of iOS 27, car owners with CarPlay support can enjoy lots of cool new features. However, not all iPhone models are able to support them all.",
-     "source": "Engadget",
-     "zh": "iOS 27's new CarPlay features are great, but only these iPhones can actually use them"
     },
     {
      "title": "Apple iPhone 18 Pro vs. iPhone 17 Pro",
@@ -2177,14 +2193,6 @@
      "zh": "vivo V80 in for review"
     },
     {
-     "title": "Deals: latest Galaxy foldables and Galaxy S26 series are on sale",
-     "link": "https://www.gsmarena.com/deals_the_galaxy_z8_and_galaxy_s26_models_are_on_sale-news-75085.php",
-     "pubDate": "Sun, 18 Oct 2026 01:24:02 +0200",
-     "summary": "Last week, we covered Amazon’s Prime Big Deal Days and then the aftermath – some phones kept their promotional prices from the Prime sale even during the weekend, while others went back up. Checking back again on them this week, we see that all phones now cost more. That is on Amazon, anyway, so we ",
-     "source": "GSMArena",
-     "zh": "Deals: latest Galaxy foldables and Galaxy S26 series are on sale"
-    },
-    {
      "title": "iPhone Duo walk-in purchases might be challenging at launch, per report",
      "link": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/",
      "pubDate": "Sat, 17 Oct 2026 22:21:41 +0000",
@@ -2207,14 +2215,6 @@
      "summary": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. more…",
      "source": "9to5Mac",
      "zh": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling"
-    },
-    {
-     "title": "EE announces iPhone Handoff pricing details for UK customers",
-     "link": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
-     "pubDate": "Sat, 17 Oct 2026 15:54:02 +0000",
-     "summary": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "EE announces iPhone Handoff pricing details for UK customers"
     },
     {
      "title": "Walmart’s $60 Google TV streamer might be the only good deal left in streaming",
@@ -2257,60 +2257,156 @@
    "total": 13,
    "items": [
     {
+     "title": "Bessent warns Zelenskyy to &apos;be very careful&apos; about claims U.S. is throttling Starlink",
+     "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+     "pubDate": "Sun, 18 Oct 2026 19:37:28 GMT",
+     "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
+     "source": "CNBC",
+     "zh": "Bessent warns Zelenskyy to &apos;be very careful&apos; about claims U.S. is throttling Starlink"
+    },
+    {
+     "title": "黑山总理斯帕伊奇会见王毅",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899224240.html",
+     "pubDate": "Mon, 19 Oct 2026 03:36:02 +0800",
+     "summary": "18日， 黑山 总理斯帕伊奇在波德戈里察会见中共中央政治局委员、外交部长王毅。 斯帕伊奇请王毅转达对中国领导人的诚挚问候，表示今年6月赴华参会得到中方热情接待，今天中国外长来访，都体现了中方对黑中关系的重视。黑中两国有着共同的历史记忆和传统友谊，第二次世界大战期间都曾抵抗法西斯和外来侵略。黑方高度重视中国的大国地位和影响，赞赏中国在中东战事中以负责任态度抑制全球油价上涨，帮助 黑山 等中小国家渡过能源危机，体现了大国责任与担当。 斯帕伊奇说，近年来， 黑山 经济社会实现良好发展，中国企业帮助黑山成功完成南北 高速公路 的建设。双方正在合作修复塔拉河大桥，这是一项具有重要历史意义的工程，拉近了两",
+     "source": "东方财富股票",
+     "zh": "黑山总理斯帕伊奇会见王毅"
+    },
+    {
+     "title": "Google cuts quantum errors 40-fold in step toward practical use",
+     "link": "https://seekingalpha.com/news/4654077-google-cuts-quantum-errors-40-fold-in-step-toward-practical-use?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 18 Oct 2026 15:33:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Google cuts quantum errors 40-fold in step toward practical use"
+    },
+    {
+     "title": "SA Asks: Should Tesla merge with SpaceX?",
+     "link": "https://seekingalpha.com/news/4654076-sa-asks-should-tesla-merge-with-spacex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 18 Oct 2026 15:25:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: Should Tesla merge with SpaceX?"
+    },
+    {
+     "title": "肯尼亚新增一例埃博拉确诊病例",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899224115.html",
+     "pubDate": "Mon, 19 Oct 2026 03:16:27 +0800",
+     "summary": "当地时间10月18日晚，肯尼亚卫生部卫生服务总局局长帕特里克·阿莫斯表示，肯尼亚当天对38人进行了埃博拉病毒检测，其中1人检测结果呈阳性。 阿莫斯说，这名确诊患者为一名49岁男性，非医务人员，出现发热、头痛和肌肉疼痛等症状。目前，肯尼亚埃博拉确诊病例累计升至8例，其中1人死亡。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "肯尼亚新增一例埃博拉确诊病例"
+    },
+    {
+     "title": "泽连斯基与美特使通话 讨论外交解决乌克兰危机",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899224026.html",
+     "pubDate": "Mon, 19 Oct 2026 02:56:17 +0800",
+     "summary": "乌克兰总统泽连斯基18日在社交媒体发文称，当天，他与美国总统特朗普的特使威特科夫和女婿库什纳通话，讨论通过外交解决乌克兰危机。 泽连斯基称，双方就此前在美国佛罗里达州会晤情况和接下来准备采取的外交举措进行讨论。美方立场对乌防空影响重大。乌方愿与美方进行建设性、坦诚合作，并推动通过外交努力取得切实成果。 9日，美国、乌克兰和欧洲的代表在佛罗里达州迈阿密举行会晤。威特科夫当天在社交媒体发文说，会晤议题涵盖能源和粮食、安全保障等问题。与会各方重申继续共同致力于通过外交努力实现持久和平。 同时，特朗普政府9日宣布放松对俄柴油贸易制裁，并称已与俄方达成由俄向美及全球市场提供柴油的协议。特朗普还指责乌克兰",
+     "source": "东方财富股票",
+     "zh": "泽连斯基与美特使通话 讨论外交解决乌克兰危机"
+    },
+    {
+     "title": "Anthropic plans to set aside 5% of shares for public benefit fund before IPO",
+     "link": "https://seekingalpha.com/news/4654075-anthropic-plans-to-set-aside-5-of-shares-for-public-benefit-fund-before-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 18 Oct 2026 14:49:41 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic plans to set aside 5% of shares for public benefit fund before IPO"
+    },
+    {
+     "title": "法国总统谴责该国多地发生的暴力事件",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899223933.html",
+     "pubDate": "Mon, 19 Oct 2026 02:36:14 +0800",
+     "summary": "当地时间10月18日，法国总统马克龙发表电视讲话时，谴责17日法国多地发生的暴力事件。他强调，任何理由都不能为这些行为开脱。 此外，马克龙在讲话中称，法国总理勒科尔尼将于19日主持危机应对会议，协调尽快提供援助，帮助受影响的商户及民众。 当地时间17日，法国首都巴黎及多个城市爆发示威游行，抗议生活成本高涨，部分地区发生暴力冲突。法国内政部长努内兹17日晚表示，当天法国全国抗议人数达55万，其中巴黎有11万。另据法国总工会称，当天法国抗议总人数达80万。据悉，法国总理勒科尔尼表示，17日全国有约1200人在抗议活动中被捕，150名警察受伤。 据了解，这次抗议正值法国政府推进2027年财政预算案之",
+     "source": "东方财富股票",
+     "zh": "法国总统谴责该国多地发生的暴力事件"
+    },
+    {
+     "title": "‘Street Fighter’ hits $31M in box office debut as moviegoing jumps 48%",
+     "link": "https://seekingalpha.com/news/4654074-street-fighter-hits-31m-in-box-office-debut-as-moviegoing-jumps-48?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 18 Oct 2026 14:35:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "‘Street Fighter’ hits $31M in box office debut as moviegoing jumps 48%"
+    },
+    {
+     "title": "胡塞武装称沙特24小时内发动110次袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899223735.html",
+     "pubDate": "Mon, 19 Oct 2026 02:30:51 +0800",
+     "summary": "也门胡塞武装发布声明，称过去24小时内沙特向也门首都萨那以及荷台达、塔伊兹、阿姆兰、哈杰、萨达、焦夫、达利阿和马里卜等省份，发动了110次空袭及导弹袭击，造成30多人死伤，其中大多数是妇女和儿童。自本轮局势升级以来，沙特针对也门的空袭及导弹袭击总数已达2652次。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "胡塞武装称沙特24小时内发动110次袭击"
+    },
+    {
+     "title": "St Petersburg endures biggest Ukrainian drone attack",
+     "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
+     "pubDate": "Sun, 18 Oct 2026 18:30:14 GMT",
+     "summary": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
+     "source": "Financial Times",
+     "zh": "St Petersburg endures biggest Ukrainian drone attack"
+    },
+    {
+     "title": "公 示",
+     "link": "http://www.eeo.com.cn/2026/1019/1069408.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:19 +0800",
+     "summary": "根据《新闻记者证管理办法》等相关规定，经我单位审核，现将拟申领新闻记者证人员名单予以公示，公示期2026年10月19日——2026年10月30日。 拟申领新闻记者证人员名单： 公示平台：证券日报网（网址：www.zqrb.cn） 监督举报电话： 《证券日...",
+     "source": "经济观察网",
+     "zh": "公 示"
+    },
+    {
+     "title": "前三季度全国铁路累计发送旅客37.1亿人次",
+     "link": "http://www.eeo.com.cn/2026/1019/1069407.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:13 +0800",
+     "summary": "《证券日报》记者10月18日从中国国家铁路集团有限公司（以下简称“国铁集团”）获悉，今年前三季度，国铁集团持续深化运输供给侧结构性改革，加强旅客运输组织，丰富客运产品供给，提升站车服务品质，全国铁路累计发送旅客37.1亿人次、同比增长4.8%，创历史同期新高，有力保障了旅客平安便捷温馨出行，为“流动的中国”注入了新活力。 具体来看，一方面，旅客运输能力持续提升。国铁集团统筹高速铁路和普速铁路资源，用好...",
+     "source": "经济观察网",
+     "zh": "前三季度全国铁路累计发送旅客37.1亿人次"
+    },
+    {
+     "title": "推动人工智能从能用到好用",
+     "link": "http://www.eeo.com.cn/2026/1019/1069406.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:13 +0800",
+     "summary": "■谢若琳 10月16日召开的国务院常务会议（以下简称“国常会”）提出，人工智能是影响未来发展的关键变量，要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发，注重以落地应用牵引技术创新，不断深化拓展“人工智能+”行动。 此前，6月29日召开的国常会曾提出，要深入实施“人工智能+”行动，发挥我国产业体系完备、应用场景丰富等优势，促进智能产品和服务加快规模化商业应用。 4个月内，两次国常...",
+     "source": "经济观察网",
+     "zh": "推动人工智能从能用到好用"
+    },
+    {
+     "title": "银行卡清算市场开放稳步推进",
+     "link": "http://www.eeo.com.cn/2026/1019/1069405.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:09 +0800",
+     "summary": "■刘琪 日前，中国人民银行公示，批准威士信息技术（北京）有限公司（以下简称“威士公司”）筹备银行卡清算机构。威士公司是维萨公司（Visa）在我国境内成立的企业法人，为外商独资企业。这意味着，Visa将成为继美国运通、万事达卡之后，第三家获准进入我国境内银行卡清算市场的国际卡组织。 所谓银行卡清算机构，是指在我国境内依法取得银行卡清算业务许可证，专门从事银行卡清算业务的企业法人。银行卡清算业务...",
+     "source": "经济观察网",
+     "zh": "银行卡清算市场开放稳步推进"
+    },
+    {
+     "title": "影院变身赛事“第二现场” “跟着电影去运动”解锁消费新场景",
+     "link": "http://www.eeo.com.cn/2026/1019/1069404.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:09 +0800",
+     "summary": "近日，国家电影局、国家体育总局联合印发《关于开展“跟着电影去运动”行动 推动电影与体育双向赋能的通知》（以下简称《通知》）。 在主要任务方面，《通知》提出，立足电影和体育各自产业特点、行业优势，推动电影与体育跨界合作，促进资源共享、优势互补，繁荣发展电影文化、体育文化，强化消费联动，创新服务供给，激发广大人民群众参与电影欣赏、体育运动的热情，丰富精神世界、促进身体健康、享受品质生活，不断满...",
+     "source": "经济观察网",
+     "zh": "影院变身赛事“第二现场” “跟着电影去运动”解锁消费新场景"
+    },
+    {
+     "title": "不能跳过“卖者尽责”谈“买者自负”",
+     "link": "http://www.eeo.com.cn/2026/1019/1069403.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:09 +0800",
+     "summary": "■孟珂 近日，最高人民法院、中国人民银行、国家金融监督管理总局、中国证券监督管理委员会联合发布六起金融消费者、投资者合法权益保护典型案例。其中一起私募基金纠纷案，再次为市场敲响警钟：金融机构必须恪守“卖者尽责”，严格落实适当性义务，一旦履职不到位，就要承担相应赔偿责任。 具体来看，该私募基金纠纷案要从2015年说起，彼时，某证券营业部负责人向杨某某等投资者推介兜售一款私募基金，对外宣称该...",
+     "source": "经济观察网",
+     "zh": "不能跳过“卖者尽责”谈“买者自负”"
+    },
+    {
+     "title": "Anthropic计划将部分股份转入新型“公共利益”基金",
+     "link": "http://finance.eastmoney.com/news/1354,202610193899223681.html",
+     "pubDate": "Mon, 19 Oct 2026 02:10:16 +0800",
+     "summary": "人工智能 企业Anthropic宣布，计划将自身5%的股份注入一只新设立的基金，该公司表示，这一安排将支持其开展面向“公共利益”的捐赠，相关用途包括缓解 人工智能 对就业市场造成的冲击。该公司在周日发布的声明中表示：“经股东批准后，Anthropic将即刻划转5%的股份进入该基金；当公司估值较设定的基准线每上涨50%，董事会可自主决定再追加注入2%的股份。”声明提到，这只基金将支持公司以全新方式践行自身使命，比如动用部分资金专门应对“AI对劳动力市场造成的影响”。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "Anthropic计划将部分股份转入新型“公共利益”基金"
+    },
+    {
      "title": "Wall Street sees warning signs of an AI bubble, but valuations tell different story",
      "link": "https://seekingalpha.com/news/4654072-wall-street-sees-warning-signs-of-an-ai-bubble-but-valuations-tell-different-story?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 18 Oct 2026 13:40:46 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Wall Street sees warning signs of an AI bubble, but valuations tell different story"
-    },
-    {
-     "title": "从“打卡中国”到“体验中国”：入境游持续升温 体验需求催生供给之变",
-     "link": "http://finance.eastmoney.com/news/1355,202610193899218064.html",
-     "pubDate": "Mon, 19 Oct 2026 01:34:26 +0800",
-     "summary": "秋日午后，北京钟楼北广场上，一队外国旅行团沉浸于观赏民间艺人带来的二胡、花鼓表演，还观摩了八段锦、健身龙展示。一个多小时的活动里，二胡余音绕梁、健身龙行云流水，引得观众不时鼓掌。 多米尼克青年诺亚的目光紧紧追随着广场上舞动健身龙的老师傅，时不时拿出手机，记录民俗表演的精彩片段。“这就是旅行的意义，感受不同的风土人情、不同的文化。”诺亚对证券时报记者说。 近两年来，随着海外社交平台“China Travel（中国游）”热度持续升温，“二刷”“三刷”中国的外国游客越来越多，“重体验”的入境游消费新叙事正在展开。 需求迭代： 从逛地标到走进生活 马淑林是北京市非物质文化遗产花毽传承人之一，在北 京东",
-     "source": "东方财富股票",
-     "zh": "从“打卡中国”到“体验中国”：入境游持续升温 体验需求催生供给之变"
-    },
-    {
-     "title": "两大约束“红线”松绑 基金“长不大”难题迎转机",
-     "link": "http://stock.eastmoney.com/news/1426,202610193899218159.html",
-     "pubDate": "Mon, 19 Oct 2026 01:34:12 +0800",
-     "summary": "10月16日，永赢基金、广发基金、招商基金、华宝基金旗下新发ETF同日公告延长募集期。受市场行情波动影响，新产品要达到2亿元的基金成立门槛，募集周期被拉长。公募新发产品扎堆延长募集的情形在此前并不常见，其背后或许折射出基金公司对待新发基金的心态正在转变。 证监会近日发布了《公开募集证券投资基金运作管理办法（征求意见稿）》（下称《征求意见稿》），下调股票基金成立门槛并取消发起式基金“三年”清盘规定，这给很多基金产品解决“长不大”的难题带来转机。 证券时报记者统计的数据显示，2023年以来“踩线”成立的基金占比和发起式基金的清盘数量占比均在显著提升。特别是2026年以来，股票ETF“踩线”成立比例",
-     "source": "东方财富股票",
-     "zh": "两大约束“红线”松绑 基金“长不大”难题迎转机"
-    },
-    {
-     "title": "多个赛道订单迸发 广交会机器人展馆火热出圈",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899217774.html",
-     "pubDate": "Mon, 19 Oct 2026 01:33:57 +0800",
-     "summary": "第140届广交会第一期展会正如火如荼地举行，以 机器人 为代表的科技产品成为全球采购商关注度最高的赛道之一。展馆内的服务 机器人 专区入口始终排着长队，个别 机器人 展位甚至需要排队1小时才能体验产品。 热闹的会场折射出国产 机器人 出海的火热态势，在多个细分赛道，中国 机器人 厂商订单不断涌现，部分品类已形成全球竞争优势。不过，出海也并非一路坦途，企业既要把握全球市场机遇，也要算好收益、合规以及长期运维的 综合 出海账。 细分赛道成果亮眼 “新兴 机器人 领域，几乎都是中国企业。” 科沃斯 公关总监马宪彬在广交会上表示，特别在割草机器人、泳池机器人领域，中国几乎没有竞争对手。展位上， 科沃斯",
-     "source": "东方财富股票",
-     "zh": "多个赛道订单迸发 广交会机器人展馆火热出圈"
-    },
-    {
-     "title": "走出北上广深挖掘增量财富 公募分公司布局持续优化",
-     "link": "http://stock.eastmoney.com/news/1426,202610193899218280.html",
-     "pubDate": "Mon, 19 Oct 2026 01:33:53 +0800",
-     "summary": "随着公募行业从规模扩张迈向高质量精耕时代，基金公司设立分公司正走出公募四大城，线下分支机构布局迎来新一轮优化。 证券时报记者注意到，公募设立国内分公司呈现出有进有退、资源逐渐优化的特征，一方面，是头部公募纷纷走出北上广深公募四大城，密集布局西南、华中、东北等区域中心城市，持续加密属地服务网络；另一方面，则是部分公募主动撤销投入产出性价比偏弱的分公司，实现成本优化与资源集中，线下布局告别华而不实的粗放扩张，进入实用化布局新阶段。 头部基金公司扩张线下版图 头部公募正持续加码线下实体建设，走出北上广深四大城市，加强全国各区域的渗透。 南方基金日前公告，经监管核准，公司设立西安分公司并取得营业执照。",
-     "source": "东方财富股票",
-     "zh": "走出北上广深挖掘增量财富 公募分公司布局持续优化"
-    },
-    {
-     "title": "润建股份签2亿美元AI词元大单",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899217637.html",
-     "pubDate": "Mon, 19 Oct 2026 01:33:45 +0800",
-     "summary": "10月18日晚， 润建股份 （002929）公告，公司全资子公司五象云谷有限公司（下称“五象云谷”）与X公司签订《AI词元跨境销售服务合同》，合同金额2亿美元（约合13.38亿元人民币）。合同的履行将对公司未来经营业绩产生积极影响。 根据合同约定，五象云谷向X公司出售AI词元（Token）调用服务：五象云谷开放约定API（应用程序编程接口），X公司通过API接口发起大模型推理调用，按实际消耗词元数量进行结算。词元标准单价，以双方书面确认的订单中载明的单价为准。 交付方式方面，五象云谷通过互联网向X公司开放约定API访问地址、鉴权密钥；X公司自行部署自身业务系统调用该API接口；算力资源全部部署",
-     "source": "东方财富股票",
-     "zh": "润建股份签2亿美元AI词元大单"
-    },
-    {
-     "title": "海光信息中科曙光领衔 多家公司披露回购事项",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899217540.html",
-     "pubDate": "Mon, 19 Oct 2026 01:33:43 +0800",
-     "summary": "10月18日晚间，A股多家上市公司密集披露股份回购相关公告。尤为引人关注的是 中科曙光 与 海光信息 ，两家公司的回购提议人均为董事长历军。今年9月底，历军完成对 海光信息 的履新后，同时掌舵 中科曙光 与 海光信息 两家算力产业链上市公司，此番又于相近时点提议两家上市公司回购股份。 海光信息披露的公告显示，董事长历军提议以公司自有资金通过集中竞价交易方式进行股份回购，用于员工持股计划或 股权激励 。回购资金总额不低于5亿元，不超过8亿元。 海光信息于9月28日召开2026年第二次临时股东会，选举历军等人为公司第三届董事会非独立董事。同日召开的第三届董事会第一次会议，同意选举历军为公司第三届董",
-     "source": "东方财富股票",
-     "zh": "海光信息中科曙光领衔 多家公司披露回购事项"
     },
     {
      "title": "SocGen flags relative bargains in Treasuries as yields fall",
@@ -2329,44 +2425,12 @@
      "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
     },
     {
-     "title": "Bessent warns Zelenskyy to &apos;be very careful&apos; about claims U.S. is throttling Starlink",
-     "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
-     "pubDate": "Sun, 18 Oct 2026 16:44:10 GMT",
-     "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
-     "source": "CNBC",
-     "zh": "Bessent warns Zelenskyy to &apos;be very careful&apos; about claims U.S. is throttling Starlink"
-    },
-    {
-     "title": "Bessent calls Zelenskyy’s Starlink accusation ‘reckless’ amid strains over U.S. support",
-     "link": "https://seekingalpha.com/news/4654070-bessent-calls-zelenskyys-starlink-accusation-reckless-amid-strains-over-us-support?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 18 Oct 2026 12:36:48 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bessent calls Zelenskyy’s Starlink accusation ‘reckless’ amid strains over U.S. support"
-    },
-    {
      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
      "pubDate": "Sun, 18 Oct 2026 16:15:00 GMT",
      "summary": "”I earn $110,000 a year.”",
      "source": "MarketWatch",
      "zh": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
-    },
-    {
-     "title": "China’s proposed solar curbs raise stakes for overseas manufacturers",
-     "link": "https://seekingalpha.com/news/4654068-china-s-proposed-solar-curbs-raise-stakes-for-overseas-manufacturers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 18 Oct 2026 12:11:06 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "China’s proposed solar curbs raise stakes for overseas manufacturers"
-    },
-    {
-     "title": "Elon Musk says Tesla's Roadster will be 'sentient'",
-     "link": "https://seekingalpha.com/news/4654069-elon-musk-says-teslas-roadster-will-be-sentient?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 18 Oct 2026 12:02:26 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Elon Musk says Tesla's Roadster will be 'sentient'"
     },
     {
      "title": "US threatens Europe over Starlink restrictions",
@@ -2385,28 +2449,12 @@
      "zh": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?"
     },
     {
-     "title": "Align Technology says European court finds Angelalign infringed patent",
-     "link": "https://seekingalpha.com/news/4654066-align-technology-says-european-court-finds-angelalign-infringed-patent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 18 Oct 2026 11:52:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Align Technology says European court finds Angelalign infringed patent"
-    },
-    {
      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
      "pubDate": "Sun, 18 Oct 2026 15:15:00 GMT",
      "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
      "source": "MarketWatch",
      "zh": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?"
-    },
-    {
-     "title": "St Petersburg endures biggest Ukrainian drone attack",
-     "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
-     "pubDate": "Sun, 18 Oct 2026 15:14:55 GMT",
-     "summary": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
-     "source": "Financial Times",
-     "zh": "St Petersburg endures biggest Ukrainian drone attack"
     },
     {
      "title": "Trump’s bid to make America cheap again has failed",
@@ -2447,54 +2495,6 @@
      "summary": "If you're considering a year-end Roth conversion for 2026, there are some key things to know, experts say.",
      "source": "CNBC",
      "zh": "Roth conversions: When the ‘juice isn&apos;t really worth the squeeze,’ according to a top-ranked advisor"
-    },
-    {
-     "title": "Boomers are buying into the promise of monthly income from options ETFs, but there&apos;s a tax catch",
-     "link": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
-     "pubDate": "Sun, 18 Oct 2026 13:10:33 GMT",
-     "summary": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be significant.",
-     "source": "CNBC",
-     "zh": "Boomers are buying into the promise of monthly income from options ETFs, but there&apos;s a tax catch"
-    },
-    {
-     "title": "21评论｜“不放假”讨论的背后，平常心也是一种东道主姿态",
-     "link": "http://www.eeo.com.cn/2026/1018/1069364.shtml",
-     "pubDate": "Sun, 18 Oct 2026 20:52:14 +0800",
-     "summary": "文/孙昀、陈思琦 APEC会议临近，深圳“绿色出行、畅通有我”发布会举行后，市民和舆论反响总体积极正面。 与此同时，“深圳为什么不放假”成为社交媒体上的一个讨论话题。有人翻出北京APEC期间调休6天、上海APEC期间调休5天的旧例，对比之下，深圳只是倡导居家办公、带薪休假、错峰出行，地铁公交票价打五折，有人因此感到有些失望。 这种情绪值得被看见，但相关事实也需要被澄清：北京和上海当年做的，并不...",
-     "source": "经济观察网",
-     "zh": "21评论｜“不放假”讨论的背后，平常心也是一种东道主姿态"
-    },
-    {
-     "title": "多地推进服务业扩能提质",
-     "link": "http://www.eeo.com.cn/2026/1018/1069363.shtml",
-     "pubDate": "Sun, 18 Oct 2026 20:52:07 +0800",
-     "summary": "9月以来，福建省、浙江省、吉林省、湖北省、上海市等多地以召开专题会议、出台专项政策文件的方式，积极部署推进服务业发展相关工作。 例如，10月15日，福建省发展和改革委员会公开发布《福建省促进节能降碳服务业发展若干措施》，强调“积极培育引进节能降碳专业服务机构”，并进一步提出“推动优质节能降碳综合服务商落地发展，引导本土节能降碳服务企业延伸拓展服务范围和服务领域，强化碳核算、碳足迹认证、能效诊断...",
-     "source": "经济观察网",
-     "zh": "多地推进服务业扩能提质"
-    },
-    {
-     "title": "10月18日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610183899168894.html",
-     "pubDate": "Sun, 18 Oct 2026 20:30:39 +0800",
-     "summary": "今日摘要 今天是重阳节。习近平总书记指出，让老年人老有所养、生活幸福、健康长寿是我们的共同愿望。落实总书记要求，我国加快推进养老事业多元化、多样化发展，用心用情做好养老服务，持续增进民生福祉。 李强同乌兹别克斯坦总理会谈，会见乌兹别克斯坦总统。 系列报道【赓续长征精神奋进复兴征程】今天来看：甘肃用好红色资源，凝聚奋进力量，走好新时代长征路。 国家社保公共服务平台已开通104项全国性、跨地区服务。 城镇供热“温暖工程”三年行动启动。 沿用多年的全国铁路车次编排迎来系统性变革。 也门胡塞武装称，击落沙特武装直升机。沙特主导的多国联军称，拦截多架 无人机 。 内容速览 【新思想引领新征程】绘就幸福“",
-     "source": "东方财富资讯",
-     "zh": "10月18日晚间央视新闻联播要闻集锦"
-    },
-    {
-     "title": "透视10月ETF资金局：谁在逆市扫货？谁在恐慌出逃？",
-     "link": "http://bond.eastmoney.com/news/1332,202610183899170979.html",
-     "pubDate": "Sun, 18 Oct 2026 20:28:00 +0800",
-     "summary": "10月以来，A股市场持续震荡，到本周（10月12日—16日）调整延续，核心指数悉数下跌，结构分化进一步加强，红利相对抗跌，科技成长方向跌幅居前。 从归因上来看，这一轮调整主要有两个因素扰动： 一是海外。美国通胀数据超预期，加息预期升温，长端美债利率维持在高位，油价受地缘因素扰动走强，海外科技股波动向亚太市场传导。 二是国内资金端出现变量。当前市场缺乏增量资金，以存量博弈为主，前期科技板块持仓与交易拥挤度偏高。在外部扰动叠加三季报验证窗口临近的背景下，杠杆资金与机构资金同步降杠杆、兑现收益，ETF等被动资金虽有承接但体量有限，交易层面形成负反馈，放大了调整幅度。 截至10月16日，各大核心宽基指",
-     "source": "东方财富资讯",
-     "zh": "透视10月ETF资金局：谁在逆市扫货？谁在恐慌出逃？"
-    },
-    {
-     "title": "下周分红1665亿元 股息率最高9.23% 红包雨来了",
-     "link": "http://finance.eastmoney.com/news/1354,202610183899169281.html",
-     "pubDate": "Sun, 18 Oct 2026 20:20:16 +0800",
-     "summary": "A股 行业龙头 2026年半年度现金分红下周集中落地。 记者统计显示，股权登记日处于10月19日至10月23日，共有99家上市公司实施现金分红，累计分红规模约1665亿元。其中， 工商银行 、 农业银行 将于10月21日向A股股东派发中期现金红利，合计约821亿元。 行业龙头 集中分红 工商银行 2026年半年度每股派发现金股息0.1511元（含税），本次派发现金股息共计约538.53亿元，其中派发A股现金股息共计约407.38亿元； 农业银行 每股派发中期现金红利0.1297元（含税），共计派发现金红利约453.93亿元，其中派发A股现金红利共约414.06亿元。两股股权登记日均为10月20",
-     "source": "东方财富资讯",
-     "zh": "下周分红1665亿元 股息率最高9.23% 红包雨来了"
     }
    ]
   },
