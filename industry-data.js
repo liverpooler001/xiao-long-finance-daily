@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/25 02:55:03",
+ "generated_at": "2026/10/25 05:19:34",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+     "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
+     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+     "source": "TechCrunch AI",
+     "zh": "The AI graveyard: a running list of projects and startups that didn’t make it"
+    },
     {
      "title": "Block’s new voice model sounds eerily human",
      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
@@ -152,14 +160,6 @@ window.INDUSTRY_DATA = {
      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
      "source": "TechCrunch AI",
      "zh": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell"
-    },
-    {
-     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-     "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-     "pubDate": "Fri, 23 Oct 2026 19:06:23 +0000",
-     "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
-     "source": "TechCrunch AI",
-     "zh": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026"
     },
     {
      "title": "Bringing foundational models to the front lines of TB screening",
@@ -850,6 +850,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
+     "pubDate": "Sat, 24 Oct 2026 16:00:00 -0500",
+     "summary": "Singapore’s shipping-fuel market is adding another layer of cost to Asian trade. Disrupted supplies from the Middle East and Russia, resilient bunker demand and prohibitive freight rates have pushed high-sulphur fuel oil above the price of the crude used to produce it. Seasonal relief from Gulf prod",
+     "source": "OilPrice",
+     "zh": "Fuel Oil Becomes Asia’s Next Cost Shock"
+    },
+    {
+     "title": "If Tesla’s Robotaxi Miles Keep Compounding at 20% a Week, the Math Gets Interesting Fast",
+     "link": "https://cleantechnica.com/2026/10/24/if-teslas-robotaxi-miles-keep-compounding-at-20-a-week-the-math-gets-interesting-fast/",
+     "pubDate": "Sat, 24 Oct 2026 19:47:23 +0000",
+     "summary": "Tesla just passed Waymo in Austin in weekly driverless miles. If its recent 20% weekly growth holds, it passes Waymo nationally in roughly 11 weeks and is doing the volume of Uber + Lyft across three Texas metros by mid-February. The accumulating unsupervised miles are already large enough to start ",
+     "source": "CleanTechnica",
+     "zh": "If Tesla’s Robotaxi Miles Keep Compounding at 20% a Week, the Math Gets Interesting Fast"
+    },
+    {
+     "title": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas",
+     "link": "https://oilprice.com/Energy/Energy-General/Syrias-Energy-Comeback-Could-Reshape-Middle-East-Oil-and-Gas.html",
+     "pubDate": "Sat, 24 Oct 2026 14:00:00 -0500",
+     "summary": "Syria is undergoing countrywide reconstruction after more than a decade of conflict, which caused extensive infrastructure damage and led to millions of people being displaced. As Syrians rebuild their lives, the government has big plans for economic diversification and growth to support long-term r",
+     "source": "OilPrice",
+     "zh": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas"
+    },
+    {
      "title": "Volkswagen Unleashes Wicked ID. Unyx 09 in China for $27,000",
      "link": "https://cleantechnica.com/2026/10/24/volkswagen-unleashes-wicked-id-unyx-09-in-china-for-27000/",
      "pubDate": "Sat, 24 Oct 2026 18:23:19 +0000",
@@ -954,14 +978,6 @@ window.INDUSTRY_DATA = {
      "zh": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals"
     },
     {
-     "title": "Waymo — Now Arriving At Harry Reid International Airport",
-     "link": "https://cleantechnica.com/2026/10/23/waymo-now-arriving-at-harry-reid-international-airport/",
-     "pubDate": "Sat, 24 Oct 2026 03:50:26 +0000",
-     "summary": "Starting this week, Las Vegas travelers can catch their next flight at Harry Reid International Airport (LAS) via safe, reliable, and magical Waymo rides. Current Waymo riders in Las Vegas now have airport access, and we’ll gradually welcome more riders over time before opening to everyone. Pickups ",
-     "source": "CleanTechnica",
-     "zh": "Waymo — Now Arriving At Harry Reid International Airport"
-    },
-    {
      "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
      "pubDate": "Fri, 23 Oct 2026 18:00:00 -0500",
@@ -976,22 +992,6 @@ window.INDUSTRY_DATA = {
      "summary": "The United States is dipping into its Strategic Petroleum Reserve again, this time to keep crude flowing to a Louisiana refinery while oil prices climb above $117 per barrel. The reserve, meanwhile, is already at its lowest level since 1982. The Department of Energy on Friday authorized an emergency",
      "source": "OilPrice",
      "zh": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions"
-    },
-    {
-     "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
-     "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
-     "pubDate": "Fri, 23 Oct 2026 17:00:00 -0500",
-     "summary": "The United States and Canada are locked in an energy trade war – sort of. Although United States President Donald Trump and Canadian Prime Minister Mark Carney have lobbed plenty of blisteringly high tariffs, not to mention threats and insults, at each other over the course of their respective tenur",
-     "source": "OilPrice",
-     "zh": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War"
-    },
-    {
-     "title": "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
-     "link": "https://oilprice.com/Energy/Energy-General/NASAs-Freeze-Resistant-Moon-Battery-Could-Eventually-Reach-EVs.html",
-     "pubDate": "Fri, 23 Oct 2026 15:00:00 -0500",
-     "summary": "The United States’ National Aeronautics and Space Administration (NASA) has developed a revolutionary new battery that could power the country’s return to the moon while potentially also revolutionizing the way that we power electric vehicles here on Earth. The new technology can function at extreme",
-     "source": "OilPrice",
-     "zh": "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs"
     },
     {
      "title": "The permitting deal collides with Trump’s war on offshore wind",
@@ -1762,6 +1762,86 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "KIMI之殇",
+     "link": "https://www.huxiu.com/article/4900212.html?f=rss",
+     "pubDate": "Sun, 25 Oct 2026 05:04:34 +0800",
+     "summary": "本文来自微信公众号： 01Founder ，编辑：Max，作者：一直在路上的Max 10月24日凌晨，月之暗面发布了新一代模型Kimi K3.1 Pro。 这是一个拥有3万亿级参数、支持100万Token上下文的大模型。 在官方公布的Terminal-Bench 4.0测试中，它取得了65.7%的成绩，已经非常接近Claude Opus 5.5这样的全球顶尖模型。 对于一家成立仅仅几年的中国创业公司来说，这样的成绩已经足够惊人。 两年前，中国的大模型公司还在苦苦追赶GPT-4，如今，它们已经能够在全球最前沿的技术舞台上，与那些拥有庞大算力和资金储备的美国公司正面竞争。 然而，这场本应迎来掌声的",
+     "source": "虎嗅",
+     "zh": "KIMI之殇"
+    },
+    {
+     "title": "Starlink seems to be working normally again in Ukraine",
+     "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+     "pubDate": "Sat, 24 Oct 2026 20:46:34 +0000",
+     "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+     "source": "TechCrunch",
+     "zh": "Starlink seems to be working normally again in Ukraine"
+    },
+    {
+     "title": "Steal My Bitcoin",
+     "link": "https://stealmybitcoin.com/",
+     "pubDate": "Sat, 24 Oct 2026 20:30:31 +0000",
+     "summary": "Article URL: https://stealmybitcoin.com/ Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 68 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "Steal My Bitcoin"
+    },
+    {
+     "title": "Will AI expose the rickety infrastructure of the internet?",
+     "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+     "pubDate": "Sat, 24 Oct 2026 20:15:33 +0000",
+     "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+     "source": "TechCrunch",
+     "zh": "Will AI expose the rickety infrastructure of the internet?"
+    },
+    {
+     "title": "No Signs of AI Payoff Outside the Tech Sector",
+     "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+     "pubDate": "Sat, 24 Oct 2026 19:47:19 +0000",
+     "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 233 # Comments: 194",
+     "source": "Hacker News",
+     "zh": "No Signs of AI Payoff Outside the Tech Sector"
+    },
+    {
+     "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
+     "link": "https://www.techmeme.com/261024/p8#a261024p8",
+     "pubDate": "Sat, 24 Oct 2026 15:45:01 -0400",
+     "summary": "The Information : Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount &nbsp; &mdash;&nbsp; OpenAI's efforts to undercut Anthropic on price are producing some results.&nbsp; &mdash;&nbsp; For ",
+     "source": "Techmeme",
+     "zh": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)"
+    },
+    {
+     "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+     "link": "https://missileer.watch",
+     "pubDate": "Sat, 24 Oct 2026 19:43:27 +0000",
+     "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 52 # Comments: 23",
+     "source": "Hacker News",
+     "zh": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz"
+    },
+    {
+     "title": "The Goose Programming Language",
+     "link": "https://aardappel.github.io/goose/",
+     "pubDate": "Sat, 24 Oct 2026 19:27:41 +0000",
+     "summary": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 102 # Comments: 40",
+     "source": "Hacker News",
+     "zh": "The Goose Programming Language"
+    },
+    {
+     "title": "SpeedCrunch 1.1",
+     "link": "https://www.speedcrunch.org/",
+     "pubDate": "Sat, 24 Oct 2026 19:19:43 +0000",
+     "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 6 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "SpeedCrunch 1.1"
+    },
+    {
+     "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+     "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+     "pubDate": "Sat, 24 Oct 2026 19:06:55 +0000",
+     "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 87 # Comments: 40",
+     "source": "Hacker News",
+     "zh": "John Carmack on the Goose Language: multiple data stacks and relative references"
+    },
+    {
      "title": "品牌没有自嘲的资格",
      "link": "https://www.huxiu.com/article/4900210.html?f=rss",
      "pubDate": "Sun, 25 Oct 2026 01:37:19 +0800",
@@ -1784,14 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 镁联社 ，作者：镁联社 一场本该用来讲产品、抢订单的新车发布会，最后栽在一句轻飘飘的圈层黑话里。 小鹏MONA L05发布会上，一名00后产品经理临场抛出“老登怎么会懂年轻人想要什么”。事发之后，道歉、解释接踵而至：这只是内部吐槽管理层保守的玩笑，本意针对固化的设计思路，并非面向消费者。 但公共传播没有自带注释，也不接受“我不是那个意思”的事后补证。 一句圈内自嘲，脱离封闭会议室，扔进全网直播的公域流量池，语义立刻失控。这件事最刺眼的讽刺就摆在眼前：车企拼尽全力做年轻化、追Z世代流量，却当众用年龄标签，刺伤了汽车市场真正掏钱买单的底盘——35–50岁的中年人。 小鹏这次翻",
      "source": "虎嗅",
      "zh": "一句“老登”撕开假象：品牌伪年轻化，总在冒犯付费主力"
-    },
-    {
-     "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-     "link": "https://de.numista.com/9866",
-     "pubDate": "Sat, 24 Oct 2026 16:41:55 +0000",
-     "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 50 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise"
     },
     {
      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
@@ -1818,36 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "意大利：比江苏还散装的“美食王国”"
     },
     {
-     "title": "Roku developer repositories moved from GitHub to GitLab",
-     "link": "https://blog.roku.com/developer/gitlab-move",
-     "pubDate": "Sat, 24 Oct 2026 16:06:26 +0000",
-     "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 144 # Comments: 89",
-     "source": "Hacker News",
-     "zh": "Roku developer repositories moved from GitHub to GitLab"
-    },
-    {
-     "title": "Neural chip decodes interactions between brain regions",
-     "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-     "pubDate": "Sat, 24 Oct 2026 15:57:17 +0000",
-     "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 50 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "Neural chip decodes interactions between brain regions"
-    },
-    {
      "title": "An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena&apos;s optical networking chips, and more (Steven Rosenbush/Wall Street Journal)",
      "link": "https://www.techmeme.com/261024/p6#a261024p6",
      "pubDate": "Sat, 24 Oct 2026 11:40:01 -0400",
      "summary": "Steven Rosenbush / Wall Street Journal : An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more &nbsp; &mdash;&nbsp; Ciena CEO Gary Smith is &lsquo;suitably paranoid,&rsquo; but optimistic&nbsp; &mdas",
      "source": "Techmeme",
      "zh": "An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena&apos;s optical networking chips, and more (Steven Rosenbush/Wall Street Journal)"
-    },
-    {
-     "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-     "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-     "pubDate": "Sat, 24 Oct 2026 15:35:17 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 11 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Oai-math-revised: a community hub for revising OpenAI's math write-ups"
     },
     {
      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
@@ -1864,14 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 今日曝光 iQOO Neo12 新机配置，该机将于本月发布并上市。 据介绍，该机搭载 6.83 英寸 2K+185Hz LTPS 直屏 ，采用维信诺 pTSF 发光材料，搭载骁龙 8E5 处理器（第五代骁龙 8 至尊版），配备 Q3 电竞芯片 + 主动散热风扇。 此外，该机还搭载 9000mAh 电池，支持 100W 有线充，提供双 1511 对称双扬、50Mp IMX921 大底影像。 IT之家注意到，iQOO 手机官方已经公开了 Neo12 的三色官图，包含「争锋」、「疾影黑」和 「霜刃蓝」。据介绍，新机采用「国潮未来科技主义」设计理念",
      "source": "IT之家",
      "zh": "iQOO Neo12 新机配置曝光：6.83 英寸 2K+185Hz 直屏，第五代骁龙 8 至尊版芯片"
-    },
-    {
-     "title": "FreeDNS",
-     "link": "https://freedns.afraid.org/",
-     "pubDate": "Sat, 24 Oct 2026 15:20:01 +0000",
-     "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 163 # Comments: 39",
-     "source": "Hacker News",
-     "zh": "FreeDNS"
     },
     {
      "title": "刘慈欣监制《三体·大史》年内开机，导演杨磊称演员都已“众神归位”",
@@ -1896,14 +1936,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 24 日消息，JBL 现已为旗下 JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，首发价 1346 元，部分地区国补后低至 949 元。 京东 JBL CLIPS 琉璃扣“碧玺红色特别版” 1346 元 点此访问 这款耳机的充电盒、本体均采用半透明设计；搭载 11mm 动圈单元，定制驱动单元加载镀钛双层振膜；支持 SonicArc 定向投送技术，可减少漏音现象，保护用户隐私。 这款耳机支持 IP54 级防尘防水；单体重量 6.5g，采用 C 形桥设计，外部为柔性 TPU 材质，适配多种耳形；内置 4 个麦克风，支持 AI 通话降噪及 ENC 算法，支持使用 App",
      "source": "IT之家",
      "zh": "JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，1346 元"
-    },
-    {
-     "title": "These clever apps show off the iPhone Duo’s potential",
-     "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-     "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
-     "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-     "source": "TechCrunch",
-     "zh": "These clever apps show off the iPhone Duo’s potential"
     },
     {
      "title": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘",
@@ -1938,14 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or newer (Jay Peters/The Verge)"
     },
     {
-     "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-     "link": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-     "pubDate": "Sat, 24 Oct 2026 14:15:00 +0000",
-     "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
-     "source": "TechCrunch",
-     "zh": "The Boox Palma 2 Pro finally got me to stop reading on my phone"
-    },
-    {
      "title": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
      "link": "https://www.solidot.org/story?sid=85701",
      "pubDate": "Sat, 24 Oct 2026 21:50:21 +0800",
@@ -1976,30 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "美光桃园厂工会星期五（10月23日）说，会员投票否决公司提出的新利润分享方案，并警告可能采取进一步集体行动，争取更公平的奖金制度。美光过去数周一直与桃园及台中两座工厂的工会就薪酬问题谈判。两个工会共代表两厂 1 万 5000 名员工中的 1 万 2000 人。两个工会此前均要求，公司发放相当于 83 个月薪资的一次性奖金，并建立长期利润分享制度，将营业利润的 15% 用于员工奖金，按季而非按年发放。美光与规模较大的台中厂工会星期三（10月21日）达成协议。根据薪酬和福利改革方案，公司将从 2027 财年起，为全球员工增设季度利润分享奖金，与原有激励奖金计划（IPP）并行，新增奖金以现金和股票各",
      "source": "Solidot",
      "zh": "美光桃园厂工会否决奖金方案"
-    },
-    {
-     "title": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告",
-     "link": "https://www.solidot.org/story?sid=85698",
-     "pubDate": "Sat, 24 Oct 2026 20:53:21 +0800",
-     "summary": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体取决于您的设置。例如，如果在 Google 搜索中搜索“山地自行车”，您可能会在 YouTube 上看到运动装备广告...我们不会根据您在 Google 云端硬盘、Gmail 和 Google 相册中的内容向您展示个性化广告，除非您选择允许其他支持个性化广告的 Google 服务使用这些服务中的数据。”也就是如果用户不希望 Gmail 和 Google 相册",
-     "source": "Solidot",
-     "zh": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告"
-    },
-    {
-     "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-     "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-     "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
-     "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-     "source": "WIRED",
-     "zh": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable"
-    },
-    {
-     "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-     "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-     "pubDate": "Sat, 24 Oct 2026 11:50:28 +0000",
-     "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
-     "source": "Ars Technica",
-     "zh": "A 1,000-mile cloud on Mars may reveal physics never seen in nature"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
+     "link": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
+     "pubDate": "Sat, 24 Oct 2026 19:30:00 +0000",
+     "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you want more of a nostalgic video feel from your iPhone footage, Flipcorder is a great app to check ",
+     "source": "9to5Mac",
+     "zh": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo"
+    },
     {
      "title": "Google is quietly linking your phone number to other Android accounts",
      "link": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display"
     },
     {
-     "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
-     "link": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
-     "pubDate": "Fri, 23 Oct 2026 23:12:21 +0000",
-     "summary": "Following today’s launch of the iPhone Duo , Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the device. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple’s official DIY repair guides for the iPhone Duo now available"
-    },
-    {
      "title": "Gemini for Android rolls out side panel and settings redesign",
      "link": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
      "pubDate": "Fri, 23 Oct 2026 22:02:00 +0000",
@@ -2257,6 +2257,118 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "美司法部要求加州官员核查选民身份 不配合者或将遭审查",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907134874.html",
+     "pubDate": "Sun, 25 Oct 2026 05:11:03 +0800",
+     "summary": "当地时间10月24日，央视记者获悉，美国司法部已向加利福尼亚州全部58个县的选举官员发函，要求其在48小时内协助核实联邦政府名单上相关人员的美国公民身份，并将身份尚未确认者的邮寄选票暂时单独存放，直至完成核查。司法部警告，拒绝配合的地方官员可能面临联邦政府的严格审查。 司法部认为，名单上的部分人员可能不具备合法选民登记资格。这些人员属于司法部上周在加州识别出的约2万名疑似非美国公民中的一部分，他们可能已收到选票。 此外，白宫正推动联邦机构加快审查国土安全部获取的至少47个州的选民登记名单。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "美司法部要求加州官员核查选民身份 不配合者或将遭审查"
+    },
+    {
+     "title": "美国务院更新中东多国旅行警告 称胡塞和伊朗袭击威胁增加",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907134745.html",
+     "pubDate": "Sun, 25 Oct 2026 04:56:45 +0800",
+     "summary": "据美国媒体24日报道，因也门胡塞武装和伊朗的袭击威胁增加，美国国务院针对13个中东国家更新了旅行警告。 报道说，此次更新涉及的国家和地区包括巴林、伊朗、伊拉克、以色列、约旦、科威特、黎巴嫩、阿曼、卡塔尔、沙特阿拉伯、叙利亚、阿联酋和也门。美驻上述国家的大使馆日前在其官网上发布最新旅行警告称，预警级别及风险指标均未发生变化，但预警摘要已更新。其中，美驻沙特大使馆发布旅行警告称，“伊朗支持的胡塞武装发动潜在武装袭击的可能性有所增加，同时伊朗正试图针对该地区的美国政府官员采取行动”。美驻其他国家大使馆的旅行警告则只提到胡塞武装袭击威胁增加。 据美国阿克西奥斯新闻网站23日报道，美情报部门认为伊朗已“",
+     "source": "东方财富股票",
+     "zh": "美国务院更新中东多国旅行警告 称胡塞和伊朗袭击威胁增加"
+    },
+    {
+     "title": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907128777.html",
+     "pubDate": "Sun, 25 Oct 2026 04:45:46 +0800",
+     "summary": "10月23日，中欧协会智能网联 汽车 分会与 北京汽车 博物馆联合发布的2026年前三季度 汽车 企业影响力指数报告（以下简称“报告”）显示， 汽车 企业格局延续“ 乘用车 主导竞争烈度、 商用车 细分格局分化”的特征：在 乘用车 领域， 比亚迪 以912.28分位居榜首，企业网络声量达1.01亿条、销量134.4万辆，均居第一。在 商用车 领域，东风汽车、 长城汽车 、 福田汽车 、上汽大通分获重卡、皮卡、轻卡、轻客品类企业影响力榜首。 在 乘用车 榜单中， 比亚迪 、 吉利汽车 、 赛力斯 包揽前三； 零跑汽车 、上汽大众、 特斯拉 中国、广汽丰田、 长安汽车 、一汽-大众、 蔚来 汽车分",
+     "source": "东方财富股票",
+     "zh": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首"
+    },
+    {
+     "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+     "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+     "pubDate": "Sat, 24 Oct 2026 20:38:30 GMT",
+     "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+     "source": "CNBC",
+     "zh": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement"
+    },
+    {
+     "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907134684.html",
+     "pubDate": "Sun, 25 Oct 2026 04:31:12 +0800",
+     "summary": "伊拉克民兵武装“伊斯兰抵抗组织”24日发表声明称，9月30日至10月23日，共监测到美国战斗机和侦察机171次侵犯伊拉克领空。 声明说美国持续侵犯伊拉克主权，指责美军机近期频繁侵犯伊拉克领空。声明还提到，伊拉克关闭与伊朗的航线及边境口岸是基于美国意愿并按其指令行事。 伊拉克政府发言人海德尔·阿布迪21日说，伊拉克出于技术原因关闭位于南部米桑省与伊朗的谢卜边境口岸。此外，受美国对伊朗制裁影响，伊拉克多个 机场 9月一度暂停所有往返伊朗的航班。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空"
+    },
+    {
+     "title": "大买家与大卖家：39.94万亿中的双向机遇",
+     "link": "http://finance.eastmoney.com/news/1346,202610243907123487.html",
+     "pubDate": "Sun, 25 Oct 2026 04:18:17 +0800",
+     "summary": "中国在世界经济版图中扮演的角色，越来越重要。 随着2026年前三季度经济数据出炉，中国外贸交出了一份“沉甸甸”的阶段性答卷。最新国际数据显示，我国继续稳居全球货物贸易第一大国地位。 当前，地缘政治冲突持续扰动全球经贸秩序，贸易保护主义、单边主义抬头，而中国正在以“大买家”和“大卖家”双重身份，深度参与全球经济版图建设，成为全球产供链的“稳定锚”。 前三季度外贸数据，增了 最新数据显示，前三季度我国货物进出口总额39.94万亿元，同比增长18.8%。其中，出口23.2万亿元，增长16.4%；进口16.74万亿元，增长22.3%。 分季度看，三季度出口规模首次突破8万亿元，增长22%。从月度看，连",
+     "source": "东方财富股票",
+     "zh": "大买家与大卖家：39.94万亿中的双向机遇"
+    },
+    {
+     "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+     "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 20:15:00 GMT",
+     "summary": "“Nothing has been set aside for his needs.”",
+     "source": "MarketWatch",
+     "zh": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?"
+    },
+    {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 20:00:00 GMT",
+     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+     "source": "MarketWatch",
+     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+    },
+    {
+     "title": "Democrats, voting-rights groups challenge Trump&apos;s bid to block Alaska Senate certification",
+     "link": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+     "pubDate": "Sat, 24 Oct 2026 19:57:24 GMT",
+     "summary": "Lawsuits filed by candidate Mary Peltola and a voters' rights group challenge Trump's preemptive efforts to block a Democratic Senate victory in Alaska.",
+     "source": "CNBC",
+     "zh": "Democrats, voting-rights groups challenge Trump&apos;s bid to block Alaska Senate certification"
+    },
+    {
+     "title": "爱奇艺AIGC（大湾区）创意中心正式落地广州",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907130995.html",
+     "pubDate": "Sun, 25 Oct 2026 03:50:40 +0800",
+     "summary": "10月24日， 爱奇艺 与广州市人民政府签署战略合作框架协议。在当天举办的广州市AIGC视听产业系列发布活动上，广东广播电视台与 爱奇艺 签署纪录片战略合作协议， 爱奇艺 AIGC（大湾区）创意中心正式落地广州。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "爱奇艺AIGC（大湾区）创意中心正式落地广州"
+    },
+    {
+     "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
+     "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+     "pubDate": "Sat, 24 Oct 2026 19:48:27 GMT",
+     "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
+     "source": "Financial Times",
+     "zh": "Hundreds of thousands protest in France in second weekend of mass demonstrations"
+    },
+    {
+     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 19:45:00 GMT",
+     "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+     "source": "MarketWatch",
+     "zh": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave."
+    },
+    {
+     "title": "SA Asks: How much could Tesla be worth in a merger deal?",
+     "link": "https://seekingalpha.com/news/4656937-sa-asks-how-much-could-tesla-be-worth-in-a-merger-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 15:40:51 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: How much could Tesla be worth in a merger deal?"
+    },
+    {
+     "title": "Key deals this week: Visa, London Stock Exchange, Tradeweb Markets, Salesforce, and more",
+     "link": "https://seekingalpha.com/news/4656932-key-deals-this-week-visa-london-stock-exchange-tradeweb-markets-salesforce-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 15:15:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: Visa, London Stock Exchange, Tradeweb Markets, Salesforce, and more"
+    },
     {
      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
@@ -2306,38 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?"
     },
     {
-     "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
-     "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 17:23:00 GMT",
-     "summary": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
-     "source": "MarketWatch",
-     "zh": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan"
-    },
-    {
-     "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
-     "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
-     "pubDate": "Sat, 24 Oct 2026 17:13:23 GMT",
-     "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
-     "source": "Financial Times",
-     "zh": "Hundreds of thousands protest in France in second weekend of mass demonstrations"
-    },
-    {
-     "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-     "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 16:59:00 GMT",
-     "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
-     "source": "MarketWatch",
-     "zh": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath"
-    },
-    {
-     "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-     "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 16:46:00 GMT",
-     "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
-     "source": "MarketWatch",
-     "zh": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch."
-    },
-    {
      "title": "Couche-Tard makes bid for Cumberland Farms: report",
      "link": "https://seekingalpha.com/news/4656933-couche-tard-makes-bid-cumberland-farms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 24 Oct 2026 12:30:05 -0400",
@@ -2346,36 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "Couche-Tard makes bid for Cumberland Farms: report"
     },
     {
-     "title": "Real estate stocks trade mixed as earnings releases pick pace",
-     "link": "https://seekingalpha.com/news/4656716-real-estate-stocks-trade-mixed-as-earnings-releases-pick-pace?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 12:00:35 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Real estate stocks trade mixed as earnings releases pick pace"
-    },
-    {
-     "title": "Earnings Scoreboard: 82% firms beat EPS estimates, 79% post Y/Y earnings growth",
-     "link": "https://seekingalpha.com/news/4656447-earnings-scoreboard-82-firms-beat-eps-estimates-79-post-yy-earnings-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 12:00:07 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Earnings Scoreboard: 82% firms beat EPS estimates, 79% post Y/Y earnings growth"
-    },
-    {
      "title": "Why popular airplanes are getting scrapped years early",
      "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
      "pubDate": "Sat, 24 Oct 2026 15:18:30 GMT",
      "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
      "source": "CNBC",
      "zh": "Why popular airplanes are getting scrapped years early"
-    },
-    {
-     "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
-     "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
-     "pubDate": "Sat, 24 Oct 2026 15:00:01 GMT",
-     "summary": "Retail investors trying to beat the market by buying individual stocks and complex exchange-traded funds may be better off with broad market index funds.",
-     "source": "CNBC",
-     "zh": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager"
     },
     {
      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
@@ -2402,36 +2458,12 @@ window.INDUSTRY_DATA = {
      "zh": "Ukraine military says Starlink service restrictions have been lifted"
     },
     {
-     "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907118542.html",
-     "pubDate": "Sat, 24 Oct 2026 20:40:04 +0800",
-     "summary": "在一个普通的周五深夜，初创公司创始人Colin Parsons还在睡梦之中，而一群利用AI进行网络攻击的黑客，已开始向他的账户伸出了黑手…… 第二天一早，Parsons被收件箱里整整50封扣款邮件惊醒——他的账户正被一笔接一笔地盗刷，用于购买Anthropic和OpenAI的算力服务。当他试图登录AI编程平台OpenCode的Discord客服频道求助时，眼前的一幕更是令他无奈：频道里每隔两秒就会蹦出一条诸如“Yo”或“卸载Telegram”的无意义垃圾信息，他的求助帖瞬间被刷屏淹没。 事后的调查显示，Parsons未经授权的购买行为，是利用他存储在名为OpenCode的AI编程网站上的凭证完",
-     "source": "东方财富资讯",
-     "zh": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？"
-    },
-    {
-     "title": "10月24日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907118119.html",
-     "pubDate": "Sat, 24 Oct 2026 20:29:05 +0800",
-     "summary": "今日摘要 习近平向2026全球治理论坛（雄安）致信。 党的十八大以来，以习近平同志为核心的党中央从巩固党的执政地位、实现中华民族伟大复兴的战略高度，持之以恒推进全面从严治党，不断开创新时代管党治党、兴党强党新局面，团结带领全党在新的长征路上奋力创造新的辉煌。 习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话引发全军官兵热烈反响。 王沪宁陪同朝鲜最高领导人访问丹东。 李希出席二十届中央第八轮巡视工作动员部署会。 全国秋粮收获进度已过八成。 国际人士积极评价习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话。 内容速览 习近平向2026全球治理论坛（雄安）致信 10月23日，",
-     "source": "东方财富资讯",
-     "zh": "10月24日晚间央视新闻联播要闻集锦"
-    },
-    {
      "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
      "link": "https://wallstreetcn.com/articles/3784398",
      "pubDate": "Sat, 24 Oct 2026 19:49:25 +0800",
      "summary": "法国正面临新一轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧了市场对法国公共财政与经济前景的担忧。 据媒体报道，随着抗议演变为暴力骚乱，法国政府紧急部署7万名安保人员以维持秩序，并下令部分城市实施宵禁。法国总统马克龙承认在应对上周末暴力事件中存在失误，他已推迟原定的外交行程，以集中应对当前的国内危机。 持续的动荡局势直接冲击了金融市场与宏观经济。 法国与德国的10年期国债收益率利差大幅飙升，触及欧元区债务危机以来的最高水平，同时最新数据显示私营部门经济活动已跌破荣枯线，陷入萎缩区间。 商业与零售活动同样首当其冲，巴黎多家奢侈品门店及主要景点被迫关闭。企业高管与地方官员警告",
      "source": "华尔街见闻",
      "zh": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势"
-    },
-    {
-     "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907116474.html",
-     "pubDate": "Sat, 24 Oct 2026 19:44:44 +0800",
-     "summary": "问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。 中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化，为中美经贸合作创造良好环境",
-     "source": "东方财富资讯",
-     "zh": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问"
     },
     {
      "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
@@ -2464,38 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
      "source": "CNBC",
      "zh": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit"
-    },
-    {
-     "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-     "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
-     "pubDate": "Sat, 24 Oct 2026 10:59:16 GMT",
-     "summary": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
-     "source": "CNBC",
-     "zh": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it"
-    },
-    {
-     "title": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907106075.html",
-     "pubDate": "Sat, 24 Oct 2026 18:54:00 +0800",
-     "summary": "下周解禁市值1060.1亿元。 本周ETF基金份额增长超500亿份 本周，多只ETF份额大幅增长。据证券时报·数据宝统计，截至10月23日，ETF基金份额合计为3.17万亿份，与上周相比，份额增加507.91亿份，环比增长1.63%。 本周份额增长的ETF共有702只，份额增加超亿份的有81只，增加最多的是华夏上证科创板50成份ETF（588000），最新份额为822.93亿份，较上周增加120.96亿份；其次是华泰柏瑞沪深300ETF、华夏上证50ETF、华夏沪深300ETF等，分别增加66.90亿份、40.77亿份、32.19亿份。 下周44股面临解禁 据数据宝统计，下周将有44股解禁，按",
-     "source": "东方财富资讯",
-     "zh": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！"
-    },
-    {
-     "title": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907105225.html",
-     "pubDate": "Sat, 24 Oct 2026 18:38:36 +0800",
-     "summary": "10月24日， 小鹏集团 副总裁于涛在社交平台账号“托马斯电火车”上发布长文，回应小鹏MONA产品经理恩塔发布会“老登”用词事件全过程。他表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户，“几位‘老登’没一个不悦，反而在内部反复表扬”。 “真正的互联网同学文化，可能不是其它企业上下有别等级森严，而是年轻人敢开老板玩笑的松弛， 后来的致歉视频，是恩塔主动提的。她看到有没完整看直播的朋友产生误解，觉得是自己措辞有疏漏，才主动拍了视频解释原委。”他写道。 “老登并不让人反感，老登并不让人反感，有些人的登味儿才让人厌恶，少一些对00后的口诛笔伐。”他表示",
-     "source": "东方财富资讯",
-     "zh": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应"
-    },
-    {
-     "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Sat, 24 Oct 2026 18:02:27 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻"
     }
    ]
   },
