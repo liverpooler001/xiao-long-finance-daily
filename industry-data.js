@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/25 05:19:34",
+ "generated_at": "2026/10/25 07:29:12",
  "recent_days": 7,
  "industries": [
   {
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
+     "link": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/",
+     "pubDate": "Sat, 24 Oct 2026 22:32:02 +0000",
+     "summary": "Volkswagen is offering its Chinese-market Jetta M6 electric sedan with nearly 290 miles of CLTC-rated range for less than $12,000 (USD), and if that’s not what “der people’s wagen” should be all about, I don’t know what is. more…",
+     "source": "Electrek",
+     "zh": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K"
+    },
+    {
      "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
      "link": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/",
      "pubDate": "Sat, 24 Oct 2026 14:04:51 +0000",
@@ -744,14 +752,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Hyundai IONIQ 5 is the most popular EV in America outside of Tesla, but its larger three-row sibling looks like the better deal right now. more…",
      "source": "Electrek",
      "zh": "Hyundai’s $359 IONIQ 5 lease looks good, but its bigger sibling may be a better buy"
-    },
-    {
-     "title": "Podcast: Tesla earnings discussion, new BYD Seagull, Mustang Mach-E update, and more",
-     "link": "https://electrek.co/2026/10/23/podcast-tesla-earnings-discussion-new-byd-seagull-mustang-mach-e-update-and-more/",
-     "pubDate": "Fri, 23 Oct 2026 19:47:02 +0000",
-     "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla’s earnings, new BYD Seagull, Mustang Mach-E update, and more. more…",
-     "source": "Electrek",
-     "zh": "Podcast: Tesla earnings discussion, new BYD Seagull, Mustang Mach-E update, and more"
     },
     {
      "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
@@ -849,6 +849,22 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
+     "pubDate": "Sat, 24 Oct 2026 18:00:00 -0500",
+     "summary": "The Iran war has made oil tanker voyages so inefficient that vessel availability has crumbled and freight costs have soared to record-highs, all but erasing the incentive for shipping crude oil from the U.S. Gulf Coast to Asia. The cost of shipping crude oil from the U.S. Gulf Coast to China soared ",
+     "source": "OilPrice",
+     "zh": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia"
+    },
+    {
+     "title": "Canada And EU Are Slip Sliding Away On Vehicle Emissions",
+     "link": "https://cleantechnica.com/2026/10/24/canada-and-eu-are-slip-sliding-away-on-vehicle-emissions/",
+     "pubDate": "Sat, 24 Oct 2026 22:00:17 +0000",
+     "summary": "J. Wellington Wimpy, of Popeye comics fame, had a favorite expression. It went like this: “I will gladly pay you Tuesday for a cheeseburger today.” As the Earth gets hotter and hotter, most countries have made commitments to reduce their climate warming emissions by 2030, or 2050, or 2077, or ... [c",
+     "source": "CleanTechnica",
+     "zh": "Canada And EU Are Slip Sliding Away On Vehicle Emissions"
+    },
     {
      "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
      "link": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
@@ -970,28 +986,12 @@ window.INDUSTRY_DATA = {
      "zh": "Glass-free European photovoltaic modules for vehicles, noise barriers and boats"
     },
     {
-     "title": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals",
-     "link": "https://cleantechnica.com/2026/10/23/logitech-launches-chain-reaction-to-accelerate-supply-chain-decarbonization-towards-2030-climate-goals/",
-     "pubDate": "Sat, 24 Oct 2026 03:55:00 +0000",
-     "summary": "Initiative enables suppliers through renewable energy aggregation and supplier capability building. LAUSANNE, Switzerland & SAN JOSE, California — Logitech International (SIX: LOGN) (Nasdaq: LOGI) today announced the launch of Chain Reaction, a global supply chain decarbonization program designed to",
-     "source": "CleanTechnica",
-     "zh": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals"
-    },
-    {
      "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
      "pubDate": "Fri, 23 Oct 2026 18:00:00 -0500",
      "summary": "On October 9, hours after a phone call between President Trump and President Putin, the Treasury Department issued a six-month waiver allowing Russian diesel to be sold on the global market. The stated aim is to bring down fuel prices before the November 3 midterms. But I believe the deal is more co",
      "source": "OilPrice",
      "zh": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out"
-    },
-    {
-     "title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html",
-     "pubDate": "Fri, 23 Oct 2026 17:30:00 -0500",
-     "summary": "The United States is dipping into its Strategic Petroleum Reserve again, this time to keep crude flowing to a Louisiana refinery while oil prices climb above $117 per barrel. The reserve, meanwhile, is already at its lowest level since 1982. The Department of Energy on Friday authorized an emergency",
-     "source": "OilPrice",
-     "zh": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions"
     },
     {
      "title": "The permitting deal collides with Trump’s war on offshore wind",
@@ -1024,14 +1024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Voltalia's latest results include a turnover of €177.4 million (US$198.6 million) and a 29% increase in electricity generation to 4.1TWh.",
      "source": "PV Tech",
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
-    },
-    {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
     },
     {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
+    },
+    {
+     "title": "As US grid batteries surge, risk of fires plummets",
+     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
+     "source": "Canary Media",
+     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1762,6 +1762,94 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限",
+     "link": "https://www.ithome.com/1/017/527.htm",
+     "pubDate": "Sat, 24 Oct 2026 23:19:32 GMT",
+     "summary": "IT之家 10 月 25 日消息，英国广播公司（BBC）的《蓝色星球 3》纪录片打算保留那些不算完美的镜头，以此证明内容的真实性。该系列前作的标志性特点是画面精美、通透清晰，美得近乎不真实。而人工智能生成内容的一大破绽，就是画面过度精致、毫无瑕疵。为了避开这种观感，《蓝色星球 3》选择如实呈现，不刻意美化。 IT之家注意到，执行制片人伊丽莎白 · 怀特（Elizabeth White）此前接受《卫报》采访时提到，放在以往，水里漂浮的大量浮游生物之类的杂物，就足以让团队剪掉这段素材。或者他们会调整构图，把船只、浮标移出画面，又或是直接判定：“水质条件实在达不到拍摄要求。”但这一次，他们选择把这些",
+     "source": "IT之家",
+     "zh": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限"
+    },
+    {
+     "title": "不只是要卖车，消息称奇瑞汽车计划在加拿大建厂",
+     "link": "https://www.ithome.com/1/017/526.htm",
+     "pubDate": "Sat, 24 Oct 2026 23:18:48 GMT",
+     "summary": "IT之家 10 月 25 日消息，据彭博社 23 日报道，奇瑞汽车计划明年进入加拿大市场，同时考虑在当地生产汽车。如果建厂计划落地，奇瑞将在美国北部边境建立生产基地。 尽管进入美国市场的前景尚不明朗，奇瑞认为， 加拿大本身就值得投资 。奇瑞汽车常务副总裁张贵兵在安徽芜湖总部接受采访时，谈到了接手现有工厂闲置产能、与合作伙伴共同开展生产等方案。 即使不考虑美国市场，加拿大也值得我们设厂生产。我们正在寻找合适的机会，并就可能采取的合作方式进行沟通。…… 如果能够找到合适的合作方式，让奇瑞和其他各方共同投资，并顺利启动生产，我认为加拿大政府会欢迎这样的安排。 一旦计划成真，奇瑞有望成为 首家在加拿大",
+     "source": "IT之家",
+     "zh": "不只是要卖车，消息称奇瑞汽车计划在加拿大建厂"
+    },
+    {
+     "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+     "link": "https://www.ithome.com/1/017/525.htm",
+     "pubDate": "Sat, 24 Oct 2026 23:09:54 GMT",
+     "summary": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）显卡，显然还有大量尚未释放的计算潜力。GitHub 用户扎吉塔（Zagitta）开发了一款名为 GPU Unlock 的开源新项目，可以解除安培架构显卡上部分人为设置的性能限制，在特定负载下，张量核心的计算吞吐量几乎可以翻倍，而且不需要修改英伟达驱动，也不用永久刷写显卡的 VBIOS。 IT之家注意到，这个项目专门针对一项指令发射速率限制：在使用 FP32 累加的 FP16/BF16 张量核心运算中，消费级安培显卡的运行速率相比专业卡更低。解除这项限制之后，工具就能释放显卡硬",
+     "source": "IT之家",
+     "zh": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%"
+    },
+    {
+     "title": "一张6元小卡，凭什么硬控00后？",
+     "link": "https://www.huxiu.com/article/4900169.html?f=rss",
+     "pubDate": "Sun, 25 Oct 2026 07:00:01 +0800",
+     "summary": "出品｜虎嗅商业消费组 作者｜刘纾含 编辑｜苗正卿 题图｜Hitcard 这两年，国产剧的剧照开始做成卡牌&ldquo;按包卖&rdquo;了。以今秋最火古装剧《兰香如故》为例，剧集热播期间，腾讯视频联合 Hitcard 推出了官方影视收藏卡，一盒 10 包，一包 3 张，平均一张卡售价 6.6 元。 扑克牌大小的影视收藏卡，却引得不少年轻人&ldquo;竞折腰&rdquo;。一张《兰香如故》男主演刘学义的亲笔签名卡，你愿意为此支付多少钱？在闲鱼，这个问题的答案是 3788 元。 而如果你是国产影视剧的观众，恰好也喜欢购买剧集衍生卡牌，那你一定听说过Hitcard。成立于 2021 年，除影视收",
+     "source": "虎嗅",
+     "zh": "一张6元小卡，凭什么硬控00后？"
+    },
+    {
+     "title": "微软测试 Reactor 实验性框架，澄清 WinUI 和 XAML 不会被停用",
+     "link": "https://www.ithome.com/1/017/524.htm",
+     "pubDate": "Sat, 24 Oct 2026 22:59:07 GMT",
+     "summary": "IT之家 10 月 25 日消息，微软推出一款名为 Microsoft.UI.Reactor 的实验性框架并开启测试后，出面澄清，并不会停用 WinUI 和 XAML。鉴于微软此前放弃 UWP、关停 Silverlight 的过往，不少开发者心存疑虑也并不意外。 据IT之家了解，WinUI 是微软的原生界面框架，用它开发的应用一般遵循 Windows 11 的设计规范，系统设置应用就是典型例子。而 XAML 是开发者用来描述应用界面的标记语言。 Reactor 基于 WinUI 构建，提供了一种全新方式，可以直接用 C# 编写同样的原生界面，不再需要写 XAML。所以很明显，Reactor 并",
+     "source": "IT之家",
+     "zh": "微软测试 Reactor 实验性框架，澄清 WinUI 和 XAML 不会被停用"
+    },
+    {
+     "title": "Free Software Is a Failure",
+     "link": "http://www.paritybit.ca/blog/free-software-is-an-abject-failure/",
+     "pubDate": "Sat, 24 Oct 2026 22:55:26 +0000",
+     "summary": "Article URL: http://www.paritybit.ca/blog/free-software-is-an-abject-failure/ Comments URL: https://news.ycombinator.com/item?id=50226261 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Free Software Is a Failure"
+    },
+    {
+     "title": "Argus – a free, open-source agentic security operations platform – MIT",
+     "link": "https://thomasunise.com/argus",
+     "pubDate": "Sat, 24 Oct 2026 21:54:16 +0000",
+     "summary": "Article URL: https://thomasunise.com/argus Comments URL: https://news.ycombinator.com/item?id=50225748 Points: 18 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Argus – a free, open-source agentic security operations platform – MIT"
+    },
+    {
+     "title": "We should be more ambitious with the software we build",
+     "link": "https://danluu.com/ambitious/",
+     "pubDate": "Sat, 24 Oct 2026 21:47:31 +0000",
+     "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 28 # Comments: 20",
+     "source": "Hacker News",
+     "zh": "We should be more ambitious with the software we build"
+    },
+    {
+     "title": "Small Programs and Languages",
+     "link": "https://ratfactor.com/cards/pl-small",
+     "pubDate": "Sat, 24 Oct 2026 21:44:23 +0000",
+     "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Small Programs and Languages"
+    },
+    {
+     "title": "The Importance of Limitations for Creativity and Learning",
+     "link": "https://ratfactor.com/cards/limitations",
+     "pubDate": "Sat, 24 Oct 2026 21:42:47 +0000",
+     "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 6 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "The Importance of Limitations for Creativity and Learning"
+    },
+    {
+     "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
+     "link": "https://www.techmeme.com/261024/p9#a261024p9",
+     "pubDate": "Sat, 24 Oct 2026 17:30:01 -0400",
+     "summary": "Torsten Slok / Apollo Global Management : Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens &nbsp; &mdash;&nbsp; Despite massive investments and widespread hype around artificial intelligen",
+     "source": "Techmeme",
+     "zh": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)"
+    },
+    {
      "title": "KIMI之殇",
      "link": "https://www.huxiu.com/article/4900212.html?f=rss",
      "pubDate": "Sun, 25 Oct 2026 05:04:34 +0800",
@@ -1778,12 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "Starlink seems to be working normally again in Ukraine"
     },
     {
-     "title": "Steal My Bitcoin",
+     "title": "Show HN: Steal My Bitcoin",
      "link": "https://stealmybitcoin.com/",
      "pubDate": "Sat, 24 Oct 2026 20:30:31 +0000",
-     "summary": "Article URL: https://stealmybitcoin.com/ Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 68 # Comments: 11",
+     "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 317 # Comments: 159",
      "source": "Hacker News",
-     "zh": "Steal My Bitcoin"
+     "zh": "Show HN: Steal My Bitcoin"
     },
     {
      "title": "Will AI expose the rickety infrastructure of the internet?",
@@ -1794,52 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "Will AI expose the rickety infrastructure of the internet?"
     },
     {
-     "title": "No Signs of AI Payoff Outside the Tech Sector",
-     "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-     "pubDate": "Sat, 24 Oct 2026 19:47:19 +0000",
-     "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 233 # Comments: 194",
-     "source": "Hacker News",
-     "zh": "No Signs of AI Payoff Outside the Tech Sector"
-    },
-    {
      "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
      "link": "https://www.techmeme.com/261024/p8#a261024p8",
      "pubDate": "Sat, 24 Oct 2026 15:45:01 -0400",
      "summary": "The Information : Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount &nbsp; &mdash;&nbsp; OpenAI's efforts to undercut Anthropic on price are producing some results.&nbsp; &mdash;&nbsp; For ",
      "source": "Techmeme",
      "zh": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)"
-    },
-    {
-     "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-     "link": "https://missileer.watch",
-     "pubDate": "Sat, 24 Oct 2026 19:43:27 +0000",
-     "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 52 # Comments: 23",
-     "source": "Hacker News",
-     "zh": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz"
-    },
-    {
-     "title": "The Goose Programming Language",
-     "link": "https://aardappel.github.io/goose/",
-     "pubDate": "Sat, 24 Oct 2026 19:27:41 +0000",
-     "summary": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 102 # Comments: 40",
-     "source": "Hacker News",
-     "zh": "The Goose Programming Language"
-    },
-    {
-     "title": "SpeedCrunch 1.1",
-     "link": "https://www.speedcrunch.org/",
-     "pubDate": "Sat, 24 Oct 2026 19:19:43 +0000",
-     "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 6 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "SpeedCrunch 1.1"
-    },
-    {
-     "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
-     "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
-     "pubDate": "Sat, 24 Oct 2026 19:06:55 +0000",
-     "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 87 # Comments: 40",
-     "source": "Hacker News",
-     "zh": "John Carmack on the Goose Language: multiple data stacks and relative references"
     },
     {
      "title": "品牌没有自嘲的资格",
@@ -1922,38 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "刘慈欣监制《三体·大史》年内开机，导演杨磊称演员都已“众神归位”"
     },
     {
-     "title": "戴尔推出 UltraSharp“焕新版”4K 显示器：32 英寸 5199 元，27 英寸 3999 元",
-     "link": "https://www.ithome.com/1/017/521.htm",
-     "pubDate": "Sat, 24 Oct 2026 15:07:38 GMT",
-     "summary": "IT之家 10 月 24 日消息，戴尔京东自营店新上了两款 UltraSharp“焕新版”显示器，但本质上是一次渠道型号的调整。 其中，32 英寸的 U3226QER 定价 5199 元，IT之家此前已有报道；27 英寸的 U2726QER 到手价 3999 元。Chiphell 论坛上有用户挖掘发现，两款型号分别对应此前的 U3225QE 和 U2725QE，新旧型号被列为衍生关系，共用相同的面板与光学测试数据，功耗指标也完全一致。两者最直观的区别在边框颜色：U3226QER 和 U2726QER 改为银色支架与银色背板，前代则为黑色。 两款显示器均采用进阶版 IPS Black 面板，对比",
-     "source": "IT之家",
-     "zh": "戴尔推出 UltraSharp“焕新版”4K 显示器：32 英寸 5199 元，27 英寸 3999 元"
-    },
-    {
-     "title": "JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，1346 元",
-     "link": "https://www.ithome.com/1/017/520.htm",
-     "pubDate": "Sat, 24 Oct 2026 15:04:17 GMT",
-     "summary": "IT之家 10 月 24 日消息，JBL 现已为旗下 JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，首发价 1346 元，部分地区国补后低至 949 元。 京东 JBL CLIPS 琉璃扣“碧玺红色特别版” 1346 元 点此访问 这款耳机的充电盒、本体均采用半透明设计；搭载 11mm 动圈单元，定制驱动单元加载镀钛双层振膜；支持 SonicArc 定向投送技术，可减少漏音现象，保护用户隐私。 这款耳机支持 IP54 级防尘防水；单体重量 6.5g，采用 C 形桥设计，外部为柔性 TPU 材质，适配多种耳形；内置 4 个麦克风，支持 AI 通话降噪及 ENC 算法，支持使用 App",
-     "source": "IT之家",
-     "zh": "JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，1346 元"
-    },
-    {
-     "title": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘",
-     "link": "https://www.ithome.com/1/017/519.htm",
-     "pubDate": "Sat, 24 Oct 2026 14:53:44 GMT",
-     "summary": "IT之家 10 月 24 日消息，小米 REDMI Book 2027 系列笔记本已经官宣将于 10 月 27 日发布。这款笔记本搭载第三代英特尔酷睿平台，内置 72Wh 电池，提供多彩配色，质感全面升级，主打移动办公。 小米产品行销总监、数码博主马志宇表示，REDMI Book 16 2027 在外观焕新的同时，还将加入用户长期反复提及的诉求 —— 数字小键盘。 当然，对于 16 英寸笔记本而言，数字小键盘并非技术难题，也不能严格称为优点或缺点，更多是产品定义上的取舍。 结合此前爆料，REDMI Book 16 2027 将搭载酷睿 5 320 处理器，并配备可自主更换的 DDR5 内存，不",
-     "source": "IT之家",
-     "zh": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘"
-    },
-    {
-     "title": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍",
-     "link": "https://www.ithome.com/1/017/518.htm",
-     "pubDate": "Sat, 24 Oct 2026 14:41:49 GMT",
-     "summary": "IT之家 10 月 24 日消息，据中国信通院，随着大模型技术的迅速迭代，词元（Token）服务成为从技术走向应用的关键点，我国日均词元调用量持续攀升，2026 年 6 月， 国内词元日均消耗量约 500 万亿 ，是 2025 年 12 月的近 4 倍。产业中越来越多的 MaaS（Model as a Service，模型即服务）平台厂商通过公有云 API 方式供给大模型词元服务。然而用户对词元服务性能缺乏直观的判断依据，且面临选型困难等各类问题。 为有效衡量服务性能，中国信息通信研究院（简称“中国信通院”）人工智能研究所、人工智能大模型及软硬件评测工业和信息化部重点实验室和中国人工智能产业发",
-     "source": "IT之家",
-     "zh": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍"
-    },
-    {
      "title": "一种远古病毒可能阻碍黑猩猩演化出与人类相似的大脑",
      "link": "https://www.solidot.org/story?sid=85702",
      "pubDate": "Sat, 24 Oct 2026 22:30:32 +0800",
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "中科院研究人员首次揭示出神秘古丹尼索瓦人的形态共性。丹尼索瓦人是一支已灭绝的古老人类支系，2010 年科学家依靠西伯利亚丹尼索瓦洞化石的 DNA 证据发现了这一人群。后续分子证据显示，丹尼索瓦人曾广泛分布在亚洲多地，生存时间大约在距今 30 万年至 4.5 万年前。但他们究竟长什么样？位于河北阳原的许家窑遗址 1976—1979 年共发掘出土包括头骨、下颌骨、牙齿在内的 20 件人类化石，至少代表 16 个不同年龄阶段的个体。许家窑人化石历经十余万年的埋藏，古 DNA 提取近乎无望，研究团队转向古蛋白质组学这一相对新兴的技术路径，从许家窑地点保存的 20 件标本中，无损获取内源性蛋白质开展系统",
      "source": "Solidot",
      "zh": "研究揭示丹尼索瓦人的长相"
-    },
-    {
-     "title": "Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261024/p4#a261024p4",
-     "pubDate": "Sat, 24 Oct 2026 09:35:02 -0400",
-     "summary": "Wall Street Journal : Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service &nbsp; &mdash;&nbsp; Speed restrictions imposed by Elon Musk's SpaceX have hampered Ukraine's drone forces since Oct. 14&nbsp; &mdash;&nbsp; KY",
-     "source": "Techmeme",
-     "zh": "Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)"
-    },
-    {
-     "title": "美光桃园厂工会否决奖金方案",
-     "link": "https://www.solidot.org/story?sid=85699",
-     "pubDate": "Sat, 24 Oct 2026 21:14:51 +0800",
-     "summary": "美光桃园厂工会星期五（10月23日）说，会员投票否决公司提出的新利润分享方案，并警告可能采取进一步集体行动，争取更公平的奖金制度。美光过去数周一直与桃园及台中两座工厂的工会就薪酬问题谈判。两个工会共代表两厂 1 万 5000 名员工中的 1 万 2000 人。两个工会此前均要求，公司发放相当于 83 个月薪资的一次性奖金，并建立长期利润分享制度，将营业利润的 15% 用于员工奖金，按季而非按年发放。美光与规模较大的台中厂工会星期三（10月21日）达成协议。根据薪酬和福利改革方案，公司将从 2027 财年起，为全球员工增设季度利润分享奖金，与原有激励奖金计划（IPP）并行，新增奖金以现金和股票各",
-     "source": "Solidot",
-     "zh": "美光桃园厂工会否决奖金方案"
     }
    ]
   },
@@ -2009,6 +2009,54 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Why your EV battery still loses charge while it's parked",
+     "link": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/",
+     "pubDate": "Sat, 24 Oct 2026 23:00:00 +0000",
+     "summary": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.",
+     "source": "Engadget",
+     "zh": "Why your EV battery still loses charge while it's parked"
+    },
+    {
+     "title": "What kind of cooling system do EV batteries use and how does it work?",
+     "link": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/",
+     "pubDate": "Sat, 24 Oct 2026 22:45:00 +0000",
+     "summary": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.",
+     "source": "Engadget",
+     "zh": "What kind of cooling system do EV batteries use and how does it work?"
+    },
+    {
+     "title": "What are the different types of digital wallets?",
+     "link": "https://www.engadget.com/2292582/different-types-digital-wallet-explained/",
+     "pubDate": "Sat, 24 Oct 2026 22:30:00 +0000",
+     "summary": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings.",
+     "source": "Engadget",
+     "zh": "What are the different types of digital wallets?"
+    },
+    {
+     "title": "The pros and cons of using an eSIM over a physical SIM card",
+     "link": "https://www.engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons/",
+     "pubDate": "Sat, 24 Oct 2026 22:00:00 +0000",
+     "summary": "eSIMs are more convenient than physical SIM cards in many ways, but they aren't a 100 percent upgrade.",
+     "source": "Engadget",
+     "zh": "The pros and cons of using an eSIM over a physical SIM card"
+    },
+    {
+     "title": "CMF Speaker S unboxing and hands-on",
+     "link": "https://www.gsmarena.com/cmf_speaker_s_unboxing_and_handson-news-75117.php",
+     "pubDate": "Sat, 24 Oct 2026 23:59:01 +0200",
+     "summary": "Portable Bluetooth speakers are among the most diverse product groups nowadays. They come in all shapes and sizes, materials, colors, and pack different features. But CMF makes possibly the most interesting of them all. Meet the CMF Speaker S, a compact Bluetooth speaker that's just €69 and well wor",
+     "source": "GSMArena",
+     "zh": "CMF Speaker S unboxing and hands-on"
+    },
+    {
+     "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
+     "link": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
+     "pubDate": "Sat, 24 Oct 2026 21:46:33 +0000",
+     "summary": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering , which offers 15W Qi2 charging. Both come in much lighter than you’d expect, and both offer premium aluminum builds tha",
+     "source": "9to5Mac",
+     "zh": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry"
+    },
     {
      "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
      "link": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
@@ -2042,22 +2090,6 @@ window.INDUSTRY_DATA = {
      "zh": "Why the wires in your ethernet cables are twisted"
     },
     {
-     "title": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
-     "link": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/",
-     "pubDate": "Sat, 24 Oct 2026 18:09:54 +0000",
-     "summary": "You can try out the new feature on the Steam store's homepage.",
-     "source": "Engadget",
-     "zh": "Steam rolls out Personal Calendar feature that constantly updates recommended games"
-    },
-    {
-     "title": "Xbox Game Pass could let you pick which features you pay for",
-     "link": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
-     "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
-     "summary": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.",
-     "source": "Engadget",
-     "zh": "Xbox Game Pass could let you pick which features you pay for"
-    },
-    {
      "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
      "link": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
      "pubDate": "Sat, 24 Oct 2026 17:47:49 +0000",
@@ -2072,22 +2104,6 @@ window.INDUSTRY_DATA = {
      "summary": "AV2 is coming to YouTube in the not too distant future.",
      "source": "Android Authority",
      "zh": "YouTube streams may look better and buffer less as soon as early 2027"
-    },
-    {
-     "title": "Capcom confirms data breach that affected 11.7 million users",
-     "link": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
-     "pubDate": "Sat, 24 Oct 2026 16:40:45 +0000",
-     "summary": "Capcom ID is still available to use, but users may see more phishing scam emails.",
-     "source": "Engadget",
-     "zh": "Capcom confirms data breach that affected 11.7 million users"
-    },
-    {
-     "title": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port",
-     "link": "https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port/",
-     "pubDate": "Sat, 24 Oct 2026 16:30:00 +0000",
-     "summary": "Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of display features.",
-     "source": "Engadget",
-     "zh": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port"
     },
     {
      "title": "You can now manage Gemini Notebooks directly from your Gemini chats",
@@ -2210,22 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Deals: the Oppo Find X10 series and the iPhone Duo launch, here are some alternatives too"
     },
     {
-     "title": "RedMagic reveals when its phones are getting RedMagic OS 12 based on Android 17",
-     "link": "https://www.gsmarena.com/redmagic_reveals_when_its_phones_are_getting_redmagic_os_12_based_on_android_17-news-75194.php",
-     "pubDate": "Sat, 24 Oct 2026 06:31:02 +0200",
-     "summary": "RedMagic OS 12 is based on Android 17, and it debuted on the RedMagic 12 Pro+ last week. Today, RedMagic has announced which of its existing phones and tablets will get the update, and when. The RedMagic 11 Pro and 11S Pro series go first, in December. The RedMagic Gaming Tablet 5 Pro follows in Jan",
-     "source": "GSMArena",
-     "zh": "RedMagic reveals when its phones are getting RedMagic OS 12 based on Android 17"
-    },
-    {
-     "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
-     "link": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
-     "pubDate": "Fri, 23 Oct 2026 23:50:49 +0000",
-     "summary": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display"
-    },
-    {
      "title": "Gemini for Android rolls out side panel and settings redesign",
      "link": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
      "pubDate": "Fri, 23 Oct 2026 22:02:00 +0000",
@@ -2258,28 +2258,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "美司法部要求加州官员核查选民身份 不配合者或将遭审查",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907134874.html",
-     "pubDate": "Sun, 25 Oct 2026 05:11:03 +0800",
-     "summary": "当地时间10月24日，央视记者获悉，美国司法部已向加利福尼亚州全部58个县的选举官员发函，要求其在48小时内协助核实联邦政府名单上相关人员的美国公民身份，并将身份尚未确认者的邮寄选票暂时单独存放，直至完成核查。司法部警告，拒绝配合的地方官员可能面临联邦政府的严格审查。 司法部认为，名单上的部分人员可能不具备合法选民登记资格。这些人员属于司法部上周在加州识别出的约2万名疑似非美国公民中的一部分，他们可能已收到选票。 此外，白宫正推动联邦机构加快审查国土安全部获取的至少47个州的选民登记名单。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "美司法部要求加州官员核查选民身份 不配合者或将遭审查"
+     "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
+     "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+     "pubDate": "Sat, 24 Oct 2026 23:23:01 GMT",
+     "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
+     "source": "Financial Times",
+     "zh": "Hundreds of thousands protest in France in second weekend of mass demonstrations"
     },
     {
-     "title": "美国务院更新中东多国旅行警告 称胡塞和伊朗袭击威胁增加",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907134745.html",
-     "pubDate": "Sun, 25 Oct 2026 04:56:45 +0800",
-     "summary": "据美国媒体24日报道，因也门胡塞武装和伊朗的袭击威胁增加，美国国务院针对13个中东国家更新了旅行警告。 报道说，此次更新涉及的国家和地区包括巴林、伊朗、伊拉克、以色列、约旦、科威特、黎巴嫩、阿曼、卡塔尔、沙特阿拉伯、叙利亚、阿联酋和也门。美驻上述国家的大使馆日前在其官网上发布最新旅行警告称，预警级别及风险指标均未发生变化，但预警摘要已更新。其中，美驻沙特大使馆发布旅行警告称，“伊朗支持的胡塞武装发动潜在武装袭击的可能性有所增加，同时伊朗正试图针对该地区的美国政府官员采取行动”。美驻其他国家大使馆的旅行警告则只提到胡塞武装袭击威胁增加。 据美国阿克西奥斯新闻网站23日报道，美情报部门认为伊朗已“",
-     "source": "东方财富股票",
-     "zh": "美国务院更新中东多国旅行警告 称胡塞和伊朗袭击威胁增加"
+     "title": "泽连斯基：乌方愿为停火达成协议但拒绝放弃25%领土 俄军目前实控约19.3%",
+     "link": "http://finance.eastmoney.com/news/1345,202610253907141691.html",
+     "pubDate": "Sun, 25 Oct 2026 07:18:00 +0800",
+     "summary": "泽连斯基：不会为结束冲突放弃更多领土 据乌克兰方面24日消息，乌总统泽连斯基23日接受采访时称， 乌克兰准备尽快结束同俄罗斯的军事冲突，但不会为了结束冲突而放弃更多领土。 泽连斯基表示，乌方愿为停火达成协议，但拒绝接受关于放弃25%领土的提议。他说，俄军目前实际控制了乌方约19.3%的领土。放弃25%领土意味着乌克兰要放弃顿巴斯未被占领的区域，乌方对此绝不接受。 泽连斯基对美国近期减少援助表示遗憾。他说，过去三个月，乌克兰仅从美国接收了24枚“爱国者”防空系统拦截弹，实际需求远不止于此，仅22日晚间基辅就遭到30枚弹道导弹袭击。泽连斯基指出，乌克兰平均每月需要350枚“爱国者”导弹。 据悉，美",
+     "source": "东方财富资讯",
+     "zh": "泽连斯基：乌方愿为停火达成协议但拒绝放弃25%领土 俄军目前实控约19.3%"
     },
     {
-     "title": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907128777.html",
-     "pubDate": "Sun, 25 Oct 2026 04:45:46 +0800",
-     "summary": "10月23日，中欧协会智能网联 汽车 分会与 北京汽车 博物馆联合发布的2026年前三季度 汽车 企业影响力指数报告（以下简称“报告”）显示， 汽车 企业格局延续“ 乘用车 主导竞争烈度、 商用车 细分格局分化”的特征：在 乘用车 领域， 比亚迪 以912.28分位居榜首，企业网络声量达1.01亿条、销量134.4万辆，均居第一。在 商用车 领域，东风汽车、 长城汽车 、 福田汽车 、上汽大通分获重卡、皮卡、轻卡、轻客品类企业影响力榜首。 在 乘用车 榜单中， 比亚迪 、 吉利汽车 、 赛力斯 包揽前三； 零跑汽车 、上汽大众、 特斯拉 中国、广汽丰田、 长安汽车 、一汽-大众、 蔚来 汽车分",
+     "title": "法国示威活动致多地文化场所临时关闭",
+     "link": "http://global.eastmoney.com/news/11798,202610253907141568.html",
+     "pubDate": "Sun, 25 Oct 2026 07:16:03 +0800",
+     "summary": "当地时间10月24日，法国举行新一轮全国性抗议示威活动，多地文化场所当天被迫临时关闭。 法国文化部此前宣布，出于安全考虑，位于巴黎的卢浮宫、奥赛博物馆、橘园美术馆、大皇宫、毕加索博物馆等文化场所24日关闭。截至目前，上述场所的官网均已确认24日临时闭馆。部分场所表示，已通过官方渠道预约参观的游客将自动获得退款。 另据巴黎旅游局公布的最新名单，24日关闭的场所还包括小皇宫、雨果故居和圣礼拜堂等。除巴黎外，马赛的欧洲与地中海文明博物馆、里昂的汇流博物馆等城市的多家博物馆也确认24日关闭。 演出场所同样受到波及。巴黎国家歌剧院24日确认，受当天示威活动影响，旗下加尼耶歌剧院和巴士底歌剧院均关闭。巴黎",
      "source": "东方财富股票",
-     "zh": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首"
+     "zh": "法国示威活动致多地文化场所临时关闭"
+    },
+    {
+     "title": "南方区域电力市场转入正式运行暨高质量发展推进会在广州召开",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907141459.html",
+     "pubDate": "Sun, 25 Oct 2026 07:15:32 +0800",
+     "summary": "据国家能源局网站消息，10月24日，南方区域 电力 市场转入正式运行暨高质量发展推进会在广州召开，国家能源局党组书记、局长王宏志出席会议并讲话。会议强调，南方区域要深化落实全国 统一大市场 建设“五统一、一开放”要求，锚定保供应、促转型、发展新质生产力等重点任务，进一步健全机制、完善治理、扩大规模、提高成效。要夯实市场制度和功能体系，进一步加强市场一体化设计，推动跨省与省内市场更好融合；要加强 电力 基础设施建设，持续扩大有效投资，强化电网网架建设，推动主配微网协同发展；要深化治理和风险防控，完善信息披露机制，健全市场运行监测预警体系，引导市场经营主体自觉维护市场秩序；要加强市场开放衔接，稳妥",
+     "source": "东方财富股票",
+     "zh": "南方区域电力市场转入正式运行暨高质量发展推进会在广州召开"
+    },
+    {
+     "title": "青藏铁路受地震影响区段列车恢复正常运行",
+     "link": "http://finance.eastmoney.com/news/1350,202610253907141236.html",
+     "pubDate": "Sun, 25 Oct 2026 07:10:16 +0800",
+     "summary": "10月22日22时33分，西藏自治区那曲市巴青县发生7.0级地震，波及青藏铁路格尔木至拉萨段部分区段，铁路部门紧急扣停途经列车。10月23日8时，扣停的旅客列车采取限速运行。经全面排查，线路、桥梁、隧道、信号、 通信 、供电及站房等设备无异常。10月23日夜间，受地震影响区段临时限速措施全部取消，列车恢复正常运行，运输秩序平稳有序。 应急处置期间，铁路部门加开9列临客疏解滞留旅客，西宁、拉萨、那曲、格尔木等车站做好旅客引导、退改签和应急保障，在途列车配足食品、饮用水和应急药品。 据了解，铁路部门将持续跟踪震情变化，加强震后巡检值守，严防余震及次生灾害风险，全力保障高原铁路安全畅通。（央视新闻）",
+     "source": "东方财富股票",
+     "zh": "青藏铁路受地震影响区段列车恢复正常运行"
+    },
+    {
+     "title": "中东冲突 最新消息",
+     "link": "http://global.eastmoney.com/news/11798,202610253907141153.html",
+     "pubDate": "Sun, 25 Oct 2026 07:09:00 +0800",
+     "summary": "也门胡塞武装：7袭沙特境内目标回应沙特空袭 新华社科威特城10月24日电（记者尹炣）萨那消息：也门胡塞武装24日称，该组织使用导弹和 无人机 对沙特阿拉伯境内多处目标发动7次袭击，以回应沙特过去24小时内对胡塞武装控制区的袭击。 胡塞武装军事发言人叶海亚·萨雷亚当天通过该组织控制的马西拉电视台发表声明说，上述袭击目标涉及沙特利雅得、延布、拉比格、达曼、海米斯穆谢特等地 机场 、石油设施及军事基地。 萨雷亚说，过去24小时内沙特对胡塞武装控制区发动约100次空袭，自本轮冲突升级以来沙特对也门发动的空袭和导弹袭击累计达3123次。 马西拉电视台24日报道，沙特主导的多国联军对胡塞武装控制区发动猛烈",
+     "source": "东方财富股票",
+     "zh": "中东冲突 最新消息"
+    },
+    {
+     "title": "西藏震区电力供应全面恢复 超6万件套救援物资运往灾区",
+     "link": "http://finance.eastmoney.com/news/11790,202610253907141079.html",
+     "pubDate": "Sun, 25 Oct 2026 07:08:16 +0800",
+     "summary": "10月22日22时33分，西藏那曲市巴青县（北纬32.40度，东经93.79度）发生7.0级地震，震源深度10公里。此次地震周边共有岗切、玛如2个乡镇、34个行政村，涉及群众13673人。现已转移群众12489人，其中，玛如乡7600人、岗切乡4889人。 截至今日（10月24日）14时，共记录到余震949次，其中3.0级以下余震908次，3.0~3.9级地震33次，4.0~4.9级地震8次。 截至今日17时，地震造成16人遇难、76人受伤，受伤人员全部送诊治疗，目前在院受伤群众36人，其余受伤群众经过处理已离院。 地震发生后，那曲市各级各部门紧急调拨救援物资、集结救援力量，抗震救灾工作迅速开",
+     "source": "东方财富股票",
+     "zh": "西藏震区电力供应全面恢复 超6万件套救援物资运往灾区"
+    },
+    {
+     "title": "“六年暴涨近百倍”！国产“钢铁巨兽”迎来爆发期",
+     "link": "http://finance.eastmoney.com/news/1354,202610253907138826.html",
+     "pubDate": "Sun, 25 Oct 2026 06:15:55 +0800",
+     "summary": "不用司机，大雾雨雪、零下40℃极寒环境照样开工。如今，无人驾驶矿卡这台矿山里的“ 钢铁 巨兽”，正在迎来需求爆发期，国内出货量六年增长近百倍。产品走出国门落地东南亚、非洲、拉美，国产智慧矿山方案正在改写全球矿业格局。 什么是无人驾驶矿卡？ 无人驾驶矿卡是适配矿山场景的自动驾驶卡车，可实现自动避障、路径规划，提升矿山运输效率。 无人驾驶跑通矿山 矿卡海内外订单持续增长 “ 钢铁 巨兽”恶劣工况连续作业 在河北唐山首钢矿业，43台无人矿卡投入实战，实现电动、燃油矿卡混编运行。项目落地后，整体能耗下降15%。就算遇到雨天、雾天，无人矿卡依旧稳定作业，运量相比传统矿卡提升约10%。 记者走进无人驾驶矿",
+     "source": "东方财富资讯",
+     "zh": "“六年暴涨近百倍”！国产“钢铁巨兽”迎来爆发期"
+    },
+    {
+     "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
+     "link": "http://forex.eastmoney.com/news/1131,202610253907135366.html",
+     "pubDate": "Sun, 25 Oct 2026 06:03:03 +0800",
+     "summary": "美股投资者即将迎来关键的一周。由大型AI企业领衔的企业财报，以及美联储政策会议，都将成为市场重要考验。 本周，标普500指数累计下跌0.47%， 纳斯达克 综合 指数累跌0.71%，均连跌两周；与此同时，蓝筹股指数道指本周累涨0.41%，连涨第三周。 Meta的重大开支承诺令投资者开始担忧AI交易的状况。下周，另外三家超大规模 云计算 公司——谷歌、 微软 和 亚马逊 将公布财报。 Alpine Macro首席股票策略师Nick Giorgi表示，下周会有更多科技公司公布财报，目前市场正在更加审慎地看待与AI相关的所有支出。 市场现在不会轻易相信那些为了建设AI体系而投入巨额资金的公司。对我们",
+     "source": "东方财富资讯",
+     "zh": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调"
+    },
+    {
+     "title": "长期限大额存单密集上新 银行负债逻辑生变",
+     "link": "http://bank.eastmoney.com/news/1174,202610243907128688.html",
+     "pubDate": "Sun, 25 Oct 2026 05:43:09 +0800",
+     "summary": "日前，恒丰 银行 及下属多家分行同步公告发行5年期大额存单，年化利率1.75%，20万元起存，面向全行所有客户。这也是该行此前以2年期以内产品为主的大额存单货架上，久违的长期限品种。进入10月份以来， 中信银行 、张店农商 银行 、西藏 银行 等多家银行也相继重启发行长期限大额存单。 值得一提的是，去年11月，六大国有大行曾集体下架5年期大额存单，多家中小行同步停售，长期限品种一度在市场上“断供”。而今年7月以来，多家国有大行及中小银行又陆续重启发售。短短数月间，从停售到回归，这一转向释放出哪些信号？ 对此，业内专家在接受《华夏时报》记者采访时表示，这折射出银行负债管理重心正由“压成本”转向“",
+     "source": "东方财富资讯",
+     "zh": "长期限大额存单密集上新 银行负债逻辑生变"
+    },
+    {
+     "title": "Musk says Ukraine violated Starlink terms with offensive drone strikes",
+     "link": "https://seekingalpha.com/news/4656938-musk-says-ukraine-violated-starlink-terms-offensive-drone-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 17:30:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Musk says Ukraine violated Starlink terms with offensive drone strikes"
+    },
+    {
+     "title": "Ukraine military says Starlink service restrictions have been lifted",
+     "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+     "pubDate": "Sat, 24 Oct 2026 21:30:37 GMT",
+     "summary": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
+     "source": "Financial Times",
+     "zh": "Ukraine military says Starlink service restrictions have been lifted"
     },
     {
      "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
@@ -2290,28 +2362,20 @@ window.INDUSTRY_DATA = {
      "zh": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement"
     },
     {
-     "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907134684.html",
-     "pubDate": "Sun, 25 Oct 2026 04:31:12 +0800",
-     "summary": "伊拉克民兵武装“伊斯兰抵抗组织”24日发表声明称，9月30日至10月23日，共监测到美国战斗机和侦察机171次侵犯伊拉克领空。 声明说美国持续侵犯伊拉克主权，指责美军机近期频繁侵犯伊拉克领空。声明还提到，伊拉克关闭与伊朗的航线及边境口岸是基于美国意愿并按其指令行事。 伊拉克政府发言人海德尔·阿布迪21日说，伊拉克出于技术原因关闭位于南部米桑省与伊朗的谢卜边境口岸。此外，受美国对伊朗制裁影响，伊拉克多个 机场 9月一度暂停所有往返伊朗的航班。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空"
-    },
-    {
-     "title": "大买家与大卖家：39.94万亿中的双向机遇",
-     "link": "http://finance.eastmoney.com/news/1346,202610243907123487.html",
-     "pubDate": "Sun, 25 Oct 2026 04:18:17 +0800",
-     "summary": "中国在世界经济版图中扮演的角色，越来越重要。 随着2026年前三季度经济数据出炉，中国外贸交出了一份“沉甸甸”的阶段性答卷。最新国际数据显示，我国继续稳居全球货物贸易第一大国地位。 当前，地缘政治冲突持续扰动全球经贸秩序，贸易保护主义、单边主义抬头，而中国正在以“大买家”和“大卖家”双重身份，深度参与全球经济版图建设，成为全球产供链的“稳定锚”。 前三季度外贸数据，增了 最新数据显示，前三季度我国货物进出口总额39.94万亿元，同比增长18.8%。其中，出口23.2万亿元，增长16.4%；进口16.74万亿元，增长22.3%。 分季度看，三季度出口规模首次突破8万亿元，增长22%。从月度看，连",
-     "source": "东方财富股票",
-     "zh": "大买家与大卖家：39.94万亿中的双向机遇"
-    },
-    {
      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 20:15:00 GMT",
      "summary": "“Nothing has been set aside for his needs.”",
      "source": "MarketWatch",
      "zh": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?"
+    },
+    {
+     "title": "安进公布重磅数据：联合疗法可将一种肺癌的死亡风险降低58%",
+     "link": "http://finance.eastmoney.com/news/1354,202610253907135132.html",
+     "pubDate": "Sun, 25 Oct 2026 04:04:15 +0800",
+     "summary": "最新研究结果发现， 安进 与 阿斯利康 的一种联合免疫疗法，可以显著延长一种恶性程度极高肺癌患者的生存时间。 周六公布的晚期临床试验完整结果显示，在广泛期小细胞肺癌（ES-SCLC）患者中， 阿斯利康 Imfinzi联合 安进 Imdelltra，可将死亡风险降低58%。 小细胞肺癌是一种极具侵袭性的肺癌亚型，具有生长迅速、易发生转移、致死率较高等特点。小细胞肺癌约占全球所有肺癌病例的15%，其中大约70%的小细胞肺癌患者被进一步诊断为广泛期小细胞肺癌。 试验发现，与单独使用 阿斯利康 药物相比，联合用药将患者的中位总生存期从12.7个月延长至21.1个月。 来源： 安进 官网 该试验测试的是",
+     "source": "东方财富资讯",
+     "zh": "安进公布重磅数据：联合疗法可将一种肺癌的死亡风险降低58%"
     },
     {
      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -2328,22 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "Lawsuits filed by candidate Mary Peltola and a voters' rights group challenge Trump's preemptive efforts to block a Democratic Senate victory in Alaska.",
      "source": "CNBC",
      "zh": "Democrats, voting-rights groups challenge Trump&apos;s bid to block Alaska Senate certification"
-    },
-    {
-     "title": "爱奇艺AIGC（大湾区）创意中心正式落地广州",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907130995.html",
-     "pubDate": "Sun, 25 Oct 2026 03:50:40 +0800",
-     "summary": "10月24日， 爱奇艺 与广州市人民政府签署战略合作框架协议。在当天举办的广州市AIGC视听产业系列发布活动上，广东广播电视台与 爱奇艺 签署纪录片战略合作协议， 爱奇艺 AIGC（大湾区）创意中心正式落地广州。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "爱奇艺AIGC（大湾区）创意中心正式落地广州"
-    },
-    {
-     "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
-     "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
-     "pubDate": "Sat, 24 Oct 2026 19:48:27 GMT",
-     "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
-     "source": "Financial Times",
-     "zh": "Hundreds of thousands protest in France in second weekend of mass demonstrations"
     },
     {
      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
@@ -2418,14 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?"
     },
     {
-     "title": "Couche-Tard makes bid for Cumberland Farms: report",
-     "link": "https://seekingalpha.com/news/4656933-couche-tard-makes-bid-cumberland-farms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 12:30:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Couche-Tard makes bid for Cumberland Farms: report"
-    },
-    {
      "title": "Why popular airplanes are getting scrapped years early",
      "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
      "pubDate": "Sat, 24 Oct 2026 15:18:30 GMT",
@@ -2450,52 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "花胶产业如何在困境中挖掘新机遇？"
     },
     {
-     "title": "Ukraine military says Starlink service restrictions have been lifted",
-     "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
-     "pubDate": "Sat, 24 Oct 2026 13:16:04 GMT",
-     "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
-     "source": "Financial Times",
-     "zh": "Ukraine military says Starlink service restrictions have been lifted"
-    },
-    {
-     "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
-     "link": "https://wallstreetcn.com/articles/3784398",
-     "pubDate": "Sat, 24 Oct 2026 19:49:25 +0800",
-     "summary": "法国正面临新一轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧了市场对法国公共财政与经济前景的担忧。 据媒体报道，随着抗议演变为暴力骚乱，法国政府紧急部署7万名安保人员以维持秩序，并下令部分城市实施宵禁。法国总统马克龙承认在应对上周末暴力事件中存在失误，他已推迟原定的外交行程，以集中应对当前的国内危机。 持续的动荡局势直接冲击了金融市场与宏观经济。 法国与德国的10年期国债收益率利差大幅飙升，触及欧元区债务危机以来的最高水平，同时最新数据显示私营部门经济活动已跌破荣枯线，陷入萎缩区间。 商业与零售活动同样首当其冲，巴黎多家奢侈品门店及主要景点被迫关闭。企业高管与地方官员警告",
-     "source": "华尔街见闻",
-     "zh": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势"
-    },
-    {
-     "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
-     "link": "https://wallstreetcn.com/articles/3784381",
-     "pubDate": "Sat, 24 Oct 2026 19:38:17 +0800",
-     "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
-     "source": "华尔街见闻",
-     "zh": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！"
-    },
-    {
-     "title": "折叠屏供应链“等来”苹果之后",
-     "link": "http://www.eeo.com.cn/2026/1024/1074909.shtml",
-     "pubDate": "Sat, 24 Oct 2026 19:18:51 +0800",
-     "summary": "折叠屏手机的零部件价值，主要集中在面板和铰链上，国内企业分享的增量，更多落在盖板玻璃、铰链和结构件，以及上游的材料环节。",
-     "source": "经济观察网",
-     "zh": "折叠屏供应链“等来”苹果之后"
-    },
-    {
-     "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
-     "link": "https://wallstreetcn.com/articles/3784397",
-     "pubDate": "Sat, 24 Oct 2026 19:03:44 +0800",
-     "summary": "据台湾《经济日报》报道，英伟达、英特尔、AMD三大科技巨头为抢占AI供应链关键产能，已向中国台湾高阶IC载板厂合计预付逾新台币千亿元（约50亿美元）订金，锁定长期产能供应。 受此驱动，台湾载板三强欣兴、景硕与南电今年累计宣布投资建厂规模达1612亿元新台币，创下历史新高。 英特尔执行长陈立武（Lip-Bu Tan）此前公开表示，AI需求带动先进封装与芯片需求，上游IC载板及材料供应持续吃紧，已有多家客户主动提前支付预付款，以协助英特尔锁定载板与产能。法人据此推估，英特尔长期预购载板产能金额约30亿美元。 AMD此前宣布投资台湾百亿美元，业界普遍解读为锁定供应链产能，其中载板相关投资估计约10亿",
-     "source": "华尔街见闻",
-     "zh": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能"
-    },
-    {
-     "title": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit",
-     "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-     "pubDate": "Sat, 24 Oct 2026 11:00:01 GMT",
-     "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
-     "source": "CNBC",
-     "zh": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit"
+     "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907118542.html",
+     "pubDate": "Sat, 24 Oct 2026 20:40:04 +0800",
+     "summary": "在一个普通的周五深夜，初创公司创始人Colin Parsons还在睡梦之中，而一群利用AI进行网络攻击的黑客，已开始向他的账户伸出了黑手…… 第二天一早，Parsons被收件箱里整整50封扣款邮件惊醒——他的账户正被一笔接一笔地盗刷，用于购买Anthropic和OpenAI的算力服务。当他试图登录AI编程平台OpenCode的Discord客服频道求助时，眼前的一幕更是令他无奈：频道里每隔两秒就会蹦出一条诸如“Yo”或“卸载Telegram”的无意义垃圾信息，他的求助帖瞬间被刷屏淹没。 事后的调查显示，Parsons未经授权的购买行为，是利用他存储在名为OpenCode的AI编程网站上的凭证完",
+     "source": "东方财富资讯",
+     "zh": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？"
     }
    ]
   },
